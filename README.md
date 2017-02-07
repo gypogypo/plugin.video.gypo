@@ -1,1 +1,1 @@
-# plugin.video.gypo
+# plugin.video.sports.gypo
