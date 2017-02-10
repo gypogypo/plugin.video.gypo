@@ -3425,9 +3425,9 @@ if xbmcvfs.exists(xbmc.translatePath('special://home/userdata/sources.xml')):
         with open(xbmc.translatePath('special://home/userdata/sources.xml'), 'r+') as f:
                 my_file = f.read()
                 if re.search(r'https://underhung-need.000webhostapp.com/Plugins/gypo', my_file):
-                        xbmc.log('===Anonymous===Source===Found===in===sources.xml===Not Deleting.===')
+                        xbmc.log('===gypo===Source===Found===in===sources.xml===Not Deleting.===')
                 else:
-                        line1 = "you have Installed The Anonymous From An"
+                        line1 = "you have Installed The gypo From An"
                         line2 = "Unofficial Source And Will Now Delete Please"
                         line3 = "Install From [COLOR red]https://underhung-need.000webhostapp.com/Plugins/gypo[/COLOR]"
                         line4 = "Removed Repo And Addon"
