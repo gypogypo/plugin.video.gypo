@@ -3424,6 +3424,19 @@ if not viewmode==None:
 if xbmcvfs.exists(xbmc.translatePath('special://home/userdata/sources.xml')):
         with open(xbmc.translatePath('special://home/userdata/sources.xml'), 'r+') as f:
                 my_file = f.read()
-                if re.search(r'https://github.com/gypogypo/plugin.video.gypo/blob/master/source_file', my_file):
-                        xbmc.log('===gypo===Source===Found===in===sources.xml===Not Deleting.===')
-               
+                if re.search(r'https://underhung-need.000webhostapp.com/Plugins/gypo', my_file):
+                        xbmc.log('===Anonymous===Source===Found===in===sources.xml===Not Deleting.===')
+                else:
+                        line1 = "you have Installed The Anonymous From An"
+                        line2 = "Unofficial Source And Will Now Delete Please"
+                        line3 = "Install From [COLOR red]https://underhung-need.000webhostapp.com/Plugins/gypo[/COLOR]"
+                        line4 = "Removed Repo And Addon"
+                        line5 = "successfully"
+                        xbmcgui.Dialog().ok(addon_name, line1, line2, line3)
+                        delete_addon = xbmc.translatePath('special://home/addons/'+addon_id)
+                        delete_repo = xbmc.translatePath('special://home/addons/repository.gypogroup')
+                        shutil.rmtree(delete_addon, ignore_errors=True)
+                        shutil.rmtree(delete_repo, ignore_errors=True)
+                        dialog = xbmcgui.Dialog()
+                        xbmc.log('===DELETING===ADDON===+===REPO===')
+                        xbmcgui.Dialog().ok(addon_name, line4, line5)
