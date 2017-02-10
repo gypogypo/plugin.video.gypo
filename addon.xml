@@ -20,7 +20,7 @@
     <import addon="script.module.simplejson" />    
      <import addon="script.module.livestreamer" optional="true"/>
      <import addon="script.module.pyamf" optional="true"/>
-	 <import addon="repository.anonymousgroup" />
+	 <import addon="repository.gypogroup" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
