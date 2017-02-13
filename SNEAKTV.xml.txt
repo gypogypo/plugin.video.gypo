@@ -1,0 +1,1106 @@
+<item>
+<title>BBC 1 HD</title>
+<sportsdevil>http://www.shadow-net.org/channels/BBC-1.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/BBC-1.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/BBC_One_logo.svg/250px-BBC_One_logo.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>BBC 2 HD</title>
+<sportsdevil>http://www.shadow-net.org/channels/BBC-2.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/BBC-2.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/3/31/BBC_Two_Paint_ident.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ITV HD</title>
+<sportsdevil>http://www.shadow-net.org/channels/ITV-1.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/ITV-1.html</referer>
+<thumbnail>http://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/42/2014/07/940x339_itv.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CHANNEL 4 HD</title>
+<sportsdevil>http://www.shadow-net.org/channels/Channel-4.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Channel-4.html</referer>
+<thumbnail>http://i1.mirror.co.uk/incoming/article2017916.ece/ALTERNATES/s298/Channel-4-logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CHANNEL 5</title>
+<sportsdevil>http://www.shadow-net.org/channels/Channel-5.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Channel-5.html</referer>
+<thumbnail>http://news.bfnn.co.uk/wp-content/uploads/2015/02/channel-5-150x150.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>5USA</title>
+<sportsdevil>http://www.shadow-net.org/channels/5USA.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/5USA.html</referer>
+<thumbnail>https://tvr.metropol247.co.uk/thetvroom.com/images/pool-i/130/main-000-486.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>5STAR</title>
+<sportsdevil>http://www.shadow-net.org/channels/5Star.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/5Star.html</referer>
+<thumbnail>http://i2.wp.com/www.hypemagazine.co.za/wp-content/uploads/2016/07/Cadbury-five-star.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>BBC 4</title>
+<sportsdevil>http://robssatellitetv.com/watch-bbc-4-live-online-stream-watch-uk-tv-free.htm</sportsdevil>
+<referer>http://robssatellitetv.com/watch-bbc-4-live-online-stream-watch-uk-tv-free.htm</referer>
+<thumbnail>http://static.bbci.co.uk/programmes/2.246.1.60/img/logos/112x63/bbc_four.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ITV1 +1</title>
+<sportsdevil>http://www.shadow-net.org/channels/ITV-1.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/ITV-1.html</referer>
+<thumbnail>http://www.watchallchannels.com/wp-content/uploads/2015/02/Itv-1.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ITV2 HD</title>
+<sportsdevil>http://www.shadow-net.org/channels/ITV-2.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/ITV-2.html</referer>
+<thumbnail>https://i.ytimg.com/vi/5ILvThaG_qQ/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ITV2 +1</title>
+<sportsdevil>http://www.shadow-net.org/channels/ITV-2.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/ITV-2.html</referer>
+<thumbnail>http://static.tv-tube.org/net.tv-tube/tv_repo/2754/thumb.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ITV3</title>
+<sportsdevil>http://www.shadow-net.org/channels/ITV-3.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/ITV-3.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ITV3_HD_logo_2013.svg/220px-ITV3_HD_logo_2013.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ITV3 +1</title>
+<sportsdevil>http://robssatellitetv.com/watch-itv-3plus1-live-online-stream-watch-uk-tv-free.htm</sportsdevil>
+<referer>http://robssatellitetv.com/watch-itv-3plus1-live-online-stream-watch-uk-tv-free.htm</referer>
+<thumbnail>https://www.freeview.co.uk/app/themes/freeview/assets/images/channels/entertainment/itv31.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ITV 4</title>
+<sportsdevil>http://robssatellitetv.com/watch-itv-4-live-online-stream-watch-uk-tv-free.htm</sportsdevil>
+<referer>http://robssatellitetv.com/watch-itv-4-live-online-stream-watch-uk-tv-free.htm</referer>
+<thumbnail>http://road.cc/sites/default/files/styles/main_width/public/images/News/ITV4%20logo.jpg?itok=SewzTW1W</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ITV 4+1</title>
+<sportsdevil>http://robssatellitetv.com/watch-itv-4-plus-1-live-online-stream-watch-uk-tv-free.htm</sportsdevil>
+<referer>http://robssatellitetv.com/watch-itv-4-plus-1-live-online-stream-watch-uk-tv-free.htm</referer>
+<thumbnail>http://webtv.directory/wp-content/uploads/2015/03/itv4_plus1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ITVBe</title>
+<sportsdevil>http://www.shadow-net.org/channels/ITV-Be.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/ITV-Be.html</referer>
+<thumbnail>http://www.satandpcguy.com/wp-content/uploads/2014/09/ckfFu0IF-6VAcMoDejSTafBi1-sJgBXyZA1tY4iQmws.bmp</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>E4</title>
+<sportsdevil>http://robssatellitetv.com/watch-e4-live-online-stream-uk-tv-free.htm</sportsdevil>
+<referer>http://robssatellitetv.com/watch-e4-live-online-stream-uk-tv-free.htm</referer>
+<thumbnail>http://static.bips.channel4.com/bips/300x225/e4/7bf62624-0c6d-4dad-ae35-6c2e7eea35bb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>More-4</title>
+<sportsdevil>http://www.shadow-net.org/channels/More-4.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/More-4.html</referer>
+<thumbnail>https://pbs.twimg.com/profile_images/1817366974/160px-More4_logo.svg_400x400.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Pick</title>
+<sportsdevil>http://hastalavista.info/channels/NWAwrestling-tvchannel.html</sportsdevil>
+<referer>http://hastalavista.info/channels/NWAwrestling-tvchannel.html</referer>
+<thumbnail>http://presentationarchive.com/pick2011/main-f.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Drama</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/pg/pg/1770.ts&amp;streamtype=.TSDOWNLOADER;name=Sky Drama</link>
+<thumbnail>http://www.westendbaptist.org.uk/wp-content/uploads/2011/01/drama.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>sky one</title>
+<sportsdevil>http://www.shadow-net.org/channels/Sky-1.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Sky-1.html</referer>
+<thumbnail>http://www.radioandtelly.co.uk/images/sky1logo.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>sky one HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.217.53:8000/live/6grandiptv597/77885500/649.ts&amp;streamtype=.TSDOWNLOADER;name=Sky one HD</link>
+<thumbnail>http://www.radioandtelly.co.uk/images/sky1logo.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>sky two</title>
+<sportsdevil>http://www.shadow-net.org/channels/Sky-2.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Sky-2.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Sky2_logo_2011.svg/220px-Sky2_logo_2011.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>sky two HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.217.53:8000/live/6grandiptv597/77885500/651.ts&amp;streamtype=.TSDOWNLOADER;name=Sky Two HD</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Sky2_logo_2011.svg/220px-Sky2_logo_2011.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK: Eden</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/pg/pg/2253.ts&amp;streamtype=.TSDOWNLOADER;name=Eden</link>
+<thumbnail>https://pbs.twimg.com/profile_images/2789238884/7ba1042bab853473142e0387ea90c3e6_400x400.png</thumbnail>
+<fanart>h</fanart>
+</item>
+
+<item>
+<title>History HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/pg/pg/1481.ts&amp;streamtype=.TSDOWNLOADER;name=History HD</link>
+<thumbnail>http://wsap.academy/wp-content/uploads/2015/03/1123676.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Discovery History HD</title>
+<sportsdevil>http://www.shadow-net.org/channels/Discovery-History.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Discovery-History.html</referer>
+<thumbnail>https://pbs.twimg.com/profile_images/750388643697664001/DBMQldhb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Discovery Channel HD</title>
+<sportsdevil>http://www.shadow-net.org/channels/Discovery-UK.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Discovery-UK.html</referer>
+<thumbnail>https://pbs.twimg.com/profile_images/750388643697664001/DBMQldhb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Discovery Science HD</title>
+<sportsdevil>http://www.shadow-net.org/channels/Discovery-Science-UK.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Discovery-Science-UK.html</referer>
+<thumbnail>https://pbs.twimg.com/profile_images/750388643697664001/DBMQldhb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Discovery Investigation</title>
+<sportsdevil>http://www.shadow-net.org/channels/Discovery-Investigation-UK.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Discovery-Investigation-UK.html</referer>
+<thumbnail>https://pbs.twimg.com/profile_images/750388643697664001/DBMQldhb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>AMC HD</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/amc.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/embed/amc.php</referer>
+<thumbnail>http://tvseriesfinale.com/wp-content/uploads/2014/08/amc02.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>AMC East HD</title>
+<sportsdevil>http://www.shadow-net.org/channels/AMC-East.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/AMC-East.html</referer>
+<thumbnail>http://tvseriesfinale.com/wp-content/uploads/2014/08/amc02.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ABC</title>
+<sportsdevil>http://www.liveonlinetv247.info/abc.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/abc.php</referer>
+<thumbnail>http://cdn.media.abc.com/m/images/global/butterscotch/abccom_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SCIFI HD</title>
+<sportsdevil>http://www.shadow-net.org/channels/Syfy.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Syfy.html</referer>
+<thumbnail>http://hiddenremote.com/files/2014/04/syfy.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK GOLD</title>
+<sportsdevil>http://www.shadow-net.org/channels/Gold.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Gold.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/1280px-Gold_2014.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK Crime & Investigiation</title>
+<sportsdevil>http://nowwatchtvlive.co/crime-investigation-network-live-streaming-watch-crime-investigation-network-online-free/</sportsdevil>
+<referer>http://nowwatchtvlive.co/crime-investigation-network-live-streaming-watch-crime-investigation-network-online-free/</referer>
+<thumbnail>http://www.crimeandinvestigation.co.uk/sites/default/files/ci_logo_final_0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>uk: Alibi</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/pg/pg/768.ts&amp;streamtype=.TSDOWNLOADER;name=uk: Alibi</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alibi.svg/150px-Alibi.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK: Watch</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/bassem9696/bassem9696/2204.ts&amp;streamtype=.TSDOWNLOADER;name=Watch</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/92/UKTV_channel_W_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky TLC</title>
+<sportsdevil>http://www.shadow-net.org/channels/TLC.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/TLC.html</referer>
+<thumbnail>https://skynz.akamaized.net//documents/24003/45515/MK_TLC_LogoSmall_250x180/6b619781-2dd8-4c57-b115-807ac5459433</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Comedy Central HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/pg/pg/1817.ts&amp;streamtype=.TSDOWNLOADER;name=Comedy Central HD</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/861px-Comedy_Central_UK.svg.png</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>Comedy Central</title>
+<sportsdevil>http://www.shadow-net.org/channels/Comedy-Central-UK.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Comedy-Central-UK.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/861px-Comedy_Central_UK.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK-Dave</title>
+<sportsdevil>http://www.shadow-net.org/channels/Dave.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Dave.html</referer>
+<thumbnail>http://res.cloudinary.com/uktv/image/upload/v1477413430/yazignoksd8y9rqniy6a.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>IRISH TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.197.40:25461/live/ww/ww/9930.ts&amp;streamtype=.TSDOWNLOADER;name=IRISH TV</link>
+<thumbnail>http://www.irishtv.ie/wp-content/uploads/2014/04/irish-tv-logo-70.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK:Sky Atlantic</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/skyatlantic.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/embed/skyatlantic.php</referer>
+<thumbnail>https://celebritaindotnet.files.wordpress.com/2015/02/the-last-panthers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK:Sky Living HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/pg/pg/1771.ts&amp;streamtype=.TSDOWNLOADER;name=Living</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/4/47/Sky_Living_HD_2013.png/revision/latest?cb=20130828224304</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK:RTE One</title>
+<sportsdevil>http://www.shadow-net.org/channels/RTE-One.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/RTE-One.html</referer>
+<thumbnail>http://img.rasset.ie/0008ea9c-642.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK:RTE Two</title>
+<sportsdevil>http://www.shadow-net.org/channels/RTE-Two.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/RTE-Two.html</referer>
+<thumbnail>http://files.broadsheet.ie/wp-content/uploads/2012/01/rte2trainBIG.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK:SKY Fox HD</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/fox.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/embed/fox.php</referer>
+<thumbnail>https://pbs.twimg.com/profile_images/1186640510/skyfox_logo_lowres.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK:A&E</title>
+<sportsdevil>http://www.shadow-net.org/channels/A%26E.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/A%26E.html</referer>
+<thumbnail>http://bundler.watch.aetnd.com/images/aetv/generic-thumb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK:Bravo</title>
+<sportsdevil>http://www.shadow-net.org/channels/Bravo.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Bravo.html</referer>
+<thumbnail>http://kyknet.dstv.com/wp-content/uploads//bfi_thumb/Bravo-1024x366-sbpne7fi9xmczpqj9gafxn3q1g0c77ncfk2g9sytq9mnkvle6.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK:Spike TV</title>
+<sportsdevil>http://www.shadow-net.org/channels/Spike.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Spike.html</referer>
+<thumbnail>http://1.images.spike.com/images/missing_image2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK:Food Network</title>
+<sportsdevil>http://www.shadow-net.org/channels/Food-Network-UK.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Food-Network-UK.html</referer>
+<thumbnail>http://blog.foodnetwork.com/fn-dish/files/2014/07/Food-Network-logo-200x200.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK:E! Entertainment</title>
+<sportsdevil>http://www.shadow-net.org/channels/E%21-Entertainment.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/E%21-Entertainment.html</referer>
+<thumbnail>https://static1.squarespace.com/static/52992ad7e4b00e96518e3a37/52a52961e4b00aedfa1e1ff8/52a5296ae4b00aedfa1e2007/1386555755056/e-entertainment-television-logo.jpg?format=1500w</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Yesterday</title>
+<sportsdevil>http://www.shadow-net.org/channels/Yesterday.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Yesterday.html</referer>
+<thumbnail>http://assets.fontsinuse.com/static/use-media-items/6/5384/full-552x310/50093013/Yesterday_Action_Hero_Logo-552x310.png?resolution=0</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Really</title>
+<sportsdevil>http://www.shadow-net.org/channels/Really.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Really.html</referer>
+<thumbnail>http://theident.gallery/misc/misc/really2-1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CBS-Drama</title>
+<sportsdevil>http://www.shadow-net.org/channels/CBS-Drama.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/CBS-Drama.html</referer>
+<thumbnail>http://www.cbsdrama.tv/grfx/pl/cbs-drama-logo-flag.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CBS-Reality</title>
+<sportsdevil>http://www.shadow-net.org/channels/CBS-Reality.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/CBS-Reality.html</referer>
+<thumbnail>http://hub.tv-ark.org.uk/images/otherchannels/cbs_images/cbs_reality_promo1_2011a.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Animal-Planet-US</title>
+<sportsdevil>http://www.shadow-net.org/channels/Animal-Planet-US.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Animal-Planet-US.html</referer>
+<thumbnail>http://static.comicvine.com/uploads/original/11112/111127507/3568373-9352017691-Anima.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK MTV</title>
+<sportsdevil>http://embedstream.com/live-entertainment-mtv-stream.php</sportsdevil>
+<referer>http://embedstream.com/live-entertainment-mtv-stream.php</referer>
+<thumbnail>http://w2.parentstv.org/blog/wp-content/uploads/2014/03/mtv1.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK MTV Hits</title>
+<sportsdevil>http://www.shadow-net.org/channels/MTV-Hits.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/MTV-Hits.html</referer>
+<thumbnail>http://w2.parentstv.org/blog/wp-content/uploads/2014/03/mtv1.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MTV Classic UK</title>
+<sportsdevil>http://www.shadow-net.org/channels/MTV-Classic-UK.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/MTV-Classic-UK.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/63/MTV_Classic_logo_2013.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MTV Dance</title>
+<sportsdevil>http://www.shadow-net.org/channels/MTV-Dance.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/MTV-Dance.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/MTV_Dance_2013.png/200px-MTV_Dance_2013.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MTV Rocks</title>
+<sportsdevil>http://www.shadow-net.org/channels/MTV-Rocks.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/MTV-Rocks.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/e4/Mtv_Rocks_2013.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Capital</title>
+<sportsdevil>http://www.shadow-net.org/channels/Capital.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Capital.html</referer>
+<thumbnail>http://cdn-radiotime-logos.tunein.com/s46916q.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Clubbing TV</title>
+<sportsdevil>http://www.shadow-net.org/channels/Clubbing-TV.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Clubbing-TV.html</referer>
+<thumbnail>http://channels.roku.com/images/511b798e26b54a1d9615dbe1a0878ac6-hd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Heart TV</title>
+<sportsdevil>http://www.shadow-net.org/channels/Heart-TV.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Heart-TV.html</referer>
+<thumbnail>http://www.jumpdesign.co.uk/wp-content/uploads/2014/09/Heart-TV-N-031-600x338.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>VH1</title>
+<sportsdevil>http://www.shadow-net.org/channels/VH1.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/VH1.html</referer>
+<thumbnail>https://yt3.ggpht.com/-WF6qT32CVUc/AAAAAAAAAAI/AAAAAAAAAAA/KF_jhtLuMl4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+
+
+#EXTINF:-1,=======   UK:ENTERTAINMENT   =======
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/2615.ts
+#EXTINF:-1,UK: BBC1 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/6986.ts
+#EXTINF:-1,UK: BBC One NI HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13488.ts
+#EXTINF:-1,UK: BBC RB 1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13487.ts
+#EXTINF:-1,UK: BBC2 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8363.ts
+#EXTINF:-1,UK: BBC2
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/6987.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13712.ts
+#EXTINF:-1,UK: CHANNEL 4
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/6995.ts
+#EXTINF:-1,UK: Channel 4 +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13558.ts
+#EXTINF:-1,UK: Channel 5 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/6998.ts
+#EXTINF:-1,UK: Channel 5 +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13557.ts
+#EXTINF:-1,UK: Channel 5Star
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9560.ts
+#EXTINF:-1,UK: Sky One
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7365.ts
+#EXTINF:-1,UK: Sky One +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/12365.ts
+#EXTINF:-1,UK: Sky Two
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7373.ts
+#EXTINF:-1,UK: Pick
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7054.ts
+#EXTINF:-1,UK: Pick +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13519.ts
+#EXTINF:-1,UK: My5
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13556.ts
+#EXTINF:-1,UK: DAVE
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7072.ts
+#EXTINF:-1,UK: SKY LIVING
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7024.ts
+#EXTINF:-1,UK: SKY LIVING +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/12369.ts
+#EXTINF:-1,UK: BBC3
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7084.ts
+#EXTINF:-1,UK: BBC4 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8364.ts
+#EXTINF:-1,UK: ITV Encore
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13532.ts
+#EXTINF:-1,UK: ITV
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/6990.ts
+#EXTINF:-1,UK: ITV +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9550.ts
+#EXTINF:-1,UK: ITV1 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8357.ts
+#EXTINF:-1,UK: ITV2 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8356.ts
+#EXTINF:-1,UK: ITV2
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/6991.ts
+#EXTINF:-1,UK: ITV2 +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13531.ts
+#EXTINF:-1,UK: ITV3 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8354.ts
+#EXTINF:-1,UK: ITV3
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/6992.ts
+#EXTINF:-1,UK: ITV4 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8355.ts
+#EXTINF:-1,UK: ITV4
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/6993.ts
+#EXTINF:-1,UK: ITV4 +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13530.ts
+#EXTINF:-1,UK: Comedy Central
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7033.ts
+#EXTINF:-1,UK: Comedy Central +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13591.ts
+#EXTINF:-1,UK: Comedy Central Extra
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8255.ts
+#EXTINF:-1,UK: Comedy Central Xtra +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13590.ts
+#EXTINF:-1,UK: Sci-Fi
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7049.ts
+#EXTINF:-1,UK: ALIBI
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7085.ts
+#EXTINF:-1,UK: Alibi +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/12364.ts
+#EXTINF:-1,UK: E4
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7068.ts
+#EXTINF:-1,UK: S4C
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13514.ts
+#EXTINF:-1,UK: MORE4
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7062.ts
+#EXTINF:-1,UK: More4 +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13583.ts
+#EXTINF:-1,UK: CBS REALITY
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7076.ts
+#EXTINF:-1,UK: CBS REALITY +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7075.ts
+#EXTINF:-1,UK: CBS Action
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7078.ts
+#EXTINF:-1,UK: CBS DRAMA
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7077.ts
+#EXTINF:-1,UK: Sony Channel
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13512.ts
+#EXTINF:-1,UK: Sony Channel +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13511.ts
+#EXTINF:-1,UK: Flava
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13587.ts
+#EXTINF:-1,UK: E!
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7069.ts
+#EXTINF:-1,UK: E! +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13549.ts
+#EXTINF:-1,UK: Quest
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7053.ts
+#EXTINF:-1,UK: QUEST +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13518.ts
+#EXTINF:-1,UK: SHOWCASE
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7048.ts
+#EXTINF:-1,UK: 3e
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7372.ts
+#EXTINF:-1,UK: UTV IE
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/6996.ts
+#EXTINF:-1,UK: TV3 IE
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/6997.ts
+#EXTINF:-1,UK: TV3
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7001.ts
+#EXTINF:-1,UK: TV3 +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13497.ts
+#EXTINF:-1,UK: TLC
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7003.ts
+#EXTINF:-1,UK: TLC +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13501.ts
+#EXTINF:-1,UK: TLC +2
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13502.ts
+#EXTINF:-1,UK: Drama
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13550.ts
+#EXTINF:-1,UK: TG4
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7004.ts
+#EXTINF:-1,UK: RTE One
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7050.ts
+#EXTINF:-1,UK: RTE Two
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7051.ts
+#EXTINF:-1,UK: ITVBE
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/6994.ts
+#EXTINF:-1,UK: ITVBe +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13529.ts
+#EXTINF:-1,UK: Community Channel
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13554.ts
+#EXTINF:-1,UK: AMC From BT
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13567.ts
+#EXTINF:-1,UK: ID
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7063.ts
+#EXTINF:-1,UK: ID +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13533.ts
+#EXTINF:-1,UK: Horror Channel
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13585.ts
+#EXTINF:-1,UK: Horror Channel +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13586.ts
+#EXTINF:-1,UK: Fox
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7089.ts
+#EXTINF:-1,UK: Challenge
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13560.ts
+#EXTINF:-1,UK: Challenge +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13559.ts
+#EXTINF:-1,UK: 5USA
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7071.ts
+#EXTINF:-1,UK: 5USA +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13569.ts
+#EXTINF:-1,UK: 5STAR
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7086.ts
+#EXTINF:-1,UK: 5STAR +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13568.ts
+#EXTINF:-1,UK: Lifetime
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8256.ts
+#EXTINF:-1,UK: Vintage TV
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9552.ts
+#EXTINF:-1,UK: FineLiving
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9388.ts
+#EXTINF:-1,UK: Gold
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/12371.ts
+#EXTINF:-1,UK: GOLD +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13543.ts
+#EXTINF:-1,UK: Eden
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/12460.ts
+#EXTINF:-1,UK: Eden +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/12366.ts
+#EXTINF:-1,UK: True Drama
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13574.ts
+#EXTINF:-1,UK: True Crime +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13498.ts
+#EXTINF:-1,UK: tru TV
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13500.ts
+#EXTINF:-1,UK: tru TV 1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13499.ts
+#EXTINF:-1,UK: Dmax
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/12458.ts
+#EXTINF:-1,UK: Dmax +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/12459.ts
+#EXTINF:-1,UK: De Ja Vu
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/11779.ts
+#EXTINF:-1,UK: W +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13494.ts
+#EXTINF:-1,UK: W
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13495.ts
+#EXTINF:-1,UK: Universal
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13572.ts
+#EXTINF:-1,UK: Universal +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13571.ts
+#EXTINF:-1,UK: True Entertainment
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13573.ts
+#EXTINF:-1,UK: Sky News
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9551.ts
+#EXTINF:-1,UK: Real Lives 1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13516.ts
+#EXTINF:-1,UK: Real Lives
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13517.ts
+#EXTINF:-1,UK: Tiny Pop
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13576.ts
+#EXTINF:-1,UK: Tiny Pop +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13575.ts
+#EXTINF:-1,UK: The Vault
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13577.ts
+#EXTINF:-1,UK: Spike
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13508.ts
+#EXTINF:-1,UK: RT. News Now
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13515.ts
+#EXTINF:-1,UK: PBS America
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13520.ts
+#EXTINF:-1,UK: London Live
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/2927.ts
+#EXTINF:-1,UK: Made In Cardiff
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14026.ts
+#EXTINF:-1,=======   UK:LIFESTYLE & CULTURE   =======
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8250.ts
+#EXTINF:-1,UK: Discovery Shed
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/6977.ts
+#EXTINF:-1,UK: Travel Channel
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7002.ts
+#EXTINF:-1,UK: Travel Channel +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/10162.ts
+#EXTINF:-1,UK: Really
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7052.ts
+#EXTINF:-1,UK: Home & Health
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7369.ts
+#EXTINF:-1,UK: Food Network
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8392.ts
+#EXTINF:-1,UK: SKY ARTS
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7046.ts
+#EXTINF:-1,UK: Good Food
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13542.ts
+#EXTINF:-1,UK: Good Food +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13541.ts
+#EXTINF:-1,UK: Food Network +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13547.ts
+#EXTINF:-1,UK: Home&Health
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13536.ts
+#EXTINF:-1,UK: Home
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13537.ts
+#EXTINF:-1,UK: Home +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13535.ts
+#EXTINF:-1,=======   UK:MOVIES   =======
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8252.ts
+#EXTINF:-1,UK: Sky Cinema Premiere HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7008.ts
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7007.ts
+#EXTINF:-1,UK: Sky Cinema Premier +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9557.ts
+#EXTINF:-1,UK: Sky Movies Comedy
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7012.ts
+#EXTINF:-1,UK: Sky Cinema Action & Adventure
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7013.ts
+#EXTINF:-1,UK: Sky Cinema Family
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7009.ts
+#EXTINF:-1,UK: Sky Cinema Drama & Romance
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7011.ts
+#EXTINF:-1,UK: Sky Movies Sci-Fi Horror HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7015.ts
+#EXTINF:-1,UK: Sky Movies ScFi-Horror
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/6975.ts
+#EXTINF:-1,UK: Sky Film 4 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7030.ts
+#EXTINF:-1,UK: Film4 +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13588.ts
+#EXTINF:-1,UK: Sky Cinema Select
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7014.ts
+#EXTINF:-1,UK: Sky Cinema Disney
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7017.ts
+#EXTINF:-1,UK: Sony Movies
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13510.ts
+#EXTINF:-1,UK: Sony Movies +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13509.ts
+#EXTINF:-1,UK: TCM
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7006.ts
+#EXTINF:-1,UK: Starz TV
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13578.ts
+#EXTINF:-1,UK: Star Life OK
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13505.ts
+#EXTINF:-1,UK: Star Jalsha
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13506.ts
+#EXTINF:-1,UK: Star GOLD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13507.ts
+#EXTINF:-1,UK: TCM +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13504.ts
+#EXTINF:-1,UK: FILM 4
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7066.ts
+#EXTINF:-1,UK: True Movies 1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/6976.ts
+#EXTINF:-1,UK: True Movies 2
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7375.ts
+#EXTINF:-1,UK: Movies4Men
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8258.ts
+#EXTINF:-1,UK: Movies 24
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13525.ts
+#EXTINF:-1,UK: Movies4men +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13526.ts
+#EXTINF:-1,UK: MOVIES CRIME & THRILLER
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7019.ts
+#EXTINF:-1,UK: MOVIES DISNEY
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7021.ts
+#EXTINF:-1,UK: MOVIES COMEDY
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7022.ts
+#EXTINF:-1,UK: Sky Cinema Action & Adventure
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7023.ts
+#EXTINF:-1,UK: Syfy
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7005.ts
+#EXTINF:-1,UK: Syfy +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9556.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7045.ts
+#EXTINF:-1,UK: Sky Atlantic +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9558.ts
+#EXTINF:-1,=======   UK:SPORT   =======
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8244.ts
+#EXTINF:-1,UK: SKY SPORTS NEWS HQ HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/6981.ts
+#EXTINF:-1,UK: Sky Sports Mix HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13713.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8352.ts
+#EXTINF:-1,UK: Sky Sports 1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7035.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8351.ts
+#EXTINF:-1,UK: Sky Sports 2
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7036.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8350.ts
+#EXTINF:-1,UK: Sky Sports 3
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7037.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9549.ts
+#EXTINF:-1,UK: Sky Sports 4
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7038.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8349.ts
+#EXTINF:-1,UK: Sky Sports 5
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7039.ts
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7987.ts
+#EXTINF:-1,UK: SKY SPORTS  F1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7067.ts
+#EXTINF:-1,UK: Eurosport 1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7031.ts
+#EXTINF:-1,UK: Eurosport 2
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7374.ts
+#EXTINF:-1,UK: Premier Sports
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/10163.ts
+#EXTINF:-1,UK: Motors TV
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8257.ts
+#EXTINF:-1,UK: Horse & Country
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13534.ts
+#EXTINF:-1,UK: AT THE RACES
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/6984.ts
+#EXTINF:-1,UK: Racing UK
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7376.ts
+#EXTINF:-1,UK: Bike
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13599.ts
+#EXTINF:-1,UK: BT Sport Mosaic HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9149.ts
+#EXTINF:-1,UK: BT SPORTS MOSAIC 2
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/12531.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7041.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7042.ts
+#EXTINF:-1,UK: BT Sport ESPN
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8358.ts
+#EXTINF:-1,UK: BT Sport 2
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8361.ts
+#EXTINF:-1,UK: BT Sport Europe/3 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8360.ts
+#EXTINF:-1,UK: BT SPORTS EUROPE
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7081.ts
+#EXTINF:-1,UK: BT Sports Extra 1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7370.ts
+#EXTINF:-1,UK: BT Sport Extra 2
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13565.ts
+#EXTINF:-1,UK: BT Sport Extra 3
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13564.ts
+#EXTINF:-1,UK: BT Sport Extra 4
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13563.ts
+#EXTINF:-1,UK: BT Sport Extra 5
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13562.ts
+#EXTINF:-1,UK: BT Sport Extra 6
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13561.ts
+#EXTINF:-1,UK: BET
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9148.ts
+#EXTINF:-1,UK: Setanta HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8241.ts
+#EXTINF:-1,UK: Sky Setanta Sports
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7040.ts
+#EXTINF:-1,UK: BOX NATION
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7082.ts
+#EXTINF:-1,UK: Sky BoxOff (PPV Events Only)
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7979.ts
+#EXTINF:-1,UK: MUTV
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7043.ts
+#EXTINF:-1,UK: Chelsea TV HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7044.ts
+#EXTINF:-1,UK: Chelsea TV
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8359.ts
+#EXTINF:-1,UK: Liverpool LFCTV
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9553.ts
+#EXTINF:-1,UK: Rangers TV
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/12482.ts
+#EXTINF:-1,UK: Everton FC TV
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/12484.ts
+#EXTINF:-1,UK: Celtic FC TV (Live for Matches )
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/12457.ts
+#EXTINF:-1,Sky Net Sports 1 UK
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14081.ts
+#EXTINF:-1,Sky Net Sports 2 UK
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14082.ts
+#EXTINF:-1,Sky Net Sports 3 UK
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14083.ts
+#EXTINF:-1,Sky Net Sports 4 UK
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14084.ts
+#EXTINF:-1,Sky Net Sports 5 UK
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14085.ts
+#EXTINF:-1,UK: Sky Sports Active 1 (interactive)
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14024.ts
+#EXTINF:-1,UK: Sky Sports Active 2 (interactive)
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14023.ts
+#EXTINF:-1,UK: Sky Sports Active 3 (interactive)
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14022.ts
+#EXTINF:-1,UK: Sky Sports Active 4 (interactive)
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14021.ts
+#EXTINF:-1,UK: Sky Sports Active 5 (interactive)
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14020.ts
+#EXTINF:-1,UK: Sky Sports Active 6 (interactive)
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14019.ts
+#EXTINF:-1,UK: Sky Sports Active 7 (interactive)
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14018.ts
+#EXTINF:-1,UK: Sky Sports Active 8 (interactive)
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14017.ts
+#EXTINF:-1,UK: Sky Sports Active 9 (interactive)
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14016.ts
+#EXTINF:-1,=======   UK:NEWS   =======
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8246.ts
+#EXTINF:-1,UK: BBC News
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7371.ts
+#EXTINF:-1,=======   UK:DOCUMENTARIES   =======
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8247.ts
+#EXTINF:-1,UK: Discovery Channel
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7026.ts
+#EXTINF:-1,Uk: Discovery Channel +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/10161.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/6979.ts
+#EXTINF:-1,UK: Discovery Science
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7028.ts
+#EXTINF:-1,UK: Discovery Science +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13551.ts
+#EXTINF:-1,UK: Animal Planet
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7047.ts
+#EXTINF:-1,UK: Animal Planet +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13566.ts
+#EXTINF:-1,UK: Nat Geo
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7367.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7025.ts
+#EXTINF:-1,UK: Discovery History HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7029.ts
+#EXTINF:-1,UK: Discovery History +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13552.ts
+#EXTINF:-1,UK: YESTERDAY
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/6999.ts
+#EXTINF:-1,UK: Yesterday +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/12375.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7368.ts
+#EXTINF:-1,UK: CRIME & THRILLER
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7073.ts
+#EXTINF:-1,UK: Crime & Investigation
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7074.ts
+#EXTINF:-1,UK: Crime Investigation +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13553.ts
+#EXTINF:-1,UK: H2
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13540.ts
+#EXTINF:-1,UK: History
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13539.ts
+#EXTINF:-1,UK: History +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13538.ts
+#EXTINF:-1,UK: GEO TV
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13544.ts
+#EXTINF:-1,=======   UK:CHILDREN’S   =======
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8251.ts
+#EXTINF:-1,UK: Baby TV
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/11778.ts
+#EXTINF:-1,UK: Kix
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/11469.ts
+#EXTINF:-1,UK: Kix +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13584.ts
+#EXTINF:-1,UK: Cartoon Network
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7034.ts
+#EXTINF:-1,UK: NickJr Too
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7543.ts
+#EXTINF:-1,UK: Nick Jr  +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7544.ts
+#EXTINF:-1,UK: Nicktoons
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7055.ts
+#EXTINF:-1,UK: Disney Junior
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7542.ts
+#EXTINF:-1,UK: Disney Channel
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7032.ts
+#EXTINF:-1,UK: Disney Channel +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9555.ts
+#EXTINF:-1,UK: Nickelodeon
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7366.ts
+#EXTINF:-1,UK: Nickelodeon +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/12368.ts
+#EXTINF:-1,UK: DISNEY XD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7070.ts
+#EXTINF:-1,UK: DISNEY XD +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/12370.ts
+#EXTINF:-1,UK: CBEEBIES
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7079.ts
+#EXTINF:-1,UK: CBBC
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7080.ts
+#EXTINF:-1,UK: Boomerang +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13597.ts
+#EXTINF:-1,UK: Boomerang
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13598.ts
+#EXTINF:-1,=======   UK:MUSIC  =======
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8253.ts
+#EXTINF:-1,UK: MTV Music
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13582.ts
+#EXTINF:-1,UK: MTV 90s
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13485.ts
+#EXTINF:-1,UK: MTV
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7061.ts
+#EXTINF:-1,UK: MTV +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13523.ts
+#EXTINF:-1,UK: MTV Base
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7060.ts
+#EXTINF:-1,UK: MTV Hits
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7057.ts
+#EXTINF:-1,UK: MTV Dance
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7058.ts
+#EXTINF:-1,UK: MTV Rocks
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7056.ts
+#EXTINF:-1,UK: MTV Classic
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7059.ts
+#EXTINF:-1,UK: VH1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7000.ts
+#EXTINF:-1,UK: VIVA
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8259.ts
+#EXTINF:-1,UK: Scuzz
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13579.ts
+#EXTINF:-1,UK: 4Music
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13570.ts
+#EXTINF:-1,UK: POP +1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13580.ts
+#EXTINF:-1,UK: POP
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13581.ts
