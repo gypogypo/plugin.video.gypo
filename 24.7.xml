@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
+
 <item>
 <title>[B][COLOR oldlace]Curb Your Enthusiasm[/B][/COLOR]</title>
 <link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
@@ -18,6 +19,7 @@
 </regex>
 <thumbnail>https://www.arconaitv.me/wp-content/uploads/2015/11/curb-your.jpg</thumbnail>
 </item>
+
 
 <item>
 <title>[B][COLOR oldlace]Friends[/B][/COLOR]</title>
@@ -37,6 +39,7 @@
 <thumbnail>http://img2.tvtome.com/i/u/0aa3afb3cbe3468fc6e43e50070b0810.png</thumbnail>
 </item>
 
+
 <item>
 <title>[B][COLOR oldlace]Celebrity Deathmatch[/B][/COLOR]</title>
 <link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
@@ -54,6 +57,7 @@
 </regex>
 <thumbnail>https://www.rickey.org/wp-content/uploads/2015/04/celebrity-deathmatch-mtv2-01-960x640.jpg</thumbnail>
 </item>
+
 
 <item>
 <title>[B][COLOR oldlace]The Simpsons[/B][/COLOR]</title>
@@ -73,6 +77,7 @@
 <thumbnail>http://i63.fastpic.ru/big/2015/0108/58/7ccc8317f7af2fceaddc87638ed88e58.jpg</thumbnail>
 </item>
 
+
 <item>
 <title>[B][COLOR oldlace]Family Guy[/B][/COLOR]</title>
 <link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
@@ -91,6 +96,7 @@
 <thumbnail>http://vignette1.wikia.nocookie.net/fanon/images/2/22/4440-family-guy-family-guy-poster.jpg/revision/latest?cb=20150528130142</thumbnail>
 </item>
 
+
 <item>
 <title>[B][COLOR oldlace]American Dad[/B][/COLOR]</title>
 <link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
@@ -108,6 +114,7 @@
 </regex>
 <thumbnail>http://s.sidereel.com/tv_shows/42889/giant_2x/americandadvs.jpg</thumbnail>
 </item>
+
 
 <item>
 <title>[B][COLOR oldlace]Adult Swim[/B][/COLOR]</title>
@@ -127,6 +134,7 @@
 <thumbnail>http://williamhenrydesign.com/wp-content/uploads/2015/02/AdultSwim-A-To-Z-Variant.jpg</thumbnail>
 </item>
 
+
 <item>
 <title>[B][COLOR oldlace]American Dad[/B][/COLOR]</title>
 <link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
@@ -144,6 +152,7 @@
 </regex>
 <thumbnail>http://s.sidereel.com/tv_shows/42889/giant_2x/americandadvs.jpg</thumbnail>
 </item>
+
 
 <item>
 <title>[B][COLOR oldlace]Anime[/B][/COLOR]</title>
@@ -163,6 +172,7 @@
 <thumbnail>http://images5.fanpop.com/image/photos/31700000/anime-poster-anime-31793513-1912-2560.png</thumbnail>
 </item>
 
+
 <item>
 <title>[B][COLOR oldlace]Archer[/B][/COLOR]</title>
 <link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
@@ -180,6 +190,7 @@
 </regex>
 <thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/7952201/p7952201_b_v7_ad.jpg</thumbnail>
 </item>
+
 
 <item>
 <title>[B][COLOR oldlace]Bobs Burgers[/B][/COLOR]</title>
@@ -199,6 +210,7 @@
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg2MzI0NTQ3OV5BMl5BanBnXkFtZTgwODMyMzc1MDE@._V1_SY317_CR1,0,214,317_AL_.jpg</thumbnail>
 </item>
 
+
 <item>
 <title>[B][COLOR oldlace]Classic Toons[/B][/COLOR]</title>
 <link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
@@ -217,7 +229,8 @@
 <thumbnail>http://static.comicvine.com/uploads/original/4/43369/1219618-lgpp30509looney_tunes_characters_looney_tunes_poster.jpg</thumbnail>
 </item>
  
- <item>
+
+<item>
 <title>[B][COLOR oldlace]Family Guy[/B][/COLOR]</title>
 <link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
 <regex>
@@ -234,6 +247,7 @@
 </regex>
 <thumbnail>http://vignette1.wikia.nocookie.net/fanon/images/2/22/4440-family-guy-family-guy-poster.jpg/revision/latest?cb=20150528130142</thumbnail>
 </item>
+
 
 <item>
 <title>[B][COLOR oldlace]Futurama[/B][/COLOR]</title>
@@ -253,6 +267,7 @@
 <thumbnail>http://www.tvposter.net/posters/futurama_1999_2391_poster.jpg</thumbnail>
 </item>
 
+
 <item>
 <title>[B][COLOR oldlace]Invader Zim[/B][/COLOR]</title>
 <link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
@@ -270,6 +285,7 @@
 </regex>
 <thumbnail>http://www.allmyanime.tv/images/invader-zim.jpg</thumbnail>
 </item>
+
 
 <item>
 <title>[B][COLOR oldlace]King of the Hill[/B][/COLOR]</title>
@@ -289,11 +305,13 @@
 <thumbnail>https://d1b4spazz1bu7a.cloudfront.net/t/p/w342/r6dIrTjWLE3GfcTZzrDYikt6YDn.jpg</thumbnail>
 </item>
 
+
 <item>
 <title>[COLOR oldlace][B]Monster Rancher[/B][/COLOR]</title>
 <link>http://50.7.136.90:81/live/aaaaaaaaaa@hotmail.com/user0011/1415.ts</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjAzMDY3MjY2N15BMl5BanBnXkFtZTYwMTAxNDU5._V1_SX640_SY720_.jpg</thumbnail>
 </item>
+
 
 <item>
 <title>[B][COLOR oldlace]Rick & Morty[/B][/COLOR]</title>
@@ -313,6 +331,7 @@
 <thumbnail>http://4.bp.blogspot.com/-RKkDzPZ5q8A/VbbcFAnPfPI/AAAAAAAAC-Y/JzU5nUXRdfQ/s1600/RaMSignedMailer.jpg</thumbnail>
 </item>
 
+
 <item>
 <title>[B][COLOR oldlace]Samurai Jack[/B][/COLOR]</title>
 <link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
@@ -330,6 +349,7 @@
 </regex>
 <thumbnail>http://vignette4.wikia.nocookie.net/playstationallstarsfanfictionroyale/images/7/79/Samurai_Jack_collagelarge2betterrgb.jpg/revision/latest?cb=20130530164401</thumbnail>
 </item>
+
 
 <item>
 <title>[B][COLOR oldlace]South Park[/B][/COLOR]</title>
@@ -349,6 +369,7 @@
 <thumbnail>https://koleksitvserieshdtv.files.wordpress.com/2014/11/south-park-south-park-poster.jpg</thumbnail>
 </item>
 
+
 <item>
 <title>[B][COLOR oldlace]The Marvelous Misadventures of Flapjack[/B][/COLOR]</title>
 <link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
@@ -366,6 +387,7 @@
 </regex>
 <thumbnail>http://iv1.lisimg.com/image/4115182/680full-the-marvelous-misadventures-of-flapjack-poster.jpg</thumbnail>
 </item>
+
 
 <item>
 <title>[B][COLOR oldlace]Always Sunny in Philadelphia[/B][/COLOR]</title>
