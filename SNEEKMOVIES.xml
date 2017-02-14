@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+<item>
+   <title>[COLOR orange]HECCVideo Club 720/1080 Movie[/COLOR]</title>
+   <link>ignorme</link>
+   <jsonrpc>plugin://plugin.video.hevcvideoclub</jsonrpc>
+   <thumbnail>https://seo-michael.co.uk/content/images/2016/09/hevcvc.jpg</thumbnail>
+   <fanart>https://seo-michael.co.uk/content/images/2016/09/hevcvc.jpg</fanart>
+</item>
+
+<item>
+   <title>[COLOR orange][B]Movies by GENRES[/B][/COLOR]</title>
+   <link>ignorme</link>
+   <jsonrpc>plugin://plugin.video.specto/?action=movieGenres</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
+
+<item> 
+  <title>[COLOR = blue]Movies by Year[/COLOR]</title> 
+  <premium>True</premium> 
+  <link>ignorme</link> 
+  <jsonrpc>plugin://plugin.video.specto/?action=movieYears</jsonrpc>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR cyan][B]Cartoon Movie [/B][/COLOR]</title>
+   <link>ignorme</link>
+   <jsonrpc>plugin://plugin.video.phstreams/?action=cartoon</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
+
+
+ 
+
+ 
+
+
