@@ -1329,45 +1329,6 @@
 </item>
 
 <item>
-<title>[COLORgreen]ONLINE:[/COLOR]</title>
-<sportsdevil></sportsdevil>
-<referer></referer>
-<thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
-<fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORgreen]ONLINE:[/COLOR]</title>
-<sportsdevil></sportsdevil>
-<referer></referer>
-<thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
-<fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORgreen]ONLINE:[/COLOR]</title>
-<sportsdevil></sportsdevil>
-<referer></referer>
-<thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
-<fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORgreen]ONLINE:[/COLOR]</title>
-<sportsdevil></sportsdevil>
-<referer></referer>
-<thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
-<fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORred]==== UK ENTERTAINMENT ====[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=&amp;streamtype=TSDOWNLOADER;name=</link>
-<thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
-<fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
-</item>
-
-<item>
 <title>[COLORgreen]ONLINE:[/COLOR]LONDON LIVE</title>
 <sportsdevil>http://www.shadow-net.org/channels/London-Live.html</sportsdevil>
 <referer>http://www.shadow-net.org/channels/London-Live.html</referer>
@@ -1871,6 +1832,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+<item>
 <title>[COLORgreen]ONLINE:[/COLOR]SKY CINEMA SCIFI AND HORROR</title>
 <sportsdevil>http://www.shadow-net.org/channels/Quest.html</sportsdevil>
 <referer>http://www.shadow-net.org/channels/Quest.html</referer>
@@ -1878,6 +1840,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+<item>
 <title>[COLORgreen]ONLINE:[/COLOR]SKY CINEMA 24</title>
 <sportsdevil>http://www.liveonlinetv247.info/skymoviesshowcase.php</sportsdevil>
 <referer>http://www.liveonlinetv247.info/skymoviesshowcase.php</referer>
@@ -1899,13 +1862,6 @@
 <referer>http://www.shadow-net.org/channels/Quest.html</referer>
 <thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</thumbnail>
 <fanart></fanart>
-</item>
-
-<item>
-<title>[COLORred]==== KIDZ CHANNELS ====[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/YTR458754/Nnnnnnn/534.&amp;streamtype=TSDOWNLOADER;name=</link>
-<thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
-<fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
 <item>
