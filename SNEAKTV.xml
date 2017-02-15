@@ -595,6 +595,532 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>BBC 1 HD</title>
+<sportsdevil>http://www.shadow-net.org/channels/BBC-1.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/BBC-1.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/BBC_One_logo.svg/250px-BBC_One_logo.svg.png</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>BBC 2 HD</title>
+<sportsdevil>http://www.shadow-net.org/channels/BBC-2.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/BBC-2.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/3/31/BBC_Two_Paint_ident.jpg</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>ITV HD</title>
+<sportsdevil>http://www.shadow-net.org/channels/ITV-1.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/ITV-1.html</referer>
+<thumbnail>http://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/42/2014/07/940x339_itv.jpg</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>CHANNEL 4 HD</title>
+<sportsdevil>http://www.shadow-net.org/channels/Channel-4.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Channel-4.html</referer>
+<thumbnail>http://i1.mirror.co.uk/incoming/article2017916.ece/ALTERNATES/s298/Channel-4-logo.png</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>CHANNEL 5</title>
+<sportsdevil>http://www.shadow-net.org/channels/Channel-5.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Channel-5.html</referer>
+<thumbnail>http://news.bfnn.co.uk/wp-content/uploads/2015/02/channel-5-150x150.jpg</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>5USA</title>
+<sportsdevil>http://www.shadow-net.org/channels/5USA.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/5USA.html</referer>
+<thumbnail>https://tvr.metropol247.co.uk/thetvroom.com/images/pool-i/130/main-000-486.jpg</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>5STAR</title>
+<sportsdevil>http://www.shadow-net.org/channels/5Star.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/5Star.html</referer>
+<thumbnail>http://i2.wp.com/www.hypemagazine.co.za/wp-content/uploads/2016/07/Cadbury-five-star.jpg</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>BBC 4</title>
+<sportsdevil>http://robssatellitetv.com/watch-bbc-4-live-online-stream-watch-uk-tv-free.htm</sportsdevil>
+<referer>http://robssatellitetv.com/watch-bbc-4-live-online-stream-watch-uk-tv-free.htm</referer>
+<thumbnail>http://static.bbci.co.uk/programmes/2.246.1.60/img/logos/112x63/bbc_four.png</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>ITV1 +1</title>
+<sportsdevil>http://www.shadow-net.org/channels/ITV-1.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/ITV-1.html</referer>
+<thumbnail>http://www.watchallchannels.com/wp-content/uploads/2015/02/Itv-1.png</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>ITV2 HD</title>
+<sportsdevil>http://www.shadow-net.org/channels/ITV-2.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/ITV-2.html</referer>
+<thumbnail>https://i.ytimg.com/vi/5ILvThaG_qQ/maxresdefault.jpg</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>ITV2 +1</title>
+<sportsdevil>http://www.shadow-net.org/channels/ITV-2.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/ITV-2.html</referer>
+<thumbnail>http://static.tv-tube.org/net.tv-tube/tv_repo/2754/thumb.png</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>ITV3</title>
+<sportsdevil>http://www.shadow-net.org/channels/ITV-3.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/ITV-3.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ITV3_HD_logo_2013.svg/220px-ITV3_HD_logo_2013.svg.png</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>ITV3 +1</title>
+<sportsdevil>http://www.shadow-net.org/channels/ITV-3%252b1.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/ITV-3%252b1.html</referer>
+<thumbnail>https://www.freeview.co.uk/app/themes/freeview/assets/images/channels/entertainment/itv31.png</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>ITV 4</title>
+<sportsdevil>http://www.shadow-net.org/channels/ITV-4.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/ITV-4.html</referer>
+<thumbnail>http://road.cc/sites/default/files/styles/main_width/public/images/News/ITV4%20logo.jpg?itok=SewzTW1W</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>ITV 4+1</title>
+<sportsdevil>http://robssatellitetv.com/watch-itv-4-plus-1-live-online-stream-watch-uk-tv-free.htm</sportsdevil>
+<referer>http://robssatellitetv.com/watch-itv-4-plus-1-live-online-stream-watch-uk-tv-free.htm</referer>
+<thumbnail>http://webtv.directory/wp-content/uploads/2015/03/itv4_plus1.jpg</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>ITVBe</title>
+<sportsdevil>http://www.shadow-net.org/channels/ITV-Be.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/ITV-Be.html</referer>
+<thumbnail>http://www.satandpcguy.com/wp-content/uploads/2014/09/ckfFu0IF-6VAcMoDejSTafBi1-sJgBXyZA1tY4iQmws.bmp</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>E4</title>
+<sportsdevil>http://www.shadow-net.org/channels/E4.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/E4.html</referer>
+<thumbnail>http://static.bips.channel4.com/bips/300x225/e4/7bf62624-0c6d-4dad-ae35-6c2e7eea35bb.jpg</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>More-4</title>
+<sportsdevil>http://www.shadow-net.org/channels/More-4.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/More-4.html</referer>
+<thumbnail>https://pbs.twimg.com/profile_images/1817366974/160px-More4_logo.svg_400x400.png</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>Pick</title>
+<sportsdevil>http://hastalavista.info/channels/NWAwrestling-tvchannel.html</sportsdevil>
+<referer>http://hastalavista.info/channels/NWAwrestling-tvchannel.html</referer>
+<thumbnail>http://presentationarchive.com/pick2011/main-f.jpg</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>Drama</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://82.28.154.2:8001/1:0:1:197A:7E6:2:11A0000:0:0:0:&amp;streamtype=.TSDOWNLOADER;name=Sky Drama</link>
+<thumbnail>http://www.westendbaptist.org.uk/wp-content/uploads/2011/01/drama.jpg</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>sky one</title>
+<sportsdevil>http://www.shadow-net.org/channels/Sky-1.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Sky-1.html</referer>
+<thumbnail>http://www.radioandtelly.co.uk/images/sky1logo.gif</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>sky one HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.217.53:8000/live/6grandiptv597/77885500/649.ts&amp;streamtype=.TSDOWNLOADER;name=Sky one HD</link>
+<thumbnail>http://www.radioandtelly.co.uk/images/sky1logo.gif</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>sky two</title>
+<sportsdevil>http://www.shadow-net.org/channels/Sky-2.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Sky-2.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Sky2_logo_2011.svg/220px-Sky2_logo_2011.svg.png</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>sky two HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.217.53:8000/live/6grandiptv597/77885500/651.ts&amp;streamtype=.TSDOWNLOADER;name=Sky Two HD</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Sky2_logo_2011.svg/220px-Sky2_logo_2011.svg.png</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>UK: Eden</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/pg/pg/2253.ts&amp;streamtype=.TSDOWNLOADER;name=Eden</link>
+<thumbnail>https://pbs.twimg.com/profile_images/2789238884/7ba1042bab853473142e0387ea90c3e6_400x400.png</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>History HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/pg/pg/1481.ts&amp;streamtype=.TSDOWNLOADER;name=History HD</link>
+<thumbnail>http://wsap.academy/wp-content/uploads/2015/03/1123676.jpg</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>Discovery History HD</title>
+<sportsdevil>http://www.shadow-net.org/channels/Discovery-History.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Discovery-History.html</referer>
+<thumbnail>https://pbs.twimg.com/profile_images/750388643697664001/DBMQldhb.jpg</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>Discovery Channel HD</title>
+<sportsdevil>http://www.shadow-net.org/channels/Discovery-UK.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Discovery-UK.html</referer>
+<thumbnail>https://pbs.twimg.com/profile_images/750388643697664001/DBMQldhb.jpg</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>Discovery Science HD</title>
+<sportsdevil>http://www.shadow-net.org/channels/Discovery-Science-UK.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Discovery-Science-UK.html</referer>
+<thumbnail>https://pbs.twimg.com/profile_images/750388643697664001/DBMQldhb.jpg</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Discovery Investigation</title>
+<sportsdevil>http://www.shadow-net.org/channels/Discovery-Investigation-UK.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Discovery-Investigation-UK.html</referer>
+<thumbnail>https://pbs.twimg.com/profile_images/750388643697664001/DBMQldhb.jpg</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>AMC HD</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/amc.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/embed/amc.php</referer>
+<thumbnail>http://tvseriesfinale.com/wp-content/uploads/2014/08/amc02.jpg</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>AMC East HD</title>
+<sportsdevil>http://www.shadow-net.org/channels/AMC-East.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/AMC-East.html</referer>
+<thumbnail>http://tvseriesfinale.com/wp-content/uploads/2014/08/amc02.jpg</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>ABC</title>
+<sportsdevil>http://www.liveonlinetv247.info/abc.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/abc.php</referer>
+<thumbnail>http://cdn.media.abc.com/m/images/global/butterscotch/abccom_logo.png</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>SCIFI HD</title>
+<sportsdevil>http://www.shadow-net.org/channels/Syfy.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Syfy.html</referer>
+<thumbnail>http://hiddenremote.com/files/2014/04/syfy.jpg</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>UK GOLD</title>
+<sportsdevil>http://www.shadow-net.org/channels/Gold.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Gold.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/1280px-Gold_2014.svg.png</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>UK Crime & Investigiation</title>
+<sportsdevil>http://nowwatchtvlive.co/crime-investigation-network-live-streaming-watch-crime-investigation-network-online-free/</sportsdevil>
+<referer>http://nowwatchtvlive.co/crime-investigation-network-live-streaming-watch-crime-investigation-network-online-free/</referer>
+<thumbnail>http://www.crimeandinvestigation.co.uk/sites/default/files/ci_logo_final_0.png</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>uk: Alibi</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/pg/pg/768.ts&amp;streamtype=.TSDOWNLOADER;name=uk: Alibi</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alibi.svg/150px-Alibi.svg.png</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>UK: Watch</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/bassem9696/bassem9696/2204.ts&amp;streamtype=.TSDOWNLOADER;name=Watch</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/92/UKTV_channel_W_logo.png</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>Sky TLC</title>
+<sportsdevil>http://www.shadow-net.org/channels/TLC.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/TLC.html</referer>
+<thumbnail>https://skynz.akamaized.net//documents/24003/45515/MK_TLC_LogoSmall_250x180/6b619781-2dd8-4c57-b115-807ac5459433</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Comedy Central HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/pg/pg/1817.ts&amp;streamtype=.TSDOWNLOADER;name=Comedy Central HD</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/861px-Comedy_Central_UK.svg.png</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>Comedy Central</title>
+<sportsdevil>http://www.shadow-net.org/channels/Comedy-Central-UK.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Comedy-Central-UK.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/861px-Comedy_Central_UK.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK-Dave</title>
+<sportsdevil>http://www.shadow-net.org/channels/Dave.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Dave.html</referer>
+<thumbnail>http://res.cloudinary.com/uktv/image/upload/v1477413430/yazignoksd8y9rqniy6a.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>IRISH TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.197.40:25461/live/ww/ww/9930.ts&amp;streamtype=.TSDOWNLOADER;name=IRISH TV</link>
+<thumbnail>http://www.irishtv.ie/wp-content/uploads/2014/04/irish-tv-logo-70.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK:Sky Atlantic</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/skyatlantic.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/embed/skyatlantic.php</referer>
+<thumbnail>https://celebritaindotnet.files.wordpress.com/2015/02/the-last-panthers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK:Sky Living HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/pg/pg/1771.ts&amp;streamtype=.TSDOWNLOADER;name=Living</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/4/47/Sky_Living_HD_2013.png/revision/latest?cb=20130828224304</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK:RTE One</title>
+<sportsdevil>http://www.shadow-net.org/channels/RTE-One.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/RTE-One.html</referer>
+<thumbnail>http://img.rasset.ie/0008ea9c-642.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK:RTE Two</title>
+<sportsdevil>http://www.shadow-net.org/channels/RTE-Two.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/RTE-Two.html</referer>
+<thumbnail>http://files.broadsheet.ie/wp-content/uploads/2012/01/rte2trainBIG.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK:SKY Fox HD</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/fox.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/embed/fox.php</referer>
+<thumbnail>https://pbs.twimg.com/profile_images/1186640510/skyfox_logo_lowres.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK:A&E</title>
+<sportsdevil>http://www.shadow-net.org/channels/A%26E.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/A%26E.html</referer>
+<thumbnail>http://bundler.watch.aetnd.com/images/aetv/generic-thumb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK:Bravo</title>
+<sportsdevil>http://www.shadow-net.org/channels/Bravo.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Bravo.html</referer>
+<thumbnail>http://kyknet.dstv.com/wp-content/uploads//bfi_thumb/Bravo-1024x366-sbpne7fi9xmczpqj9gafxn3q1g0c77ncfk2g9sytq9mnkvle6.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK:Spike TV</title>
+<sportsdevil>http://www.shadow-net.org/channels/Spike.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Spike.html</referer>
+<thumbnail>http://1.images.spike.com/images/missing_image2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK:Food Network</title>
+<sportsdevil>http://www.shadow-net.org/channels/Food-Network-UK.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Food-Network-UK.html</referer>
+<thumbnail>http://blog.foodnetwork.com/fn-dish/files/2014/07/Food-Network-logo-200x200.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK:E! Entertainment</title>
+<sportsdevil>http://www.shadow-net.org/channels/E%21-Entertainment.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/E%21-Entertainment.html</referer>
+<thumbnail>https://static1.squarespace.com/static/52992ad7e4b00e96518e3a37/52a52961e4b00aedfa1e1ff8/52a5296ae4b00aedfa1e2007/1386555755056/e-entertainment-television-logo.jpg?format=1500w</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Yesterday</title>
+<sportsdevil>http://www.shadow-net.org/channels/Yesterday.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Yesterday.html</referer>
+<thumbnail>http://assets.fontsinuse.com/static/use-media-items/6/5384/full-552x310/50093013/Yesterday_Action_Hero_Logo-552x310.png?resolution=0</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Really</title>
+<sportsdevil>http://www.shadow-net.org/channels/Really.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Really.html</referer>
+<thumbnail>http://theident.gallery/misc/misc/really2-1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CBS-Drama</title>
+<sportsdevil>http://www.shadow-net.org/channels/CBS-Drama.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/CBS-Drama.html</referer>
+<thumbnail>http://www.cbsdrama.tv/grfx/pl/cbs-drama-logo-flag.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CBS-Reality</title>
+<sportsdevil>http://www.shadow-net.org/channels/CBS-Reality.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/CBS-Reality.html</referer>
+<thumbnail>http://hub.tv-ark.org.uk/images/otherchannels/cbs_images/cbs_reality_promo1_2011a.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Animal-Planet-US</title>
+<sportsdevil>http://www.shadow-net.org/channels/Animal-Planet-US.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Animal-Planet-US.html</referer>
+<thumbnail>http://static.comicvine.com/uploads/original/11112/111127507/3568373-9352017691-Anima.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK MTV</title>
+<sportsdevil>http://embedstream.com/live-entertainment-mtv-stream.php</sportsdevil>
+<referer>http://embedstream.com/live-entertainment-mtv-stream.php</referer>
+<thumbnail>http://w2.parentstv.org/blog/wp-content/uploads/2014/03/mtv1.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UK MTV Hits</title>
+<sportsdevil>http://www.shadow-net.org/channels/MTV-Hits.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/MTV-Hits.html</referer>
+<thumbnail>http://w2.parentstv.org/blog/wp-content/uploads/2014/03/mtv1.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MTV Classic UK</title>
+<sportsdevil>http://www.shadow-net.org/channels/MTV-Classic-UK.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/MTV-Classic-UK.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/63/MTV_Classic_logo_2013.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MTV Dance</title>
+<sportsdevil>http://www.shadow-net.org/channels/MTV-Dance.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/MTV-Dance.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/MTV_Dance_2013.png/200px-MTV_Dance_2013.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MTV Rocks</title>
+<sportsdevil>http://www.shadow-net.org/channels/MTV-Rocks.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/MTV-Rocks.html</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/e4/Mtv_Rocks_2013.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Capital</title>
+<sportsdevil>http://www.shadow-net.org/channels/Capital.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Capital.html</referer>
+<thumbnail>http://cdn-radiotime-logos.tunein.com/s46916q.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Clubbing TV</title>
+<sportsdevil>http://www.shadow-net.org/channels/Clubbing-TV.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Clubbing-TV.html</referer>
+<thumbnail>http://channels.roku.com/images/511b798e26b54a1d9615dbe1a0878ac6-hd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Heart TV</title>
+<sportsdevil>http://www.shadow-net.org/channels/Heart-TV.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Heart-TV.html</referer>
+<thumbnail>http://www.jumpdesign.co.uk/wp-content/uploads/2014/09/Heart-TV-N-031-600x338.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>VH1</title>
+<sportsdevil>http://www.shadow-net.org/channels/VH1.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/VH1.html</referer>
+<thumbnail>https://yt3.ggpht.com/-WF6qT32CVUc/AAAAAAAAAAI/AAAAAAAAAAA/KF_jhtLuMl4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 
 
