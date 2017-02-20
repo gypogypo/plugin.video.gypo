@@ -1167,27 +1167,10 @@
 </item>
 
 
-
-<item>
-<title>VH1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/774.ts&amp</link>
-<link>http://www.shadow-net.org/channels/VH1.html</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/220px-VH1_logonew.svg.png</thumbnail>
-<fanart></fanart>
-</item>
-
 <item>
 <title>VH1 Classic</title>
-<meta>
-<content>movie</content>
-<imdb></imdb>
-<title></title>
-<year></year>
-</meta>
-<link>
-<sublink></sublink>
-<sublink>http://www.shadow-net.org/channels/VH1-Europe.html</sublink>
-</link>
+<sportsdevil>http://www.shadow-net.org/channels/VH1-Europe.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/VH1-Europe.html</referer>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/d/d9/VH1_CLASSIC_2014.png/revision/latest?cb=20150317194849</thumbnail>
 <fanart></fanart>
 </item>
