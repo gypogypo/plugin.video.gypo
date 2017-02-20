@@ -854,6 +854,7 @@
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
 
+
 <item>
 <title>5STAR</title>
 <sportsdevil>http://www.shadow-net.org/channels/5Star.html</sportsdevil>
@@ -871,6 +872,7 @@
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
 
+
 <item>
 <title>More-4</title>
 <sportsdevil>http://www.shadow-net.org/channels/More-4.html</sportsdevil>
@@ -878,6 +880,7 @@
 <thumbnail>https://pbs.twimg.com/profile_images/1817366974/160px-More4_logo.svg_400x400.png</thumbnail>
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
+
 
 <item>
 <title>Pick</title>
@@ -887,12 +890,14 @@
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
 
+
 <item>
 <title>Drama</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://82.28.154.2:8001/1:0:1:197A:7E6:2:11A0000:0:0:0:&amp;streamtype=.TSDOWNLOADER;name=Sky Drama</link>
 <thumbnail>http://www.westendbaptist.org.uk/wp-content/uploads/2011/01/drama.jpg</thumbnail>
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
+
 
 <item>
 <title>sky one</title>
@@ -902,12 +907,14 @@
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
 
+
 <item>
 <title>sky one HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.217.53:8000/live/6grandiptv597/77885500/649.ts&amp;streamtype=.TSDOWNLOADER;name=Sky one HD</link>
 <thumbnail>http://www.radioandtelly.co.uk/images/sky1logo.gif</thumbnail>
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
+
 
 <item>
 <title>sky two</title>
@@ -917,12 +924,14 @@
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
 
+
 <item>
 <title>sky two HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.217.53:8000/live/6grandiptv597/77885500/651.ts&amp;streamtype=.TSDOWNLOADER;name=Sky Two HD</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Sky2_logo_2011.svg/220px-Sky2_logo_2011.svg.png</thumbnail>
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
+
 
 <item>
 <title>UK: Eden</title>
@@ -931,12 +940,14 @@
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
 
+
 <item>
 <title>History HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/pg/pg/1481.ts&amp;streamtype=.TSDOWNLOADER;name=History HD</link>
 <thumbnail>http://wsap.academy/wp-content/uploads/2015/03/1123676.jpg</thumbnail>
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
+
 
 <item>
 <title>Discovery History HD</title>
@@ -946,6 +957,7 @@
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
 
+
 <item>
 <title>Discovery Channel HD</title>
 <sportsdevil>http://www.shadow-net.org/channels/Discovery-UK.html</sportsdevil>
@@ -953,6 +965,7 @@
 <thumbnail>https://pbs.twimg.com/profile_images/750388643697664001/DBMQldhb.jpg</thumbnail>
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
+
 
 <item>
 <title>Discovery Science HD</title>
@@ -962,6 +975,7 @@
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
 
+
 <item>
 <title>Sky Discovery Investigation</title>
 <sportsdevil>http://www.shadow-net.org/channels/Discovery-Investigation-UK.html</sportsdevil>
@@ -969,6 +983,7 @@
 <thumbnail>https://pbs.twimg.com/profile_images/750388643697664001/DBMQldhb.jpg</thumbnail>
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
+
 
 <item>
 <title>AMC HD</title>
@@ -978,6 +993,7 @@
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
 
+
 <item>
 <title>AMC East HD</title>
 <sportsdevil>http://www.shadow-net.org/channels/AMC-East.html</sportsdevil>
@@ -985,6 +1001,7 @@
 <thumbnail>http://tvseriesfinale.com/wp-content/uploads/2014/08/amc02.jpg</thumbnail>
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
+
 
 <item>
 <title>ABC</title>
@@ -994,6 +1011,7 @@
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
 
+
 <item>
 <title>SCIFI HD</title>
 <sportsdevil>http://www.shadow-net.org/channels/Syfy.html</sportsdevil>
@@ -1001,6 +1019,7 @@
 <thumbnail>http://hiddenremote.com/files/2014/04/syfy.jpg</thumbnail>
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
+
 
 <item>
 <title>UK GOLD</title>
@@ -1010,6 +1029,7 @@
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
 
+
 <item>
 <title>UK Crime & Investigiation</title>
 <sportsdevil>http://nowwatchtvlive.co/crime-investigation-network-live-streaming-watch-crime-investigation-network-online-free/</sportsdevil>
@@ -1018,6 +1038,7 @@
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
 
+
 <item>
 <title>uk: Alibi</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/pg/pg/768.ts&amp;streamtype=.TSDOWNLOADER;name=uk: Alibi</link>
@@ -1025,12 +1046,14 @@
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
 
+
 <item>
 <title>UK: Watch</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/bassem9696/bassem9696/2204.ts&amp;streamtype=.TSDOWNLOADER;name=Watch</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/9/92/UKTV_channel_W_logo.png</thumbnail>
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
+
 
 <item>
 <title>Sky TLC</title>
@@ -1040,12 +1063,14 @@
 <fanart></fanart>
 </item>
 
+
 <item>
 <title>Comedy Central HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/pg/pg/1817.ts&amp;streamtype=.TSDOWNLOADER;name=Comedy Central HD</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/861px-Comedy_Central_UK.svg.png</thumbnail>
 <fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
 </item>
+
 
 <item>
 <title>Comedy Central</title>
@@ -1055,6 +1080,7 @@
 <fanart></fanart>
 </item>
 
+
 <item>
 <title>UK-Dave</title>
 <sportsdevil>http://www.shadow-net.org/channels/Dave.html</sportsdevil>
@@ -1063,12 +1089,14 @@
 <fanart></fanart>
 </item>
 
+
 <item>
 <title>IRISH TV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.197.40:25461/live/ww/ww/9930.ts&amp;streamtype=.TSDOWNLOADER;name=IRISH TV</link>
 <thumbnail>http://www.irishtv.ie/wp-content/uploads/2014/04/irish-tv-logo-70.png</thumbnail>
 <fanart></fanart>
 </item>
+
 
 <item>
 <title>UK:Sky Atlantic</title>
@@ -1078,12 +1106,14 @@
 <fanart></fanart>
 </item>
 
+
 <item>
 <title>UK:Sky Living HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/pg/pg/1771.ts&amp;streamtype=.TSDOWNLOADER;name=Living</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/4/47/Sky_Living_HD_2013.png/revision/latest?cb=20130828224304</thumbnail>
 <fanart></fanart>
 </item>
+
 
 <item>
 <title>UK:RTE One</title>
@@ -1093,6 +1123,7 @@
 <fanart></fanart>
 </item>
 
+
 <item>
 <title>UK:RTE Two</title>
 <sportsdevil>http://www.shadow-net.org/channels/RTE-Two.html</sportsdevil>
@@ -1100,6 +1131,7 @@
 <thumbnail>http://files.broadsheet.ie/wp-content/uploads/2012/01/rte2trainBIG.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
 
 <item>
 <title>UK:SKY Fox HD</title>
@@ -1109,6 +1141,7 @@
 <fanart></fanart>
 </item>
 
+
 <item>
 <title>UK:A&E</title>
 <sportsdevil>http://www.shadow-net.org/channels/A%26E.html</sportsdevil>
@@ -1116,6 +1149,7 @@
 <thumbnail>http://bundler.watch.aetnd.com/images/aetv/generic-thumb.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
 
 <item>
 <title>UK:Bravo</title>
@@ -1125,6 +1159,7 @@
 <fanart></fanart>
 </item>
 
+
 <item>
 <title>UK:Spike TV</title>
 <sportsdevil>http://www.shadow-net.org/channels/Spike.html</sportsdevil>
@@ -1132,6 +1167,7 @@
 <thumbnail>http://1.images.spike.com/images/missing_image2.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
 
 <item>
 <title>UK:Food Network</title>
@@ -1141,6 +1177,7 @@
 <fanart></fanart>
 </item>
 
+
 <item>
 <title>UK:E! Entertainment</title>
 <sportsdevil>http://www.shadow-net.org/channels/E%21-Entertainment.html</sportsdevil>
@@ -1148,6 +1185,7 @@
 <thumbnail>https://static1.squarespace.com/static/52992ad7e4b00e96518e3a37/52a52961e4b00aedfa1e1ff8/52a5296ae4b00aedfa1e2007/1386555755056/e-entertainment-television-logo.jpg?format=1500w</thumbnail>
 <fanart></fanart>
 </item>
+
 
 <item>
 <title>Yesterday</title>
@@ -1157,6 +1195,7 @@
 <fanart></fanart>
 </item>
 
+
 <item>
 <title>Really</title>
 <sportsdevil>http://www.shadow-net.org/channels/Really.html</sportsdevil>
@@ -1164,6 +1203,7 @@
 <thumbnail>http://theident.gallery/misc/misc/really2-1.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
 
 <item>
 <title>CBS-Drama</title>
@@ -1173,6 +1213,7 @@
 <fanart></fanart>
 </item>
 
+
 <item>
 <title>CBS-Reality</title>
 <sportsdevil>http://www.shadow-net.org/channels/CBS-Reality.html</sportsdevil>
@@ -1180,6 +1221,7 @@
 <thumbnail>http://hub.tv-ark.org.uk/images/otherchannels/cbs_images/cbs_reality_promo1_2011a.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
 
 <item>
 <title>Animal-Planet-US</title>
@@ -1189,6 +1231,7 @@
 <fanart></fanart>
 </item>
 
+
 <item>
 <title>UK MTV</title>
 <sportsdevil>http://embedstream.com/live-entertainment-mtv-stream.php</sportsdevil>
@@ -1196,6 +1239,7 @@
 <thumbnail>http://w2.parentstv.org/blog/wp-content/uploads/2014/03/mtv1.png</thumbnail>
 <fanart></fanart>
 </item>
+
 
 <item>
 <title>UK MTV Hits</title>
@@ -1205,6 +1249,7 @@
 <fanart></fanart>
 </item>
 
+
 <item>
 <title>MTV Classic UK</title>
 <sportsdevil>http://www.shadow-net.org/channels/MTV-Classic-UK.html</sportsdevil>
@@ -1212,6 +1257,7 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/63/MTV_Classic_logo_2013.png</thumbnail>
 <fanart></fanart>
 </item>
+
 
 <item>
 <title>MTV Dance</title>
@@ -1221,6 +1267,7 @@
 <fanart></fanart>
 </item>
 
+
 <item>
 <title>MTV Rocks</title>
 <sportsdevil>http://www.shadow-net.org/channels/MTV-Rocks.html</sportsdevil>
@@ -1228,6 +1275,7 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/e4/Mtv_Rocks_2013.png</thumbnail>
 <fanart></fanart>
 </item>
+
 
 <item>
 <title>Capital</title>
@@ -1237,6 +1285,7 @@
 <fanart></fanart>
 </item>
 
+
 <item>
 <title>Clubbing TV</title>
 <sportsdevil>http://www.shadow-net.org/channels/Clubbing-TV.html</sportsdevil>
@@ -1244,6 +1293,7 @@
 <thumbnail>http://channels.roku.com/images/511b798e26b54a1d9615dbe1a0878ac6-hd.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
 
 <item>
 <title>Heart TV</title>
@@ -1253,6 +1303,7 @@
 <fanart></fanart>
 </item>
 
+
 <item>
 <title>VH1</title>
 <sportsdevil>http://www.shadow-net.org/channels/VH1.html</sportsdevil>
@@ -1260,6 +1311,7 @@
 <thumbnail>https://yt3.ggpht.com/-WF6qT32CVUc/AAAAAAAAAAI/AAAAAAAAAAA/KF_jhtLuMl4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]A&E</title>
@@ -1269,6 +1321,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]AMC US</title>
 <sportsdevil>http://www.liveonlinetv247.info/amc.php</sportsdevil>
@@ -1276,6 +1329,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]ABC 27</title>
@@ -1285,13 +1339,15 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]ABC FAMILY</title>
 <sportsdevil>http://www.shadow-net.org/channels/ABC-Family.html</sportsdevil>
 <referer>http://www.shadow-net.org/channels/ABC-Family.html</referer>
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
-</item
+</item>
+  
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]BLOOMBERG</title>
@@ -1299,6 +1355,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]CBS - 2</title>
@@ -1308,6 +1365,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]CNN USA</title>
 <sportsdevil>http://www.shadow-net.org/channels/CNN-USA.html</sportsdevil>
@@ -1315,6 +1373,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]CW 11 NEW YORK</title>
@@ -1324,6 +1383,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]FIGHT NETWORK</title>
 <sportsdevil>http://www.shadow-net.org/channels/Fight-Network.html</sportsdevil>
@@ -1331,6 +1391,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]FOX 13 NEWS</title>
@@ -1340,6 +1401,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]FOX 2</title>
 <sportsdevil>http://www.shadow-net.org/channels/FOX-2-St.-Louis.html</sportsdevil>
@@ -1347,6 +1409,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]HGTV</title>
@@ -1356,6 +1419,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]KTLA 5</title>
 <sportsdevil>http://www.shadow-net.org/channels/KTLA-5.html</sportsdevil>
@@ -1363,6 +1427,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]MSNBC</title>
@@ -1372,6 +1437,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]NASA TV</title>
 <sportsdevil>http://www.shadow-net.org/channels/NASA-TV.html</sportsdevil>
@@ -1379,6 +1445,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]NBC 4 NEW YORK</title>
@@ -1388,6 +1455,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]NICKELODEON US</title>
 <sportsdevil>http://www.shadow-net.org/channels/Nickelodeon-US.html</sportsdevil>
@@ -1395,6 +1463,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]RT AMERICA</title>
@@ -1404,6 +1473,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]SPIKE</title>
 <sportsdevil>http://www.shadow-net.org/channels/Spike.html</sportsdevil>
@@ -1411,6 +1481,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]SYFY</title>
@@ -1420,6 +1491,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]TBS</title>
 <sportsdevil>http://www.shadow-net.org/channels/TBS.html</sportsdevil>
@@ -1427,6 +1499,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]TNT</title>
@@ -1436,6 +1509,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]TRAVEL CHANNEL US</title>
 <sportsdevil>http://www.shadow-net.org/channels/Travel-Channel-US.html</sportsdevil>
@@ -1443,6 +1517,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]WGN 9 CW CHICAGO</title>
@@ -1452,6 +1527,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]WJHL TENNESSEE</title>
 <sportsdevil>http://www.shadow-net.org/channels/WJHL-Tennessee.html</sportsdevil>
@@ -1459,6 +1535,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]WTHI TV 10</title>
@@ -1468,6 +1545,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]LONDON LIVE</title>
 <sportsdevil>http://www.shadow-net.org/channels/London-Live.html</sportsdevil>
@@ -1475,6 +1553,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]AMC UK</title>
@@ -1484,6 +1563,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]ID</title>
 <sportsdevil>http://www.shadow-net.org/channels/Discovery-Investigation-US.html</sportsdevil>
@@ -1491,6 +1571,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]CI</title>
@@ -1518,6 +1599,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]CHANNEL 5</title>
 <sportsdevil>http://www.shadow-net.org/channels/Channel-5.html</sportsdevil>
@@ -1525,6 +1607,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]5 STAR</title>
@@ -1534,6 +1617,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]HISTORY UK</title>
 <sportsdevil>http://www.liveonlinetv247.info/history.php</sportsdevil>
@@ -1541,6 +1625,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]MORE 4</title>
@@ -1550,6 +1635,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]E4</title>
 <sportsdevil>http://www.shadow-net.org/channels/E4.html</sportsdevil>
@@ -1557,6 +1643,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]FILM 4</title>
@@ -1566,6 +1653,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]E! ENTERTAINMENT</title>
 <sportsdevil>http://www.shadow-net.org/channels/E%21-Entertainment.html</sportsdevil>
@@ -1573,6 +1661,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]FOOD NETWORK</title>
@@ -1582,6 +1671,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]FOOD NETWORK + 1</title>
 <sportsdevil>http://www.shadow-net.org/channels/Food-Network-%252b1.html</sportsdevil>
@@ -1589,6 +1679,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]DAVE</title>
@@ -1598,6 +1689,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]GOLD</title>
 <sportsdevil>http://www.shadow-net.org/channels/Gold.html</sportsdevil>
@@ -1605,6 +1697,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]COMEDY CENTRAL</title>
@@ -1614,6 +1707,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]COMEDY CENTRAL XTRA</title>
 <sportsdevil>http://www.shadow-net.org/channels/Comedy-Central-UK.html</sportsdevil>
@@ -1621,6 +1715,7 @@
 <thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]MOTORS TV</title>
@@ -1630,6 +1725,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]SKY ONE</title>
 <sportsdevil>http://www.shadow-net.org/channels/Sky-1.html</sportsdevil>
@@ -1637,6 +1733,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]SKY TWO</title>
@@ -1646,6 +1743,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]ANIMAL PLANET</title>
 <sportsdevil>http://www.shadow-net.org/channels/Animal-Planet-UK.html</sportsdevil>
@@ -1653,6 +1751,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]RTE ONE</title>
@@ -1662,6 +1761,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]RTE TWO</title>
 <sportsdevil>http://www.shadow-net.org/channels/RTE-Two.html</sportsdevil>
@@ -1669,6 +1769,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]CBS DRAMA</title>
@@ -1678,6 +1779,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]CBS REALITY</title>
 <sportsdevil>http://www.shadow-net.org/channels/CBS-Reality.html</sportsdevil>
@@ -1685,6 +1787,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]CBS ACTION</title>
@@ -1694,6 +1797,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]SKY ATLANTIC</title>
 <sportsdevil>http://www.shadow-net.org/channels/Sky-Atlantic.html</sportsdevil>
@@ -1701,6 +1805,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]NAT GEO</title>
@@ -1710,6 +1815,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]NAT GEO WILD</title>
 <sportsdevil>http://www.shadow-net.org/channels/Nat-Geo-Wild-UK.html</sportsdevil>
@@ -1717,6 +1823,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]YESTERDAY</title>
@@ -1726,6 +1833,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]DISCOVERY</title>
 <sportsdevil>http://www.shadow-net.org/channels/Discovery-UK.html</sportsdevil>
@@ -1733,6 +1841,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]DISCOVERY SCIENCE</title>
@@ -1742,6 +1851,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]DISCOVERY INVESTIGATION</title>
 <sportsdevil>http://www.shadow-net.org/channels/Discovery-Investigation-US.html</sportsdevil>
@@ -1749,6 +1859,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]DISCOVERY HISTORY</title>
@@ -1758,6 +1869,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]DISCOVERY TURBO</title>
 <sportsdevil>http://psl.kingtvlive.com/discovery.html</sportsdevil>
@@ -1765,6 +1877,7 @@
 <thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]DISCOVERY SHED</title>
@@ -1774,6 +1887,7 @@
 <fanart></fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]REALLY</title>
 <sportsdevil>http://www.shadow-net.org/channels/Really.html</sportsdevil>
@@ -1781,6 +1895,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]QUEST</title>
@@ -1790,6 +1905,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORred]==== SKY CINEMA CHANNELS ====[/COLOR]</title>
 <sportsdevil>http://www.shadow-net.org/channels/Quest.htm</sportsdevil>
@@ -1797,6 +1913,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]SKY CINEMA PREMIER</title>
@@ -1806,6 +1923,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]SKY CINEMA THRILLER</title>
 <sportsdevil>http://www.liveonlinetv247.info/skymoviesselect.php</sportsdevil>
@@ -1813,6 +1931,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]SKY  CINEMA COMEDY</title>
@@ -1822,6 +1941,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]SKY CINEMA DISNEY</title>
 <sportsdevil>http://www.liveonlinetv247.info/skymoviesdisney.php</sportsdevil>
@@ -1829,6 +1949,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]SKY CINEMA SELECT</title>
@@ -1838,6 +1959,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]SKY CINEMA FAMILY</title>
 <sportsdevil>http://www.liveonlinetv247.info/skymoviesfamily.php</sportsdevil>
@@ -1845,6 +1967,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]SKY CINEMA ACTION</title>
@@ -1854,6 +1977,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]SKY CINEMA CHRISTMAS</title>
 <sportsdevil>http://www.liveonlinetv247.info/skymoviescrime.php</sportsdevil>
@@ -1861,6 +1985,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]SKY CINEMA MODERN GREATS</title>
@@ -1870,6 +1995,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]SKY CINEMA SCIFI AND HORROR</title>
 <sportsdevil>http://www.shadow-net.org/channels/Quest.html</sportsdevil>
@@ -1877,6 +2003,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]SKY CINEMA 24</title>
@@ -1886,6 +2013,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]TRUE MOVIES 1</title>
 <sportsdevil>http://www.shadow-net.org/channels/Quest.html</sportsdevil>
@@ -1893,6 +2021,7 @@
 <thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]TRUE MOVIES 2</title>
@@ -1902,6 +2031,7 @@
 <fanart></fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]NICKELODEON</title>
 <sportsdevil>http://www.liveonlinetv247.info/nick.php</sportsdevil>
@@ -1909,6 +2039,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]NICK TOONS</title>
@@ -1918,6 +2049,7 @@
 <fanart></fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]BOOMERANG</title>
 <sportsdevil>http://psl.kingtvlive.com/teennick.html</sportsdevil>
@@ -1925,6 +2057,7 @@
 <thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]DISNEY XD</title>
@@ -1934,6 +2067,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]DISNEY CHANNEL</title>
 <sportsdevil>http://www.liveonlinetv247.info/disneychannel.php</sportsdevil>
@@ -1941,6 +2075,7 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]DISNEY JUNIOR</title>
@@ -1950,6 +2085,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]POGO</title>
 <sportsdevil>http://www.liveonlinetv247.info/pogo.php</sportsdevil>
@@ -1958,6 +2094,7 @@
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLORgreen]ONLINE:[/COLOR]CARTOON NETWORK</title>
 <sportsdevil>http://www.liveonlinetv247.info/cartoonnetwork.php</sportsdevil>
@@ -1965,12 +2102,6 @@
 <thumbnail>http://kodeekrazy.net/PROLOGIC/livetv%20thumb.jpg</thumbnail>
 <fanart>http://kodeeresurrection.com/LILYSPORTStxts/livetv2.jpg</fanart>
 </item>
-
-
-
-
-
-
 
 
 #EXTINF:-1,=======   UK:ENTERTAINMENT   =======
