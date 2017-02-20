@@ -1169,7 +1169,7 @@
 <item>
 <title>H2</title>
 <sportsdevil>http://www.shadow-net.org/channels/H2.html</sportsdevil>
-<link>http://www.shadow-net.org/channels/H2.html</link>
+<referer>http://www.shadow-net.org/channels/H2.html</referer>
 <thumbnail>http://www.tvwise.co.uk/wp-content/uploads/2013/04/H2-300x260.jpg</thumbnail>
 <fanart></fanart>
 </item>
