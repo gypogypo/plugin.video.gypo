@@ -1168,5 +1168,45 @@
 
 
 
+#EXTINF:0 type="stream" tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3643.png" , REV'N
+http://pub2.mpl.miisolutions.net/pub2-live-54/_definst_/smil:REVN_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TruTV HD" tvg-logo="http://i60.tinypic.com/dnojyd.jpg",TruTV HD USA
+http://dwun498y9o8lf.cloudfront.net:80/coder5/coder.channels.channel2/hls/5/playlist.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://i61.tinypic.com/2i4s5k.jpg",Discovery USA
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://yt3.ggpht.com/-FEsYkupUb-A/AAAAAAAAAAI/AAAAAAAAAAA/6SiqnVvRZJY/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Animal Planet USA
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="Nicktoons" tvg-logo="https://yt3.ggpht.com/-1LHlouV7lnc/AAAAAAAAAAI/AAAAAAAAAAA/sSGGwl2g6Dk/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Nicktoons USA
+http://208.86.19.13:8080/live/15.stream/index.m3u8
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://yt3.ggpht.com/-Y8ramoDT-7U/AAAAAAAAAAI/AAAAAAAAAAA/qA60DVD2y7c/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",TNT HD USA
+http://208.86.19.13:8080/live/16.stream/index.m3u8
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-v7CdwmIpZRk/AAAAAAAAAAI/AAAAAAAAAAA/RZzhdnf2kv8/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" , LONDON LIVE usa
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:0 "https://yt3.ggpht.com/-PTXTZGDuZBk/AAAAAAAAAAI/AAAAAAAAAAA/tGZNLYz2_qA/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" , BBC AMERICA USA
+http://208.86.19.13:8080/live/34.stream/index.m3u8
+#EXTINF:0 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/77/3c/0a/773c0af3c4f03a9beea97135c7960bb6.jpg",H2 USA FULL HD (HISTORY 2)
+http://q.gs:80/14608897/power-by-juan-canal-43?stream.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/604916087180754945/1aMHMBIj.png",TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3620.png" , C-Span
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3622.png" , C-Span  Book TV
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3621.png" , C-Span American History TV
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/1894.png" , WeatherNation
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish101/kLive/smil:1_oorxcge2_all.smil/32/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="2107" tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3288.png" , The Weather Network
+http://brightcove03-f.akamaihd.net/nationalhd_1_2500@106499?
+#EXTINF:0 type="stream" tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/1089.png" , Bloomberg TV UK
+http://btvuk-i.akamaihd.net/hls/live/203321/btvuk_ios/P1/M18K.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/3265.png" , Bloomberg TV Asia
+http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M18K.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/El_trece_internacional.png/250px-
+
+
+
+
+
 
 
