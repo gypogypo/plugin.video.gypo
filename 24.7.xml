@@ -388,25 +388,6 @@
 <thumbnail>http://iv1.lisimg.com/image/4115182/680full-the-marvelous-misadventures-of-flapjack-poster.jpg</thumbnail>
 </item>
 
-
-<item>
-<title>[B][COLOR oldlace]Always Sunny in Philadelphia[/B][/COLOR]</title>
-<link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
-<regex>
-<name>file</name>
-<expres>source src="(.*?)"</expres>
-<page>http://www.justproxy.co.uk/index.php</page>
-<referer>http://www.justproxy.co.uk</referer>
-<rawpost>q=$doregex[url-quote]&amp;hl%5Binclude_form%5D=on&amp;hl%5Baccept_cookies%5D=on&amp;hl%5Bshow_images%5D=on&amp;hl%5Bshow_referer%5D=on&amp;hl%5Bbase64_encode%5D=on&amp;hl%5Bstrip_meta%5D=on&amp;hl%5Bsession_cookies%5D=on</rawpost>
-</regex>
-<regex>
-<name>url-quote</name>
-<expres>$pyFunction:urllib.quote("https://arconaitv.me/asip/")</expres>
-<page></page>
-</regex>
-<thumbnail>http://theurbanbrain.com/wp-content/uploads/2014/07/75805-2.jpg</thumbnail>
-</item>
-
 <item>
 <title>[B][COLOR oldlace]Better Call Saul[/B][/COLOR]</title>
 <link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
@@ -423,12 +404,6 @@
 <page></page>
 </regex>
 <thumbnail>http://i1.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/Better-Call-Saul-Comic.jpg?resize=600%2C921</thumbnail>
-</item>
-
-<item>
-<title>48 Hours</title>
-<link>http://opentuner.is/48-hours-1988</link>
-<thumbnail>http://thetvdb.com/banners/posters/138551-1.jpg</thumbnail>
 </item>
 
 <item>
