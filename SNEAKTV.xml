@@ -1169,7 +1169,7 @@
 
 <item>
 <title>Vevo 1</title>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/786.ts&amp</sublink>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/786.ts&amp</link>
 <thumbnail>https://www.rokuchannels.tv/wp-content/uploads/2013/10/vevo1.jpg</thumbnail>
 <fanart></fanart>
 </item>
