@@ -1,5 +1,53 @@
 #EXTM3U
 
+#EXTINF:0,------|USA|------
+http://topiptv.net:5890/live/pip/pip/1771.ts
+#EXTINF:1,US|beIN SPORTS
+http://topiptv.net:5890/live/pip/pip/1723.ts
+#EXTINF:1,US|NBA
+http://topiptv.net:5890/live/pip/pip/1848.ts
+#EXTINF:1,US|ABC
+http://topiptv.net:5890/live/pip/pip/1847.ts
+#EXTINF:1,US|NFL
+http://topiptv.net:5890/live/pip/pip/1789.ts
+#EXTINF:1,US|ESPN
+http://topiptv.net:5890/live/pip/pip/1791.ts
+#EXTINF:1,US|TSN 1
+http://topiptv.net:5890/live/pip/pip/1765.ts
+#EXTINF:1,US|TSN 2
+http://topiptv.net:5890/live/pip/pip/1764.ts
+#EXTINF:1,US|TSN 3
+http://topiptv.net:5890/live/pip/pip/1763.ts
+#EXTINF:1,US|TSN 4
+http://topiptv.net:5890/live/pip/pip/1762.ts
+#EXTINF:1,US|TSN 5
+http://topiptv.net:5890/live/pip/pip/1761.ts
+#EXTINF:1,US|FOX SPORT 1 HD
+http://topiptv.net:5890/live/pip/pip/1767.ts
+#EXTINF:1,US|FOX SPORT 2 HD
+http://topiptv.net:5890/live/pip/pip/1766.ts
+#EXTINF:1,US|ASTRO SPORT 1
+http://topiptv.net:5890/live/pip/pip/1769.ts
+#EXTINF:1,US|ASTRO SPORT 2
+http://topiptv.net:5890/live/pip/pip/1770.ts
+#EXTINF:1,US|ASTRO SPORT 3
+http://topiptv.net:5890/live/pip/pip/1768.ts
+#EXTINF:1,US|ASTRO SPORT 4
+http://topiptv.net:5890/live/pip/pip/1790.ts
+#EXTINF:1,US|ABC NEWS
+http://topiptv.net:5890/live/pip/pip/1760.ts
+#EXTINF:1,US|fox usa
+http://topiptv.net:5890/live/pip/pip/1846.ts
+#EXTINF:1,US|WWE RAW HD
+http://topiptv.net:5890/live/pip/pip/1864.ts
+#EXTINF:1,US|Hbo Zone
+http://topiptv.net:5890/live/pip/pip/1861.ts
+#EXTINF:1,US|HBO Signature
+http://topiptv.net:5890/live/pip/pip/1862.ts
+#EXTINF:1,US|HBO HD
+http://topiptv.net:5890/live/pip/pip/1863.ts
+#EXTINF:1,US|Hallmark
+http://topiptv.net:5890/live/pip/pip/1860.ts
 #EXTINF:1,UK|RTÉ One
 http://topiptv.net:5890/live/pip/pip/922.ts
 #EXTINF:1,UK|RTÉ Two
