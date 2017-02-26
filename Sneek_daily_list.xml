@@ -1,4 +1,174 @@
-#EXTM3U
+#EXTINF
+#EXTINF:0,UK|RTÉ One
+http://topiptv.net:5890/live/pip/pip/922.ts
+#EXTINF:0,UK|RTÉ Two
+http://topiptv.net:5890/live/pip/pip/923.ts
+#EXTINF:0,UK|TLC
+http://topiptv.net:5890/live/pip/pip/1256.ts
+#EXTINF:0,UK|BBC News
+http://topiptv.net:5890/live/pip/pip/301.ts
+#EXTINF:0,UK|BBC One HD
+http://topiptv.net:5890/live/pip/pip/297.ts
+#EXTINF:0,UK|BBC Two HD
+http://topiptv.net:5890/live/pip/pip/298.ts
+#EXTINF:0,UK|BBC Three HD
+http://topiptv.net:5890/live/pip/pip/299.ts
+#EXTINF:0,UK|BBC Four
+http://topiptv.net:5890/live/pip/pip/300.ts
+#EXTINF:0,UK|TG4
+http://topiptv.net:5890/live/pip/pip/1263.ts
+#EXTINF:0,UK|ITV HD
+http://topiptv.net:5890/live/pip/pip/1080.ts
+#EXTINF:0,UK|ITV2 HD
+http://topiptv.net:5890/live/pip/pip/1081.ts
+#EXTINF:0,UK|ITV3 HD
+http://topiptv.net:5890/live/pip/pip/1082.ts
+#EXTINF:0,UK|ITV4 HD
+http://topiptv.net:5890/live/pip/pip/1083.ts
+#EXTINF:0,UK|Cbs Reality
+http://topiptv.net:5890/live/pip/pip/1209.ts
+#EXTINF:0,UK|Cbs Drama
+http://topiptv.net:5890/live/pip/pip/1210.ts
+#EXTINF:0,UK|Cbs Action
+http://topiptv.net:5890/live/pip/pip/1211.ts
+#EXTINF:0,UK|London Live
+http://topiptv.net:5890/live/pip/pip/1128.ts
+#EXTINF:0,UK|Channel 4 HD
+http://topiptv.net:5890/live/pip/pip/270.ts
+#EXTINF:0,UK|Channel 5 HD
+http://topiptv.net:5890/live/pip/pip/1079.ts
+#EXTINF:0,UK|Home
+http://topiptv.net:5890/live/pip/pip/1255.ts
+#EXTINF:0,UK|Sky News HD
+http://topiptv.net:5890/live/pip/pip/812.ts
+#EXTINF:0,--|UK SPORT|--
+http://topiptv.net:5890/live/pip/pip/1449.ts
+#EXTINF:0,UK|BT Sport 1 HD
+http://topiptv.net:5890/live/pip/pip/279.ts
+#EXTINF:0,UK|BT Sport 2 HD
+http://topiptv.net:5890/live/pip/pip/280.ts
+#EXTINF:0,UK|BT Sport 3 HD
+http://topiptv.net:5890/live/pip/pip/3130.ts
+#EXTINF:0,UK|BT Sport // ESPN
+http://topiptv.net:5890/live/pip/pip/1257.ts
+#EXTINF:0,UK|BT Sport EuroHD
+http://topiptv.net:5890/live/pip/pip/1215.ts
+#EXTINF:0,UK|Sky Sports 1 HD
+http://topiptv.net:5890/live/pip/pip/273.ts
+#EXTINF:0,UK|Sky Sports 2 HD
+http://topiptv.net:5890/live/pip/pip/274.ts
+#EXTINF:0,UK|Sky Sports 3 HD
+http://topiptv.net:5890/live/pip/pip/275.ts
+#EXTINF:0,UK|Sky Sports 4 HD
+http://topiptv.net:5890/live/pip/pip/276.ts
+#EXTINF:0,UK|Sky Sports 5 HD
+http://topiptv.net:5890/live/pip/pip/277.ts
+#EXTINF:0,UK|Sky Sports F1 HD
+http://topiptv.net:5890/live/pip/pip/278.ts
+#EXTINF:0,Premiere Sport HD
+http://topiptv.net:5890/live/pip/pip/3676.ts
+#EXTINF:0,UK|MU TV
+http://topiptv.net:5890/live/pip/pip/3131.ts
+#EXTINF:0,UK|LFC TV
+http://topiptv.net:5890/live/pip/pip/3220.ts
+#EXTINF:0,UK|Chelsea TV
+http://topiptv.net:5890/live/pip/pip/3219.ts
+#EXTINF:0,UK|BOX NATION
+http://topiptv.net:5890/live/pip/pip/1711.ts
+#EXTINF:0,UK|Setanta Ireland
+http://topiptv.net:5890/live/pip/pip/281.ts
+#EXTINF:0,UK|Racing
+http://topiptv.net:5890/live/pip/pip/1259.ts
+#EXTINF:0,UK|MOTORS TV
+http://topiptv.net:5890/live/pip/pip/1258.ts
+#EXTINF:0,--|UK CINEMA|--
+http://topiptv.net:5890/live/pip/pip/1448.ts
+#EXTINF:0,UK|Sky1 HD
+http://topiptv.net:5890/live/pip/pip/266.ts
+#EXTINF:0,UK|Sky2
+http://topiptv.net:5890/live/pip/pip/267.ts
+#EXTINF:0,UK|Film4 HD
+http://topiptv.net:5890/live/pip/pip/1086.ts
+#EXTINF:0,UK|Sky Arts 1
+http://topiptv.net:5890/live/pip/pip/1254.ts
+#EXTINF:0,UK|Sky Select HD
+http://topiptv.net:5890/live/pip/pip/257.ts
+#EXTINF:0,UK|Sky Movies Premiere
+http://topiptv.net:5890/live/pip/pip/264.ts
+#EXTINF:0,UK|Sky Movies Great&Modern
+http://topiptv.net:5890/live/pip/pip/1207.ts
+#EXTINF:0,UK|Sky Movies Disney HD
+http://topiptv.net:5890/live/pip/pip/1253.ts
+#EXTINF:0,UK|Sky Movies Drama
+http://topiptv.net:5890/live/pip/pip/258.ts
+#EXTINF:0,UK|DinsenyChannel
+http://topiptv.net:5890/live/pip/pip/1090.ts
+#EXTINF:0,UK|Sky Disney HD
+http://topiptv.net:5890/live/pip/pip/282.ts
+#EXTINF:0,UK|Sky Movies Comedy
+http://topiptv.net:5890/live/pip/pip/806.ts
+#EXTINF:0,UK|Sky Atlantic HD
+http://topiptv.net:5890/live/pip/pip/261.ts
+#EXTINF:0,UK|Sky ScFi/HorHD
+http://topiptv.net:5890/live/pip/pip/263.ts
+#EXTINF:0,UK|Sky Movies Showcase
+http://topiptv.net:5890/live/pip/pip/1087.ts
+#EXTINF:0,UK|Sky Movies Family
+http://topiptv.net:5890/live/pip/pip/1088.ts
+#EXTINF:0,UK|Sky Movies Action
+http://topiptv.net:5890/live/pip/pip/1089.ts
+#EXTINF:0,UK|Sky Living
+http://topiptv.net:5890/live/pip/pip/1085.ts
+#EXTINF:0,UK|Sky Movies Thriller
+http://topiptv.net:5890/live/pip/pip/260.ts
+#EXTINF:0,UK|Sky True Movies
+http://topiptv.net:5890/live/pip/pip/271.ts
+#EXTINF:0,UK|Sky True Movies 2
+http://topiptv.net:5890/live/pip/pip/272.ts
+#EXTINF:0,UK|Dave
+http://topiptv.net:5890/live/pip/pip/269.ts
+#EXTINF:0,UK|Fox
+http://topiptv.net:5890/live/pip/pip/1208.ts
+#EXTINF:0,UK|Syfy
+http://topiptv.net:5890/live/pip/pip/265.ts
+#EXTINF:0,UK|Good Food
+http://topiptv.net:5890/live/pip/pip/1213.ts
+#EXTINF:0,UK|Food Network
+http://topiptv.net:5890/live/pip/pip/1212.ts
+#EXTINF:0,--|UK CULTURE|--
+http://topiptv.net:5890/live/pip/pip/1450.ts
+#EXTINF:0,UK|NatGeoGraphic
+http://topiptv.net:5890/live/pip/pip/286.ts
+#EXTINF:0,UK|NationalGeography-Wild
+http://topiptv.net:5890/live/pip/pip/807.ts
+#EXTINF:0,UK|DiscoverySc
+http://topiptv.net:5890/live/pip/pip/291.ts
+#EXTINF:0,UK|DiscoveryHistory
+http://topiptv.net:5890/live/pip/pip/292.ts
+#EXTINF:0,UK|Disc Turbo
+http://topiptv.net:5890/live/pip/pip/1106.ts
+#EXTINF:0,UK|DiscoveryCI
+http://topiptv.net:5890/live/pip/pip/290.ts
+#EXTINF:0,UK|Discovery HD
+http://topiptv.net:5890/live/pip/pip/289.ts
+#EXTINF:0,UK|DiscoveryWorld
+http://topiptv.net:5890/live/pip/pip/1260.ts
+#EXTINF:0,UK|AnimalPlanet
+http://topiptv.net:5890/live/pip/pip/288.ts
+#EXTINF:0,--|UK ENFANTS|--
+http://topiptv.net:5890/live/pip/pip/1451.ts
+#EXTINF:0,UK|Nick Jr
+http://topiptv.net:5890/live/pip/pip/1084.ts
+#EXTINF:0,UK|Sky Baby
+http://topiptv.net:5890/live/pip/pip/2707.ts
+#EXTINF:0,UK|Nicktoons
+http://topiptv.net:5890/live/pip/pip/284.ts
+#EXTINF:0,UK|nickelodeon
+http://topiptv.net:5890/live/pip/pip/285.ts
+#EXTINF:0,UK|Disney Junior
+http://topiptv.net:5890/live/pip/pip/283.ts
+#EXTINF:0,UK|Cartoon Network
+http://topiptv.net:5890/live/pip/pip/813.ts
 #EXTINF:-1,----------- Sky Uk -----------
 http://ipsatpro.com:8000/live/Kamyar/1234/551.ts
 #EXTINF:-1,UK: Sky News HD
