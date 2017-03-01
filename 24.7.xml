@@ -3,7 +3,296 @@
 <channels>
 
 
-<item>
+<channel>
+<name>48 Hours</name>
+<link>http://opentuner.is/48-hours-1988</link>
+<thumbnail>http://thetvdb.com/banners/posters/138551-1.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>American Dad</name>
+<link>
+<sublink>http://opentuner.is/american-dad-2005/</sublink>
+</link>
+<thumbnail>http://stuffpoint.com/american-dad/image/142689-american-dad-american-dad-poster.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>American Horror story</name>
+<link>
+<sublink>http://opentuner.is/american-horror-story-2011/</sublink>
+</link>
+<thumbnail>http://thetvdb.com/banners/posters/250487-3.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>Are You Afraid of the Dark?</name>
+<link>
+<sublink>http://opentuner.is/are-you-afraid-of-the-dark-1991/</sublink>
+</link>
+<thumbnail>http://thetvdb.com/banners/posters/77960-4.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>Born to Kill?</name>
+<link>
+<sublink>http://opentuner.is/born-to-kill-2005/</sublink>
+</link>
+<thumbnail>http://thetvdb.com/banners/posters/85499-1.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>Cops (1989)</name>
+<link>http://opentuner.is/cops-1989/</link>
+<thumbnail>http://thetvdb.com/banners/posters/74709-3.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>Cow and Chicken</name>
+<link>http://opentuner.is/cow-and-chicken-1997</link>
+<thumbnail>http://thetvdb.com/banners/posters/76196-1.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>CSI: Crime Scene Investigation</name>
+<link>http://opentuner.is/csi-crime-scene-investigation-2000/</link>
+<thumbnail>http://thetvdb.com/banners/posters/72546-5.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>CSI: Miami</name>
+<link>http://opentuner.is/csi-miami-2002/</link>
+<thumbnail>http://thetvdb.com/banners/posters/78310-3.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>CSI: NY</name>
+<link>http://opentuner.is/csi-ny-2004/</link>
+<thumbnail>http://thetvdb.com/banners/posters/73696-3.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>Doctor Who</name>
+<link>http://opentuner.is/doctor-who-2005/</link>
+<thumbnail>http://thetvdb.com/banners/posters/76107-6.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>Family Guy</name>
+<link>http://opentuner.is/family-guy-1999/</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNGRkMTllZTUtZTQyYi00NjVlLTlhZjEtODExNjQ4YjQ1Y2RjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>Friends</name>
+<link>http://opentuner.is/friends-1994/</link>
+<thumbnail>http://thetvdb.com/banners/posters/79168-11.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>Futurama</name>
+<link>http://opentuner.is/futurama-1999/</link>
+<thumbnail>http://thetvdb.com/banners/posters/73871-15.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>Gold Rush</name>
+<link>http://opentuner.is/gold-rush-2010/</link>
+<thumbnail>http://thetvdb.com/banners/posters/208111-13.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>Goosebumps</name>
+<link>http://opentuner.is/goosebumps-1995/</link>
+<thumbnail>http://thetvdb.com/banners/posters/78790-3.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>House</name>
+<link>http://opentuner.is/house-md-2004/</link>
+<thumbnail>http://thetvdb.com/banners/posters/73255-24.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>Johnny Bravo</name>
+<link>http://opentuner.is/johnny-bravo-1997/</link>
+<thumbnail>http://thetvdb.com/banners/posters/76201-2.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>King of the Hill</name>
+<link>http://opentuner.is/king-of-the-hill-1997/</link>
+<thumbnail>http://thetvdb.com/banners/posters/73903-3.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>Law & Order: Special Victims Unit</name>
+<link>http://opentuner.is/law-order-special-victims-unit-1999/</link>
+<thumbnail>http://thetvdb.com/banners/posters/75692-8.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>Law & Order: LA</name>
+<link>http://opentuner.is/law-order-los-angeles-2010/</link>
+<thumbnail>http://thetvdb.com/banners/posters/168161-2.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>Miss Marple</name>
+<link>http://opentuner.is/miss-marple-1984/</link>
+<thumbnail>http://thetvdb.com/banners/posters/250440-3.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>My Wife and Kids</name>
+<link>http://opentuner.is/my-wife-and-kids-2001/</link>
+<thumbnail>http://thetvdb.com/banners/posters/70329-2.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>NCIS</name>
+<link>http://opentuner.is/ncis-naval-criminal-investigative-service-2003/</link>
+<thumbnail>http://thetvdb.com/banners/posters/70329-2.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>NCIS: Los Angeles</name>
+<link>http://opentuner.is/ncis-los-angeles-2009/</link>
+<thumbnail>http://thetvdb.com/banners/posters/95441-15.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>Only Fools and Horses</name>
+<link>http://opentuner.is/only-fools-and-horses-1981/</link>
+<thumbnail>http://thetvdb.com/banners/posters/75628-3.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>Pokemon</name>
+<link>
+<sublink>http://opentuner.is/pokemon-1998/</sublink>
+</link>
+<thumbnail>http://thetvdb.com/banners/posters/76703-15.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+
+<channel>
+<name>The King of Queens</name>
+<link>http://opentuner.is/the-king-of-queens-1998/</link>
+<thumbnail>http://thetvdb.com/banners/posters/73641-4.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>The Incredible Hulk</name>
+<link>http://opentuner.is/the-incredible-hulk-1996</link>
+<thumbnail>http://thetvdb.com/banners/posters/77155-1.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>The Sopranos</name>
+<link>http://opentuner.is/the-sopranos-1999/</link>
+<thumbnail>http://thetvdb.com/banners/posters/75299-15.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>Sam & Cat</name>
+<link>http://opentuner.is/sam-cat-2013/</link>
+<thumbnail>http://thetvdb.com/banners/posters/267564-4.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>SpongeBob SquarePants</name>
+<link>http://opentuner.is/spongebob-squarepants-1999/</link>
+<thumbnail>http://thetvdb.com/banners/posters/75886-7.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>The Simpsons</name>
+<link>http://opentuner.is/the-simpsons-1989/</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>The Big Bang Theory</name>
+<link>
+<sublink>http://opentuner.is/the-big-bang-theory-2007/</sublink>
+</link>
+<thumbnail>https://www.cinematerial.com/media/posters/md/ov/ovn9sdn4.jpg?v=1456365312</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>The Walking Dead</name>
+<link>
+<sublink>http://opentuner.is/the-walking-dead-2010/</sublink>
+</link>
+<thumbnail>http://thetvdb.com/banners/posters/153021-37.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>The Vampire Diaries</name>
+<link>
+<sublink>http://opentuner.is/the-vampire-diaries-2009/</sublink>
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4a/The_vampire_diaries_season_6_dvd.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>Vikings</name>
+<link>
+<sublink>http://opentuner.is/vikings-2013/</sublink>
+</link>
+<thumbnail>http://thetvdb.com/banners/posters/260449-8.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>Victorious</name>
+<link>http://opentuner.is/victorious-2010/</link>
+<thumbnail>http://thetvdb.com/banners/posters/152721-6.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+
+<channels>
+ 
+ 
+ <item>
 <title>[B][COLOR oldlace]Curb Your Enthusiasm[/B][/COLOR]</title>
 <link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
 <regex>
@@ -407,293 +696,6 @@
 <thumbnail>http://i1.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/Better-Call-Saul-Comic.jpg?resize=600%2C921</thumbnail>
 </item>
 
-<channel>
-<name>48 Hours</name>
-<link>http://opentuner.is/48-hours-1988</link>
-<thumbnail>http://thetvdb.com/banners/posters/138551-1.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>American Dad</name>
-<link>
-<sublink>http://opentuner.is/american-dad-2005/</sublink>
-</link>
-<thumbnail>http://stuffpoint.com/american-dad/image/142689-american-dad-american-dad-poster.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>American Horror story</name>
-<link>
-<sublink>http://opentuner.is/american-horror-story-2011/</sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/250487-3.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>Are You Afraid of the Dark?</name>
-<link>
-<sublink>http://opentuner.is/are-you-afraid-of-the-dark-1991/</sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/77960-4.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>Born to Kill?</name>
-<link>
-<sublink>http://opentuner.is/born-to-kill-2005/</sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/85499-1.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>Cops (1989)</name>
-<link>http://opentuner.is/cops-1989/</link>
-<thumbnail>http://thetvdb.com/banners/posters/74709-3.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>Cow and Chicken</name>
-<link>http://opentuner.is/cow-and-chicken-1997</link>
-<thumbnail>http://thetvdb.com/banners/posters/76196-1.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>CSI: Crime Scene Investigation</name>
-<link>http://opentuner.is/csi-crime-scene-investigation-2000/</link>
-<thumbnail>http://thetvdb.com/banners/posters/72546-5.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>CSI: Miami</name>
-<link>http://opentuner.is/csi-miami-2002/</link>
-<thumbnail>http://thetvdb.com/banners/posters/78310-3.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>CSI: NY</name>
-<link>http://opentuner.is/csi-ny-2004/</link>
-<thumbnail>http://thetvdb.com/banners/posters/73696-3.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>Doctor Who</name>
-<link>http://opentuner.is/doctor-who-2005/</link>
-<thumbnail>http://thetvdb.com/banners/posters/76107-6.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>Family Guy</name>
-<link>http://opentuner.is/family-guy-1999/</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNGRkMTllZTUtZTQyYi00NjVlLTlhZjEtODExNjQ4YjQ1Y2RjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>Friends</name>
-<link>http://opentuner.is/friends-1994/</link>
-<thumbnail>http://thetvdb.com/banners/posters/79168-11.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>Futurama</name>
-<link>http://opentuner.is/futurama-1999/</link>
-<thumbnail>http://thetvdb.com/banners/posters/73871-15.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>Gold Rush</name>
-<link>http://opentuner.is/gold-rush-2010/</link>
-<thumbnail>http://thetvdb.com/banners/posters/208111-13.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>Goosebumps</name>
-<link>http://opentuner.is/goosebumps-1995/</link>
-<thumbnail>http://thetvdb.com/banners/posters/78790-3.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>House</name>
-<link>http://opentuner.is/house-md-2004/</link>
-<thumbnail>http://thetvdb.com/banners/posters/73255-24.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>Johnny Bravo</name>
-<link>http://opentuner.is/johnny-bravo-1997/</link>
-<thumbnail>http://thetvdb.com/banners/posters/76201-2.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>King of the Hill</name>
-<link>http://opentuner.is/king-of-the-hill-1997/</link>
-<thumbnail>http://thetvdb.com/banners/posters/73903-3.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>Law & Order: Special Victims Unit</name>
-<link>http://opentuner.is/law-order-special-victims-unit-1999/</link>
-<thumbnail>http://thetvdb.com/banners/posters/75692-8.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>Law & Order: LA</name>
-<link>http://opentuner.is/law-order-los-angeles-2010/</link>
-<thumbnail>http://thetvdb.com/banners/posters/168161-2.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>Miss Marple</name>
-<link>http://opentuner.is/miss-marple-1984/</link>
-<thumbnail>http://thetvdb.com/banners/posters/250440-3.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>My Wife and Kids</name>
-<link>http://opentuner.is/my-wife-and-kids-2001/</link>
-<thumbnail>http://thetvdb.com/banners/posters/70329-2.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>NCIS</name>
-<link>http://opentuner.is/ncis-naval-criminal-investigative-service-2003/</link>
-<thumbnail>http://thetvdb.com/banners/posters/70329-2.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>NCIS: Los Angeles</name>
-<link>http://opentuner.is/ncis-los-angeles-2009/</link>
-<thumbnail>http://thetvdb.com/banners/posters/95441-15.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>Only Fools and Horses</name>
-<link>http://opentuner.is/only-fools-and-horses-1981/</link>
-<thumbnail>http://thetvdb.com/banners/posters/75628-3.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>Pokemon</name>
-<link>
-<sublink>http://opentuner.is/pokemon-1998/</sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/76703-15.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-
-<channel>
-<name>The King of Queens</name>
-<link>http://opentuner.is/the-king-of-queens-1998/</link>
-<thumbnail>http://thetvdb.com/banners/posters/73641-4.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>The Incredible Hulk</name>
-<link>http://opentuner.is/the-incredible-hulk-1996</link>
-<thumbnail>http://thetvdb.com/banners/posters/77155-1.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>The Sopranos</name>
-<link>http://opentuner.is/the-sopranos-1999/</link>
-<thumbnail>http://thetvdb.com/banners/posters/75299-15.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>Sam & Cat</name>
-<link>http://opentuner.is/sam-cat-2013/</link>
-<thumbnail>http://thetvdb.com/banners/posters/267564-4.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>SpongeBob SquarePants</name>
-<link>http://opentuner.is/spongebob-squarepants-1999/</link>
-<thumbnail>http://thetvdb.com/banners/posters/75886-7.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>The Simpsons</name>
-<link>http://opentuner.is/the-simpsons-1989/</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>The Big Bang Theory</name>
-<link>
-<sublink>http://opentuner.is/the-big-bang-theory-2007/</sublink>
-</link>
-<thumbnail>https://www.cinematerial.com/media/posters/md/ov/ovn9sdn4.jpg?v=1456365312</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>The Walking Dead</name>
-<link>
-<sublink>http://opentuner.is/the-walking-dead-2010/</sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/153021-37.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>The Vampire Diaries</name>
-<link>
-<sublink>http://opentuner.is/the-vampire-diaries-2009/</sublink>
-</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4a/The_vampire_diaries_season_6_dvd.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>Vikings</name>
-<link>
-<sublink>http://opentuner.is/vikings-2013/</sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/260449-8.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>Victorious</name>
-<link>http://opentuner.is/victorious-2010/</link>
-<thumbnail>http://thetvdb.com/banners/posters/152721-6.jpg</thumbnail>
-<fanart></fanart>
-</channel>
-
-
-<channels>
 
 
 
