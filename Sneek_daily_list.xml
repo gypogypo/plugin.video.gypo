@@ -1,5 +1,415 @@
 #EXTM3U
 
+#EXTINF:0,----------- Sky Uk -----------
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/551.ts
+#EXTINF:0,UK: Sky News HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/550.ts
+#EXTINF:0,UK: Sky Sports News HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/549.ts
+#EXTINF:0,UK: Sky Sports 1 HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/548.ts
+#EXTINF:0,UK: Sky Sport 1 SD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/533.ts
+#EXTINF:0,UK: Sky Sports 2 HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/547.ts
+#EXTINF:0,UK: Sky Sport 2 SD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/532.ts
+#EXTINF:0,UK: Sky Sports 3 HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/546.ts
+#EXTINF:0,UK: Sky Sport 3 SD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/531.ts
+#EXTINF:0,UK: Sky Sports 4 HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/545.ts
+#EXTINF:0,UK: Sky Sport 4 SD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/530.ts
+#EXTINF:0,UK: Sky Sports 5 HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/544.ts
+#EXTINF:0,UK: Sky Sport 5 SD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/529.ts
+#EXTINF:0,UK: Sky Sports F1
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/539.ts
+#EXTINF:0,UK: Sky Premier Sports HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/513.ts
+#EXTINF:0,UK: Sky Setanta Sports
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/484.ts
+#EXTINF:0,UK: Sky Eurosport 1 HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/541.ts
+#EXTINF:0,UK: Sky Eurosport 2 HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/540.ts
+#EXTINF:0,UK: Sky BT Sport 1
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/543.ts
+#EXTINF:0,UK: Sky BT Sport 2
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/542.ts
+#EXTINF:0,UK: Sky BT Sport 1 HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/528.ts
+#EXTINF:0,UK: Sky BT Sport 2 HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/527.ts
+#EXTINF:0,UK: Sky BT Sport Europe
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/453.ts
+#EXTINF:0,UK: Sky BT Sport Extra
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/479.ts
+#EXTINF:0,UK: Sky Liverpool FC TV HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/536.ts
+#EXTINF:0,UK: Sky Chelsea TV HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/537.ts
+#EXTINF:0,UK: Sky MUTV
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/535.ts
+#EXTINF:0,Uk: Sky At the Races
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/461.ts
+#EXTINF:0,UK: Sky Movies Premiere HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/519.ts
+#EXTINF:0,UK: Sky Movies Disney
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/516.ts
+#EXTINF:0,UK: Sky Movies Select HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/517.ts
+#EXTINF:0,UK: Sky Movies Action HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/511.ts
+#EXTINF:0,UK: Sky Movies Greats
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/518.ts
+#EXTINF:0,UK: Sky Movies Family HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/520.ts
+#EXTINF:0,UK: Sky Movies Drama HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/521.ts
+#EXTINF:0,UK: Sky Movies Comedy HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/524.ts
+#EXTINF:0,UK: Sky Movies Crime
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/512.ts
+#EXTINF:0,UK: Sky Movies Sci-Fi+
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/515.ts
+#EXTINF:0,UK: Sky Movies 24
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/523.ts
+#EXTINF:0,UK: Sky True Movies 1
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/472.ts
+#EXTINF:0,UK: Sky True Movies 2
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/534.ts
+#EXTINF:0,UK: Sky More 4 HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/504.ts
+#EXTINF:0,UK: Sky Film 4 HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/505.ts
+#EXTINF:0,UK: Sky ITV 1
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/471.ts
+#EXTINF:0,UK: Sky ITV 2
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/470.ts
+#EXTINF:0,UK: Sky ITV 3
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/469.ts
+#EXTINF:0,UK: Sky ITV 4
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/468.ts
+#EXTINF:0,UK: Sky ITV Encore
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/467.ts
+#EXTINF:0,UK: Sky Cbs Drama
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/482.ts
+#EXTINF:0,UK: Sky Cbs Action
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/481.ts
+#EXTINF:0,UK: Sky CBS Reality
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/510.ts
+#EXTINF:0,UK: Sky BBC One HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/488.ts
+#EXTINF:0,UK: Sky BBC Two HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/487.ts
+#EXTINF:0,UK: Sky BBC Three HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/486.ts
+#EXTINF:0,UK: Sky BBC Four HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/485.ts
+#EXTINF:0,UK: Sky Comedy Central
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/463.ts
+#EXTINF:0,UK: Sky Comedy Central Ex
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/462.ts
+#EXTINF:0,UK: Sky Food Network
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/495.ts
+#EXTINF:0,UK: Sky Good Food HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/501.ts
+#EXTINF:0,UK: Sky Bloomberg HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/457.ts
+#EXTINF:0,UK: Sky Boomerang
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/444.ts
+#EXTINF:0,UK: Sky Nickelodeon
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/503.ts
+#EXTINF:0,UK: Sky Cartoon Network
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/522.ts
+#EXTINF:0,UK: Sky NickToons
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/446.ts
+#EXTINF:0,UK: Sky Disney XD HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/493.ts
+#EXTINF:0,UK: Sky Disney Junior HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/494.ts
+#EXTINF:0,UK: Sky Disney Chaneel HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/492.ts
+#EXTINF:0,UK: Sky Discovery Science
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/526.ts
+#EXTINF:0,UK: Sky Discovery History
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/491.ts
+#EXTINF:0,UK: Sky Discovery Turbo
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/465.ts
+#EXTINF:0,UK: Sky Discovery Shed
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/445.ts
+#EXTINF:0,UK: Sky Discovery
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/464.ts
+#EXTINF:0,UK: Sky National Geographic HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/499.ts
+#EXTINF:0,UK: Sky Nat Geo Wild HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/498.ts
+#EXTINF:0,UK: Sky Animal Planet HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/497.ts
+#EXTINF:0,UK: Sky History HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/496.ts
+#EXTINF:0,UK: Sky History 2
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/452.ts
+#EXTINF:0,UK: Sky Ci
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/514.ts
+#EXTINF:0,UK: Sky 1
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/475.ts
+#EXTINF:0,UK: Sky 2
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/507.ts
+#EXTINF:0,UK: Sky Atlantic
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/483.ts
+#EXTINF:0,UK: Sky E!
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/447.ts
+#EXTINF:0,UK: Sky VH1
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/449.ts
+#EXTINF:0,UK: Sky E4
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/451.ts
+#EXTINF:0,UK: Sky Syfy
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/538.ts
+#EXTINF:0,UK: Sky CNBC
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/466.ts
+#EXTINF:0,UK: Sky Dave HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/506.ts
+#EXTINF:0,UK: Sky RTE One
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/474.ts
+#EXTINF:0,UK: Sky RTE Two
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/478.ts
+#EXTINF:0,UK: SKY Fox
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/460.ts
+#EXTINF:0,UK: Sky Five
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/473.ts
+#EXTINF:0,UK: Sky Arts 1 HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/489.ts
+#EXTINF:0,UK: Sky Alibi
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/509.ts
+#EXTINF:0,UK: Sky Living HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/502.ts
+#EXTINF:0,UK: Sky BoxNation
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/490.ts
+#EXTINF:0,UK: Sky Racing
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/458.ts
+#EXTINF:0,UK: Sky Gold
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/508.ts
+#EXTINF:0,UK: Sky 5 USA
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/480.ts
+#EXTINF:0,UK: Sky 5 star
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/477.ts
+#EXTINF:0,UK: Sky life Time
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/476.ts
+#EXTINF:0,UK: Sky E4+1
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/525.ts
+#EXTINF:0,UK: Sky TCM
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/459.ts
+#EXTINF:0,UK: Sky CNN
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/454.ts
+#EXTINF:0,UK: Sky Dmax
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/456.ts
+#EXTINF:0,UK: Sky TLC
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/455.ts
+#EXTINF:0,UK: Sky STV
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/448.ts
+#EXTINF:0,UK: Sky MTV Rocks
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/450.ts
+#EXTINF:0,UK: Sky MTV Rocks HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/442.ts
+#EXTINF:0,UK: Sky MTV Hits HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/443.ts
+#EXTINF:0,UK: Sky MTV Dance HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/441.ts
+#EXTINF:0,UK: Sky MTV Live HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/439.ts
+#EXTINF:0,UK: Sky MTV Classic
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/500.ts
+#EXTINF:0,UK: Sky MTV Base
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/440.ts
+#EXTINF:0,----------- USA -----------
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1533.ts
+#EXTINF:0,US: Sport TSN 1
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1451.ts
+#EXTINF:0,US: Sport TSN 2
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1452.ts
+#EXTINF:0,US: Sport TSN 3
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1453.ts
+#EXTINF:0,US: Sport TSN 4
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1454.ts
+#EXTINF:0,US: Sport TSN 5
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1455.ts
+#EXTINF:0,US: Skynet Sports HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1476.ts
+#EXTINF:0,US: Skynet Sports 1
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1431.ts
+#EXTINF:0,US: Skynet Sports 2
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1436.ts
+#EXTINF:0,US: Skynet Sports 3
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1472.ts
+#EXTINF:0,US: Skynet Sports 4
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1473.ts
+#EXTINF:0,US: Skynet Sports 5
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1474.ts
+#EXTINF:0,US: Skynet Sports 6
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1475.ts
+#EXTINF:0,US: Sports Tonight
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1490.ts
+#EXTINF:0,US: Sports MLS Soccer
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1497.ts
+#EXTINF:0,US: Sport Network
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1459.ts
+#EXTINF:0,US: Sport LTVE HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1496.ts
+#EXTINF:0,US: USA Network
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1498.ts
+#EXTINF:0,US: Espn Sport
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1483.ts
+#EXTINF:0,US: BeIN Sports US
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1486.ts
+#EXTINF:0,US: Sport Pag TV
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1442.ts
+#EXTINF:0,US: Sports NFL Now HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1434.ts
+#EXTINF:0,US: NHL Network HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1429.ts
+#EXTINF:0,US: Sport Snet Central
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1430.ts
+#EXTINF:0,US: Fox Sports Florida HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1441.ts
+#EXTINF:0,US: ShowTime HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1439.ts
+#EXTINF:0,US: Showtime 2 HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1480.ts
+#EXTINF:0,US: AFN Prime HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1479.ts
+#EXTINF:0,US: AFN Movies HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1477.ts
+#EXTINF:0,US: TMN Action
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1471.ts
+#EXTINF:0,US: TMN Movies 1
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1467.ts
+#EXTINF:0,US: TMN Movies 2
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1468.ts
+#EXTINF:0,US: TMN Movies 3
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1469.ts
+#EXTINF:0,US: TMN Movies 4
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1470.ts
+#EXTINF:0,US: SYFY HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1481.ts
+#EXTINF:0,US: Poker Central
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1485.ts
+#EXTINF:0,US: NBCSN
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1456.ts
+#EXTINF:0,US: Skyway
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1499.ts
+#EXTINF:0,US: London Live
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1494.ts
+#EXTINF:0,US: HSN
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1462.ts
+#EXTINF:0,US: FX HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1478.ts
+#EXTINF:0,US: Fight Network
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1457.ts
+#EXTINF:0,US: Famly HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1495.ts
+#EXTINF:0,US: Daystart
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1491.ts
+#EXTINF:0,US: City
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1493.ts
+#EXTINF:0,US: AMC
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1492.ts
+#EXTINF:0,US: HBO 1
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1433.ts
+#EXTINF:0,US: FOX 1
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1435.ts
+#EXTINF:0,US: Starz Edge
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1438.ts
+#EXTINF:0,US: Starz East
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1450.ts
+#EXTINF:0,US: Fox Clasic
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1443.ts
+#EXTINF:0,US: Fox Movies
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1447.ts
+#EXTINF:0,US: Fox Action
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1448.ts
+#EXTINF:0,US: Cinemax
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1461.ts
+#EXTINF:0,US: California TV
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1460.ts
+#EXTINF:0,US: C-Span 3 HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1489.ts
+#EXTINF:0,US: C-Span 2 HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1488.ts
+#EXTINF:0,US: C-Span 1 HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1487.ts
+#EXTINF:0,US: Bravo
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1482.ts
+#EXTINF:0,US: Bloomberg
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1464.ts
+#EXTINF:0,US: Amazing Discoveries
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1465.ts
+#EXTINF:0,US: ABC NEWS HD
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1466.ts
+#EXTINF:0,US: A&E Network
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1458.ts
+#EXTINF:0,US: TNT
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1484.ts
+#EXTINF:0,US: Thai CH8
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1463.ts
+#EXTINF:0,US: World Fashion TV
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1432.ts
+#EXTINF:0,US: TBS Channle
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1449.ts
+#EXTINF:0,US: AMG Entertainment
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1437.ts
+#EXTINF:0,US: Amazing Music
+http://ipsatpro.com:8000/live/tiribiu/tiribiu/1446.ts
+#EXTINF:0,US: Voice Clips Usa 1
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2034.mp4
+#EXTINF:0,US: Voice Clips Usa 2
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2035.mp4
+#EXTINF:0,US: Voice Clips Usa 3
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2036.mp4
+#EXTINF:0,US: Voice Clips Usa 4
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2037.mp4
+#EXTINF:0,US: Voice Clips Usa 5
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2038.mp4
+#EXTINF:0,US: Voice Clips Usa 6
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2039.mp4
+#EXTINF:0,US: Voice Clips Usa 7
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2040.mp4
+#EXTINF:0,US: Voice Clips Usa 8
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2041.mp4
+#EXTINF:0,US: Voice Clips Usa 9
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2042.mp4
+#EXTINF:0,US: Voice Clips Usa 10
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2043.mp4
+#EXTINF:0,US: Voice Clips Usa 11
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2044.mp4
+#EXTINF:0,US: Voice Clips Usa 12
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2045.mp4
+#EXTINF:0,US: Voice Clips Usa 13
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2046.mp4
+#EXTINF:0,US: Voice Clips Usa 14
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2047.mp4
+#EXTINF:0,US: Voice Clips Usa 15
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2048.mp4
+#EXTINF:0,US: Voice Clips Usa 16
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2049.mp4
+#EXTINF:0,US: Voice Clips Usa 17
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2050.mp4
+#EXTINF:0,US: Voice Clips Usa 18
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2051.mp4
+#EXTINF:0,US: Voice Clips Usa 19
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2052.mp4
+#EXTINF:0,US: Voice Clips Usa 20
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2053.mp4
+#EXTINF:0,US: Voice Clips Usa 21
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2054.mp4
+#EXTINF:0,US: Voice Clips Usa 22
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2055.mp4
+#EXTINF:0,US: Voice Clips Usa 23
+http://ipsatpro.com:8000/movie/tiribiu/tiribiu/2056.mp4
 #EXTINF:0,------|USA|------
 http://topiptv.net:5890/live/pip/pip/1771.ts
 #EXTINF:1,US|beIN SPORTS
