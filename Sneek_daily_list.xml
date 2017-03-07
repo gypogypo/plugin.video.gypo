@@ -9,7 +9,7 @@ http://plexflixiptv.co.uk:80/hls/392.m3u8?channelId=392&uid=3974&deviceMac=00:1A
 http://plexflixiptv.co.uk:80/hls/393.m3u8?channelId=393&uid=3974&deviceMac=00:1A:79:40:D3:E8
 #EXTINF:-1 tvg-id="Sports Fixtures" tvg-link="" tvg-name="Sports Fixtures" tvg-logo="http://implyingrigged.info/w/images/thumb/2/2d/Epl_logo.png/250px-Epl_logo.png" group-title="FIXTURES",Sports Fixtures - pikaflik
 http://plexflixiptv.co.uk:80/hls/384.m3u8?channelId=384&uid=3974&deviceMac=00:1A:79:40:D3:E8
-#EXTINF:0 tvg-id="BBCOneHD.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="BBC ONE HD" tvg-logo="https://www.brandeps.com/logo-download/B/BBC-One-HD-01.png" group-title="Entertainment HD",BBC ONE HD - BBC ONE HD
+#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="BBC ONE HD" tvg-logo="https://www.brandeps.com/logo-download/B/BBC-One-HD-01.png" group-title="Entertainment HD",BBC ONE HD - BBC ONE HD
 http://plexflixiptv.co.uk:80/hls/1.m3u8?channelId=1&uid=3974&deviceMac=00:1A:79:40:D3:E8
 #EXTINF:0 tvg-id="BBC2.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="BBC TWO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/BBC_Two_HD.svg/1280px-BBC_Two_HD.svg.png" group-title="Entertainment HD",BBC TWO HD - BBC TWO HD
 http://plexflixiptv.co.uk:80/hls/2.m3u8?channelId=2&uid=3974&deviceMac=00:1A:79:40:D3:E8
