@@ -1,5 +1,82 @@
 #EXTM3U
 
+#EXTINF:0,UK:Sky Movies Action
+http://hometv.saripanel.com:8000/live/eko/eko/1370.ts
+#EXTINF:0,UK:Sky Movies Comedy
+http://hometv.saripanel.com:8000/live/eko/eko/1378.ts
+#EXTINF:0,UK:Sky Movies Drama
+http://hometv.saripanel.com:8000/live/eko/eko/1377.ts
+#EXTINF:0,UK:Sky Movies Family
+http://hometv.saripanel.com:8000/live/eko/eko/1372.ts
+#EXTINF:0,UK:Sky Movies Premiere
+http://hometv.saripanel.com:8000/live/eko/eko/1373.ts
+#EXTINF:0,UK:Sky Movies Scifi Horror
+http://hometv.saripanel.com:8000/live/eko/eko/1376.ts
+#EXTINF:0,UK:Sky Movies Select
+http://hometv.saripanel.com:8000/live/eko/eko/1375.ts
+#EXTINF:0,UK:Sky Movies Showcase
+http://hometv.saripanel.com:8000/live/eko/eko/1379.ts
+#EXTINF:0,UK:Sky Movies Thriller
+http://hometv.saripanel.com:8000/live/eko/eko/1371.ts
+#EXTINF:0,UK: Sky Movies Modern Greats
+http://hometv.saripanel.com:8000/live/eko/eko/1374.ts
+#EXTINF:0,UK:National Geographic
+http://hometv.saripanel.com:8000/live/eko/eko/1391.ts
+#EXTINF:0,UK:National Geographic Wild
+http://hometv.saripanel.com:8000/live/eko/eko/1389.ts
+#EXTINF:0,UK:Discovery Channel
+http://hometv.saripanel.com:8000/live/eko/eko/1386.ts
+#EXTINF:0,UK:Discovery History
+http://hometv.saripanel.com:8000/live/eko/eko/1387.ts
+#EXTINF:0,UK:Discovery Investigation
+http://hometv.saripanel.com:8000/live/eko/eko/1388.ts
+#EXTINF:0,UK:Disney Channel
+http://hometv.saripanel.com:8000/live/eko/eko/1384.ts
+#EXTINF:0,UK:Disney Junior
+http://hometv.saripanel.com:8000/live/eko/eko/1383.ts
+#EXTINF:0,UK:Disney Movies
+http://hometv.saripanel.com:8000/live/eko/eko/1381.ts
+#EXTINF:0,UK: Nick Junior
+http://hometv.saripanel.com:8000/live/eko/eko/1390.ts
+#EXTINF:0,UK:Disney XD
+http://hometv.saripanel.com:8000/live/eko/eko/1382.ts
+#EXTINF:0,UK: MTV Music
+http://hometv.saripanel.com:8000/live/eko/eko/1392.ts
+#EXTINF:0,UK:Sky Arts 1
+http://hometv.saripanel.com:8000/live/eko/eko/1369.ts
+#EXTINF:0,UK:Universal Plus 1
+http://hometv.saripanel.com:8000/live/eko/eko/1385.ts
+#EXTINF:0,UK:Sky Atlantic
+http://hometv.saripanel.com:8000/live/eko/eko/1380.ts
+#EXTINF:0,UK:Sky One
+http://hometv.saripanel.com:8000/live/eko/eko/1367.ts
+#EXTINF:0,UK:Sky Two
+http://hometv.saripanel.com:8000/live/eko/eko/1368.ts
+#EXTINF:0,UK: BBC 1
+http://hometv.saripanel.com:8000/live/eko/eko/1344.ts
+#EXTINF:0,UK: BBC 2
+http://hometv.saripanel.com:8000/live/eko/eko/1345.ts
+#EXTINF:0,UK: BBC 3
+http://hometv.saripanel.com:8000/live/eko/eko/1346.ts
+#EXTINF:0,UK: BBC 4
+http://hometv.saripanel.com:8000/live/eko/eko/1347.ts
+#EXTINF:0,UK: ITV 1
+http://hometv.saripanel.com:8000/live/eko/eko/1351.ts
+#EXTINF:0,UK: ITV 2
+http://hometv.saripanel.com:8000/live/eko/eko/1348.ts
+#EXTINF:0,UK: ITV 3
+http://hometv.saripanel.com:8000/live/eko/eko/1349.ts
+#EXTINF:0,UK: ITV 4
+#EXTINF:1,UK: SKY SPORT 1 HD
+http://hometv.saripanel.com:8000/live/eko/eko/94.ts
+#EXTINF:1,UK: SKY SPORT 2 HD
+http://hometv.saripanel.com:8000/live/eko/eko/95.ts
+#EXTINF:1,UK: SKY SPORT 3 HD
+http://hometv.saripanel.com:8000/live/eko/eko/96.ts
+#EXTINF:1,UK: SKY SPORT 4 HD
+http://hometv.saripanel.com:8000/live/eko/eko/97.ts
+#EXTINF:1,UK: SKY SPORT 5 HD
+http://hometv.saripanel.com:8000/live/eko/eko/98.ts
 #EXTINF:0,----------- Sky Uk -----------
 http://ipsatpro.com:8000/live/tiribiu/tiribiu/551.ts
 #EXTINF:0,UK: Sky News HD
