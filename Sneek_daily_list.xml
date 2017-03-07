@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTM3U
+#EXTINF:0,http://iptv9.plexflixiptv.co.uk:80/playlist?type=m3u&deviceMac=00:1A:79:40:D3:BD
 #EXTINF:0 tvg-id="BBC1London.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="BBC ONE" tvg-logo="http://www.adambalen.com/wp-content/uploads/2015/07/bbc-one.png" group-title="Entertainment",BBC ONE - BBC ONE
 http://plexflixiptv.co.uk:80/hls/9.m3u8?channelId=9&uid=3974&deviceMac=00:1A:79:40:D3:E8
 #EXTINF:0 tvg-id="BBC2.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="BBC TWO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/2000px-BBC_Two.svg.png" group-title="Entertainment",BBC TWO - BBC TWO
