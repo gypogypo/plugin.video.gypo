@@ -1,6 +1,58 @@
 #EXTM3U
 
 #EXTM3U
+#EXTINF:-1 tvg-id="243" tvg-name="***** UK *****" tvg-logo="/noicon.png" group-title="International",***** UK ***** - ***** UK *****
+http://s04.kafic.info:80/live?channelId=243&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="244" tvg-name="BBC One UK" tvg-logo="http://i.imgur.com/zbXonpz.png" group-title="International",BBC One UK - BBC One UK
+http://s01.kafic.info:80/live?channelId=244&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="245" tvg-name="BBC Two UK" tvg-logo="http://i.imgur.com/zbXonpz.png" group-title="International",BBC Two UK - BBC Two UK
+http://s02.kafic.info:80/live?channelId=245&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="246" tvg-name="BBC Three UK" tvg-logo="http://i.imgur.com/zbXonpz.png" group-title="International",BBC Three UK - BBC Three UK
+http://s01.kafic.info:80/live?channelId=246&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="366" tvg-name="RTE One UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/250px-RT%C3%89_One_2014.svg.png" group-title="International",RTE One UK - RTE One UK
+http://s04.kafic.info:80/live?channelId=366&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="367" tvg-name="RTE Two UK" tvg-logo="http://vozplus.com/wp-content/uploads/rte_two.png" group-title="International",RTE Two UK - RTE Two UK
+http://s04.kafic.info:80/live?channelId=367&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="248" tvg-name="CNN" tvg-logo="http://i.imgur.com/QfHknmc.jpg" group-title="International",CNN - CNN
+http://s01.kafic.info:80/live?channelId=248&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="249" tvg-name="Sky News UK" tvg-logo="http://i.imgur.com/ojfhk0W.jpg" group-title="International",Sky News UK - Sky News UK
+http://s01.kafic.info:80/live?channelId=249&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="250" tvg-name="National Geographic Channel UK" tvg-logo="http://i.imgur.com/VHKdUbk.jpg" group-title="International",National Geographic Channel UK - National Geographic Channel UK
+http://s01.kafic.info:80/live?channelId=250&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="251" tvg-name="Nat Geo Wild UK" tvg-logo="http://i.imgur.com/LxmB9aH.jpg" group-title="International",Nat Geo Wild UK - Nat Geo Wild UK
+http://cms.kafic.info:80/live?channelId=251&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="252" tvg-name="Discovery Channel UK" tvg-logo="http://i.imgur.com/cuRbk5Y.png" group-title="International",Discovery Channel UK - Discovery Channel UK
+http://cms.kafic.info:80/live?channelId=252&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="253" tvg-name="Discovery Science UK" tvg-logo="http://i.imgur.com/jieYNai.jpg" group-title="International",Discovery Science UK - Discovery Science UK
+http://cms.kafic.info:80/live?channelId=253&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="254" tvg-name="Discovery Turbo UK" tvg-logo="http://i.imgur.com/MuTw5kg.jpg" group-title="International",Discovery Turbo UK - Discovery Turbo UK
+http://s01.kafic.info:80/live?channelId=254&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="255" tvg-name="Investigation Discovery UK" tvg-logo="http://www.lamac.org/res/channels/logos/_0037_investigation_discovery.png" group-title="International",Investigation Discovery UK - Investigation Discovery UK
+http://cms.kafic.info:80/live?channelId=255&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="256" tvg-name="Discovery History UK" tvg-logo="http://i.imgur.com/Uiy14tD.jpg" group-title="International",Discovery History UK - Discovery History UK
+http://cms.kafic.info:80/live?channelId=256&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="257" tvg-name="Sky Movies Action & Adventure UK" tvg-logo="http://i.imgur.com/eQNgB3K.jpg" group-title="International",Sky Movies Action & Adventure UK - Sky Movies Action & Adventure UK
+http://cms.kafic.info:80/live?channelId=257&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="258" tvg-name="Sky Movies Crime & Thriller UK" tvg-logo="http://i.imgur.com/xZ2CoDA.jpg" group-title="International",Sky Movies Crime & Thriller UK - Sky Movies Crime & Thriller UK
+http://s01.kafic.info:80/live?channelId=258&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="259" tvg-name="Sky Movies Comedy UK" tvg-logo="http://i.imgur.com/CHS5tqg.jpg" group-title="International",Sky Movies Comedy UK - Sky Movies Comedy UK
+http://s02.kafic.info:80/live?channelId=259&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="261" tvg-name="Sky Movies Premiere UK" tvg-logo="http://i.imgur.com/2eObPwQ.jpg" group-title="International",Sky Movies Premiere UK - Sky Movies Premiere UK
+http://s02.kafic.info:80/live?channelId=261&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="262" tvg-name="Sky Movies Family UK" tvg-logo="http://i.imgur.com/oDhkdpn.jpg" group-title="International",Sky Movies Family UK - Sky Movies Family UK
+http://s02.kafic.info:80/live?channelId=262&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="263" tvg-name="Sky Movies Drama & Romance UK" tvg-logo="http://i.imgur.com/bgyrFrP.jpg" group-title="International",Sky Movies Drama & Romance UK - Sky Movies Drama & Romance UK
+http://s02.kafic.info:80/live?channelId=263&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="264" tvg-name="Sky Movies Greats UK" tvg-logo="http://i.imgur.com/61VYCv6.png" group-title="International",Sky Movies Greats UK - Sky Movies Greats UK
+http://cms.kafic.info:80/live?channelId=264&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="265" tvg-name="Sky Movies Select UK" tvg-logo="http://www.igreklik.com/slike/images/60124023740209627774.jpg" group-title="International",Sky Movies Select UK - Sky Movies Select UK
+http://s01.kafic.info:80/live?channelId=265&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="266" tvg-name="Sky Movies Disney UK" tvg-logo="http://www.igreklik.com/slike/images/29780421607995340292.jpg" group-title="International",Sky Movies Disney UK - Sky Movies Disney UK
+http://s01.kafic.info:80/live?channelId=266&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="267" tvg-name="Sky Movies Showcase UK" tvg-logo="http://www.igreklik.com/slike/images/02269513668114812497.jpg" group-title="International",Sky Movies Showcase UK - Sky Movies Showcase UK
+http://s02.kafic.info:80/live?channelId=267&uid=8211&deviceMac=00:1A:79:3B:42:C5
+#EXTINF:-1 tvg-id="440" tvg-name="Sky Atlantic UK" tvg-logo="http://vignette3.wikia.nocookie.net/prisonbreak/images/8/84/Sky-atlantic-logo.jpg/revision/latest?cb=20110529133935" group-title="International",Sky Atlantic UK - Sky Atlantic UK
+http://s04.kafic.info:80/live?channelId=440&uid=8211&deviceMac=00:1A:79:3B:42:C5
 #EXTINF:-1 tvg-id="Special Event 1" tvg-link="" tvg-name="Special Event 1" tvg-logo="http://showtimemagazine.net/wp-content/uploads/2015/12/specialeventahead.png" group-title="special event",Special Event 1
 http://plexflixiptv.co.uk:80/hls/391.m3u8?channelId=391&uid=4020&deviceMac=00:1A:79:40:D7:04
 #EXTINF:-1 tvg-id="Special Event 2" tvg-link="" tvg-name="Special Event 2" tvg-logo="http://showtimemagazine.net/wp-content/uploads/2015/12/specialeventahead.png" group-title="special event",Special Event 2
