@@ -1,0 +1,1379 @@
+#EXTM3U
+#EXTINF:0,group,Channels
+BBCRedButton1.uk,BBC Red Button,http://superstreams.tv:8080/live/nino/nino/8676.m3u8
+#EXTINF:0,BBC1.uk,BBC One HD*,http://superstreams.tv:8080/live/nino/nino/11526.m3u8
+BBC1.uk,BBC 1 SD,http://superstreams.tv:8080/live/nino/nino/11983.m3u8
+#EXTINF:0,BBC2.uk,BBC Two HD*,http://superstreams.tv:8080/live/nino/nino/11570.m3u8
+BBC2.uk,BBC 2 SD,http://superstreams.tv:8080/live/nino/nino/673.m3u8
+#EXTINF:0,ext,BBC 3 HD,http://superstreams.tv:8080/live/nino/nino/15132.m3u8
+BBC4.uk,BBC 4 HD,http://superstreams.tv:8080/live/nino/nino/660.m3u8
+#EXTINF:0,ITV1London.uk,ITV HD*,http://superstreams.tv:8080/live/nino/nino/11377.m3u8
+ITV1London.uk,ITV SD,http://superstreams.tv:8080/live/nino/nino/672.m3u8
+#EXTINF:0,ITV2.uk,ITV2 HD,http://superstreams.tv:8080/live/nino/nino/11569.m3u8
+ITV2.uk,ITV 2 SD,http://superstreams.tv:8080/live/nino/nino/659.m3u8
+#EXTINF:0,ITV3.uk,ITV3 HD,http://superstreams.tv:8080/live/nino/nino/658.m3u8
+ITV4.uk,ITV4 HD,http://superstreams.tv:8080/live/nino/nino/657.m3u8
+#EXTINF:0,ITVBe.uk,ITVBe HD,http://superstreams.tv:8080/live/nino/nino/656.m3u8
+ITVEncore.uk,ITV Encore HD,http://superstreams.tv:8080/live/nino/nino/12399.m3u8
+#EXTINF:0,ITVEncore.uk,ITV Encore,http://superstreams.tv:8080/live/nino/nino/5243.m3u8
+Channel4.uk,Channel 4 HD*,http://superstreams.tv:8080/live/nino/nino/12394.m3u8
+#EXTINF:0,Channel4.uk,Channel 4 SD,http://superstreams.tv:8080/live/nino/nino/4668.m3u8
+ext,Channel 4+1,http://superstreams.tv:8080/live/nino/nino/20645.m3u8
+#EXTINF:0,E4.uk,E4 HD,http://superstreams.tv:8080/live/nino/nino/653.m3u8
+More4.uk,More4 HD,http://superstreams.tv:8080/live/nino/nino/651.m3u8
+#EXTINF:0,4Seven.uk,4seven HD,http://superstreams.tv:8080/live/nino/nino/5564.m3u8
+Channel5.uk,Channel 5 HD*,http://superstreams.tv:8080/live/nino/nino/12395.m3u8
+#EXTINF:0,Channel5.uk,Channel 5 SD,http://superstreams.tv:8080/live/nino/nino/671.m3u8
+FiveUSA.uk,5 USA,http://superstreams.tv:8080/live/nino/nino/655.m3u8
+#EXTINF:0,FiveUSAPlus1.uk,5 USA +1,http://superstreams.tv:8080/live/nino/nino/44091.m3u8
+5star.uk,5 STAR,http://superstreams.tv:8080/live/nino/nino/5461.m3u8
+#EXTINF:0,ext,5 Star +1,http://superstreams.tv:8080/live/nino/nino/44092.m3u8
+My5.uk,My5,http://superstreams.tv:8080/live/nino/nino/20652.m3u8
+#EXTINF:0,Sky1.uk,Sky1 HD*,http://superstreams.tv:8080/live/nino/nino/667.m3u8
+Sky2.uk,Sky 2,http://superstreams.tv:8080/live/nino/nino/666.m3u8
+#EXTINF:0,SkyLiving.uk,Sky Living HD*,http://superstreams.tv:8080/live/nino/nino/5561.m3u8
+SkyLivingPlus1.uk,Sky Living +1,http://superstreams.tv:8080/live/nino/nino/13329.m3u8
+#EXTINF:0,SkyAtlantic.uk,Sky Atlantic HD,http://superstreams.tv:8080/live/nino/nino/665.m3u8
+3e.ie,3e Ireland,http://superstreams.tv:8080/live/nino/nino/27237.m3u8
+#EXTINF:0,GOLD.uk,GOLD,http://superstreams.tv:8080/live/nino/nino/662.m3u8
+PickTV.uk,Pick,http://superstreams.tv:8080/live/nino/nino/4960.m3u8
+#EXTINF:0,FX.uk,FOX HD,http://superstreams.tv:8080/live/nino/nino/4959.m3u8
+DiscoveryDMAX.uk,DMAX,http://superstreams.tv:8080/live/nino/nino/366.m3u8
+#EXTINF:0,Dave.uk,Dave HD,http://superstreams.tv:8080/live/nino/nino/11000.m3u8
+Dave.uk,Dave,http://superstreams.tv:8080/live/nino/nino/663.m3u8
+#EXTINF:0,ext,CBS Drama HD,http://superstreams.tv:8080/live/nino/nino/627.m3u8
+ext,CBS Action HD,http://superstreams.tv:8080/live/nino/nino/628.m3u8
+#EXTINF:0,ext,CBS Reality HD,http://superstreams.tv:8080/live/nino/nino/626.m3u8
+UTV.uk,UTV HD,http://superstreams.tv:8080/live/nino/nino/12397.m3u8
+#EXTINF:0,ComedyCentral.uk,Comedy Central HD,http://superstreams.tv:8080/live/nino/nino/11001.m3u8
+ComedyCentral.uk,Comedy Central,http://superstreams.tv:8080/live/nino/nino/5453.m3u8
+#EXTINF:0,ComedyCentralExtra.uk,Comedy Central Extra,http://superstreams.tv:8080/live/nino/nino/5452.m3u8
+Challenge.uk,Challenge,http://superstreams.tv:8080/live/nino/nino/5460.m3u8
+#EXTINF:0,ext,Home & Health+,http://superstreams.tv:8080/live/nino/nino/13338.m3u8
+SkyArts1.uk,Sky Arts HD,http://superstreams.tv:8080/live/nino/nino/631.m3u8
+#EXTINF:0,Alibi.uk,Alibi.,http://superstreams.tv:8080/live/nino/nino/632.m3u8
+Drama.uk,Drama,http://superstreams.tv:8080/live/nino/nino/629.m3u8
+#EXTINF:0,Yesterday.uk,YESTERDAY,http://superstreams.tv:8080/live/nino/nino/5563.m3u8
+Quest.uk,QUEST,http://superstreams.tv:8080/live/nino/nino/641.m3u8
+#EXTINF:0,FoodNetwork.uk,Food Network,http://superstreams.tv:8080/live/nino/nino/650.m3u8
+VICELAND.uk,Viceland,http://superstreams.tv:8080/live/nino/nino/29332.m3u8
+#EXTINF:0,Universal.uk,Universal Channel,http://superstreams.tv:8080/live/nino/nino/624.m3u8
+TLC.pl,TLC HD,http://superstreams.tv:8080/live/nino/nino/644.m3u8
+#EXTINF:0,TLC.uk,TLC.,http://superstreams.tv:8080/live/nino/nino/9948.m3u8
+E.uk,E!,http://superstreams.tv:8080/live/nino/nino/7996.m3u8
+#EXTINF:0,Eden.uk,Eden,http://superstreams.tv:8080/live/nino/nino/13098.m3u8
+Home.uk,Home,http://superstreams.tv:8080/live/nino/nino/6907.m3u8
+#EXTINF:0,Lifetime.uk,Lifetime HD,http://superstreams.tv:8080/live/nino/nino/6610.m3u8
+RealLives.uk,Real Lives,http://superstreams.tv:8080/live/nino/nino/5560.m3u8
+#EXTINF:0,RTE1.ie,RTÉ One HD,http://superstreams.tv:8080/live/nino/nino/19261.m3u8
+RTE1.ie,RTÉ One,http://superstreams.tv:8080/live/nino/nino/639.m3u8
+#EXTINF:0,RTE2.ie,RTÉ Two HD,http://superstreams.tv:8080/live/nino/nino/19262.m3u8
+RTE2.ie,RTÉ Two,http://superstreams.tv:8080/live/nino/nino/638.m3u8
+#EXTINF:0,RTEjr.uk,RTÉ Jr,http://superstreams.tv:8080/live/nino/nino/27240.m3u8
+TV3.ie,TV3 HD,http://superstreams.tv:8080/live/nino/nino/635.m3u8
+#EXTINF:0,TG4.ie,TG4 HD,http://superstreams.tv:8080/live/nino/nino/8675.m3u8
+RTENewsNow.ie,RTE News Now,http://superstreams.tv:8080/live/nino/nino/12321.m3u8
+#EXTINF:0,FineLiving.eu,Fine Living Network,http://superstreams.tv:8080/live/nino/nino/12134.m3u8
+Spike.uk,Spike,http://superstreams.tv:8080/live/nino/nino/14237.m3u8
+#EXTINF:0,RealLives.uk,Real Lives.,http://superstreams.tv:8080/live/nino/nino/9492.m3u8
+W.uk,W,http://superstreams.tv:8080/live/nino/nino/7994.m3u8
+#EXTINF:0,HorrorChannel.uk,Horror Channel,http://superstreams.tv:8080/live/nino/nino/20659.m3u8
+DiscoveryHD.uk,Discovery HD*,http://superstreams.tv:8080/live/nino/nino/8247.m3u8
+#EXTINF:0,Discovery.uk,Discovery SD*,http://superstreams.tv:8080/live/nino/nino/19401.m3u8
+DiscoveryTurbo.uk,Discovery Turbo*,http://superstreams.tv:8080/live/nino/nino/5471.m3u8
+#EXTINF:0,DiscoveryShed.uk,Discovery Shed*,http://superstreams.tv:8080/live/nino/nino/5470.m3u8
+Investigation.uk,Investigation Discovery.,http://superstreams.tv:8080/live/nino/nino/5467.m3u8
+#EXTINF:0,HomeandHealth.uk,Discovery Home & Health,http://superstreams.tv:8080/live/nino/nino/5451.m3u8
+DiscoveryHistory.uk,Discovery History,http://superstreams.tv:8080/live/nino/nino/619.m3u8
+#EXTINF:0,DiscoveryScience.uk,Discovery Science*,http://superstreams.tv:8080/live/nino/nino/9949.m3u8
+DiscoveryHD.uk,Discovery Showcase HD*,http://superstreams.tv:8080/live/nino/nino/9945.m3u8
+#EXTINF:0,NationalGeographic.uk,National Geographic HD,http://superstreams.tv:8080/live/nino/nino/8248.m3u8
+NationalGeographic.uk,National Geographic,http://superstreams.tv:8080/live/nino/nino/20634.m3u8
+#EXTINF:0,NGCHD.uk,Nat Geo HD,http://superstreams.tv:8080/live/nino/nino/20818.m3u8
+NatGeoWild.uk,Nat Geo Wild HD,http://superstreams.tv:8080/live/nino/nino/10998.m3u8
+#EXTINF:0,NatGeoWild.uk,Nat Geo Wild,http://superstreams.tv:8080/live/nino/nino/617.m3u8
+CrimeAndInvestigationNetwork.uk,Crime & Investigation,http://superstreams.tv:8080/live/nino/nino/5454.m3u8
+#EXTINF:0,SkyNews.uk,Sky News HD,http://superstreams.tv:8080/live/nino/nino/670.m3u8
+CrimeHD.uk,Crime & investigation  FHD,http://superstreams.tv:8080/live/nino/nino/12376.m3u8
+#EXTINF:0,Investigation.uk,Investigation Discovery,http://superstreams.tv:8080/live/nino/nino/13327.m3u8
+AnimalPlanet.uk,Animal Planet HD,http://superstreams.tv:8080/live/nino/nino/20817.m3u8
+#EXTINF:0,AnimalPlanet.uk,Animal Planet,http://superstreams.tv:8080/live/nino/nino/9950.m3u8
+History.uk,HISTORY,http://superstreams.tv:8080/live/nino/nino/649.m3u8
+#EXTINF:0,H2.uk,H2 HD,http://superstreams.tv:8080/live/nino/nino/20819.m3u8
+H2.uk,H2,http://superstreams.tv:8080/live/nino/nino/8452.m3u8
+#EXTINF:0,BabyTV.uk,Baby TV.,http://superstreams.tv:8080/live/nino/nino/12027.m3u8
+Disney.uk,Disney,http://superstreams.tv:8080/live/nino/nino/590.m3u8
+#EXTINF:0,DisneyXD.uk,Disney XD HD,http://superstreams.tv:8080/live/nino/nino/595.m3u8
+DisneyJunior.uk,Disney Junior,http://superstreams.tv:8080/live/nino/nino/596.m3u8
+#EXTINF:0,Nicktoons.uk,Nicktoons,http://superstreams.tv:8080/live/nino/nino/11514.m3u8
+NickJunior.uk,Nick Jr,http://superstreams.tv:8080/live/nino/nino/594.m3u8
+#EXTINF:0,NickJrPeppa.uk,Nick Jr Too.,http://superstreams.tv:8080/live/nino/nino/8684.m3u8
+Nickelodeon.uk,Nickelodeon,http://superstreams.tv:8080/live/nino/nino/592.m3u8
+#EXTINF:0,CartoonNetwork.uk,Cartoon Network HD,http://superstreams.tv:8080/live/nino/nino/593.m3u8
+Cartoonito.uk,Cartoonito,http://superstreams.tv:8080/live/nino/nino/13717.m3u8
+#EXTINF:0,ext,No name,http://superstreams.tv:8080/live/nino/nino/8688.m3u8
+CBeebies.uk,CBeebies HD*,http://superstreams.tv:8080/live/nino/nino/8689.m3u8
+#EXTINF:0,pop.uk,POP,http://superstreams.tv:8080/live/nino/nino/7999.m3u8
+MTV.uk,MTV HD,http://superstreams.tv:8080/live/nino/nino/11004.m3u8
+#EXTINF:0,MTV.uk,MTV,http://superstreams.tv:8080/live/nino/nino/9446.m3u8
+MTVLiveHD.uk,MTV Live FHD,http://superstreams.tv:8080/live/nino/nino/11006.m3u8
+#EXTINF:0,MTVHits.uk,MTV Hits HD*,http://superstreams.tv:8080/live/nino/nino/11007.m3u8
+MTVRocks.uk,MTV Rocks FHD,http://superstreams.tv:8080/live/nino/nino/9449.m3u8
+#EXTINF:0,MTVDance.uk,MTV Dance HD,http://superstreams.tv:8080/live/nino/nino/11008.m3u8
+MTVBase.uk,MTV Base HD*,http://superstreams.tv:8080/live/nino/nino/9447.m3u8
+#EXTINF:0,MTVHits.uk,MTV Hits.,http://superstreams.tv:8080/live/nino/nino/9448.m3u8
+MTVMusic.uk,MTV Music,http://superstreams.tv:8080/live/nino/nino/8249.m3u8
+#EXTINF:0,MTVClassic.uk,MTV Classic.,http://superstreams.tv:8080/live/nino/nino/8250.m3u8
+MTVDance.uk,MTV Dance FHD,http://superstreams.tv:8080/live/nino/nino/587.m3u8
+#EXTINF:0,VH1UK.uk,VH1,http://superstreams.tv:8080/live/nino/nino/8251.m3u8
+KissTV.uk,KISS TV,http://superstreams.tv:8080/live/nino/nino/9455.m3u8
+#EXTINF:0,ltv7-lat,Kiss FM,http://superstreams.tv:8080/live/nino/nino/14524.m3u8
+ext,Capital Radio TV,http://superstreams.tv:8080/live/nino/nino/12149.m3u8
+#EXTINF:0,B4UMusic.uk,B4U Music.,http://superstreams.tv:8080/live/nino/nino/10743.m3u8
+ext,BBC1 HD Scotland 1080p,http://superstreams.tv:8080/live/nino/nino/7894.m3u8
+#EXTINF:0,ext,BBC1 HD N Ireland,http://superstreams.tv:8080/live/nino/nino/11406.m3u8
+ext,BBC1 Wales HD 1080p,http://superstreams.tv:8080/live/nino/nino/11118.m3u8
+#EXTINF:0,BBC2Scotland.uk,BBC Two Scotland,http://superstreams.tv:8080/live/nino/nino/20650.m3u8
+ext,BBC Two N Ireland,http://superstreams.tv:8080/live/nino/nino/20651.m3u8
+#EXTINF:0,BBC2Wales.uk,BBC Two Wales,http://superstreams.tv:8080/live/nino/nino/20649.m3u8
+ITV1Central.uk,ITV Central West HD 1080p,http://superstreams.tv:8080/live/nino/nino/20646.m3u8
+#EXTINF:0,ext,ITV Meridian South HD 1080p,http://superstreams.tv:8080/live/nino/nino/20648.m3u8
+ITV1Yorkshire.uk,ITV Yorkshire West HD 1080p,http://superstreams.tv:8080/live/nino/nino/20647.m3u8
+#EXTINF:0,ext,Channel 4 Scotland,http://superstreams.tv:8080/live/nino/nino/20642.m3u8
+ext,Channel 4+1 Scotland,http://superstreams.tv:8080/live/nino/nino/20641.m3u8
+#EXTINF:0,ext,Channel 4+1 Northern Ireland,http://superstreams.tv:8080/live/nino/nino/20643.m3u8
+ext,Channel 4 Northern Ireland,http://superstreams.tv:8080/live/nino/nino/20644.m3u8
+#EXTINF:0,S4C.uk,S4C HD,http://superstreams.tv:8080/live/nino/nino/11992.m3u8
+STV.uk,STV HD.,http://superstreams.tv:8080/live/nino/nino/13911.m3u8
+#EXTINF:0,ext,STV East,http://superstreams.tv:8080/live/nino/nino/20640.m3u8
+ext,STV East +1,http://superstreams.tv:8080/live/nino/nino/20639.m3u8
+#EXTINF:0,STVEdinburgh.uk,STV Edinburgh,http://superstreams.tv:8080/live/nino/nino/20638.m3u8
+STVGlasgow.uk,STV Glasgow,http://superstreams.tv:8080/live/nino/nino/20637.m3u8
+#EXTINF:0,STVNorth.uk,STV North,http://superstreams.tv:8080/live/nino/nino/20636.m3u8
+ext,STV West,http://superstreams.tv:8080/live/nino/nino/20635.m3u8
+#EXTINF:0,ext,MTV Ireland,http://superstreams.tv:8080/live/nino/nino/13303.m3u8
+ext,E! Ireland,http://superstreams.tv:8080/live/nino/nino/20664.m3u8
+#EXTINF:0,ext,TLC Ireland,http://superstreams.tv:8080/live/nino/nino/13711.m3u8
+ext,Alibi Ireland,http://superstreams.tv:8080/live/nino/nino/12885.m3u8
+#EXTINF:0,Dave.uk,Dave HD*,http://superstreams.tv:8080/live/nino/nino/12886.m3u8
+ext,Home Ire,http://superstreams.tv:8080/live/nino/nino/12887.m3u8
+#EXTINF:0,ext,Gold Ire,http://superstreams.tv:8080/live/nino/nino/12888.m3u8
+ext,GOLD Ireland,http://superstreams.tv:8080/live/nino/nino/13298.m3u8
+#EXTINF:0,ext,Comedy Central Ireland,http://superstreams.tv:8080/live/nino/nino/13288.m3u8
+SCIFI.uk,Syfy HD,http://superstreams.tv:8080/live/nino/nino/20661.m3u8
+#EXTINF:0,ext,Discovery Ireland,http://superstreams.tv:8080/live/nino/nino/20665.m3u8
+ext,Universal Ireland,http://superstreams.tv:8080/live/nino/nino/20662.m3u8
+#EXTINF:0,ext,ComedyXtra Ireland,http://superstreams.tv:8080/live/nino/nino/20666.m3u8
+UTVIreland.uk,UTV Ireland,http://superstreams.tv:8080/live/nino/nino/20663.m3u8
+#EXTINF:0,ext,NEWS: CNN News UK,http://superstreams.tv:8080/live/nino/nino/25844.m3u8
+ext,NEWS: Euronews UK,http://superstreams.tv:8080/live/nino/nino/25841.m3u8
+#EXTINF:0,ext,NEWS: FOX News UK,http://superstreams.tv:8080/live/nino/nino/25843.m3u8
+ext,NEWS: FOX News US,http://superstreams.tv:8080/live/nino/nino/25845.m3u8
+#EXTINF:0,ext,NEWS: NHK World News,http://superstreams.tv:8080/live/nino/nino/25842.m3u8
+ext,Sky News *HD,http://superstreams.tv:8080/live/nino/nino/15133.m3u8
+#EXTINF:0,BBCNews.nws,BBC News HD,http://superstreams.tv:8080/live/nino/nino/676.m3u8
+CNN.nws,CNN UK,http://superstreams.tv:8080/live/nino/nino/8713.m3u8
+#EXTINF:0,ext,Sky Cinema Box Office 3D,http://superstreams.tv:8080/live/nino/nino/25536.m3u8
+ext,Sky Cinema Box Office 1 FHD,http://superstreams.tv:8080/live/nino/nino/25535.m3u8
+#EXTINF:0,ext,Sky Cinema Box Office 2 FHD,http://superstreams.tv:8080/live/nino/nino/25534.m3u8
+ext,Sky Cinema Box Office 3 FHD,http://superstreams.tv:8080/live/nino/nino/25533.m3u8
+#EXTINF:0,SkyMoviesPremiere.uk,Sky Premiere HD*,http://superstreams.tv:8080/live/nino/nino/10983.m3u8
+SkyMoviesPremiere.uk,Sky Premiere HD**,http://superstreams.tv:8080/live/nino/nino/13374.m3u8
+#EXTINF:0,SkyMoviesPremiere.uk,Sky Premiere SD,http://superstreams.tv:8080/live/nino/nino/613.m3u8
+SkyMoviesActionThriller.uk,Sky Cinema Action HD*,http://superstreams.tv:8080/live/nino/nino/10984.m3u8
+#EXTINF:0,SkyMoviesActionThriller.uk,Sky Cinema Action,http://superstreams.tv:8080/live/nino/nino/612.m3u8
+SkyMoviesFamily.uk,Sky Family HD*,http://superstreams.tv:8080/live/nino/nino/10986.m3u8
+#EXTINF:0,SkyMoviesFamily.uk,Sky Family HD**,http://superstreams.tv:8080/live/nino/nino/13372.m3u8
+SkyMoviesFamily.uk,Sky Family SD,http://superstreams.tv:8080/live/nino/nino/610.m3u8
+#EXTINF:0,SkyMoviesDisney.uk,Sky Disney HD*,http://superstreams.tv:8080/live/nino/nino/10985.m3u8
+SkyMoviesDisney.uk,Sky Cinema Disney HD**,http://superstreams.tv:8080/live/nino/nino/13371.m3u8
+#EXTINF:0,SkyMoviesDisney.uk,Sky Cinema Disney.,http://superstreams.tv:8080/live/nino/nino/608.m3u8
+SkyMoviesComedy.uk,Sky Cinema Comedy HD*,http://superstreams.tv:8080/live/nino/nino/10987.m3u8
+#EXTINF:0,SkyMoviesComedy.uk,Sky Cinema Comedy HD**,http://superstreams.tv:8080/live/nino/nino/13370.m3u8
+SkyMoviesComedy.uk,Sky Cinema Comedy.,http://superstreams.tv:8080/live/nino/nino/607.m3u8
+#EXTINF:0,SkyCinemaThriller.uk,Sky Cinema Crime & Thriller HD*,http://superstreams.tv:8080/live/nino/nino/10989.m3u8
+SkyCinemaThriller.uk,Sky Cinema Crime & Thriller HD**,http://superstreams.tv:8080/live/nino/nino/13368.m3u8
+#EXTINF:0,SkyCinemaThriller.uk,Sky Cinema Crime & Thriller,http://superstreams.tv:8080/live/nino/nino/604.m3u8
+SkyMoviesDrama.uk,Sky Cinema Drama & Romance HD*,http://superstreams.tv:8080/live/nino/nino/43540.m3u8
+#EXTINF:0,SkyMoviesDrama.uk,Sky Cinema Drama & Romance HD**,http://superstreams.tv:8080/live/nino/nino/10993.m3u8
+SkyMoviesDrama.uk,Sky Cinema Drama & Romance,http://superstreams.tv:8080/live/nino/nino/9463.m3u8
+#EXTINF:0,ext,Sky Cinema Modern Greats HD*,http://superstreams.tv:8080/live/nino/nino/13369.m3u8
+ext,Sky Cinema Modern Greats,http://superstreams.tv:8080/live/nino/nino/599.m3u8
+#EXTINF:0,SkySciFiHorror.uk,Sky Cinema Sci-Fi & Horror HD*,http://superstreams.tv:8080/live/nino/nino/10991.m3u8
+SkySciFiHorror.uk,Sky Cinema Sci-Fi & Horror,http://superstreams.tv:8080/live/nino/nino/4954.m3u8
+#EXTINF:0,SkyMoviesIndie.uk,Sky Cinema Select HD*,http://superstreams.tv:8080/live/nino/nino/10990.m3u8
+SkyMoviesIndie.uk,Sky Cinema Select,http://superstreams.tv:8080/live/nino/nino/4955.m3u8
+#EXTINF:0,SkyCinemaHits.uk,Sky Cinema Hits HD*,http://superstreams.tv:8080/live/nino/nino/5475.m3u8
+ext,Sky Cinema Showcase HD*,http://superstreams.tv:8080/live/nino/nino/10988.m3u8
+#EXTINF:0,ext,Sky Cinema Superheroes HD*,http://superstreams.tv:8080/live/nino/nino/10992.m3u8
+TCM.uk,TCM HD,http://superstreams.tv:8080/live/nino/nino/10995.m3u8
+#EXTINF:0,Movies4Men.uk,MOVIES 4 MEN,http://superstreams.tv:8080/live/nino/nino/597.m3u8
+TrueMovies.uk,True Movies 1.,http://superstreams.tv:8080/live/nino/nino/368.m3u8
+#EXTINF:0,TrueMovies2.uk,True Movies 2.,http://superstreams.tv:8080/live/nino/nino/369.m3u8
+Film4.uk,Film4 HD,http://superstreams.tv:8080/live/nino/nino/8000.m3u8
+#EXTINF:0,ext,*4K*: leTV Documentary 4K,http://superstreams.tv:8080/live/nino/nino/25546.m3u8
+SkySpBoxOff.uk,Sky Sports Box Office HD,http://superstreams.tv:8080/live/nino/nino/12843.m3u8
+#EXTINF:0,SkySpMix.uk,Sky Sports Mix HD,http://superstreams.tv:8080/live/nino/nino/12779.m3u8
+SkySportsNews.uk,Sky Sports News HD,http://superstreams.tv:8080/live/nino/nino/586.m3u8
+#EXTINF:0,SkySportsNews.uk,Sky Sports News HD*,http://superstreams.tv:8080/live/nino/nino/12147.m3u8
+ext,Sky Sports News HQHD,http://superstreams.tv:8080/live/nino/nino/44101.m3u8
+#EXTINF:0,ext,Sky Sports News HQHD*,http://superstreams.tv:8080/live/nino/nino/44102.m3u8
+ext,Sky Sports Main Events HD,http://superstreams.tv:8080/live/nino/nino/585.m3u8
+#EXTINF:0,ext,Sky Sports Main Events SD,http://superstreams.tv:8080/live/nino/nino/579.m3u8
+SkySpCricket.uk,Sky Sports Cricket HD,http://superstreams.tv:8080/live/nino/nino/584.m3u8
+#EXTINF:0,SkySpCricket.uk,Sky Sports Cricket SD,http://superstreams.tv:8080/live/nino/nino/578.m3u8
+SkySpAction.uk,Sky Sports Action HD,http://superstreams.tv:8080/live/nino/nino/583.m3u8
+#EXTINF:0,SkySpAction.uk,Sky Sports Action SD,http://superstreams.tv:8080/live/nino/nino/577.m3u8
+SkySpTheOpen.uk,Sky Sports Golf HD,http://superstreams.tv:8080/live/nino/nino/582.m3u8
+#EXTINF:0,SkySpTheOpen.uk,Sky Sports Golf SD,http://superstreams.tv:8080/live/nino/nino/576.m3u8
+SkySpPL.uk,Sky Sports Premier League HD,http://superstreams.tv:8080/live/nino/nino/581.m3u8
+#EXTINF:0,SkySpPL.uk,Sky Sports Premier League SD,http://superstreams.tv:8080/live/nino/nino/575.m3u8
+SkySpArena.uk,Sky Sports Arena HD*,http://superstreams.tv:8080/live/nino/nino/32740.m3u8
+#EXTINF:0,SkySpArena.uk,Sky Sports Arena HD,http://superstreams.tv:8080/live/nino/nino/32739.m3u8
+SkySpArena.uk,Sky Sports Arena SD,http://superstreams.tv:8080/live/nino/nino/32738.m3u8
+#EXTINF:0,SkySpFball.uk,Sky Sports Football HD*,http://superstreams.tv:8080/live/nino/nino/32743.m3u8
+SkySpFball.uk,Sky Sports Football HD,http://superstreams.tv:8080/live/nino/nino/32742.m3u8
+#EXTINF:0,SkySpFball.uk,Sky Sports Football SD,http://superstreams.tv:8080/live/nino/nino/32741.m3u8
+SkySportsF1.uk,Sky Sports F1 HD,http://superstreams.tv:8080/live/nino/nino/580.m3u8
+#EXTINF:0,SkySpF1.uk,Sky Sports F1 SD,http://superstreams.tv:8080/live/nino/nino/574.m3u8
+BTSport1.uk,BT Sports 1 HD,http://superstreams.tv:8080/live/nino/nino/12126.m3u8
+#EXTINF:0,BTSport1.uk,BT Sports 1 HD*,http://superstreams.tv:8080/live/nino/nino/11375.m3u8
+BTSport1.uk,BT Sports 1 SD,http://superstreams.tv:8080/live/nino/nino/11787.m3u8
+#EXTINF:0,BTSport2.uk,BT Sports 2 HD,http://superstreams.tv:8080/live/nino/nino/572.m3u8
+BTSport2.uk,BT Sports 2 HD*,http://superstreams.tv:8080/live/nino/nino/11374.m3u8
+#EXTINF:0,BTSport2.uk,BT Sports 2 SD,http://superstreams.tv:8080/live/nino/nino/11786.m3u8
+BTSport3.uk,BT Sports 3 HD,http://superstreams.tv:8080/live/nino/nino/4931.m3u8
+#EXTINF:0,BTSport3.uk,BT Sports 3 HD*,http://superstreams.tv:8080/live/nino/nino/11373.m3u8
+BTSport3.uk,BT Sports 3 SD,http://superstreams.tv:8080/live/nino/nino/11785.m3u8
+#EXTINF:0,BTSportESPN.uk,BT Sports ESPN HD*,http://superstreams.tv:8080/live/nino/nino/12123.m3u8
+BTSportESPN.uk,BT Sports ESPN HD,http://superstreams.tv:8080/live/nino/nino/4681.m3u8
+#EXTINF:0,BTSportESPN.uk,BT Sports ESPN,http://superstreams.tv:8080/live/nino/nino/11784.m3u8
+ext,BT Sport X1 HD,http://superstreams.tv:8080/live/nino/nino/4932.m3u8
+#EXTINF:0,ext,BT Sport Extra 1,http://superstreams.tv:8080/live/nino/nino/12416.m3u8
+ext,BT Sport Extra 2,http://superstreams.tv:8080/live/nino/nino/12415.m3u8
+#EXTINF:0,ext,BT Sport Extra 3,http://superstreams.tv:8080/live/nino/nino/12414.m3u8
+ext,BT Sport Extra 4,http://superstreams.tv:8080/live/nino/nino/12413.m3u8
+#EXTINF:0,ext,BT Sport Extra 5,http://superstreams.tv:8080/live/nino/nino/12412.m3u8
+ext,BT Sport Extra 6,http://superstreams.tv:8080/live/nino/nino/12411.m3u8
+#EXTINF:0,ext,BT Sports Mosaic,http://superstreams.tv:8080/live/nino/nino/13112.m3u8
+Eurosport1.uk,British Eurosport HD,http://superstreams.tv:8080/live/nino/nino/11002.m3u8
+#EXTINF:0,Eurosport2.uk,British Eurosport 2 HD,http://superstreams.tv:8080/live/nino/nino/11003.m3u8
+EirSport1.ie,EIR Sports 1,http://superstreams.tv:8080/live/nino/nino/11535.m3u8
+#EXTINF:0,EirSport2.ie,EIR Sports 2 HD,http://superstreams.tv:8080/live/nino/nino/11536.m3u8
+PremierSports.uk,Premier Sports HD,http://superstreams.tv:8080/live/nino/nino/568.m3u8
+#EXTINF:0,BoxNation.uk,Boxnation SD,http://superstreams.tv:8080/live/nino/nino/17752.m3u8
+MotorsportTV.fr,Motorsport TV,http://superstreams.tv:8080/live/nino/nino/12170.m3u8
+#EXTINF:0,ext,William Hill TV,http://superstreams.tv:8080/live/nino/nino/19369.m3u8
+AtTheRaces.uk,At The Races,http://superstreams.tv:8080/live/nino/nino/150.m3u8
+#EXTINF:0,RacingUK.uk,RACING UK HD,http://superstreams.tv:8080/live/nino/nino/560.m3u8
+RacingUK.uk,Racing UK HD 1080P,http://superstreams.tv:8080/live/nino/nino/12392.m3u8
+#EXTINF:0,ext,Redbull TV HD,http://superstreams.tv:8080/live/nino/nino/30321.m3u8
+MUTV.uk,MUTV HD*,http://superstreams.tv:8080/live/nino/nino/12398.m3u8
+#EXTINF:0,LiverpoolFCTV.uk,Liverpool FC TV HD 1080p,http://superstreams.tv:8080/live/nino/nino/12120.m3u8
+LiverpoolFCTV.uk,Liverpool FC TV,http://superstreams.tv:8080/live/nino/nino/11463.m3u8
+#EXTINF:0,ChelseaTV.uk,Chelsea TV,http://superstreams.tv:8080/live/nino/nino/8528.m3u8
+WCBSNewYorkCBSHDEast.us,US: CBS HD 1080p,http://superstreams.tv:8080/live/nino/nino/7713.m3u8
+#EXTINF:0,ext,US: ABC News West HD,http://superstreams.tv:8080/live/nino/nino/5617.m3u8
+HBOComedyHD.us,US: HBO Comedy HD,http://superstreams.tv:8080/live/nino/nino/9710.m3u8
+#EXTINF:0,HBOHDEast.us,US: HBO HD,http://superstreams.tv:8080/live/nino/nino/9708.m3u8
+ext,US: NDTV HD,http://superstreams.tv:8080/live/nino/nino/8395.m3u8
+#EXTINF:0,HBOZoneHD.us,US: HBO Zone HD,http://superstreams.tv:8080/live/nino/nino/8369.m3u8
+ext,US: HG TV HD,http://superstreams.tv:8080/live/nino/nino/8383.m3u8
+#EXTINF:0,ext,US: KTLA 5 HD,http://superstreams.tv:8080/live/nino/nino/5668.m3u8
+ext,US: C-Span 3 HD,http://superstreams.tv:8080/live/nino/nino/5674.m3u8
+#EXTINF:0,CSPAN2.us,US: C-Span 2 HD,http://superstreams.tv:8080/live/nino/nino/5675.m3u8
+CSPAN.us,US: C-Span 1 HD,http://superstreams.tv:8080/live/nino/nino/5676.m3u8
+#EXTINF:0,BloombergTVHD.us,US: Bloomberg HD,http://superstreams.tv:8080/live/nino/nino/5526.m3u8
+ext,US: FloridaTV HD,http://superstreams.tv:8080/live/nino/nino/5605.m3u8
+#EXTINF:0,ext,US: History USA HD,http://superstreams.tv:8080/live/nino/nino/8392.m3u8
+ext,US: E! Entertainment USA HD,http://superstreams.tv:8080/live/nino/nino/8393.m3u8
+#EXTINF:0,A-EHD.us,US: A&E HD 1080p,http://superstreams.tv:8080/live/nino/nino/19221.m3u8
+WABCNewYorkABCEast.us,US: ABC HD 1080p,http://superstreams.tv:8080/live/nino/nino/19220.m3u8
+#EXTINF:0,WABCNewYorkABCEast.us,US: ABC News HD,http://superstreams.tv:8080/live/nino/nino/19219.m3u8
+AnimalPlanetHD.us,US: Animal Planet HD,http://superstreams.tv:8080/live/nino/nino/19218.m3u8
+#EXTINF:0,ext,US: BNN HD,http://superstreams.tv:8080/live/nino/nino/19217.m3u8
+ext,US: Bavo HD,http://superstreams.tv:8080/live/nino/nino/19216.m3u8
+#EXTINF:0,ext,US: CBC HD,http://superstreams.tv:8080/live/nino/nino/19215.m3u8
+ext,US: CBC 2 US,http://superstreams.tv:8080/live/nino/nino/19214.m3u8
+#EXTINF:0,CNBCHD.us,US: CNBC HD,http://superstreams.tv:8080/live/nino/nino/19210.m3u8
+CNN.us,US: CNN HD,http://superstreams.tv:8080/live/nino/nino/19209.m3u8
+#EXTINF:0,ComedyCentralHD.us,US: Comedy Central HD,http://superstreams.tv:8080/live/nino/nino/19207.m3u8
+ext,US: MAX East HD,http://superstreams.tv:8080/live/nino/nino/19206.m3u8
+#EXTINF:0,ext,US: Cinemax 5 Star Max HD,http://superstreams.tv:8080/live/nino/nino/19205.m3u8
+DIYNetworkHD.us,US: DIY Network HD,http://superstreams.tv:8080/live/nino/nino/19204.m3u8
+#EXTINF:0,WNYWNewYorkFOXHDEast.us,US: FOX HD,http://superstreams.tv:8080/live/nino/nino/19203.m3u8
+Velocity.us,US: Discovery Velocity HD,http://superstreams.tv:8080/live/nino/nino/19202.m3u8
+#EXTINF:0,AMCHD.us,US: AMC HD,http://superstreams.tv:8080/live/nino/nino/19200.m3u8
+ext,US: CBN HD,http://superstreams.tv:8080/live/nino/nino/19201.m3u8
+#EXTINF:0,CartoonNetworkHD.us,US: Cartoon Network HD,http://superstreams.tv:8080/live/nino/nino/19198.m3u8
+DestinationAmericaHD.us,US: Destination America HD,http://superstreams.tv:8080/live/nino/nino/19197.m3u8
+#EXTINF:0,DiscoveryHD.us,US: Discovery HD,http://superstreams.tv:8080/live/nino/nino/19196.m3u8
+FreeformHD.us,US: Freeform HD,http://superstreams.tv:8080/live/nino/nino/19195.m3u8
+#EXTINF:0,FOXNewsChannel.us,US: Fox News HD,http://superstreams.tv:8080/live/nino/nino/19194.m3u8
+FXHD.us,US: FX HD,http://superstreams.tv:8080/live/nino/nino/19193.m3u8
+#EXTINF:0,FXXHD.us,US: FXX HD,http://superstreams.tv:8080/live/nino/nino/19192.m3u8
+HistoryHD.us,US: History HD,http://superstreams.tv:8080/live/nino/nino/19190.m3u8
+#EXTINF:0,InvestigationDiscoveryHD.us,US: Investigation Discovery HD,http://superstreams.tv:8080/live/nino/nino/19189.m3u8
+SpikeHD.us,US: Spike HD,http://superstreams.tv:8080/live/nino/nino/19188.m3u8
+#EXTINF:0,ext,US: Science Channel HD,http://superstreams.tv:8080/live/nino/nino/19187.m3u8
+NationalGeographicChannelHD.us,US: Nat Geo HD,http://superstreams.tv:8080/live/nino/nino/19185.m3u8
+#EXTINF:0,StarzCinemaHD.us,US: Starz Cinema HD,http://superstreams.tv:8080/live/nino/nino/19184.m3u8
+StarzEncore.us,US: Starz Encore HD,http://superstreams.tv:8080/live/nino/nino/19183.m3u8
+#EXTINF:0,StarzEast.us,US: Starz HD,http://superstreams.tv:8080/live/nino/nino/19182.m3u8
+SyfyHD.us,US: Syfy HD,http://superstreams.tv:8080/live/nino/nino/19181.m3u8
+#EXTINF:0,TBSHD.us,US: TBS HD,http://superstreams.tv:8080/live/nino/nino/19180.m3u8
+TLC.us,US: TLC HD,http://superstreams.tv:8080/live/nino/nino/19179.m3u8
+#EXTINF:0,TNTHD.us,US: TNT HD,http://superstreams.tv:8080/live/nino/nino/19178.m3u8
+USANetwork.us,US: USA Network HD,http://superstreams.tv:8080/live/nino/nino/19177.m3u8
+#EXTINF:0,Velocity.us,US: Velocity HD,http://superstreams.tv:8080/live/nino/nino/19176.m3u8
+ext,US: Fuel TV HD,http://superstreams.tv:8080/live/nino/nino/19175.m3u8
+#EXTINF:0,ext,US: ABC Spark HD,http://superstreams.tv:8080/live/nino/nino/15369.m3u8
+ext,US: D.I.Y Network HD 720p,http://superstreams.tv:8080/live/nino/nino/15367.m3u8
+#EXTINF:0,Boomerang.us,US: Boomerang HD,http://superstreams.tv:8080/live/nino/nino/15301.m3u8
+ext,US: CHCH HD,http://superstreams.tv:8080/live/nino/nino/15366.m3u8
+#EXTINF:0,ext,US: City Vancouver HD,http://superstreams.tv:8080/live/nino/nino/15365.m3u8
+ext,US: Comedy Gold HD,http://superstreams.tv:8080/live/nino/nino/15364.m3u8
+#EXTINF:0,ext,US: CP24 HD,http://superstreams.tv:8080/live/nino/nino/15362.m3u8
+ext,US: CP24 HD2,http://superstreams.tv:8080/live/nino/nino/15329.m3u8
+#EXTINF:0,ext,US: CTV Toronto HD,http://superstreams.tv:8080/live/nino/nino/15361.m3u8
+ext,US: CTV Vancouver HD,http://superstreams.tv:8080/live/nino/nino/15333.m3u8
+#EXTINF:0,DisneyChannelEast.us,US: Disney HD,http://superstreams.tv:8080/live/nino/nino/15334.m3u8
+WDCWWashingtonDCCW.us,US: CW HD,http://superstreams.tv:8080/live/nino/nino/15335.m3u8
+#EXTINF:0,FOXNewsChannel.us,US: Fox  News HD,http://superstreams.tv:8080/live/nino/nino/15360.m3u8
+ext,US: Cartoon Network HD USA,http://superstreams.tv:8080/live/nino/nino/15359.m3u8
+#EXTINF:0,ext,US: G4 HD,http://superstreams.tv:8080/live/nino/nino/15358.m3u8
+ext,US: NBC Toronto,http://superstreams.tv:8080/live/nino/nino/15357.m3u8
+#EXTINF:0,ext,US: Movies HD,http://superstreams.tv:8080/live/nino/nino/15302.m3u8
+ext,US: MovieTime HD,http://superstreams.tv:8080/live/nino/nino/15356.m3u8
+#EXTINF:0,KNBCLosAngelesNBCHDWest.us,US: NBC HD,http://superstreams.tv:8080/live/nino/nino/15332.m3u8
+ext,US: TVO Kids HD,http://superstreams.tv:8080/live/nino/nino/15355.m3u8
+#EXTINF:0,HBOFamilyEast.us,US: HBO Family HD,http://superstreams.tv:8080/live/nino/nino/15328.m3u8
+ext,US: Peach Tree TV HD,http://superstreams.tv:8080/live/nino/nino/15354.m3u8
+#EXTINF:0,ext,US: RDI HD,http://superstreams.tv:8080/live/nino/nino/15353.m3u8
+ext,US: RDS 2 HD,http://superstreams.tv:8080/live/nino/nino/15352.m3u8
+#EXTINF:0,ext,US: Silver Screen Classics HD,http://superstreams.tv:8080/live/nino/nino/15351.m3u8
+ext,US: Super Ecran 1 HD,http://superstreams.tv:8080/live/nino/nino/15349.m3u8
+#EXTINF:0,ext,US: Super Ecran 2 HD,http://superstreams.tv:8080/live/nino/nino/15348.m3u8
+ext,US: Super Ecran 3 HD,http://superstreams.tv:8080/live/nino/nino/15347.m3u8
+#EXTINF:0,ext,US: Super Ecran 4 HD,http://superstreams.tv:8080/live/nino/nino/15346.m3u8
+NickelodeonEast.us,US: Nick HD,http://superstreams.tv:8080/live/nino/nino/15344.m3u8
+#EXTINF:0,CinemaxEastHD.us,US: Cinemax HD,http://superstreams.tv:8080/live/nino/nino/19212.m3u8
+ext,US: WGN 9 HD,http://superstreams.tv:8080/live/nino/nino/15340.m3u8
+#EXTINF:0,ext,US: AFN Movie HD,http://superstreams.tv:8080/live/nino/nino/26072.m3u8
+ext,US: AFN News HD,http://superstreams.tv:8080/live/nino/nino/26071.m3u8
+#EXTINF:0,ext,US: AFN Prime Atlantic HD,http://superstreams.tv:8080/live/nino/nino/26070.m3u8
+ext,US: AFN Sports,http://superstreams.tv:8080/live/nino/nino/26068.m3u8
+#EXTINF:0,ext,US: AFN Sports 2 HD,http://superstreams.tv:8080/live/nino/nino/26067.m3u8
+ext,US: AFN Sports HD,http://superstreams.tv:8080/live/nino/nino/26066.m3u8
+#EXTINF:0,ext,US: Cinemax Action HD,http://superstreams.tv:8080/live/nino/nino/26075.m3u8
+ActionMaxHD.us,US: Cinemax Action Max HD,http://superstreams.tv:8080/live/nino/nino/26074.m3u8
+#EXTINF:0,CinemaxEastHD.us,US: Cinemax East HD,http://superstreams.tv:8080/live/nino/nino/26073.m3u8
+ext,US: Univision Deportes HD US,http://superstreams.tv:8080/live/nino/nino/26069.m3u8
+#EXTINF:0,ext,US: Showtime Extream HD,http://superstreams.tv:8080/live/nino/nino/26064.m3u8
+ShowtimeHDEast.us,US: Showtime HD,http://superstreams.tv:8080/live/nino/nino/26065.m3u8
+#EXTINF:0,ShowtimeShowcaseHD.us,US: Showtime Showcase HD,http://superstreams.tv:8080/live/nino/nino/26063.m3u8
+StarzComedyHD.us,US: Starz Comedy HD,http://superstreams.tv:8080/live/nino/nino/26078.m3u8
+#EXTINF:0,StarzEastHD.us,US: Starz East HD,http://superstreams.tv:8080/live/nino/nino/26077.m3u8
+StarzEdgeHD.us,US: Starz Edge HD,http://superstreams.tv:8080/live/nino/nino/26076.m3u8
+#EXTINF:0,bein1hd.jsc,beIN Sports 1 HD,http://superstreams.tv:8080/live/nino/nino/1035.m3u8
+bein2hd.jsc,beIN Sports 2 HD,http://superstreams.tv:8080/live/nino/nino/1036.m3u8
+#EXTINF:0,bein3hd.jsc,beIN Sports 3 HD,http://superstreams.tv:8080/live/nino/nino/1037.m3u8
+bein4hd.jsc,beIN Sports 4 HD,http://superstreams.tv:8080/live/nino/nino/1038.m3u8
+#EXTINF:0,bein5hd.jsc,beIN Sports 5 HD,http://superstreams.tv:8080/live/nino/nino/1039.m3u8
+bein6hd.jsc,beIN Sports 6 HD,http://superstreams.tv:8080/live/nino/nino/1040.m3u8
+#EXTINF:0,bein7hd.jsc,beIN Sports 7 HD,http://superstreams.tv:8080/live/nino/nino/1041.m3u8
+bein8hd.jsc,beIN Sports 8 HD,http://superstreams.tv:8080/live/nino/nino/1042.m3u8
+#EXTINF:0,bein9hd.jsc,beIN Sports 9 HD,http://superstreams.tv:8080/live/nino/nino/1043.m3u8
+bein10hd.jsc,beIN Sports 10 HD,http://superstreams.tv:8080/live/nino/nino/1044.m3u8
+#EXTINF:0,ext,beIN Sports 11 HD eng,http://superstreams.tv:8080/live/nino/nino/1045.m3u8
+ext,beIN Sports 12 HD eng,http://superstreams.tv:8080/live/nino/nino/1046.m3u8
+#EXTINF:0,bein13hd.jsc,beIN Sports 13 HD,http://superstreams.tv:8080/live/nino/nino/1047.m3u8
+bein14hd.jsc,beIN Sports 14 HD,http://superstreams.tv:8080/live/nino/nino/1048.m3u8
+#EXTINF:0,ext,beIN Sports 1 HD (FR),http://superstreams.tv:8080/live/nino/nino/1049.m3u8
+ext,beIN Sports 2 HD (FR),http://superstreams.tv:8080/live/nino/nino/8215.m3u8
+#EXTINF:0,ext,beIN Sport 3 HD (FR),http://superstreams.tv:8080/live/nino/nino/29537.m3u8
+ext,beIN MAX 4 HD(FR),http://superstreams.tv:8080/live/nino/nino/29544.m3u8
+#EXTINF:0,ext,beIN MAX 5 HD(FR),http://superstreams.tv:8080/live/nino/nino/29543.m3u8
+ext,beIN MAX 6 HD(FR),http://superstreams.tv:8080/live/nino/nino/29542.m3u8
+#EXTINF:0,ext,beIN MAX 7 HD(FR),http://superstreams.tv:8080/live/nino/nino/29541.m3u8
+ext,beIN MAX 8 HD(FR),http://superstreams.tv:8080/live/nino/nino/29540.m3u8
+#EXTINF:0,ext,beIN MAX 9 HD(FR),http://superstreams.tv:8080/live/nino/nino/29539.m3u8
+ext,beIN MAX 10 HD(FR),http://superstreams.tv:8080/live/nino/nino/29538.m3u8
+#EXTINF:0,ext,Sky News Ireland,http://superstreams.tv:8080/live/nino/nino/27239.m3u8
+TSN1HD.ca,SPORT: TSN 1 HD,http://superstreams.tv:8080/live/nino/nino/5641.m3u8
+#EXTINF:0,TSN2HD.ca,SPORT: TSN 2 HD,http://superstreams.tv:8080/live/nino/nino/5642.m3u8
+TSN3HD.ca,SPORT: TSN 3 HD,http://superstreams.tv:8080/live/nino/nino/5643.m3u8
+#EXTINF:0,TSN4HD.ca,SPORT: TSN 4 HD,http://superstreams.tv:8080/live/nino/nino/5644.m3u8
+TSNHD5.ca,SPORT: TSN 5 HD,http://superstreams.tv:8080/live/nino/nino/5645.m3u8
+#EXTINF:0,ext,SPORT: Sportnet World HD,http://superstreams.tv:8080/live/nino/nino/11964.m3u8
+ext,SPORT: Sportnet West HD,http://superstreams.tv:8080/live/nino/nino/11966.m3u8
+#EXTINF:0,SportsNetPacifiqueHD.ca,SPORT: Sportnet Pacific HD,http://superstreams.tv:8080/live/nino/nino/11968.m3u8
+SportsNetOntario.ca,SPORT: Sportnet Ontario HD,http://superstreams.tv:8080/live/nino/nino/11970.m3u8
+#EXTINF:0,ext,SPORT: Sportnet East HD,http://superstreams.tv:8080/live/nino/nino/11967.m3u8
+ext,SPORT: Sportnet 360 HD,http://superstreams.tv:8080/live/nino/nino/11965.m3u8
+#EXTINF:0,ext,SPORT: Sportnet  One HD,http://superstreams.tv:8080/live/nino/nino/11969.m3u8
+ext,INT/SP: OSN Sports Action 1 HD,http://superstreams.tv:8080/live/nino/nino/17853.m3u8
+#EXTINF:0,ext,INT/SP: OSN Sports Action 2 HD,http://superstreams.tv:8080/live/nino/nino/545.m3u8
+ext,INT/SP: OSN Sports 5 HD,http://superstreams.tv:8080/live/nino/nino/544.m3u8
+#EXTINF:0,ext,Astro Super Sports 4 HD(offline),http://superstreams.tv:8080/live/nino/nino/543.m3u8
+ext,Super Sports 1 HD alb,http://superstreams.tv:8080/live/nino/nino/7160.m3u8
+#EXTINF:0,ext,Super Sports 2 HD alb,http://superstreams.tv:8080/live/nino/nino/7159.m3u8
+ext,Super Sports 3 HD alb,http://superstreams.tv:8080/live/nino/nino/7158.m3u8
+#EXTINF:0,ext,Super Sports 4 HD (alb),http://superstreams.tv:8080/live/nino/nino/7157.m3u8
+ext,Super Sports 5 HD (alb),http://superstreams.tv:8080/live/nino/nino/9352.m3u8
+#EXTINF:0,ext,Super Sports  1 Kosova,http://superstreams.tv:8080/live/nino/nino/8223.m3u8
+ext,Super Sports  2 Kosova,http://superstreams.tv:8080/live/nino/nino/8224.m3u8
+#EXTINF:0,FoxSport1.nl,SPORT: Fox Sports 1 HD,http://superstreams.tv:8080/live/nino/nino/7737.m3u8
+FoxSports2HD.mx,SPORT: Fox Sports  2 HD,http://superstreams.tv:8080/live/nino/nino/7738.m3u8
+#EXTINF:0,FoxSport1.nl,Fox Sports 1 FHD nl,http://superstreams.tv:8080/live/nino/nino/5538.m3u8
+FOXsport2.nl,Fox Sports 2 FHD nl,http://superstreams.tv:8080/live/nino/nino/5539.m3u8
+#EXTINF:0,ext,Fox Sports 3 HD nl,http://superstreams.tv:8080/live/nino/nino/5540.m3u8
+ext,Fox Sports 4 HD nl,http://superstreams.tv:8080/live/nino/nino/5541.m3u8
+#EXTINF:0,ext,Fox Sports 5 HD nl,http://superstreams.tv:8080/live/nino/nino/5542.m3u8
+ext,Fox Sports 1 FHD Eredivisie,http://superstreams.tv:8080/live/nino/nino/5544.m3u8
+#EXTINF:0,ext,Fox Sports  2 FHD Eredivisie,http://superstreams.tv:8080/live/nino/nino/5545.m3u8
+ext,Fox Sports 3 FHD Eredivisie,http://superstreams.tv:8080/live/nino/nino/5546.m3u8
+#EXTINF:0,ext,Fox Sports 4 FHD Eredivisie,http://superstreams.tv:8080/live/nino/nino/8904.m3u8
+ext,Fox Sports 5 FHD Eredivisie,http://superstreams.tv:8080/live/nino/nino/8905.m3u8
+#EXTINF:0,ext,Arena Sports 1 cro,http://superstreams.tv:8080/live/nino/nino/5677.m3u8
+ext,Arena Sports 2 cro,http://superstreams.tv:8080/live/nino/nino/5678.m3u8
+#EXTINF:0,ext,Arena Sports 3 cro,http://superstreams.tv:8080/live/nino/nino/5679.m3u8
+ext,Arena Sports 4 FHD cro,http://superstreams.tv:8080/live/nino/nino/5680.m3u8
+#EXTINF:0,ext,Arena Sports 5 cro,http://superstreams.tv:8080/live/nino/nino/5681.m3u8
+ext,Arena Sports 1 srb,http://superstreams.tv:8080/live/nino/nino/5682.m3u8
+#EXTINF:0,ext,Arena Sports 2 srb,http://superstreams.tv:8080/live/nino/nino/5683.m3u8
+ext,Arena Sports 3 srb,http://superstreams.tv:8080/live/nino/nino/5684.m3u8
+#EXTINF:0,ext,Arena Sports 4 srb,http://superstreams.tv:8080/live/nino/nino/5685.m3u8
+ext,TV2 Sport Premium 1 HD*(not 24/7),http://superstreams.tv:8080/live/nino/nino/11200.m3u8
+#EXTINF:0,TV2SportPremium2.no,TV2 Sport Premium 2 HD,http://superstreams.tv:8080/live/nino/nino/11199.m3u8
+TV2SportPremium3.no,TV2 Sport Premium 3 HD(offline),http://superstreams.tv:8080/live/nino/nino/11198.m3u8
+#EXTINF:0,ext,TV2 Sport Premium 4 HD(offline),http://superstreams.tv:8080/live/nino/nino/11197.m3u8
+ext,TV2 Sport premium 5 HD(offline),http://superstreams.tv:8080/live/nino/nino/11196.m3u8
+#EXTINF:0,ext,TV2 Sportkanalen HD,http://superstreams.tv:8080/live/nino/nino/11195.m3u8
+sporttv1.pt,Sport.TV1 HD,http://superstreams.tv:8080/live/nino/nino/12369.m3u8
+#EXTINF:0,ext,Sport.TV2 HD,http://superstreams.tv:8080/live/nino/nino/12368.m3u8
+ext,Sport.TV3 HD,http://superstreams.tv:8080/live/nino/nino/12367.m3u8
+#EXTINF:0,ext,Sport.TV4 HD,http://superstreams.tv:8080/live/nino/nino/12366.m3u8
+ext,Sport.TV5 HD,http://superstreams.tv:8080/live/nino/nino/12365.m3u8
+#EXTINF:0,SFRSport1.fr,SFR Sport 1 HD,http://superstreams.tv:8080/live/nino/nino/12848.m3u8
+SFRSport2.fr,SFR Sport 2 HD,http://superstreams.tv:8080/live/nino/nino/12847.m3u8
+#EXTINF:0,SFRSport3.fr,SFR Sport 3 HD,http://superstreams.tv:8080/live/nino/nino/12846.m3u8
+sporttv1.pt,SporTV 1 FHD,http://superstreams.tv:8080/live/nino/nino/12025.m3u8
+#EXTINF:0,sporttv2.pt,SporTV 2 FHD,http://superstreams.tv:8080/live/nino/nino/12024.m3u8
+sporttv3.pt,SporTV 3 FHD,http://superstreams.tv:8080/live/nino/nino/12023.m3u8
+#EXTINF:0,sporttv4.pt,SporTV 4 FHD,http://superstreams.tv:8080/live/nino/nino/12022.m3u8
+sporttv5.pt,SporTV 5 FHD,http://superstreams.tv:8080/live/nino/nino/12021.m3u8
+#EXTINF:0,SportKlub1.rs,Sport Klub 1 HD,http://superstreams.tv:8080/live/nino/nino/11081.m3u8
+SportKlub2.rs,Sport Klub 2 HD,http://superstreams.tv:8080/live/nino/nino/11080.m3u8
+#EXTINF:0,SportKlub3.rs,Sport Klub 3 HD,http://superstreams.tv:8080/live/nino/nino/11079.m3u8
+ext,Sport Klub 4 HD,http://superstreams.tv:8080/live/nino/nino/11078.m3u8
+#EXTINF:0,ext,Sport Klub 5 HD,http://superstreams.tv:8080/live/nino/nino/11077.m3u8
+ext,Sport Klub 6 HD,http://superstreams.tv:8080/live/nino/nino/11076.m3u8
+#EXTINF:0,ext,Skynet Sports HD,http://superstreams.tv:8080/live/nino/nino/13362.m3u8
+ext,Skynet Sports 1,http://superstreams.tv:8080/live/nino/nino/13361.m3u8
+#EXTINF:0,ext,Skynet Sports 2,http://superstreams.tv:8080/live/nino/nino/13360.m3u8
+ext,Skynet Sports 3,http://superstreams.tv:8080/live/nino/nino/13359.m3u8
+#EXTINF:0,ext,Skynet Sports 4,http://superstreams.tv:8080/live/nino/nino/13358.m3u8
+ext,Skynet Sports 5,http://superstreams.tv:8080/live/nino/nino/13357.m3u8
+#EXTINF:0,ext,Skynet Sports 6,http://superstreams.tv:8080/live/nino/nino/13356.m3u8
+ext,INT/SP: LE Sports Now HK 1 HD 1080p,http://superstreams.tv:8080/live/nino/nino/14949.m3u8
+#EXTINF:0,ext,INT/SP: LE Sports Now HK 2 HD 1080p,http://superstreams.tv:8080/live/nino/nino/14948.m3u8
+ext,INT/SP: LE Sports Now HK 3 HD 1080p,http://superstreams.tv:8080/live/nino/nino/14947.m3u8
+#EXTINF:0,ext,INT/SP: LE Sports Now HK 4 HD 1080p,http://superstreams.tv:8080/live/nino/nino/14946.m3u8
+ext,INT/SP: LE Sports Now HK 5 HD 1080p,http://superstreams.tv:8080/live/nino/nino/14945.m3u8
+#EXTINF:0,ext,INT/SP: LE Sports Now HK 6 HD 1080p,http://superstreams.tv:8080/live/nino/nino/14944.m3u8
+ext,INT/SP: LE Sports Now HK 7 HD 1080p,http://superstreams.tv:8080/live/nino/nino/14943.m3u8
+#EXTINF:0,ext,INT/SP: LE Sports Now HK 8 HD 1080p,http://superstreams.tv:8080/live/nino/nino/14942.m3u8
+ext,INT/SP: LE Sports Now HK 9 HD 1080p,http://superstreams.tv:8080/live/nino/nino/14941.m3u8
+#EXTINF:0,ext,INT/SP: LE Sports Now HK 10 HD 1080p,http://superstreams.tv:8080/live/nino/nino/14940.m3u8
+ext,3PM: K+1 HD (live epl),http://superstreams.tv:8080/live/nino/nino/14860.m3u8
+#EXTINF:0,ext,3PM: K+NS HD (live epl),http://superstreams.tv:8080/live/nino/nino/14857.m3u8
+ext,3PM: K+PC HD (live epl),http://superstreams.tv:8080/live/nino/nino/14858.m3u8
+#EXTINF:0,ext,3PM: K+PM HD (live epl),http://superstreams.tv:8080/live/nino/nino/14859.m3u8
+ext,INT/SP: Yes Sports 1 FHD (ISL),http://superstreams.tv:8080/live/nino/nino/14856.m3u8
+#EXTINF:0,ext,INT/SP: Yes Sports 2 HD (ISL),http://superstreams.tv:8080/live/nino/nino/14855.m3u8
+ext,INT/SP: Yes Sports 5 HD (ISL),http://superstreams.tv:8080/live/nino/nino/14853.m3u8
+#EXTINF:0,ext,INT/SP: Yes Sports 5 Live HD (ISL),http://superstreams.tv:8080/live/nino/nino/14854.m3u8
+ext,INT/SP: OSN Cricket HD,http://superstreams.tv:8080/live/nino/nino/17399.m3u8
+#EXTINF:0,ext,INT/SP: OSN Sports 1 HD,http://superstreams.tv:8080/live/nino/nino/17403.m3u8
+ext,INT/SP: OSN Sports 2 HD,http://superstreams.tv:8080/live/nino/nino/17402.m3u8
+#EXTINF:0,ext,INT/SP: OSN Sports 3 HD,http://superstreams.tv:8080/live/nino/nino/17401.m3u8
+ext,INT/SP: OSN Sports 4 HD,http://superstreams.tv:8080/live/nino/nino/17400.m3u8
+#EXTINF:0,SportsnetOntarioHD.ca,SPORT: Sportsnet Ontario HD,http://superstreams.tv:8080/live/nino/nino/11963.m3u8
+WWE.ca,SPORT: WWE Network HD,http://superstreams.tv:8080/live/nino/nino/12247.m3u8
+#EXTINF:0,BTNHD.us,SPORT: Big Ten Network HD,http://superstreams.tv:8080/live/nino/nino/8400.m3u8
+WillowCricket.us,SPORT: Willow Cricket HD,http://superstreams.tv:8080/live/nino/nino/8391.m3u8
+#EXTINF:0,ext,SPORT: NBC Golf Live Extra HD,http://superstreams.tv:8080/live/nino/nino/12619.m3u8
+ext,SPORT: NFL Live HD,http://superstreams.tv:8080/live/nino/nino/12424.m3u8
+#EXTINF:0,SportsNetHD.ca,SPORT: CBS Sports Network HD,http://superstreams.tv:8080/live/nino/nino/19213.m3u8
+TennisChannelHD.us,SPORT: Tennis Channel HD,http://superstreams.tv:8080/live/nino/nino/19211.m3u8
+#EXTINF:0,ESPNews.us,SPORT: ESPN News HD,http://superstreams.tv:8080/live/nino/nino/19174.m3u8
+ext,SPORT: ESPN USA HD,http://superstreams.tv:8080/live/nino/nino/19173.m3u8
+#EXTINF:0,ESPN2.us,SPORT: ESPN 2 HD,http://superstreams.tv:8080/live/nino/nino/19172.m3u8
+ESPNDeportesHD.us,SPORT: ESPN Deportes HD,http://superstreams.tv:8080/live/nino/nino/19171.m3u8
+#EXTINF:0,FightNetwork.ca,SPORT: Fight Network HD,http://superstreams.tv:8080/live/nino/nino/19170.m3u8
+NBCSportsNetwork.us,SPORT: NBC Sports Network HD,http://superstreams.tv:8080/live/nino/nino/19169.m3u8
+#EXTINF:0,ext,SPORT: NBCSN Golf Extra Time,http://superstreams.tv:8080/live/nino/nino/12723.m3u8
+GOLF.ca,SPORT: GOLF HD,http://superstreams.tv:8080/live/nino/nino/15368.m3u8
+#EXTINF:0,ext,INT/SP: MIO Eleven Sports HD,http://superstreams.tv:8080/live/nino/nino/25847.m3u8
+ext,INT/SP: MIO Stadium 102 HD,http://superstreams.tv:8080/live/nino/nino/25846.m3u8
+#EXTINF:0,ext,INT/SP: AD Sports 1 HD(OSN),http://superstreams.tv:8080/live/nino/nino/30367.m3u8
+ext,INT/SP: AD Sports 2 HD(OSN),http://superstreams.tv:8080/live/nino/nino/30366.m3u8
+#EXTINF:0,ext,INT/SP: AD Sports 3 HD(OSN),http://superstreams.tv:8080/live/nino/nino/30365.m3u8
+ext,INT/SP: AD Sports 4 HD(OSN),http://superstreams.tv:8080/live/nino/nino/30364.m3u8
+#EXTINF:0,ext,INT/SP: AD Sports 5 HD(OSN),http://superstreams.tv:8080/live/nino/nino/30363.m3u8
+ext,INT/SP: Eleven Sport HD(BE),http://superstreams.tv:8080/live/nino/nino/30360.m3u8
+#EXTINF:0,ext,INT/SP: Kujtesa Sport 1 HD(AL),http://superstreams.tv:8080/live/nino/nino/30355.m3u8
+ext,INT/SP: Kujtesa Sport 2 HD(AL),http://superstreams.tv:8080/live/nino/nino/30354.m3u8
+#EXTINF:0,ext,INT/SP: Smash Sports HD(MT),http://superstreams.tv:8080/live/nino/nino/30349.m3u8
+ext,INT/SP: Tivubu Spor 1 HD(TR),http://superstreams.tv:8080/live/nino/nino/30353.m3u8
+#EXTINF:0,ext,INT/SP: Tivubu Spor 2 HD(TR),http://superstreams.tv:8080/live/nino/nino/30352.m3u8
+ext,INT/SP: Tivubu Spor 3 HD(TR),http://superstreams.tv:8080/live/nino/nino/30351.m3u8
+#EXTINF:0,ext,INT/SP: Tivubu Spor 4 HD(TR),http://superstreams.tv:8080/live/nino/nino/30350.m3u8
+ext,INT/SP: Tring Sport 1 HD(AL),http://superstreams.tv:8080/live/nino/nino/30359.m3u8
+#EXTINF:0,ext,INT/SP: Tring Sport 2 HD(AL),http://superstreams.tv:8080/live/nino/nino/30358.m3u8
+ext,INT/SP: Tring Sport 3 HD(AL),http://superstreams.tv:8080/live/nino/nino/30357.m3u8
+#EXTINF:0,ext,INT/SP: Tring Sport 4 HD(AL),http://superstreams.tv:8080/live/nino/nino/30356.m3u8
+ext,INT/SP: VOO Sport 1 HD(BE),http://superstreams.tv:8080/live/nino/nino/30362.m3u8
+#EXTINF:0,ext,INT/SP: VOO Sport World 1 HD(BE),http://superstreams.tv:8080/live/nino/nino/30361.m3u8
+ext,INT/SP: Futbol 1 HD (UKR),http://superstreams.tv:8080/live/nino/nino/20950.m3u8
+#EXTINF:0,ext,INT/SP: Futbol 2 HD (UKR),http://superstreams.tv:8080/live/nino/nino/20949.m3u8
+ext,INT/SP: Fox Sports 2 (Asia),http://superstreams.tv:8080/live/nino/nino/12973.m3u8
+#EXTINF:0,ext,INT/SP: Fox Sports 3 (Asia),http://superstreams.tv:8080/live/nino/nino/12972.m3u8
+ext,INT/SP: Eleven Sports HD (pol),http://superstreams.tv:8080/live/nino/nino/12020.m3u8
+#EXTINF:0,ext,INT/SP: Eleven HD (pol),http://superstreams.tv:8080/live/nino/nino/12019.m3u8
+ext,INT/SP: Ziggo Sport Voetbal(nl),http://superstreams.tv:8080/live/nino/nino/13216.m3u8
+#EXTINF:0,ext,INT/SP: Ziggo Sport Select HD(nl),http://superstreams.tv:8080/live/nino/nino/13221.m3u8
+ext,INT/SP: Ziggo Sport Racing(nl),http://superstreams.tv:8080/live/nino/nino/13217.m3u8
+#EXTINF:0,ext,INT/SP: Ziggo Sport Golf(nl),http://superstreams.tv:8080/live/nino/nino/13218.m3u8
+ext,INT/SP: Ziggo Sport eXtra 2(nl),http://superstreams.tv:8080/live/nino/nino/13219.m3u8
+#EXTINF:0,ext,INT/SP: Ziggo Sport eXtra 1(nl),http://superstreams.tv:8080/live/nino/nino/13220.m3u8
+ext,INT/SP: C More Hockey HD,http://superstreams.tv:8080/live/nino/nino/12425.m3u8
+#EXTINF:0,ext,INT/SP: CMore Fotball,http://superstreams.tv:8080/live/nino/nino/13741.m3u8
+ext,INT/SP: TV2 SportKanalen,http://superstreams.tv:8080/live/nino/nino/12346.m3u8
+#EXTINF:0,ext,INT/SP: C More Sport HD,http://superstreams.tv:8080/live/nino/nino/11194.m3u8
+ext,INT/SP: NTV Sports HD,http://superstreams.tv:8080/live/nino/nino/11192.m3u8
+#EXTINF:0,ext,INT/SP: Canal  Futbol HD(esp),http://superstreams.tv:8080/live/nino/nino/13215.m3u8
+ext,INT/SP: Canal  Golf HD(esp),http://superstreams.tv:8080/live/nino/nino/13214.m3u8
+#EXTINF:0,ext,INT/SP: Canal  La Liga 2 HD(esp),http://superstreams.tv:8080/live/nino/nino/13212.m3u8
+ext,INT/SP: Canal  La Liga HD(esp),http://superstreams.tv:8080/live/nino/nino/13213.m3u8
+#EXTINF:0,ext,INT/SP: LE Sports NBA 4K/UHD (not 24/7),http://superstreams.tv:8080/live/nino/nino/15631.m3u8
+ext,INT/SP: LE Sports PGA Tour HD,http://superstreams.tv:8080/live/nino/nino/11165.m3u8
+#EXTINF:0,ext,INT/SP: LE Sports Football Plus HD,http://superstreams.tv:8080/live/nino/nino/11167.m3u8
+ext,INT/SP: LE S ports Golf Channel HD,http://superstreams.tv:8080/live/nino/nino/11166.m3u8
+#EXTINF:0,ext,INT/SP: Extreme Sports 1080p (pol),http://superstreams.tv:8080/live/nino/nino/25854.m3u8
+ext,INT/SP: Fox 43 HD,http://superstreams.tv:8080/live/nino/nino/15651.m3u8
+#EXTINF:0,ext,INT/SP: Fox Sports 1 HD asia.,http://superstreams.tv:8080/live/nino/nino/15632.m3u8
+ext,INT/SP: N sports HD 1080p (pol),http://superstreams.tv:8080/live/nino/nino/25853.m3u8
+#EXTINF:0,ext,INT/SP: Nova Sport HD (bg),http://superstreams.tv:8080/live/nino/nino/25852.m3u8
+ext,INT/SP: Diema Spor 1 HD (BG),http://superstreams.tv:8080/live/nino/nino/20952.m3u8
+#EXTINF:0,ext,INT/SP: Diema Spor 2 HD (UKR),http://superstreams.tv:8080/live/nino/nino/20951.m3u8
+ext,INT/SP: Eurosport 1 HD(DK),http://superstreams.tv:8080/live/nino/nino/25903.m3u8
+#EXTINF:0,ext,INT/SP: Eurosport 2 HD(DK),http://superstreams.tv:8080/live/nino/nino/25902.m3u8
+ext,INT/SP: FOX Sport HD 1080p(ITA),http://superstreams.tv:8080/live/nino/nino/25866.m3u8
+#EXTINF:0,ext,INT/SP: J Sports 1 HD (JAP),http://superstreams.tv:8080/live/nino/nino/25907.m3u8
+ext,INT/SP: J Sports 2 HD (JAP),http://superstreams.tv:8080/live/nino/nino/25906.m3u8
+#EXTINF:0,ext,INT/SP: MIO Astro Cricket HD 1080p,http://superstreams.tv:8080/live/nino/nino/25893.m3u8
+ext,INT/SP: Movistar Formula 1 HD 1080p (ESP),http://superstreams.tv:8080/live/nino/nino/25859.m3u8
+#EXTINF:0,ext,INT/SP: Movistar Fútbol HD 1080p (ESP),http://superstreams.tv:8080/live/nino/nino/25858.m3u8
+ext,INT/SP: Movistar Golf HD 1080p (ESP),http://superstreams.tv:8080/live/nino/nino/25857.m3u8
+#EXTINF:0,ext,INT/SP: Movistar MotoGP HD 1080p (ESP),http://superstreams.tv:8080/live/nino/nino/25856.m3u8
+ext,INT/SP: OSN Cricket HD 1080p,http://superstreams.tv:8080/live/nino/nino/25891.m3u8
+#EXTINF:0,ext,INT/SP: OSN TEN Cricket HD 1080p,http://superstreams.tv:8080/live/nino/nino/25892.m3u8
+ext,INT/SP: Sky Sport 1 HD 1080p(ITA),http://superstreams.tv:8080/live/nino/nino/25868.m3u8
+#EXTINF:0,ext,INT/SP: Sky Sport 2 HD 1080p(ITA),http://superstreams.tv:8080/live/nino/nino/25867.m3u8
+ext,INT/SP: Sky Sport 24 HD 1080p(ITA),http://superstreams.tv:8080/live/nino/nino/25864.m3u8
+#EXTINF:0,ext,INT/SP: Sky Sport F1 HD 1080p(ITA),http://superstreams.tv:8080/live/nino/nino/25865.m3u8
+ext,INT/SP: Sky Sport MotoGP HD IT(ITA),http://superstreams.tv:8080/live/nino/nino/25863.m3u8
+#EXTINF:0,ext,INT/SP: Sky Supercalcio HD 1080p(ITA),http://superstreams.tv:8080/live/nino/nino/25862.m3u8
+ext,INT/SP: Sky TG24 HD 1080p(ITA),http://superstreams.tv:8080/live/nino/nino/25861.m3u8
+#EXTINF:0,ext,INT/SP: Sony Six HD(IND),http://superstreams.tv:8080/live/nino/nino/25898.m3u8
+ext,INT/SP: Star Sports 1 HD(IND),http://superstreams.tv:8080/live/nino/nino/25897.m3u8
+#EXTINF:0,ext,INT/SP: Star Sports 2 HD(IND),http://superstreams.tv:8080/live/nino/nino/25896.m3u8
+ext,INT/SP: Star Sports 3 HD(IND),http://superstreams.tv:8080/live/nino/nino/25895.m3u8
+#EXTINF:0,ext,INT/SP: Star Sports 4 HD(IND),http://superstreams.tv:8080/live/nino/nino/25894.m3u8
+ext,INT/SP: Super Tennis HD 1080p(ITA),http://superstreams.tv:8080/live/nino/nino/25860.m3u8
+#EXTINF:0,ext,INT/SP: TV2 Sport HD(DK),http://superstreams.tv:8080/live/nino/nino/25901.m3u8
+ext,INT/SP: TV3 Sport 1 HD(DK),http://superstreams.tv:8080/live/nino/nino/25900.m3u8
+#EXTINF:0,ext,INT/SP: TV3 Sport 2 HD(DK),http://superstreams.tv:8080/live/nino/nino/25899.m3u8
+TV2Humor.no,TV 2 Humor,http://superstreams.tv:8080/live/nino/nino/12318.m3u8
+#EXTINF:0,TV2Livsstil.no,TV 2 Livsstil,http://superstreams.tv:8080/live/nino/nino/12317.m3u8
+TV2.dk,TV2,http://superstreams.tv:8080/live/nino/nino/12315.m3u8
+#EXTINF:0,TV2Nyhetskanalen.no,TV2 Nyhetskanalen,http://superstreams.tv:8080/live/nino/nino/12313.m3u8
+TV2Zebra.no,TV2 Zebra,http://superstreams.tv:8080/live/nino/nino/12316.m3u8
+#EXTINF:0,CMoreHits.se,C More Hits,http://superstreams.tv:8080/live/nino/nino/12319.m3u8
+ext,4K MOVIES (eng audio subtitles),http://superstreams.tv:8080/live/nino/nino/12329.m3u8
+#EXTINF:0,SFKanalen.no,SF Kanalen,http://superstreams.tv:8080/live/nino/nino/12314.m3u8
+ext,*VIP*: LE Sports HK 1 HD,http://superstreams.tv:8080/live/nino/nino/14939.m3u8
+#EXTINF:0,beINSPORTS.us,SPORT: Bein Sports US HD,http://superstreams.tv:8080/live/nino/nino/19199.m3u8
+ext,MATCH 1: NFL Sunday Ticket HD Live,http://superstreams.tv:8080/live/nino/nino/20907.m3u8
+#EXTINF:0,ext,MATCH 2: NFL Sunday Ticket HD Live,http://superstreams.tv:8080/live/nino/nino/20908.m3u8
+ext,MATCH 3: NFL Sunday Ticket HD Live,http://superstreams.tv:8080/live/nino/nino/20909.m3u8
+#EXTINF:0,ext,MATCH 4: NFL Sunday Ticket HD Live,http://superstreams.tv:8080/live/nino/nino/20910.m3u8
+ext,MATCH 5: NFL Sunday Ticket HD Live,http://superstreams.tv:8080/live/nino/nino/20911.m3u8
+#EXTINF:0,ext,MATCH 6: NFL Sunday Ticket HD Live,http://superstreams.tv:8080/live/nino/nino/20912.m3u8
+ext,MATCH 7: NFL Sunday Ticket HD Live,http://superstreams.tv:8080/live/nino/nino/20913.m3u8
+#EXTINF:0,ext,MATCH 8: NFL Sunday Ticket HD Live,http://superstreams.tv:8080/live/nino/nino/20914.m3u8
+ext,MATCH 9: NFL Sunday Ticket HD Live,http://superstreams.tv:8080/live/nino/nino/20915.m3u8
+#EXTINF:0,ext,MATCH 10: NFL Sunday Ticket HD Live,http://superstreams.tv:8080/live/nino/nino/20916.m3u8
+ext,MATCH 11: NFL Sunday Ticket HD Live,http://superstreams.tv:8080/live/nino/nino/20917.m3u8
+#EXTINF:0,ext,MATCH 12: NFL Sunday Ticket HD Live,http://superstreams.tv:8080/live/nino/nino/20918.m3u8
+ext,MATCH 13: NFL Sunday Ticket HD Live,http://superstreams.tv:8080/live/nino/nino/20919.m3u8
+#EXTINF:0,ext,MATCH 14: NFL Sunday Ticket HD Live,http://superstreams.tv:8080/live/nino/nino/20920.m3u8
+ext,MATCH 15: NFL Sunday Ticket HD Live,http://superstreams.tv:8080/live/nino/nino/20921.m3u8
+#EXTINF:0,ext,MATCH 1: NHL Center Ice HD Live,http://superstreams.tv:8080/live/nino/nino/20894.m3u8
+ext,MATCH 2: NHL Center Ice HD Live,http://superstreams.tv:8080/live/nino/nino/20895.m3u8
+#EXTINF:0,ext,MATCH 3: NHL Center Ice HD Live,http://superstreams.tv:8080/live/nino/nino/20896.m3u8
+ext,MATCH 4: NHL Center Ice HD Live,http://superstreams.tv:8080/live/nino/nino/20897.m3u8
+#EXTINF:0,ext,MATCH 5: NHL Center Ice HD Live,http://superstreams.tv:8080/live/nino/nino/20898.m3u8
+ext,MATCH 6: NHL Center Ice HD Live,http://superstreams.tv:8080/live/nino/nino/20899.m3u8
+#EXTINF:0,ext,MATCH 7: NHL Center Ice HD Live,http://superstreams.tv:8080/live/nino/nino/20900.m3u8
+ext,MATCH 8: NHL Center Ice HD Live,http://superstreams.tv:8080/live/nino/nino/20901.m3u8
+#EXTINF:0,ext,MATCH 9: NHL Center Ice HD Live,http://superstreams.tv:8080/live/nino/nino/20902.m3u8
+ext,MATCH 10: NHL Center Ice HD Live,http://superstreams.tv:8080/live/nino/nino/20903.m3u8
+#EXTINF:0,ext,NHL Center Ice Extra HD,http://superstreams.tv:8080/live/nino/nino/20904.m3u8
+ext,MATCH 12: NHL Center Ice HD Live,http://superstreams.tv:8080/live/nino/nino/20905.m3u8
+#EXTINF:0,ext,MATCH 13: NHL Center Ice HD Live,http://superstreams.tv:8080/live/nino/nino/20906.m3u8
+ext,MATCH 1: NBA League Pass HD Live,http://superstreams.tv:8080/live/nino/nino/20884.m3u8
+#EXTINF:0,ext,MATCH 2: NBA League Pass HD Live,http://superstreams.tv:8080/live/nino/nino/20885.m3u8
+ext,MATCH 3: NBA League Pass HD Live,http://superstreams.tv:8080/live/nino/nino/20886.m3u8
+#EXTINF:0,ext,MATCH 4: NBA League Pass HD Live,http://superstreams.tv:8080/live/nino/nino/20887.m3u8
+ext,MATCH 5: NBA League Pass HD Live,http://superstreams.tv:8080/live/nino/nino/20888.m3u8
+#EXTINF:0,ext,MATCH 6: NBA League Pass HD Live,http://superstreams.tv:8080/live/nino/nino/20889.m3u8
+ext,MATCH 7: NBA League Pass HD Live,http://superstreams.tv:8080/live/nino/nino/20890.m3u8
+#EXTINF:0,ext,MATCH 8: NBA League Pass HD Live,http://superstreams.tv:8080/live/nino/nino/20891.m3u8
+ext,MATCH 9: NBA League Pass HD Live,http://superstreams.tv:8080/live/nino/nino/20892.m3u8
+#EXTINF:0,ext,MATCH 10: NBA League Pass HD Live,http://superstreams.tv:8080/live/nino/nino/20893.m3u8
+ext,MATCH 1: MLB Extra Innings HD Live,http://superstreams.tv:8080/live/nino/nino/20883.m3u8
+#EXTINF:0,ext,MATCH 2: MLB Extra Innings HD Live,http://superstreams.tv:8080/live/nino/nino/20875.m3u8
+ext,MATCH 3: MLB Extra Innings HD Live,http://superstreams.tv:8080/live/nino/nino/20874.m3u8
+#EXTINF:0,ext,MATCH 4: MLB Extra Innings HD Live,http://superstreams.tv:8080/live/nino/nino/20873.m3u8
+ext,MATCH 5: MLB Extra Innings HD Live,http://superstreams.tv:8080/live/nino/nino/20872.m3u8
+#EXTINF:0,ext,MATCH 6: MLB Extra Innings HD Live,http://superstreams.tv:8080/live/nino/nino/20871.m3u8
+ext,MATCH 7: MLB Extra Innings HD Live,http://superstreams.tv:8080/live/nino/nino/20870.m3u8
+#EXTINF:0,ext,MATCH 8: MLB Extra Innings HD Live,http://superstreams.tv:8080/live/nino/nino/20869.m3u8
+ext,MATCH 9: MLB Extra Innings HD Live,http://superstreams.tv:8080/live/nino/nino/20868.m3u8
+#EXTINF:0,ext,MATCH 10: MLB Extra Innings HD Live,http://superstreams.tv:8080/live/nino/nino/20882.m3u8
+ext,MATCH 11: MLB Extra Innings HD Live,http://superstreams.tv:8080/live/nino/nino/20881.m3u8
+#EXTINF:0,ext,MATCH 12: MLB Extra Innings HD Live,http://superstreams.tv:8080/live/nino/nino/20880.m3u8
+ext,MATCH 13: MLB Extra Innings HD Live,http://superstreams.tv:8080/live/nino/nino/20879.m3u8
+#EXTINF:0,ext,MATCH 14: MLB Extra Innings HD Live,http://superstreams.tv:8080/live/nino/nino/20878.m3u8
+ext,MATCH 15: MLB Extra Innings HD Live,http://superstreams.tv:8080/live/nino/nino/20877.m3u8
+#EXTINF:0,ext,MATCH 16: MLB Extra Innings HD Live,http://superstreams.tv:8080/live/nino/nino/20876.m3u8
+ext,SPORT: USA PAC-12 Arizona HD 1080p,http://superstreams.tv:8080/live/nino/nino/20943.m3u8
+#EXTINF:0,ext,SPORT: USA PAC-12 Los Angeles HD 1080p,http://superstreams.tv:8080/live/nino/nino/20941.m3u8
+ext,SPORT: USA PAC-12 Oregon HD 1080p,http://superstreams.tv:8080/live/nino/nino/20939.m3u8
+#EXTINF:0,ext,SPORT: USA PAC-12 Washington HD,http://superstreams.tv:8080/live/nino/nino/20944.m3u8
+ext,SPORT: USA PAC-12 Washington HD 1080p,http://superstreams.tv:8080/live/nino/nino/20938.m3u8
+#EXTINF:0,ext,REAL OPEN FIREPLACE,http://superstreams.tv:8080/live/nino/nino/26598.m3u8
+ext,TV2  Nyhetskanalen HD 2,http://superstreams.tv:8080/live/nino/nino/20929.m3u8
+#EXTINF:0,ext,TV2 CMore First HD,http://superstreams.tv:8080/live/nino/nino/20925.m3u8
+ext,TV2 CMore Hits HD,http://superstreams.tv:8080/live/nino/nino/20924.m3u8
+#EXTINF:0,ext,TV2 Humor HD,http://superstreams.tv:8080/live/nino/nino/20932.m3u8
+ext,TV2 Livsstil HD,http://superstreams.tv:8080/live/nino/nino/20930.m3u8
+#EXTINF:0,ext,TV2 Livsstil HD 2,http://superstreams.tv:8080/live/nino/nino/20926.m3u8
+ext,TV2 Nyhetskanalen HD,http://superstreams.tv:8080/live/nino/nino/20933.m3u8
+#EXTINF:0,ext,TV2 SF Kanalen HD (Swedish),http://superstreams.tv:8080/live/nino/nino/20927.m3u8
+ext,TV2 Sportskanalen HD 2,http://superstreams.tv:8080/live/nino/nino/20931.m3u8
+#EXTINF:0,ext,TV2 Zebra HD,http://superstreams.tv:8080/live/nino/nino/20934.m3u8
+ext,TV2 Zebra HD 2,http://superstreams.tv:8080/live/nino/nino/20928.m3u8
+#EXTINF:0,ext,BBC Radio 1,http://superstreams.tv:8080/live/nino/nino/14469.m3u8
+ext,BBC Radio 1xtra,http://superstreams.tv:8080/live/nino/nino/14470.m3u8
+#EXTINF:0,ext,BBC - Radio 1 Extra,http://superstreams.tv:8080/live/nino/nino/12116.m3u8
+ext,BBC Radio 2,http://superstreams.tv:8080/live/nino/nino/14471.m3u8
+#EXTINF:0,ext,BBC - Radio 2,http://superstreams.tv:8080/live/nino/nino/12111.m3u8
+ext,BBC Radio 3,http://superstreams.tv:8080/live/nino/nino/14472.m3u8
+#EXTINF:0,ext,BBC - Radio 3,http://superstreams.tv:8080/live/nino/nino/12112.m3u8
+ext,BBC Radio 4 Extra,http://superstreams.tv:8080/live/nino/nino/14475.m3u8
+#EXTINF:0,ext,BBC Radio 4FM,http://superstreams.tv:8080/live/nino/nino/14473.m3u8
+ext,BBC Radio 4LW,http://superstreams.tv:8080/live/nino/nino/14474.m3u8
+#EXTINF:0,ext,BBC - Radio 4,http://superstreams.tv:8080/live/nino/nino/12113.m3u8
+ext,BBC - Radio 4 Extra,http://superstreams.tv:8080/live/nino/nino/12117.m3u8
+#EXTINF:0,ext,BBC Radio 5 Live,http://superstreams.tv:8080/live/nino/nino/14476.m3u8
+ext,BBC - Radio 5 live,http://superstreams.tv:8080/live/nino/nino/12114.m3u8
+#EXTINF:0,ext,BBC - Radio 5 Live sports extra,http://superstreams.tv:8080/live/nino/nino/12118.m3u8
+ext,BBC Radio 5 Live Sportsball Extra,http://superstreams.tv:8080/live/nino/nino/14477.m3u8
+#EXTINF:0,ext,BBC Radio 6 Music,http://superstreams.tv:8080/live/nino/nino/14478.m3u8
+ext,BBC - Radio 6,http://superstreams.tv:8080/live/nino/nino/12115.m3u8
+#EXTINF:0,ext,BBC - Radio Asian Network,http://superstreams.tv:8080/live/nino/nino/12119.m3u8
+ext,BBC Asian Network,http://superstreams.tv:8080/live/nino/nino/14479.m3u8
+#EXTINF:0,ext,BBC Radio Scotland,http://superstreams.tv:8080/live/nino/nino/14481.m3u8
+ext,BBC Radio Ulster,http://superstreams.tv:8080/live/nino/nino/14482.m3u8
+#EXTINF:0,ext,BBC Radio Wales,http://superstreams.tv:8080/live/nino/nino/14483.m3u8
+ext,BBC World Service UK,http://superstreams.tv:8080/live/nino/nino/14480.m3u8
+#EXTINF:0,ext,Alba HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31125.m3u8
+ext,BBC - Radio 1,http://superstreams.tv:8080/live/nino/nino/12110.m3u8
+#EXTINF:0,ext,beIN Movies 1 HD,http://superstreams.tv:8080/live/nino/nino/31071.m3u8
+ext,beIN Movies 2 HD,http://superstreams.tv:8080/live/nino/nino/31070.m3u8
+#EXTINF:0,ext,beIN Movies 3 HD,http://superstreams.tv:8080/live/nino/nino/31069.m3u8
+ext,beIN Movies 4 HD,http://superstreams.tv:8080/live/nino/nino/31068.m3u8
+#EXTINF:0,DR1.dk,DR 1,http://dr01-lh.akamaihd.net/i/dr01_0@147054/index_6_av-p.m3u8?sd=10&rebase=on
+DR2.dk,DR 2,http://dr02-lh.akamaihd.net/i/dr02_0@147055/master.m3u8
+#EXTINF:0,DR3.dk,DR 3,http://dr03-lh.akamaihd.net/i/dr03_0@147056/master.m3u8
+MTV.uk,MTV SD,http://superstreams.tv:8080/live/nino/nino/32172.m3u8
+#EXTINF:0,ext,OSN Animal Planet HD,http://superstreams.tv:8080/live/nino/nino/31034.m3u8
+ext,OSN Baby TV HD,http://superstreams.tv:8080/live/nino/nino/31039.m3u8
+#EXTINF:0,ext,OSN Box Office 1 HD,http://superstreams.tv:8080/live/nino/nino/31067.m3u8
+ext,OSN Box Office 2 HD,http://superstreams.tv:8080/live/nino/nino/31066.m3u8
+#EXTINF:0,ext,OSN Box Office 3 HD,http://superstreams.tv:8080/live/nino/nino/31065.m3u8
+ext,OSN Discovery Family HD,http://superstreams.tv:8080/live/nino/nino/31038.m3u8
+#EXTINF:0,ext,OSN Discovery HD,http://superstreams.tv:8080/live/nino/nino/31037.m3u8
+ext,OSN Discovery ID Xtra HD,http://superstreams.tv:8080/live/nino/nino/31036.m3u8
+#EXTINF:0,ext,OSN Discovery Science HD,http://superstreams.tv:8080/live/nino/nino/31035.m3u8
+ext,OSN Disney Channel HD,http://superstreams.tv:8080/live/nino/nino/31044.m3u8
+#EXTINF:0,ext,OSN Disney Junior HD,http://superstreams.tv:8080/live/nino/nino/31043.m3u8
+ext,OSN Disney XD HD,http://superstreams.tv:8080/live/nino/nino/31042.m3u8
+#EXTINF:0,ext,OSN Fox Action Movies HD,http://superstreams.tv:8080/live/nino/nino/31046.m3u8
+ext,OSN Fox Family Movies HD,http://superstreams.tv:8080/live/nino/nino/31045.m3u8
+#EXTINF:0,ext,OSN H2 HD,http://superstreams.tv:8080/live/nino/nino/31030.m3u8
+ext,OSN History HD,http://superstreams.tv:8080/live/nino/nino/31029.m3u8
+#EXTINF:0,ext,OSN Movies 2 HD,http://superstreams.tv:8080/live/nino/nino/31047.m3u8
+ext,OSN Movies Action 2 HD,http://superstreams.tv:8080/live/nino/nino/31057.m3u8
+#EXTINF:0,OSNMoviesAction.net,OSN Movies Action HD,http://superstreams.tv:8080/live/nino/nino/31058.m3u8
+OSNMoviesComedy.net,OSN Movies Comedy HD,http://superstreams.tv:8080/live/nino/nino/31056.m3u8
+#EXTINF:0,OSNMoviesFamily.net,OSN Movies Family HD,http://superstreams.tv:8080/live/nino/nino/31053.m3u8
+OSNMoviesFestival.net,OSN Movies Festival HD,http://superstreams.tv:8080/live/nino/nino/31051.m3u8
+#EXTINF:0,ext,OSN Movies First 2 HD,http://superstreams.tv:8080/live/nino/nino/31049.m3u8
+ext,OSN Movies First HD,http://superstreams.tv:8080/live/nino/nino/31050.m3u8
+#EXTINF:0,OSNMovies.net,OSN Movies HD,http://superstreams.tv:8080/live/nino/nino/31048.m3u8
+ext,OSN Movies Kids HD,http://superstreams.tv:8080/live/nino/nino/31052.m3u8
+#EXTINF:0,ext,OSN Movies Premier HD,http://superstreams.tv:8080/live/nino/nino/31060.m3u8
+ext,OSN Movies Premier HD  2,http://superstreams.tv:8080/live/nino/nino/31059.m3u8
+#EXTINF:0,ext,OSN Movies Thriller HD,http://superstreams.tv:8080/live/nino/nino/31055.m3u8
+ext,OSN Nat Geo People HD,http://superstreams.tv:8080/live/nino/nino/31033.m3u8
+#EXTINF:0,ext,OSN Nat Geo Wild HD,http://superstreams.tv:8080/live/nino/nino/31032.m3u8
+ext,OSN National Geographic HD,http://superstreams.tv:8080/live/nino/nino/31031.m3u8
+#EXTINF:0,ext,OSN Nick Junior HD,http://superstreams.tv:8080/live/nino/nino/31041.m3u8
+ext,OSN Nickelodeon HD,http://superstreams.tv:8080/live/nino/nino/31040.m3u8
+#EXTINF:0,ext,OSN On Demand Extra 2 HD,http://superstreams.tv:8080/live/nino/nino/31072.m3u8
+ext,OSN On Demand Extra 3 HD,http://superstreams.tv:8080/live/nino/nino/31073.m3u8
+#EXTINF:0,ext,OSN On Demand Extra HD,http://superstreams.tv:8080/live/nino/nino/31061.m3u8
+ext,OSN ON Demande 1 HD,http://superstreams.tv:8080/live/nino/nino/31064.m3u8
+#EXTINF:0,ext,OSN ON Demande 2 HD,http://superstreams.tv:8080/live/nino/nino/31063.m3u8
+ext,OSN ON Demande 3 HD,http://superstreams.tv:8080/live/nino/nino/31062.m3u8
+#EXTINF:0,ext,OSN SyFy HD,http://superstreams.tv:8080/live/nino/nino/31028.m3u8
+ext,OSN TLC HD,http://superstreams.tv:8080/live/nino/nino/31027.m3u8
+#EXTINF:0,ext,RADIO: BBC RADIO 1,http://superstreams.tv:8080/live/nino/nino/9274.m3u8
+ext,RADIO: BBC RADIO 1 XTRA,http://superstreams.tv:8080/live/nino/nino/9275.m3u8
+#EXTINF:0,ext,RADIO: BBC RADIO 2,http://superstreams.tv:8080/live/nino/nino/9276.m3u8
+ext,RADIO: BBC RADIO 5 LIVE,http://superstreams.tv:8080/live/nino/nino/9277.m3u8
+#EXTINF:0,ext,RADIO: BBC RADIO 5 LIVE XTRA,http://superstreams.tv:8080/live/nino/nino/9278.m3u8
+ext,Sky Cinema Box Office 4 FHD,http://superstreams.tv:8080/live/nino/nino/25532.m3u8
+#EXTINF:0,ext,TV2 TO NAME 12,http://superstreams.tv:8080/live/nino/nino/20923.m3u8
+ext,TV2 TO NAME 13,http://superstreams.tv:8080/live/nino/nino/20922.m3u8
+#EXTINF:0,ext,US: Dish Cinema 1 HD,http://superstreams.tv:8080/live/nino/nino/32770.m3u8
+ext,US: Dish Cinema 2 HD,http://superstreams.tv:8080/live/nino/nino/32769.m3u8
+#EXTINF:0,ext,US: Dish Cinema 3 HD,http://superstreams.tv:8080/live/nino/nino/32768.m3u8
+ext,US: Dish Cinema 4 HD,http://superstreams.tv:8080/live/nino/nino/32767.m3u8
+#EXTINF:0,ext,US: Fox Sports Arizona,http://superstreams.tv:8080/live/nino/nino/32771.m3u8
+ext,US: NBC Sports Bay Area Plus,http://superstreams.tv:8080/live/nino/nino/32773.m3u8
+#EXTINF:0,ext,US: YES Network HD USA,http://superstreams.tv:8080/live/nino/nino/32774.m3u8
+ext,VIP beIN: Extreme Sports,http://superstreams.tv:8080/live/nino/nino/32772.m3u8
+#EXTINF:0,Eurosport2.uk,VIP: British Eurosport 2 HD,http://superstreams.tv:8080/live/nino/nino/31200.m3u8
+Eurosport1.uk,VIP: British Eurosport HD,http://superstreams.tv:8080/live/nino/nino/31201.m3u8
+#EXTINF:0,ext,VIP: Eurosport Player 1 HD,http://superstreams.tv:8080/live/nino/nino/31110.m3u8
+ext,VIP: Eurosport Player 2 HD,http://superstreams.tv:8080/live/nino/nino/31109.m3u8
+#EXTINF:0,ext,VIP: Eurosport Player 3 HD,http://superstreams.tv:8080/live/nino/nino/31108.m3u8
+ext,VIP: Eurosport Player 4 HD,http://superstreams.tv:8080/live/nino/nino/31107.m3u8
+#EXTINF:0,ext,VIP: Eurosport Player 5 HD,http://superstreams.tv:8080/live/nino/nino/31106.m3u8
+ext,VIP: Eurosport Player 6 HD,http://superstreams.tv:8080/live/nino/nino/31105.m3u8
+#EXTINF:0,ext,VIP: Eurosport Player 7 HD,http://superstreams.tv:8080/live/nino/nino/31104.m3u8
+ext,VIP: Fox Soccer Plus HD US,http://superstreams.tv:8080/live/nino/nino/30368.m3u8
+#EXTINF:0,ext,SKY NEWS DIRECT TEST,http://superstreams.tv:8080/live/nino/nino/42321.m3u8
+ext,Season Ticket Live 1 HD,http://superstreams.tv:8080/live/nino/nino/44201.m3u8
+#EXTINF:0,ext,Season Ticket Live 2 HD,http://superstreams.tv:8080/live/nino/nino/44200.m3u8
+ext,Season Ticket Live 3 HD,http://superstreams.tv:8080/live/nino/nino/44199.m3u8
+#EXTINF:0,ext,Season Ticket Live 4 HD,http://superstreams.tv:8080/live/nino/nino/44198.m3u8
+ext,Season Ticket Live 5 HD,http://superstreams.tv:8080/live/nino/nino/44197.m3u8
+#EXTINF:0,ext,Season Ticket Live 6 HD,http://superstreams.tv:8080/live/nino/nino/44196.m3u8
+ext,Season Ticket Live 7 HD,http://superstreams.tv:8080/live/nino/nino/44195.m3u8
+#EXTINF:0,ext,Season Ticket Live 8 HD,http://superstreams.tv:8080/live/nino/nino/44194.m3u8
+ext,Season Ticket Live 9 HD,http://superstreams.tv:8080/live/nino/nino/44193.m3u8
+#EXTINF:0,ext,Season Ticket Live 10 HD,http://superstreams.tv:8080/live/nino/nino/44192.m3u8
+ext,Season Ticket Live 11 HD,http://superstreams.tv:8080/live/nino/nino/44191.m3u8
+#EXTINF:0,ext,Season Ticket Live 12 HD,http://superstreams.tv:8080/live/nino/nino/44190.m3u8
+ext,Season Ticket Live 13 HD,http://superstreams.tv:8080/live/nino/nino/44189.m3u8
+#EXTINF:0,ext,Season Ticket Live 14 HD,http://superstreams.tv:8080/live/nino/nino/44188.m3u8
+ext,Season Ticket Live 15 HD,http://superstreams.tv:8080/live/nino/nino/44187.m3u8
+#EXTINF:0,ext,4K SPORT: Fox Sports 1 4K/FHD,http://superstreams.tv:8080/live/nino/nino/43926.m3u8
+ext,4K SPORT: Fox Sports 2 4K,http://superstreams.tv:8080/live/nino/nino/43925.m3u8
+#EXTINF:0,ext,4K SPORT: Fox Sports 3 4K,http://superstreams.tv:8080/live/nino/nino/43924.m3u8
+ext,4K SPORT: Fox Sports 4 4K (nl),http://superstreams.tv:8080/live/nino/nino/43923.m3u8
+#EXTINF:0,ext,4K SPORT: Fox Sports 5 4K/FHD,http://superstreams.tv:8080/live/nino/nino/43922.m3u8
+ext,4K/UHD: Eurosport 1 4K 4K/FHD,http://superstreams.tv:8080/live/nino/nino/43916.m3u8
+#EXTINF:0,ext,4K/UHD: Eurosport 2 4K 4K/FHD,http://superstreams.tv:8080/live/nino/nino/43915.m3u8
+ext,4K/UHD: Fox Sports 6 4K (nl),http://superstreams.tv:8080/live/nino/nino/43921.m3u8
+#EXTINF:0,ext,4K/UHD: Ziggo Sport Golf 4K (nl),http://superstreams.tv:8080/live/nino/nino/43917.m3u8
+ext,4K/UHD: Ziggo Sport Racing 4K/FHD,http://superstreams.tv:8080/live/nino/nino/43918.m3u8
+#EXTINF:0,ext,4K/UHD: Ziggo Sport Select 4K (nl),http://superstreams.tv:8080/live/nino/nino/43920.m3u8
+ext,4K/UHD: Ziggo Sport Voetbal 4K (nl),http://superstreams.tv:8080/live/nino/nino/43919.m3u8
+#EXTINF:0,ext,Al Jazeera English HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31114.m3u8
+ext,BBC ALBA (iplayer),http://superstreams.tv:8080/live/nino/nino/31171.m3u8
+#EXTINF:0,ext,BBC Four HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31130.m3u8
+ext,BBC News HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31127.m3u8
+#EXTINF:0,ext,BBC One Cambridge (iplayer),http://superstreams.tv:8080/live/nino/nino/31169.m3u8
+ext,BBC One Channel Islands (iplayer),http://superstreams.tv:8080/live/nino/nino/31157.m3u8
+#EXTINF:0,ext,BBC One East (iplayer),http://superstreams.tv:8080/live/nino/nino/31158.m3u8
+ext,BBC One East Midlands (iplayer),http://superstreams.tv:8080/live/nino/nino/31159.m3u8
+#EXTINF:0,ext,BBC One East Yorkshire (iplayer),http://superstreams.tv:8080/live/nino/nino/31163.m3u8
+ext,BBC One HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31132.m3u8
+#EXTINF:0,ext,BBC One London HD (iplayer),http://superstreams.tv:8080/live/nino/nino/31178.m3u8
+ext,BBC One North East (iplayer),http://superstreams.tv:8080/live/nino/nino/31167.m3u8
+#EXTINF:0,ext,BBC One North West (iplayer),http://superstreams.tv:8080/live/nino/nino/31168.m3u8
+ext,BBC One Northern Ireland HD (iplayer),http://superstreams.tv:8080/live/nino/nino/31177.m3u8
+#EXTINF:0,ext,BBC One Oxford (iplayer),http://superstreams.tv:8080/live/nino/nino/31160.m3u8
+ext,BBC One Scotland HD (iplayer),http://superstreams.tv:8080/live/nino/nino/31176.m3u8
+#EXTINF:0,ext,BBC One South (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31164.m3u8
+ext,BBC One South East (iplayer),http://superstreams.tv:8080/live/nino/nino/31165.m3u8
+#EXTINF:0,ext,BBC One South West (iplayer),http://superstreams.tv:8080/live/nino/nino/31166.m3u8
+ext,BBC One West (iplayer),http://superstreams.tv:8080/live/nino/nino/31161.m3u8
+#EXTINF:0,ext,BBC One Yorks (iplayer),http://superstreams.tv:8080/live/nino/nino/31162.m3u8
+ext,BBC Parliament (iplayer),http://superstreams.tv:8080/live/nino/nino/31172.m3u8
+#EXTINF:0,ext,BBC Parliament HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31126.m3u8
+ext,BBC Red Button 1 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31156.m3u8
+#EXTINF:0,ext,BBC Red Button 10 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31147.m3u8
+ext,BBC Red Button 11 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31146.m3u8
+#EXTINF:0,ext,BBC Red Button 12 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31145.m3u8
+ext,BBC Red Button 13 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31144.m3u8
+#EXTINF:0,ext,BBC Red Button 14 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31143.m3u8
+ext,BBC Red Button 15 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31142.m3u8
+#EXTINF:0,ext,BBC Red Button 16 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31141.m3u8
+ext,BBC Red Button 17 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31140.m3u8
+#EXTINF:0,ext,BBC Red Button 18 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31139.m3u8
+ext,BBC Red Button 19 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31138.m3u8
+#EXTINF:0,ext,BBC Red Button 2 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31155.m3u8
+ext,BBC Red Button 20 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31137.m3u8
+#EXTINF:0,ext,BBC Red Button 21 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31136.m3u8
+ext,BBC Red Button 22 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31135.m3u8
+#EXTINF:0,ext,BBC Red Button 23 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31134.m3u8
+ext,BBC Red Button 24 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31133.m3u8
+#EXTINF:0,ext,BBC Red Button 3 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31154.m3u8
+ext,BBC Red Button 4 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31153.m3u8
+#EXTINF:0,ext,BBC Red Button 5 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31152.m3u8
+ext,BBC Red Button 6 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31151.m3u8
+#EXTINF:0,ext,BBC Red Button 7 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31150.m3u8
+ext,BBC Red Button 8 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31149.m3u8
+#EXTINF:0,ext,BBC Red Button 9 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31148.m3u8
+ext,BBC Two HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31131.m3u8
+#EXTINF:0,ext,BBC Two Northen Ireland (iplayer),http://superstreams.tv:8080/live/nino/nino/31174.m3u8
+ext,BBC Two Scotland (iplayer),http://superstreams.tv:8080/live/nino/nino/31173.m3u8
+#EXTINF:0,ext,BBC Two Wales (iplayer),http://superstreams.tv:8080/live/nino/nino/31175.m3u8
+ext,BesTV Live EPL Match 1 HD,http://superstreams.tv:8080/live/nino/nino/44090.m3u8
+#EXTINF:0,ext,BesTV Live EPL Match 2 HD,http://superstreams.tv:8080/live/nino/nino/44089.m3u8
+ext,BesTV Live EPL Match 3 HD,http://superstreams.tv:8080/live/nino/nino/44088.m3u8
+#EXTINF:0,ext,BesTV Live EPL Match 4 HD,http://superstreams.tv:8080/live/nino/nino/44087.m3u8
+ext,BesTV Live EPL Match 5 HD,http://superstreams.tv:8080/live/nino/nino/44086.m3u8
+#EXTINF:0,ext,BesTV Live EPL Match 6 HD,http://superstreams.tv:8080/live/nino/nino/44085.m3u8
+ext,BesTV Live EPL Match 7 HD,http://superstreams.tv:8080/live/nino/nino/44084.m3u8
+#EXTINF:0,ext,BesTV Live EPL Match 8 HD,http://superstreams.tv:8080/live/nino/nino/44083.m3u8
+ext,Boxnation FHD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31179.m3u8
+#EXTINF:0,BoxNation.uk,Boxnation FHD*,http://superstreams.tv:8080/live/nino/nino/12121.m3u8
+ext,Boxnation. HD 1080p,http://superstreams.tv:8080/live/nino/nino/569.m3u8
+#EXTINF:0,ext,CBBC HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31129.m3u8
+ext,Cbeebies HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31128.m3u8
+#EXTINF:0,ext,Channel 4 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31113.m3u8
+ext,Channel 5 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31112.m3u8
+#EXTINF:0,Channeli.uk,Channel i,http://superstreams.tv:8080/live/nino/nino/44095.m3u8
+Channels24.uk,Channels 24,http://superstreams.tv:8080/live/nino/nino/44094.m3u8
+#EXTINF:0,ext,Chelsea TV HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31115.m3u8
+ext,CITV HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31118.m3u8
+#EXTINF:0,ext,Euro Sport 1 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31117.m3u8
+ext,INT/SP: beIN Sports 1 HD True Visions,http://superstreams.tv:8080/live/nino/nino/25848.m3u8
+#EXTINF:0,ext,INT/SP: beIN Sports 2 HD True Visions,http://superstreams.tv:8080/live/nino/nino/25849.m3u8
+ext,INT/SP: beIN Sports 3 HD True Visions,http://superstreams.tv:8080/live/nino/nino/25850.m3u8
+#EXTINF:0,ext,INT/SP: beIN Sports 4 HD True Visions,http://superstreams.tv:8080/live/nino/nino/25851.m3u8
+ext,ITV 1 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31123.m3u8
+#EXTINF:0,ext,ITV 2 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31122.m3u8
+ext,ITV 3 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31121.m3u8
+#EXTINF:0,ext,ITV 4 HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31120.m3u8
+ext,ITV BE HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31119.m3u8
+#EXTINF:0,ext,LIVE: EPL Match 1 HD,http://superstreams.tv:8080/live/nino/nino/20834.m3u8
+ext,LIVE: NASA Space Cam 24/7,http://superstreams.tv:8080/live/nino/nino/19266.m3u8
+#EXTINF:0,ext,LIVE: Shark Cam 24/7,http://superstreams.tv:8080/live/nino/nino/19265.m3u8
+ext,LIVE: The Northern Lights Cam 24/7,http://superstreams.tv:8080/live/nino/nino/19263.m3u8
+#EXTINF:0,ext,LIVE: Tropical Reef Cam 24/7,http://superstreams.tv:8080/live/nino/nino/19264.m3u8
+ext,London Live HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31111.m3u8
+#EXTINF:0,ext,MATCH 8: NBC Sports Live Extra HD Live,http://superstreams.tv:8080/live/nino/nino/14230.m3u8
+ext,MY: Skynet Edge Sports HD,http://superstreams.tv:8080/live/nino/nino/32746.m3u8
+#EXTINF:0,ext,MY: Skynet Euro Sport HD,http://superstreams.tv:8080/live/nino/nino/32745.m3u8
+ext,MY: Skynet Euro Sports News HD,http://superstreams.tv:8080/live/nino/nino/32744.m3u8
+#EXTINF:0,ext,MY: Skynet Fight Sports HD,http://superstreams.tv:8080/live/nino/nino/32747.m3u8
+ext,MY: Skynet FOX Sports 1 HD,http://superstreams.tv:8080/live/nino/nino/32751.m3u8
+#EXTINF:0,ext,MY: Skynet FOX Sports 2 HD,http://superstreams.tv:8080/live/nino/nino/32750.m3u8
+ext,MY: Skynet FOX Sports 3 HD,http://superstreams.tv:8080/live/nino/nino/32749.m3u8
+#EXTINF:0,ext,MY: Skynet FOX Sports News HD,http://superstreams.tv:8080/live/nino/nino/32748.m3u8
+ext,MY: Skynet Sports 1,http://superstreams.tv:8080/live/nino/nino/32758.m3u8
+#EXTINF:0,ext,MY: Skynet Sports 2,http://superstreams.tv:8080/live/nino/nino/32757.m3u8
+ext,MY: Skynet Sports 3,http://superstreams.tv:8080/live/nino/nino/32756.m3u8
+#EXTINF:0,ext,MY: Skynet Sports 4,http://superstreams.tv:8080/live/nino/nino/32755.m3u8
+ext,MY: Skynet Sports 5,http://superstreams.tv:8080/live/nino/nino/32754.m3u8
+#EXTINF:0,ext,MY: Skynet Sports 6,http://superstreams.tv:8080/live/nino/nino/32753.m3u8
+ext,MY: Skynet Sports FHD,http://superstreams.tv:8080/live/nino/nino/32761.m3u8
+#EXTINF:0,ext,MY: Skynet Sports Golf HD,http://superstreams.tv:8080/live/nino/nino/32752.m3u8
+ext,MY: Skynet Sports HD,http://superstreams.tv:8080/live/nino/nino/32760.m3u8
+#EXTINF:0,ext,MY: Skynet Sports Plus HD,http://superstreams.tv:8080/live/nino/nino/32759.m3u8
+ext,NASA TV USA HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31116.m3u8
+#EXTINF:0,ext,NBC Sports Live Extra 1 HD,http://superstreams.tv:8080/live/nino/nino/12792.m3u8
+ext,NBC Sports Live Extra 2 HD,http://superstreams.tv:8080/live/nino/nino/12790.m3u8
+#EXTINF:0,ext,NBC Sports Live Extra 3 HD,http://superstreams.tv:8080/live/nino/nino/12788.m3u8
+ext,NBC Sports Live Extra 4 HD,http://superstreams.tv:8080/live/nino/nino/12786.m3u8
+#EXTINF:0,ext,NBC Sports Live Extra 5 HD,http://superstreams.tv:8080/live/nino/nino/12784.m3u8
+ext,NBC Sports Live Extra 6 HD,http://superstreams.tv:8080/live/nino/nino/12782.m3u8
+#EXTINF:0,ext,NBCSN Extra Time 1 HD,http://superstreams.tv:8080/live/nino/nino/43379.m3u8
+ext,NBCSN Extra Time 2 HD,http://superstreams.tv:8080/live/nino/nino/43378.m3u8
+#EXTINF:0,ext,NBCSN Extra Time 3 HD,http://superstreams.tv:8080/live/nino/nino/43377.m3u8
+ext,NBCSN Extra Time 4 HD,http://superstreams.tv:8080/live/nino/nino/43376.m3u8
+#EXTINF:0,ext,NBCSN Extra Time 5 HD,http://superstreams.tv:8080/live/nino/nino/43375.m3u8
+ext,NBCSN: E.P.L Live Xtra 1 HD,http://superstreams.tv:8080/live/nino/nino/43390.m3u8
+#EXTINF:0,ext,NBCSN: E.P.L Live Xtra 10 HD,http://superstreams.tv:8080/live/nino/nino/43381.m3u8
+ext,NBCSN: E.P.L Live Xtra 11 HD,http://superstreams.tv:8080/live/nino/nino/43380.m3u8
+#EXTINF:0,ext,NBCSN: E.P.L Live Xtra 2 HD,http://superstreams.tv:8080/live/nino/nino/43389.m3u8
+ext,NBCSN: E.P.L Live Xtra 3 HD,http://superstreams.tv:8080/live/nino/nino/43388.m3u8
+#EXTINF:0,ext,NBCSN: E.P.L Live Xtra 4 HD,http://superstreams.tv:8080/live/nino/nino/43387.m3u8
+ext,NBCSN: E.P.L Live Xtra 5 HD,http://superstreams.tv:8080/live/nino/nino/43386.m3u8
+#EXTINF:0,ext,NBCSN: E.P.L Live Xtra 6 HD,http://superstreams.tv:8080/live/nino/nino/43385.m3u8
+ext,NBCSN: E.P.L Live Xtra 7 HD,http://superstreams.tv:8080/live/nino/nino/43384.m3u8
+#EXTINF:0,ext,NBCSN: E.P.L Live Xtra 8 HD,http://superstreams.tv:8080/live/nino/nino/43383.m3u8
+ext,NBCSN: E.P.L Live Xtra 9 HD,http://superstreams.tv:8080/live/nino/nino/43382.m3u8
+#EXTINF:0,QuestRedPlus1.uk,Quest Red +1,http://superstreams.tv:8080/live/nino/nino/44093.m3u8
+ext,REPLAY: Floyd Mayweather vs Conor Mcgregor,http://superstreams.tv:8080/live/nino/nino/44081.m3u8
+#EXTINF:0,ext,RUV 1,http://superstreams.tv:8080/live/nino/nino/12327.m3u8
+ext,S4C (iplayer),http://superstreams.tv:8080/live/nino/nino/31170.m3u8
+#EXTINF:0,ext,S4C HD (uk only or vpn),http://superstreams.tv:8080/live/nino/nino/31124.m3u8
+ext,SFR Sports 4 UHD 4K,http://superstreams.tv:8080/live/nino/nino/15607.m3u8
+#EXTINF:0,SkySpAction.uk,Sky Sports Action HD*,http://superstreams.tv:8080/live/nino/nino/12242.m3u8
+SkySpCricket.uk,Sky Sports Cricket HD*,http://superstreams.tv:8080/live/nino/nino/12243.m3u8
+#EXTINF:0,SkySportsF1.uk,Sky Sports F1 HD*,http://superstreams.tv:8080/live/nino/nino/12239.m3u8
+ext,Sky Sports Main Events HD*,http://superstreams.tv:8080/live/nino/nino/12244.m3u8
+#EXTINF:0,SkySpPL.uk,Sky Sports Premier League HD*,http://superstreams.tv:8080/live/nino/nino/12240.m3u8
+SkySpTheOpen.uk,Sky Sports Golf HD*,http://superstreams.tv:8080/live/nino/nino/12241.m3u8
+#EXTINF:0,ext,SPL: Aberdeen Tv,http://superstreams.tv:8080/live/nino/nino/32528.m3u8
+ext,SPL: Celtic TV*,http://superstreams.tv:8080/live/nino/nino/32531.m3u8
+#EXTINF:0,ext,SPL: Celtic TV**,http://superstreams.tv:8080/live/nino/nino/32520.m3u8
+ext,SPL: Dundee TV,http://superstreams.tv:8080/live/nino/nino/32529.m3u8
+#EXTINF:0,ext,SPL: Hearts tv,http://superstreams.tv:8080/live/nino/nino/40570.m3u8
+ext,SPL: HIBS FC TV,http://superstreams.tv:8080/live/nino/nino/32526.m3u8
+#EXTINF:0,ext,SPL: Match 1 Live,http://superstreams.tv:8080/live/nino/nino/32525.m3u8
+ext,SPL: Match 2 Live,http://superstreams.tv:8080/live/nino/nino/32524.m3u8
+#EXTINF:0,ext,SPL: Match 3 Live,http://superstreams.tv:8080/live/nino/nino/32523.m3u8
+ext,SPL: Match 4 Live,http://superstreams.tv:8080/live/nino/nino/32522.m3u8
+#EXTINF:0,ext,SPL: Match 5 Live,http://superstreams.tv:8080/live/nino/nino/32521.m3u8
+ext,SPL: Rangers TV,http://superstreams.tv:8080/live/nino/nino/32530.m3u8
+#EXTINF:0,ext,SPL: Red TV,http://superstreams.tv:8080/live/nino/nino/32527.m3u8
+ext,SPORT Live Event 1,http://superstreams.tv:8080/live/nino/nino/20824.m3u8
+#EXTINF:0,ext,SPORT Live Event 2,http://superstreams.tv:8080/live/nino/nino/20823.m3u8
+ext,SPORT Live Event 3,http://superstreams.tv:8080/live/nino/nino/20822.m3u8
+#EXTINF:0,ext,SPORT Live Event 4,http://superstreams.tv:8080/live/nino/nino/20821.m3u8
+ext,SPORT Live Event 5,http://superstreams.tv:8080/live/nino/nino/20820.m3u8
+#EXTINF:0,TheScore.ca,SportsNet 360 HD*,http://superstreams.tv:8080/live/nino/nino/31098.m3u8
+ext,SportsNet Central HD*,http://superstreams.tv:8080/live/nino/nino/31096.m3u8
+#EXTINF:0,SportsNetEST.ca,SportsNet East HD*,http://superstreams.tv:8080/live/nino/nino/31095.m3u8
+SportsNetOneHD.ca,SportsNet One HD*,http://superstreams.tv:8080/live/nino/nino/31094.m3u8
+#EXTINF:0,SportsnetOntarioHD.ca,SportsNet Ontario HD*,http://superstreams.tv:8080/live/nino/nino/31093.m3u8
+SportsNetPacifiqueHD.ca,SportsNet Pacific HD*,http://superstreams.tv:8080/live/nino/nino/31092.m3u8
+#EXTINF:0,SportsNetWestHD.ca,SportsNet West HD*,http://superstreams.tv:8080/live/nino/nino/31091.m3u8
+SportsnetWorld.ca,SportsNet World HD*,http://superstreams.tv:8080/live/nino/nino/31090.m3u8
+#EXTINF:0,ext,TH: beIN Sports 1 HD True Visions,http://superstreams.tv:8080/live/nino/nino/32766.m3u8
+ext,TH: beIN Sports 2 HD True Visions,http://superstreams.tv:8080/live/nino/nino/32765.m3u8
+#EXTINF:0,ext,TH: beIN Sports 3 HD True Visions,http://superstreams.tv:8080/live/nino/nino/32764.m3u8
+ext,TH: beIN Sports 4 HD True Visions,http://superstreams.tv:8080/live/nino/nino/32763.m3u8
+#EXTINF:0,TSN1HD.ca,TSN 1 HD*,http://superstreams.tv:8080/live/nino/nino/31103.m3u8
+TSN2HD.ca,TSN 2 HD*,http://superstreams.tv:8080/live/nino/nino/31102.m3u8
+#EXTINF:0,TSN3HD.ca,TSN 3 HD*,http://superstreams.tv:8080/live/nino/nino/31101.m3u8
+TSN4HD.ca,TSN 4 HD*,http://superstreams.tv:8080/live/nino/nino/31100.m3u8
+#EXTINF:0,TSNHD5.ca,TSN 5 HD*,http://superstreams.tv:8080/live/nino/nino/31099.m3u8
+ext,EVENTS: UFC Fight Pass HD,http://superstreams.tv:8080/live/nino/nino/32542.m3u8
+#EXTINF:0,BTSport1.uk,VIP: BT Sport 1 HD,http://superstreams.tv:8080/live/nino/nino/31199.m3u8
+BTSport2.uk,VIP: BT Sport 2 HD,http://superstreams.tv:8080/live/nino/nino/31198.m3u8
+#EXTINF:0,BTSport3.uk,VIP: BT Sport 3 HD,http://superstreams.tv:8080/live/nino/nino/31197.m3u8
+BTSportESPN.uk,VIP: BT Sport ESPN HD,http://superstreams.tv:8080/live/nino/nino/31196.m3u8
+#EXTINF:0,ext,VIP: OTE Sports 1 HD,http://superstreams.tv:8080/live/nino/nino/30348.m3u8
+ext,VIP: OTE Sports 2 HD,http://superstreams.tv:8080/live/nino/nino/30347.m3u8
+#EXTINF:0,ext,VIP: OTE Sports 3 HD,http://superstreams.tv:8080/live/nino/nino/30346.m3u8
+ext,VIP: OTE Sports 4 HD,http://superstreams.tv:8080/live/nino/nino/30345.m3u8
+#EXTINF:0,ext,VIP: OTE Sports 5 HD,http://superstreams.tv:8080/live/nino/nino/30344.m3u8
+ext,VIP: OTE Sports 6 HD,http://superstreams.tv:8080/live/nino/nino/30343.m3u8
+#EXTINF:0,ext,VIP: OTE Sports 7 HD,http://superstreams.tv:8080/live/nino/nino/30342.m3u8
+ext,VIP: OTE Sports 8 HD,http://superstreams.tv:8080/live/nino/nino/30341.m3u8
+#EXTINF:0,ext,VIP: Sky Sport Premiere League FHD,http://superstreams.tv:8080/live/nino/nino/31204.m3u8
+SkySpAction.uk,VIP: Sky Sports Action FHD,http://superstreams.tv:8080/live/nino/nino/31206.m3u8
+#EXTINF:0,SkySpCricket.uk,VIP: Sky Sports Cricket FHD,http://superstreams.tv:8080/live/nino/nino/31207.m3u8
+SkySportsF1.uk,VIP: Sky Sports F1 HD,http://superstreams.tv:8080/live/nino/nino/31203.m3u8
+#EXTINF:0,ext,VIP: Sky Sports Main Events FHD,http://superstreams.tv:8080/live/nino/nino/31208.m3u8
+SkySpMix.uk,VIP: Sky Sports Mix HD,http://superstreams.tv:8080/live/nino/nino/31202.m3u8
+#EXTINF:0,SkySportsNews.uk,VIP: Sky Sports News HD,http://superstreams.tv:8080/live/nino/nino/31209.m3u8
+SkySpTheOpen.uk,VIP: Sky Sports The Open FHD,http://superstreams.tv:8080/live/nino/nino/31205.m3u8
+#EXTINF:0,ext,*USA*: A&E US,http://superstreams.tv:8080/live/nino/nino/47214.m3u8
+ext,*USA*: Abc Spark US,http://superstreams.tv:8080/live/nino/nino/47213.m3u8
+#EXTINF:0,ext,*USA*: Abc West US,http://superstreams.tv:8080/live/nino/nino/47212.m3u8
+ext,*USA*: Amc US,http://superstreams.tv:8080/live/nino/nino/47211.m3u8
+#EXTINF:0,ext,*USA*: American Heroe's Channel US,http://superstreams.tv:8080/live/nino/nino/47210.m3u8
+ext,*USA*: Animal Planet US,http://superstreams.tv:8080/live/nino/nino/47209.m3u8
+#EXTINF:0,ext,*USA*: BBC Kids US,http://superstreams.tv:8080/live/nino/nino/47208.m3u8
+ext,*USA*: BET US,http://superstreams.tv:8080/live/nino/nino/47207.m3u8
+#EXTINF:0,ext,*USA*: BNN US,http://superstreams.tv:8080/live/nino/nino/47206.m3u8
+ext,*USA*: Bravo US,http://superstreams.tv:8080/live/nino/nino/47205.m3u8
+#EXTINF:0,ext,*USA*: Cartoon network US,http://superstreams.tv:8080/live/nino/nino/47204.m3u8
+ext,*USA*: ChCh US,http://superstreams.tv:8080/live/nino/nino/47203.m3u8
+#EXTINF:0,ext,*USA*: Chek News US,http://superstreams.tv:8080/live/nino/nino/47202.m3u8
+ext,*USA*: Chet Tv US,http://superstreams.tv:8080/live/nino/nino/47201.m3u8
+#EXTINF:0,ext,*USA*: CKWS US,http://superstreams.tv:8080/live/nino/nino/47200.m3u8
+ext,*USA*: CMT US,http://superstreams.tv:8080/live/nino/nino/47199.m3u8
+#EXTINF:0,ext,*USA*: CNN US,http://superstreams.tv:8080/live/nino/nino/47198.m3u8
+ext,*USA*: Comedy Gold US,http://superstreams.tv:8080/live/nino/nino/47196.m3u8
+#EXTINF:0,ext,*USA*: Comedy US,http://superstreams.tv:8080/live/nino/nino/47197.m3u8
+ext,*USA*: Comedy West US,http://superstreams.tv:8080/live/nino/nino/47195.m3u8
+#EXTINF:0,ext,*USA*: Cottage Tv Life US,http://superstreams.tv:8080/live/nino/nino/47194.m3u8
+ext,*USA*: HGTV HD US,http://superstreams.tv:8080/live/nino/nino/47179.m3u8
+#EXTINF:0,ext,*USA*: History HD US,http://superstreams.tv:8080/live/nino/nino/47178.m3u8
+ext,*USA*: HLN HD US,http://superstreams.tv:8080/live/nino/nino/47177.m3u8
+#EXTINF:0,ext,*USA*: IFCHD US,http://superstreams.tv:8080/live/nino/nino/47176.m3u8
+ext,*USA*: Leafs Tv HD US,http://superstreams.tv:8080/live/nino/nino/47175.m3u8
+#EXTINF:0,ext,*USA*: The Movie Network 1 East US,http://superstreams.tv:8080/live/nino/nino/47193.m3u8
+ext,*USA*: The Movie Network 1 West US,http://superstreams.tv:8080/live/nino/nino/47187.m3u8
+#EXTINF:0,ext,*USA*: The Movie Network 2 East US,http://superstreams.tv:8080/live/nino/nino/47192.m3u8
+ext,*USA*: The Movie Network 2 West US,http://superstreams.tv:8080/live/nino/nino/47186.m3u8
+#EXTINF:0,ext,*USA*: The Movie Network 3 East US,http://superstreams.tv:8080/live/nino/nino/47191.m3u8
+ext,*USA*: The Movie Network 4 East US,http://superstreams.tv:8080/live/nino/nino/47190.m3u8
+#EXTINF:0,ext,*USA*: The Movie Network Encore 1 East US,http://superstreams.tv:8080/live/nino/nino/47189.m3u8
+ext,*USA*: The Movie Network Encore 1 West US,http://superstreams.tv:8080/live/nino/nino/47185.m3u8
+#EXTINF:0,ext,*USA*: The Movie Network Encore 2 East US,http://superstreams.tv:8080/live/nino/nino/47188.m3u8
+ext,*USA*: The Movie Network Encore 2 West US,http://superstreams.tv:8080/live/nino/nino/47184.m3u8
+#EXTINF:0,ext,*USA*: W HD US,http://superstreams.tv:8080/live/nino/nino/47183.m3u8
+ext,*USA*: WGN HD US,http://superstreams.tv:8080/live/nino/nino/47182.m3u8
+#EXTINF:0,ext,*USA*: World Fishing Network HD US,http://superstreams.tv:8080/live/nino/nino/47181.m3u8
+ext,*USA*: Wsbk HD US,http://superstreams.tv:8080/live/nino/nino/47180.m3u8
+#EXTINF:0,ext,*USA*: YES US,http://superstreams.tv:8080/live/nino/nino/47216.m3u8
+ext,*USA*: YTV-E US,http://superstreams.tv:8080/live/nino/nino/47215.m3u8
+#EXTINF:0,EPlus1.uk,E! +1,http://superstreams.tv:8080/live/nino/nino/47151.m3u8
+FoodNetworkPlus1.uk,Food Network +1,http://superstreams.tv:8080/live/nino/nino/47149.m3u8
+#EXTINF:0,MTVplus1.uk,MTV +1,http://superstreams.tv:8080/live/nino/nino/47137.m3u8
+UniversalPlus1.uk,Universal +1,http://superstreams.tv:8080/live/nino/nino/47143.m3u8
+#EXTINF:0,Historyplus1.uk,History +1,http://superstreams.tv:8080/live/nino/nino/47148.m3u8
+HorrorChannelPlus1.uk,Horror Channel +1,http://superstreams.tv:8080/live/nino/nino/47147.m3u8
+#EXTINF:0,Investigationplus1.uk,ID +1,http://superstreams.tv:8080/live/nino/nino/47163.m3u8
+SpikePlus1.uk,Spike +1,http://superstreams.tv:8080/live/nino/nino/47165.m3u8
+#EXTINF:0,DiscoveryDMAXPlus1.uk,Dmax +1,http://superstreams.tv:8080/live/nino/nino/47152.m3u8
+TrueEntertainmentPlus1.uk,True Entertainment +1,http://superstreams.tv:8080/live/nino/nino/47140.m3u8
+#EXTINF:0,GOLDPlus1.uk,GOLD +1,http://superstreams.tv:8080/live/nino/nino/47164.m3u8
+SCIFIPlus1.uk,Syfy +1,http://superstreams.tv:8080/live/nino/nino/47142.m3u8
+#EXTINF:0,TruTVplus1.uk,TruTV  +1,http://superstreams.tv:8080/live/nino/nino/47144.m3u8
+ext,UK ASIAN: Colors TV UK,http://superstreams.tv:8080/live/nino/nino/46513.m3u8
+#EXTINF:0,ext,UK ASIAN: HUM TV Europe,http://superstreams.tv:8080/live/nino/nino/46520.m3u8
+ext,UK ASIAN: Rishtey Asia,http://superstreams.tv:8080/live/nino/nino/46512.m3u8
+#EXTINF:0,ext,UK ASIAN: Rishtey Cineplex UK,http://superstreams.tv:8080/live/nino/nino/46511.m3u8
+ext,UK ASIAN: Rishtey Europe UK,http://superstreams.tv:8080/live/nino/nino/46510.m3u8
+#EXTINF:0,ext,UK ASIAN: Sony Max UK,http://superstreams.tv:8080/live/nino/nino/46526.m3u8
+ext,UK ASIAN: Sony SAB UK,http://superstreams.tv:8080/live/nino/nino/46530.m3u8
+#EXTINF:0,ext,UK ASIAN: Sony TV UK,http://superstreams.tv:8080/live/nino/nino/46529.m3u8
+ext,UK ASIAN: Star GOLD,http://superstreams.tv:8080/live/nino/nino/46528.m3u8
+#EXTINF:0,ext,UK ASIAN: Star MAX HD,http://superstreams.tv:8080/live/nino/nino/46519.m3u8
+ext,UK ASIAN: Star Plus UK,http://superstreams.tv:8080/live/nino/nino/46525.m3u8
+#EXTINF:0,ext,UK ASIAN: Star UTSav,http://superstreams.tv:8080/live/nino/nino/46527.m3u8
+ext,UK ASIAN: Times Now,http://superstreams.tv:8080/live/nino/nino/46514.m3u8
+#EXTINF:0,ext,UK ASIAN: ZEE Action,http://superstreams.tv:8080/live/nino/nino/46515.m3u8
+ext,UK ASIAN: ZEE Cinema UK,http://superstreams.tv:8080/live/nino/nino/46517.m3u8
+#EXTINF:0,ext,UK ASIAN: ZEE Punjabi UK,http://superstreams.tv:8080/live/nino/nino/46524.m3u8
+ext,UK ASIAN: ZEE TV HD,http://superstreams.tv:8080/live/nino/nino/46518.m3u8
+#EXTINF:0,ext,UK ASIAN: Zing UK,http://superstreams.tv:8080/live/nino/nino/46516.m3u8
+SkyMoviesActionThriller.uk,Sky Cinema Action HD**,http://superstreams.tv:8080/live/nino/nino/46544.m3u8
+#EXTINF:0,SkySciFiHorror.uk,Sky Cinema Sci-Fi & Horror HD**,http://superstreams.tv:8080/live/nino/nino/46543.m3u8
+SkyMoviesIndie.uk,Sky Cinema Select HD**,http://superstreams.tv:8080/live/nino/nino/46542.m3u8
+#EXTINF:0,SkyCinemaHits.uk,Sky Cinema Hits HD**,http://superstreams.tv:8080/live/nino/nino/46540.m3u8
+ext,Sky Cinema Superheroes HD**,http://superstreams.tv:8080/live/nino/nino/46541.m3u8
+#EXTINF:0,ext,Sky Cinema Modern Greats HD**,http://superstreams.tv:8080/live/nino/nino/46539.m3u8
+ClublandTV.uk,Clubland TV,http://superstreams.tv:8080/live/nino/nino/47217.m3u8
+#EXTINF:0,4Music.uk,4Music,http://superstreams.tv:8080/live/nino/nino/47231.m3u8
+Flava.uk,Flava,http://superstreams.tv:8080/live/nino/nino/47223.m3u8
+#EXTINF:0,Scuzz.uk,Scuzz,http://superstreams.tv:8080/live/nino/nino/47219.m3u8
+StarzTV.uk,Starz TV,http://superstreams.tv:8080/live/nino/nino/47227.m3u8
+#EXTINF:0,TheVault.uk,The Vault,http://superstreams.tv:8080/live/nino/nino/47218.m3u8
+ext,Chart Show Hits,http://superstreams.tv:8080/live/nino/nino/47229.m3u8
+#EXTINF:0,ChartShowTV.uk,Chart Show TV,http://superstreams.tv:8080/live/nino/nino/47230.m3u8
+ChannelAka.uk,Channel AKA,http://superstreams.tv:8080/live/nino/nino/47224.m3u8
+#EXTINF:0,ChilledTV.uk,Chilled TV,http://superstreams.tv:8080/live/nino/nino/47228.m3u8
+ext,Boxnation PPV,http://superstreams.tv:8080/live/nino/nino/44945.m3u8
+#EXTINF:0,ext,UCL: Liverpool v NK Maribor * 19:45ko,http://superstreams.tv:8080/live/nino/nino/49984.m3u8
+ext,UCL: Liverpool v NK Maribor ** 19:45ko,http://superstreams.tv:8080/live/nino/nino/49983.m3u8
+#EXTINF:0,ext,UCL: Napoli v Man City * 19:45ko,http://superstreams.tv:8080/live/nino/nino/49982.m3u8
+ext,UCL: Napoli v Man City ** 19:45ko,http://superstreams.tv:8080/live/nino/nino/49981.m3u8
+#EXTINF:0,ext,UCL: Tottenham v Real Madrid * 19:45ko,http://superstreams.tv:8080/live/nino/nino/49980.m3u8
+ext,UCL: Tottenham v Real Madrid ** 19:45ko,http://superstreams.tv:8080/live/nino/nino/49979.m3u8
+#EXTINF:0,ext,UCL: Besiktas v Monaco 17:00ko,http://superstreams.tv:8080/live/nino/nino/49978.m3u8
+ext,UCL: Dortmund v Apoel Nicosia 19:45ko,http://superstreams.tv:8080/live/nino/nino/49976.m3u8
+#EXTINF:0,ext,UCL: FC Porto v RasenBallsport Leipzig 19:45ko,http://superstreams.tv:8080/live/nino/nino/49977.m3u8
+ext,UCL: Sevilla v Spartak Moscow 19:45ko,http://superstreams.tv:8080/live/nino/nino/49975.m3u8
+#EXTINF:0,ext,UCL: Shakhtar Donetsk v Feyenoord 19:45ko,http://superstreams.tv:8080/live/nino/nino/49974.m3u8
+ext,ITV Box Office HD*,http://superstreams.tv:8080/live/nino/nino/46531.m3u8
+#EXTINF:0,ext,Sky Sports Red Button 1,http://superstreams.tv:8080/live/nino/nino/48497.m3u8
+ext,Sky Sports Red Button 2,http://superstreams.tv:8080/live/nino/nino/48496.m3u8
+#EXTINF:0,ext,Sky Sports Red Button 3,http://superstreams.tv:8080/live/nino/nino/48495.m3u8
+ext,Sky Sports Red Button 4,http://superstreams.tv:8080/live/nino/nino/48494.m3u8
+#EXTINF:0,ext,Sky Sports Red Button 5,http://superstreams.tv:8080/live/nino/nino/48493.m3u8
+ext,Sky Sports Red Button 6,http://superstreams.tv:8080/live/nino/nino/48492.m3u8
+#EXTINF:0,ext,Sky Sports Red Button 7,http://superstreams.tv:8080/live/nino/nino/48491.m3u8
+ext,Sky Sports Red Button 8,http://superstreams.tv:8080/live/nino/nino/48490.m3u8
+#EXTINF:0,ext,Sky Sports Red Button 9,http://superstreams.tv:8080/live/nino/nino/48489.m3u8
+TravelChannel.uk,Travel Channel UK,http://superstreams.tv:8080/live/nino/nino/49985.m3u8
+#EXTINF:0,group,Videos
+avi,10 Cloverfield Lane 2016 720p Ganool,http://superstreams.tv:8080/movie/nino/nino/48225.mp4
+#EXTINF:0,avi,2016 Mtv Video Music Awards Hdtv X264-alterego,http://superstreams.tv:8080/movie/nino/nino/48226.mp4
+avi,31 2016 720p Web-dl 700mb Ganool,http://superstreams.tv:8080/movie/nino/nino/48227.mp4
+#EXTINF:0,avi,A Conspiracy Of Faith 2016 720p Mkvcage,http://superstreams.tv:8080/movie/nino/nino/48228.mp4
+avi,A Flying Jatt 2016 720p Dvdscr X264 Shaanig,http://superstreams.tv:8080/movie/nino/nino/48229.mp4
+#EXTINF:0,avi,Action Hero Biju 2016 Dvdrip X264,http://superstreams.tv:8080/movie/nino/nino/48231.mp4
+avi,Adventures On The Red Plane 2016 Hdrip Ganool,http://superstreams.tv:8080/movie/nino/nino/48232.mp4
+#EXTINF:0,avi,Against The Wild 2 Survive The Serengeti 2016 Dvdrip Ganool,http://superstreams.tv:8080/movie/nino/nino/48233.mp4
+avi,Alice Through The Looking Glass 2016 720p Farsi Dubbed,http://superstreams.tv:8080/movie/nino/nino/48234.mp4
+#EXTINF:0,avi,Alice Through The Looking Glass 2016 720p Web-dl X264 Shaanig,http://superstreams.tv:8080/movie/nino/nino/48235.mp4
+avi,All The Way 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48236.mp4
+#EXTINF:0,avi,All The Way 2016 720p Webrip,http://superstreams.tv:8080/movie/nino/nino/48237.mp4
+avi,Allegiant 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48238.mp4
+#EXTINF:0,avi,Amanda Knox 2016 720p Webrip Ganool,http://superstreams.tv:8080/movie/nino/nino/48239.mp4
+avi,An Almost Perfect Country 2016 Bluray 720p X264,http://superstreams.tv:8080/movie/nino/nino/48240.mp4
+#EXTINF:0,avi,Angry Birds 2016 720p Exclusive Farsi Dubbed,http://superstreams.tv:8080/movie/nino/nino/48241.mp4
+avi,Angry Birds 2016 720p Farsi Dubbed,http://superstreams.tv:8080/movie/nino/nino/48242.mp4
+#EXTINF:0,avi,Angry Birds 2016 720p Webrip,http://superstreams.tv:8080/movie/nino/nino/48243.mp4
+avi,Anthropoid 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48244.mp4
+#EXTINF:0,avi,Approaching The Unknown 2016 720p Web-dl Shaanig,http://superstreams.tv:8080/movie/nino/nino/48245.mp4
+avi,Arq 2016 720p Webrip X264,http://superstreams.tv:8080/movie/nino/nino/48230.mp4
+#EXTINF:0,avi,Baaghi 2016 720p Dvdrip Shaanig,http://superstreams.tv:8080/movie/nino/nino/48246.mp4
+avi,Baar Baar Dekho 2016 Dvdscr Shaanig,http://superstreams.tv:8080/movie/nino/nino/48247.mp4
+#EXTINF:0,avi,Bachelor Games 2016 Hdrip,http://superstreams.tv:8080/movie/nino/nino/48248.mp4
+avi,Bad Moms 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48249.mp4
+#EXTINF:0,avi,Barbershop The Next Cut 2016 720p Ozlem,http://superstreams.tv:8080/movie/nino/nino/48250.mp4
+avi,Batman The Killing Joke 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48251.mp4
+#EXTINF:0,avi,Batman V Superman Dawn Of Justice 2016 Extended 720p Exclusive Farsi Dubbed,http://superstreams.tv:8080/movie/nino/nino/48252.mp4
+avi,Be Somebody 2016 720p Web-dl Ganool,http://superstreams.tv:8080/movie/nino/nino/48253.mp4
+#EXTINF:0,avi,Before I Wake 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48254.mp4
+avi,Beta Test 2016 720p Web-dl Shaanig,http://superstreams.tv:8080/movie/nino/nino/48255.mp4
+#EXTINF:0,avi,Blood Father 2016 720p,http://superstreams.tv:8080/movie/nino/nino/48257.mp4
+avi,Blood Father 2016 720p Web-dl Shaanig,http://superstreams.tv:8080/movie/nino/nino/48256.mp4
+#EXTINF:0,avi,Boboiboy The Movie 2016 720p Web-dl,http://superstreams.tv:8080/movie/nino/nino/48258.mp4
+avi,Bridget Joness Baby 2016 Hdcam X264 Ganool,http://superstreams.tv:8080/movie/nino/nino/48259.mp4
+#EXTINF:0,avi,Cafe Society 2016 720p Bluray X264,http://superstreams.tv:8080/movie/nino/nino/48260.mp4
+avi,Captain America Civil War 2016 720p Bluray 2ch X264 Dubbed Fa Shaanig,http://superstreams.tv:8080/movie/nino/nino/48261.mp4
+#EXTINF:0,avi,Captain America Civil War 2016 720p Nby,http://superstreams.tv:8080/movie/nino/nino/48262.mp4
+avi,Captain Fantastic 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48263.mp4
+#EXTINF:0,avi,Cats Don't Come When You Call 2016 Bluray 720p,http://superstreams.tv:8080/movie/nino/nino/48264.mp4
+avi,Cell 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48265.mp4
+#EXTINF:0,avi,Cell 2016 720p Web-dl Shaanig,http://superstreams.tv:8080/movie/nino/nino/48266.mp4
+avi,Central Intelligence 2016 720p Web-dl X264 Shaanig,http://superstreams.tv:8080/movie/nino/nino/48267.mp4
+#EXTINF:0,avi,Central Intelligence 2016 Hc Hdrip,http://superstreams.tv:8080/movie/nino/nino/48268.mp4
+avi,Central Intelligence 2016 Unrated 720p Nby,http://superstreams.tv:8080/movie/nino/nino/48269.mp4
+#EXTINF:0,avi,Chosen 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48270.mp4
+avi,Clinton Cash 2016 720p Web-dl Mkvcage,http://superstreams.tv:8080/movie/nino/nino/48271.mp4
+#EXTINF:0,avi,Code Of Honor 2016 720p Ganool,http://superstreams.tv:8080/movie/nino/nino/48272.mp4
+avi,Confirmation 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48273.mp4
+#EXTINF:0,avi,Dads Army 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48274.mp4
+avi,Daylights End 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48275.mp4
+#EXTINF:0,avi,Deadpool 2016 720p Exclusive Farsi Dubbed,http://superstreams.tv:8080/movie/nino/nino/48276.mp4
+avi,Dishoom 2016 Hdrip 720p Nby,http://superstreams.tv:8080/movie/nino/nino/48277.mp4
+#EXTINF:0,avi,Dont Breathe 2016 720p Hdrip Shaanig,http://superstreams.tv:8080/movie/nino/nino/48278.mp4
+avi,Dont Breathe 2016 Cam X264 Ganool,http://superstreams.tv:8080/movie/nino/nino/48279.mp4
+#EXTINF:0,avi,Eddie The Eagle 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48280.mp4
+avi,Edge Of Winter 2016 720p Web-dl X264,http://superstreams.tv:8080/movie/nino/nino/48281.mp4
+#EXTINF:0,avi,Elle 2016 720p Ganool,http://superstreams.tv:8080/movie/nino/nino/48282.mp4
+avi,Elle 2016 720p Mkvcage,http://superstreams.tv:8080/movie/nino/nino/48283.mp4
+#EXTINF:0,avi,End Of A Gun 2016 Hdrip X264,http://superstreams.tv:8080/movie/nino/nino/48284.mp4
+avi,Equals 2016 720p Ganool,http://superstreams.tv:8080/movie/nino/nino/48285.mp4
+#EXTINF:0,avi,Fan 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48286.mp4
+avi,Fastball 2016 720p Ganool,http://superstreams.tv:8080/movie/nino/nino/48287.mp4
+#EXTINF:0,avi,Fire At Sea 2016 1080p 5 1ch Ganool,http://superstreams.tv:8080/movie/nino/nino/48288.mp4
+avi,Fire At Sea 2016 720p Ganool,http://superstreams.tv:8080/movie/nino/nino/48289.mp4
+#EXTINF:0,avi,Florence Foster Jenkins 2016 720p Bluray X264 Shaanig,http://superstreams.tv:8080/movie/nino/nino/48290.mp4
+avi,Florence Foster Jenkins 2016 720p Web-dl X264 Shaanig,http://superstreams.tv:8080/movie/nino/nino/48291.mp4
+#EXTINF:0,avi,Freaky Ali 2016 Dvdscr Shaanig,http://superstreams.tv:8080/movie/nino/nino/48292.mp4
+avi,Free State Of Jones 2016 720p Ganool,http://superstreams.tv:8080/movie/nino/nino/48293.mp4
+#EXTINF:0,avi,Free State Of Jones 2016 720p Web-dl X264 Shaanig,http://superstreams.tv:8080/movie/nino/nino/48294.mp4
+avi,Friend Request 2016 Bluray 720p X264 Ganool,http://superstreams.tv:8080/movie/nino/nino/48295.mp4
+#EXTINF:0,avi,Get A Job 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48296.mp4
+avi,Ghostbusters 2016 720p Web-dl X264 Shaanig,http://superstreams.tv:8080/movie/nino/nino/48297.mp4
+#EXTINF:0,avi,Gods Not Dead 2 2016 Bluray 720p X264,http://superstreams.tv:8080/movie/nino/nino/48298.mp4
+avi,Gods Of Egypt 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48299.mp4
+#EXTINF:0,avi,Guernica 2016 Hdrip,http://superstreams.tv:8080/movie/nino/nino/48300.mp4
+avi,Hail Caesar 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48301.mp4
+#EXTINF:0,avi,Happy Bhag Jayegi 2016 720p Hdrip Nby,http://superstreams.tv:8080/movie/nino/nino/48302.mp4
+avi,Hardc0re Henry 2016 Hc 720p Hdrip Shaanig,http://superstreams.tv:8080/movie/nino/nino/48303.mp4
+#EXTINF:0,avi,Hillarys America The Secret History Of The Democratic Party 2016 720p,http://superstreams.tv:8080/movie/nino/nino/48304.mp4
+avi,Home Invasion 2016 720p Web-dl Farsi Dubbed,http://superstreams.tv:8080/movie/nino/nino/48305.mp4
+#EXTINF:0,avi,Honey 3 Dare To Dance 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48306.mp4
+avi,Housefull 3 2016 720p Dvdrip Shaanig,http://superstreams.tv:8080/movie/nino/nino/48307.mp4
+#EXTINF:0,avi,Housefull 3 2016 720p Hdrip Shaanig,http://superstreams.tv:8080/movie/nino/nino/48308.mp4
+avi,Housefull 3 2016 720p Nby,http://superstreams.tv:8080/movie/nino/nino/48309.mp4
+#EXTINF:0,avi,Housefull 3 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48310.mp4
+avi,Housefull 3 2016 Dvdscr Shaanig,http://superstreams.tv:8080/movie/nino/nino/48311.mp4
+#EXTINF:0,avi,Hunt For The Wilderpeople 2016 720p Ganool,http://superstreams.tv:8080/movie/nino/nino/48312.mp4
+avi,Hunt For The Wilderpeople 2016 Proper 720p Web-dl Shaanig,http://superstreams.tv:8080/movie/nino/nino/48313.mp4
+#EXTINF:0,avi,Hush 2016 720p Web-dl Ganool,http://superstreams.tv:8080/movie/nino/nino/48314.mp4
+avi,I Am Not A Serial Killer 2016 720p Web-dl Shaanig,http://superstreams.tv:8080/movie/nino/nino/48315.mp4
+#EXTINF:0,avi,Ice Age Collision Course 2016 720p,http://superstreams.tv:8080/movie/nino/nino/48319.mp4
+avi,Ice Age Collision Course 2016 720p Bluray 2ch X264 Shaanig Dubbed Fa,http://superstreams.tv:8080/movie/nino/nino/48317.mp4
+#EXTINF:0,avi,Ice Age Collision Course 2016 720p Farsi Dubbed,http://superstreams.tv:8080/movie/nino/nino/48318.mp4
+avi,Ice Age Collision Course 2016 Cam Audio 720p Hdrip Nby,http://superstreams.tv:8080/movie/nino/nino/48320.mp4
+#EXTINF:0,avi,Ice Age Collision Course 2016 Hdts,http://superstreams.tv:8080/movie/nino/nino/48316.mp4
+avi,In The Deep 2016 Dvdrip X264,http://superstreams.tv:8080/movie/nino/nino/48321.mp4
+#EXTINF:0,avi,Independence Day Resurgence 2016 720p Hc Hdrip Mkvcage,http://superstreams.tv:8080/movie/nino/nino/48322.mp4
+avi,Independence Day Resurgence 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48323.mp4
+#EXTINF:0,avi,Independence Day Resurgence 2016 720p Web-dl Shaanig,http://superstreams.tv:8080/movie/nino/nino/48324.mp4
+avi,Irreplaceable 2016 720p Ganool,http://superstreams.tv:8080/movie/nino/nino/48325.mp4
+#EXTINF:0,avi,Italian Race 2016 720p Ganool,http://superstreams.tv:8080/movie/nino/nino/48326.mp4
+avi,Izzies Way Home 2016 Hdrip,http://superstreams.tv:8080/movie/nino/nino/48327.mp4
+#EXTINF:0,avi,Jason Bourne 2016 Hc 720p Hdrip Shaanig,http://superstreams.tv:8080/movie/nino/nino/48328.mp4
+avi,Jason Bourne 2016 Hdts X264,http://superstreams.tv:8080/movie/nino/nino/48329.mp4
+#EXTINF:0,avi,Julieta 2016 720p Ganool,http://superstreams.tv:8080/movie/nino/nino/48331.mp4
+avi,Kabali 2016 720p Web-dl,http://superstreams.tv:8080/movie/nino/nino/48332.mp4
+#EXTINF:0,avi,Kadhalum Kadandhu Pogum 2016 720p Web-dl X264,http://superstreams.tv:8080/movie/nino/nino/48333.mp4
+avi,Kammatti Paadam 2016 Dvdrip X264,http://superstreams.tv:8080/movie/nino/nino/48334.mp4
+#EXTINF:0,avi,Kapoor And Sons 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48335.mp4
+avi,Kaptaan 2016 Dvdscr 550mb Ganool Ag,http://superstreams.tv:8080/movie/nino/nino/48336.mp4
+#EXTINF:0,avi,Keanu 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48337.mp4
+avi,Keanu 2016 720p Web-dl Shaanig,http://superstreams.tv:8080/movie/nino/nino/48338.mp4
+#EXTINF:0,avi,Killing Salazar 2016 720p Ganool,http://superstreams.tv:8080/movie/nino/nino/48340.mp4
+avi,Kingsglaive Final Fantasy Xv 2016 720p Bluray X264 Shaanig,http://superstreams.tv:8080/movie/nino/nino/48341.mp4
+#EXTINF:0,avi,Kingsglaive Final Fantasy Xv 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48342.mp4
+avi,Kingsglaive Final Fantasy Xv 2016 720p Web-dl Shaanig,http://superstreams.tv:8080/movie/nino/nino/48343.mp4
+#EXTINF:0,avi,Kubo And The Two Strings 2016 Ts X264 Sherif,http://superstreams.tv:8080/movie/nino/nino/48344.mp4
+avi,Kung Fu Panda 3 2016 720p Brrip Exclusive Farsi Dubbed (2dooble),http://superstreams.tv:8080/movie/nino/nino/48345.mp4
+#EXTINF:0,avi,Lake Eerie 2016 720p Webrip X264,http://superstreams.tv:8080/movie/nino/nino/48346.mp4
+avi,Lights Out 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48347.mp4
+#EXTINF:0,avi,Lights Out 2016 720p Web-dl Shaanig,http://superstreams.tv:8080/movie/nino/nino/48348.mp4
+avi,Lights Out 2016 Hq Cam X264,http://superstreams.tv:8080/movie/nino/nino/48349.mp4
+#EXTINF:0,avi,Like Crazy 2016 720p,http://superstreams.tv:8080/movie/nino/nino/48350.mp4
+avi,Lo And Behold Reveries Of The Connected World 2016 720p Web-dl,http://superstreams.tv:8080/movie/nino/nino/48351.mp4
+#EXTINF:0,avi,London Has Fallen 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48352.mp4
+avi,Looking The Movie 2016 720p Webrip,http://superstreams.tv:8080/movie/nino/nino/48353.mp4
+#EXTINF:0,avi,Love And Friendship 2016 Hc 720p Webrip Ganool,http://superstreams.tv:8080/movie/nino/nino/48354.mp4
+avi,M S Dhoni The Untold Story 2016 720p Dvdscr Shaanig,http://superstreams.tv:8080/movie/nino/nino/48355.mp4
+#EXTINF:0,avi,Madaari 2016 720p Dvdrip Shaanig,http://superstreams.tv:8080/movie/nino/nino/48357.mp4
+avi,Madaari 2016 720p Dvdscr Shaanig,http://superstreams.tv:8080/movie/nino/nino/48356.mp4
+#EXTINF:0,avi,Madaari 2016 Hindi 720p Dvdrip,http://superstreams.tv:8080/movie/nino/nino/48358.mp4
+avi,Marauders 2016 720p Bluray X264 Shaanig,http://superstreams.tv:8080/movie/nino/nino/48360.mp4
+#EXTINF:0,avi,Marriage Of Lies 2016 720p Hdtv,http://superstreams.tv:8080/movie/nino/nino/48361.mp4
+avi,Maximum Ride 2016 720p Web-dl X264 Shaanig,http://superstreams.tv:8080/movie/nino/nino/48362.mp4
+#EXTINF:0,avi,Mechanic Resurrection 2016 Hc 720p Hdrip Shaanig,http://superstreams.tv:8080/movie/nino/nino/48363.mp4
+avi,Midnight Special 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48364.mp4
+#EXTINF:0,avi,Mike And Dave Need Wedding Dates 2016 Dvdrip,http://superstreams.tv:8080/movie/nino/nino/48365.mp4
+avi,Mohenjo Daro 2016 720p Hdrip Shaanig,http://superstreams.tv:8080/movie/nino/nino/48366.mp4
+#EXTINF:0,avi,Money Monster 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48367.mp4
+avi,Money Monster 2016 Hqcam X264,http://superstreams.tv:8080/movie/nino/nino/48368.mp4
+#EXTINF:0,avi,Morgan 2016 Cam X264 Sherif,http://superstreams.tv:8080/movie/nino/nino/48369.mp4
+avi,My Big Fat Greek Wedding 2 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48370.mp4
+#EXTINF:0,avi,Neighbors 2 2016 720p Web-dl Shaanig,http://superstreams.tv:8080/movie/nino/nino/48371.mp4
+avi,Neighbors 2 Sorority Rising 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48372.mp4
+#EXTINF:0,avi,Neighbors 2 Sorority Rising 2016 Hc 720p Hdrip,http://superstreams.tv:8080/movie/nino/nino/48373.mp4
+avi,Nerve 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48374.mp4
+#EXTINF:0,avi,Never Back Down No Surrender 2016 720p Web-dl Ganool,http://superstreams.tv:8080/movie/nino/nino/48375.mp4
+avi,Nine Lives 2016 Hc 720p Webrip Mkvcage,http://superstreams.tv:8080/movie/nino/nino/48376.mp4
+#EXTINF:0,avi,Nobunaga Concerto The Movie 2016 Bluray 720p,http://superstreams.tv:8080/movie/nino/nino/48377.mp4
+avi,Now You See Me 2 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48378.mp4
+#EXTINF:0,avi,One Man And His Cow 2016 720p,http://superstreams.tv:8080/movie/nino/nino/48379.mp4
+avi,Oopiri 2016 720p Web-dl X264,http://superstreams.tv:8080/movie/nino/nino/48380.mp4
+#EXTINF:0,avi,Our Kind Of Traitor 2016 720p Ganool,http://superstreams.tv:8080/movie/nino/nino/48381.mp4
+avi,Our Kind Of Traitor 2016 Hdrip,http://superstreams.tv:8080/movie/nino/nino/48382.mp4
+#EXTINF:0,avi,Pele Birth Of A Legend 2016 720p Bluray X264,http://superstreams.tv:8080/movie/nino/nino/48383.mp4
+avi,Perfect Strangers 2016 720p Ganool,http://superstreams.tv:8080/movie/nino/nino/48384.mp4
+#EXTINF:0,avi,Petes Dragon 2016 Hd-ts X264 Nitro,http://superstreams.tv:8080/movie/nino/nino/48385.mp4
+avi,Phobia 2016 Dvdrip,http://superstreams.tv:8080/movie/nino/nino/48386.mp4
+#EXTINF:0,avi,Pink 2016 Dvdscr X264 Nby,http://superstreams.tv:8080/movie/nino/nino/48387.mp4
+avi,Popstar Never Stop Never Stopping 2016 720p Bluray X264 Shaanig,http://superstreams.tv:8080/movie/nino/nino/48388.mp4
+#EXTINF:0,avi,Pure Pwnage Teh Movie 2016 720p Web-dl,http://superstreams.tv:8080/movie/nino/nino/48389.mp4
+avi,Race 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48390.mp4
+#EXTINF:0,avi,Raman Raghav 2 0 2016 720p Dvdrip Shaanig,http://superstreams.tv:8080/movie/nino/nino/48391.mp4
+avi,Raman Raghav 2 0 2016 720p Nby,http://superstreams.tv:8080/movie/nino/nino/48392.mp4
+#EXTINF:0,avi,Range 15 2016 720p Web-dl Nby,http://superstreams.tv:8080/movie/nino/nino/48393.mp4
+avi,Range 15 2016 Hdrip Nitro,http://superstreams.tv:8080/movie/nino/nino/48394.mp4
+#EXTINF:0,avi,Ratchet And Clank 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48395.mp4
+avi,Rebirth 2016 720p Webrip,http://superstreams.tv:8080/movie/nino/nino/48396.mp4
+#EXTINF:0,avi,Rocky Handsome 2016 720p Web-dl Ganool,http://superstreams.tv:8080/movie/nino/nino/48397.mp4
+avi,Rustom 2016 720p Webrip Nby,http://superstreams.tv:8080/movie/nino/nino/48398.mp4
+#EXTINF:0,avi,Saala Khadoos 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48399.mp4
+avi,Sacrifice 2016 720p Bluray X264,http://superstreams.tv:8080/movie/nino/nino/48400.mp4
+#EXTINF:0,avi,Saint Amour 2016 720p,http://superstreams.tv:8080/movie/nino/nino/48401.mp4
+avi,Sairat 2016 720p Web-dl,http://superstreams.tv:8080/movie/nino/nino/48402.mp4
+#EXTINF:0,avi,Sarbjit 2016 720p Dvdrip X264,http://superstreams.tv:8080/movie/nino/nino/48403.mp4
+avi,Sardaar Gabbar Singh 2016 720p Web-dl Ozlem,http://superstreams.tv:8080/movie/nino/nino/48404.mp4
+#EXTINF:0,avi,Scooby Doo And Wwe Curse Of The Speed Demon 2016 Dvdrip X264,http://superstreams.tv:8080/movie/nino/nino/48405.mp4
+avi,Secrets Of The Force Awakens A Cinematic Journey 2016 720p Hdtv Ganool,http://superstreams.tv:8080/movie/nino/nino/48406.mp4
+#EXTINF:0,avi,Sheep And Wolves 2016 720p Web-dl Farsi Dubbed,http://superstreams.tv:8080/movie/nino/nino/48407.mp4
+avi,Shelley 2016 720p Web-dl Mkvcage,http://superstreams.tv:8080/movie/nino/nino/48408.mp4
+#EXTINF:0,avi,Sing Street 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48409.mp4
+avi,Skiptrace 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48410.mp4
+#EXTINF:0,avi,Sniper Ghost Shooter 2016 720p Web-dl X264,http://superstreams.tv:8080/movie/nino/nino/48411.mp4
+avi,Star Trek Beyond 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48412.mp4
+#EXTINF:0,avi,Star Trek Beyond 2016 720p Web-dl Shaanig,http://superstreams.tv:8080/movie/nino/nino/48413.mp4
+avi,Star Trek Beyond 2016 Cam X264,http://superstreams.tv:8080/movie/nino/nino/48414.mp4
+#EXTINF:0,avi,Suicide Squad 2016 720p Hc Hdtv X264,http://superstreams.tv:8080/movie/nino/nino/48415.mp4
+avi,Sully 2016 Hdts 400mb Ganool,http://superstreams.tv:8080/movie/nino/nino/48416.mp4
+#EXTINF:0,avi,Sultan 2016 720p Ganool,http://superstreams.tv:8080/movie/nino/nino/48417.mp4
+avi,Sultan 2016 Dvdscr Shaanig,http://superstreams.tv:8080/movie/nino/nino/48418.mp4
+#EXTINF:0,avi,Swiss Army Man 2016 720p Bluray X264 Shaanig,http://superstreams.tv:8080/movie/nino/nino/48419.mp4
+avi,Te3n 2016 720p Nby,http://superstreams.tv:8080/movie/nino/nino/48420.mp4
+#EXTINF:0,avi,Teenage Mutant Ninja Turtles Out Of The Shadows 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48421.mp4
+avi,Teenage Mutant Ninja Turtles Out Of The Shadows 2016 720p Web-dl Shaanig,http://superstreams.tv:8080/movie/nino/nino/48422.mp4
+#EXTINF:0,avi,Teenage Mutant Ninja Turtles Out Of The Shadows 2016 Hdts X264,http://superstreams.tv:8080/movie/nino/nino/48423.mp4
+avi,The 5th Wave 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48424.mp4
+#EXTINF:0,avi,The Adventures Of Panda Warrior 2016 Dvdrip Ganool,http://superstreams.tv:8080/movie/nino/nino/48425.mp4
+avi,The Brothers Grimsby 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48426.mp4
+#EXTINF:0,avi,The Congressman 2016 Dvdrip Ganool,http://superstreams.tv:8080/movie/nino/nino/48427.mp4
+avi,The Conjuring 2 2016 720p Exclusive Farsi Dubbed,http://superstreams.tv:8080/movie/nino/nino/48428.mp4
+#EXTINF:0,avi,The Conjuring 2 2016 720p Ganool,http://superstreams.tv:8080/movie/nino/nino/48429.mp4
+avi,The Darkness 2016 720p Web-dl Mkvcage,http://superstreams.tv:8080/movie/nino/nino/48430.mp4
+#EXTINF:0,avi,The Emeryville Experiments 2016 720p Web-dl,http://superstreams.tv:8080/movie/nino/nino/48431.mp4
+avi,The Fundamentals Of Caring 2016 720p Webrip Shaanig,http://superstreams.tv:8080/movie/nino/nino/48432.mp4
+#EXTINF:0,avi,The Handmaiden 2016 720p Hdrip Ganool,http://superstreams.tv:8080/movie/nino/nino/48433.mp4
+avi,The Huntsman Winters War 2016 Extended 720p Farsi Dubbed,http://superstreams.tv:8080/movie/nino/nino/48434.mp4
+#EXTINF:0,avi,The Infiltrator 2016 720p Nby,http://superstreams.tv:8080/movie/nino/nino/48435.mp4
+avi,The Intent 2016 Hdrip,http://superstreams.tv:8080/movie/nino/nino/48436.mp4
+#EXTINF:0,avi,The Intervention 2016 720p Web-dl Shaanig,http://superstreams.tv:8080/movie/nino/nino/48437.mp4
+avi,The Jungle Book 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48438.mp4
+#EXTINF:0,avi,The Jungle Book 2016 Masteredition 720p Tc Shaanig,http://superstreams.tv:8080/movie/nino/nino/48439.mp4
+avi,The Last King 2016 720p,http://superstreams.tv:8080/movie/nino/nino/48440.mp4
+#EXTINF:0,avi,The Legend Of Tarzan 2016 1080p 6ch Shaanig,http://superstreams.tv:8080/movie/nino/nino/48441.mp4
+avi,The Legend Of Tarzan 2016 720p Hc Hdrip X264,http://superstreams.tv:8080/movie/nino/nino/48442.mp4
+#EXTINF:0,avi,The Legend Of Tarzan 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48443.mp4
+avi,The Legend Of Tarzan 2016 720p Web-dl Shaanig,http://superstreams.tv:8080/movie/nino/nino/48444.mp4
+#EXTINF:0,avi,The Look Of A Killer 2016 720p,http://superstreams.tv:8080/movie/nino/nino/48445.mp4
+avi,The Meddler 2016 720p Web-dl X264 Sherif,http://superstreams.tv:8080/movie/nino/nino/48446.mp4
+#EXTINF:0,avi,The Neon Demon 2016 720p Web-dl Shaanig,http://superstreams.tv:8080/movie/nino/nino/48447.mp4
+avi,The Neon Demon 2016 Bluray 720p 850mb Ganool,http://superstreams.tv:8080/movie/nino/nino/48448.mp4
+#EXTINF:0,avi,The Nice Guys 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48449.mp4
+avi,The Nice Guys 2016 720p Web-dl Mkvcage,http://superstreams.tv:8080/movie/nino/nino/48450.mp4
+#EXTINF:0,avi,The Other Side Of The Door 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48451.mp4
+avi,The Phenom 2016 720p Nby,http://superstreams.tv:8080/movie/nino/nino/48452.mp4
+#EXTINF:0,avi,The Purge Election Year 2016 720p Bluray X264 Shaanig,http://superstreams.tv:8080/movie/nino/nino/48453.mp4
+avi,The Purge Election Year 2016 720p Web-dl Shaanig,http://superstreams.tv:8080/movie/nino/nino/48454.mp4
+#EXTINF:0,avi,The Remains 2016 720p Web-dl Shaanig,http://superstreams.tv:8080/movie/nino/nino/48455.mp4
+avi,The Secret Life Of Pets 2016 720p Hdrip X264 Shaanig,http://superstreams.tv:8080/movie/nino/nino/48456.mp4
+#EXTINF:0,avi,The Shallows 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48457.mp4
+avi,The Siege Of Jadotville 2016 720p Webrip,http://superstreams.tv:8080/movie/nino/nino/48459.mp4
+#EXTINF:0,avi,The Siege Of Jadotville 2016 720p Webrip X264 Nby,http://superstreams.tv:8080/movie/nino/nino/48458.mp4
+avi,The Spark 2016 720p Dvdrip,http://superstreams.tv:8080/movie/nino/nino/48460.mp4
+#EXTINF:0,avi,The Stare 2016 Bluray 720p X264 Ganool,http://superstreams.tv:8080/movie/nino/nino/48461.mp4
+avi,The Suffering 2016 Hdrip,http://superstreams.tv:8080/movie/nino/nino/48462.mp4
+#EXTINF:0,avi,The Wailing 2016 720p,http://superstreams.tv:8080/movie/nino/nino/48464.mp4
+avi,The Wailing 2016 720p Web-dl,http://superstreams.tv:8080/movie/nino/nino/48463.mp4
+#EXTINF:0,avi,The Whole Truth 2016 Hdrip,http://superstreams.tv:8080/movie/nino/nino/48465.mp4
+avi,The Zohar Secret 2016 720p Web-dl X264,http://superstreams.tv:8080/movie/nino/nino/48466.mp4
+#EXTINF:0,avi,The Zohar Secret 2016 720p Webrip,http://superstreams.tv:8080/movie/nino/nino/48467.mp4
+avi,Things To Come 2016 720p,http://superstreams.tv:8080/movie/nino/nino/48468.mp4
+#EXTINF:0,avi,Tickled 2016 720p Web-dl,http://superstreams.tv:8080/movie/nino/nino/48469.mp4
+avi,Tony Robbins I Am Not Your Guru 2016 720p Webrip,http://superstreams.tv:8080/movie/nino/nino/48470.mp4
+#EXTINF:0,avi,Train To Busan 2016 720p Hdrip Ganool,http://superstreams.tv:8080/movie/nino/nino/48471.mp4
+avi,Udta Punjab 2016 720p Dvdrip Shaanig,http://superstreams.tv:8080/movie/nino/nino/48472.mp4
+#EXTINF:0,avi,Udta Punjab 2016 720p Nby,http://superstreams.tv:8080/movie/nino/nino/48473.mp4
+avi,Up For Love 2016 720p Bluray X264,http://superstreams.tv:8080/movie/nino/nino/48474.mp4
+#EXTINF:0,avi,Vaxxed From Cover-up To Catastrophe 2016 Dvdrip,http://superstreams.tv:8080/movie/nino/nino/48475.mp4
+avi,Warcraft 2016 1080p 6ch Shaanig,http://superstreams.tv:8080/movie/nino/nino/48476.mp4
+#EXTINF:0,avi,Warcraft 2016 720p Exclusive Farsi Dubbed,http://superstreams.tv:8080/movie/nino/nino/48477.mp4
+avi,Warcraft 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48478.mp4
+#EXTINF:0,avi,Whiskey Tango Foxtrot 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48479.mp4
+avi,X-men Apocalypse 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48480.mp4
+#EXTINF:0,avi,X-men Apocalypse 2016 Hc 720p Hdrip Mkvcage,http://superstreams.tv:8080/movie/nino/nino/48481.mp4
+avi,Yoga Hosers 2016 720p Web-dl Shaanig,http://superstreams.tv:8080/movie/nino/nino/48482.mp4
+#EXTINF:0,avi,Yoga Hosers 2016 720p Web-dl X264,http://superstreams.tv:8080/movie/nino/nino/48483.mp4
+avi,Yugo And Lala 3 2016 720p Hdrip X264,http://superstreams.tv:8080/movie/nino/nino/48484.mp4
+#EXTINF:0,avi,Zero Days 2016 720p Bluray X264,http://superstreams.tv:8080/movie/nino/nino/48485.mp4
+avi,Zoolander 2 2016 720p Shaanig,http://superstreams.tv:8080/movie/nino/nino/48486.mp4
+#EXTINF:0,avi,Zootopia 2016 720p Farsi Dubbed,http://superstreams.tv:8080/movie/nino/nino/48487.mp4
+
