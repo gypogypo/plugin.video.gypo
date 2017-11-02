@@ -65,11 +65,11 @@ E.uk,E!,http://superstreams.tv:8080/live/nino/nino/7996.m3u8
 Home.uk,Home,http://superstreams.tv:8080/live/nino/nino/6907.m3u8
 #EXTINF:0,Lifetime.uk,Lifetime HD,http://superstreams.tv:8080/live/nino/nino/6610.m3u8
 RealLives.uk,Real Lives,http://superstreams.tv:8080/live/nino/nino/5560.m3u8
-#EXTINF:0,RTE1.ie,RTÉ One HD,http://superstreams.tv:8080/live/nino/nino/19261.m3u8
-RTE1.ie,RTÉ One,http://superstreams.tv:8080/live/nino/nino/639.m3u8
-#EXTINF:0,RTE2.ie,RTÉ Two HD,http://superstreams.tv:8080/live/nino/nino/19262.m3u8
-RTE2.ie,RTÉ Two,http://superstreams.tv:8080/live/nino/nino/638.m3u8
-#EXTINF:0,RTEjr.uk,RTÉ Jr,http://superstreams.tv:8080/live/nino/nino/27240.m3u8
+#EXTINF:0,RTE1.ie,RTÃ‰ One HD,http://superstreams.tv:8080/live/nino/nino/19261.m3u8
+RTE1.ie,RTÃ‰ One,http://superstreams.tv:8080/live/nino/nino/639.m3u8
+#EXTINF:0,RTE2.ie,RTÃ‰ Two HD,http://superstreams.tv:8080/live/nino/nino/19262.m3u8
+RTE2.ie,RTÃ‰ Two,http://superstreams.tv:8080/live/nino/nino/638.m3u8
+#EXTINF:0,RTEjr.uk,RTÃ‰ Jr,http://superstreams.tv:8080/live/nino/nino/27240.m3u8
 TV3.ie,TV3 HD,http://superstreams.tv:8080/live/nino/nino/635.m3u8
 #EXTINF:0,TG4.ie,TG4 HD,http://superstreams.tv:8080/live/nino/nino/8675.m3u8
 RTENewsNow.ie,RTE News Now,http://superstreams.tv:8080/live/nino/nino/12321.m3u8
@@ -575,7 +575,7 @@ ext,INT/SP: FOX Sport HD 1080p(ITA),http://superstreams.tv:8080/live/nino/nino/2
 ext,INT/SP: J Sports 2 HD (JAP),http://superstreams.tv:8080/live/nino/nino/25906.m3u8
 #EXTINF:0,ext,INT/SP: MIO Astro Cricket HD 1080p,http://superstreams.tv:8080/live/nino/nino/25893.m3u8
 ext,INT/SP: Movistar Formula 1 HD 1080p (ESP),http://superstreams.tv:8080/live/nino/nino/25859.m3u8
-#EXTINF:0,ext,INT/SP: Movistar Fútbol HD 1080p (ESP),http://superstreams.tv:8080/live/nino/nino/25858.m3u8
+#EXTINF:0,ext,INT/SP: Movistar FÃºtbol HD 1080p (ESP),http://superstreams.tv:8080/live/nino/nino/25858.m3u8
 ext,INT/SP: Movistar Golf HD 1080p (ESP),http://superstreams.tv:8080/live/nino/nino/25857.m3u8
 #EXTINF:0,ext,INT/SP: Movistar MotoGP HD 1080p (ESP),http://superstreams.tv:8080/live/nino/nino/25856.m3u8
 ext,INT/SP: OSN Cricket HD 1080p,http://superstreams.tv:8080/live/nino/nino/25891.m3u8
