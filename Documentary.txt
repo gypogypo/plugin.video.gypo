@@ -1,0 +1,78 @@
+#EXTM3U
+#EXTINF:-1,UK | Colors
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1169.ts
+#EXTINF:-1,UK | Community
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1281.ts
+#EXTINF:-1,UK | Crime Investigation
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1280.ts
+#EXTINF:-1,UK | Dave ja vu
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1278.ts
+#EXTINF:-1,UK | Discovery History
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1277.ts
+#EXTINF:-1,UK | Discovery Science
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1276.ts
+#EXTINF:-1,UK | Discovery Turbo
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1275.ts
+#EXTINF:-1,UK | Discovery
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1274.ts
+#EXTINF:-1,UK | Discovery Science US
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1368.ts
+#EXTINF:-1,UK | Nat Geo
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1229.ts
+#EXTINF:-1,UK | Nat Geo Wild
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1228.ts
+#EXTINF:-1,UK | NBC USA
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1055.ts
+#EXTINF:-1,UK | H2
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1254.ts
+#EXTINF:-1,UK | H2 HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1364.ts
+#EXTINF:-1,UK | History
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1253.ts
+#EXTINF:-1,UK | Horror Channel
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1357.ts
+#EXTINF:-1,UK | Horse & Country
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1251.ts
+#EXTINF:-1,UK | Animal Planet
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1316.ts
+#EXTINF:-1,UK | ARY DIGITAL
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1396.ts
+#EXTINF:-1,UK | Spike
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1190.ts
+#EXTINF:-1,UK | Discovery Shed
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1273.ts
+#EXTINF:-1,UK | Home Health
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1252.ts
+#EXTINF:-1,201 - ANIMAL PLANET HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14224.ts
+#EXTINF:-1,202 - ANIMAL PLANET
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14980.ts
+#EXTINF:-1,203 - CRIME & INVESTIGATION
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14121.ts
+#EXTINF:-1,204 - DISCOVERY CHANNEL HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14216.ts
+#EXTINF:-1,205 - DISCOVERY
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14973.ts
+#EXTINF:-1,206 - DISCOVERY HISTORY
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14106.ts
+#EXTINF:-1,208 - DISCOVERY SCIENCE
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14168.ts
+#EXTINF:-1,209 - DISCOVERY SHED
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14175.ts
+#EXTINF:-1,210 - DISCOVERY TURBO
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14111.ts
+#EXTINF:-1,211 - HISTORY
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14130.ts
+#EXTINF:-1,212 - H2
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14139.ts
+#EXTINF:-1,213 - INVESTIGATION DISCOVERY
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16879.ts
+#EXTINF:-1,214 - NATIONAL GEOGRAPHICAL HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14101.ts
+#EXTINF:-1,215 - NATIONAL GEOGRAPHIC
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14975.ts
+#EXTINF:-1,216 - NAT GEO WILD HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14098.ts
+#EXTINF:-1,217 - NAT GEO WILD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14976.ts
+

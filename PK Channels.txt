@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,PK |  AAj Ent
+http://iptv.dguk.co.uk/live/natalie2/natalie2/13065.ts
+#EXTINF:-1,PK |  Aaj News
+http://iptv.dguk.co.uk/live/natalie2/natalie2/13064.ts
+#EXTINF:-1,PK |  AhleBait Tv
+http://iptv.dguk.co.uk/live/natalie2/natalie2/13063.ts
+#EXTINF:-1,PK |  AhlulBayt TV
+http://iptv.dguk.co.uk/live/natalie2/natalie2/13062.ts
+#EXTINF:-1,PK |  Apna Channel
+http://iptv.dguk.co.uk/live/natalie2/natalie2/13061.ts
+#EXTINF:-1,PK |  ARY News UK
+http://iptv.dguk.co.uk/live/natalie2/natalie2/13060.ts
+#EXTINF:-1,PK |  Ary Zindagi
+http://iptv.dguk.co.uk/live/natalie2/natalie2/13084.ts
+#EXTINF:-1,PK |  Dawn News
+http://iptv.dguk.co.uk/live/natalie2/natalie2/13059.ts
+#EXTINF:-1,PK |  Dunya Entertainment
+http://iptv.dguk.co.uk/live/natalie2/natalie2/13058.ts

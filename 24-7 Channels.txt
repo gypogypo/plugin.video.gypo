@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,1007 - 24/7 Family Guy
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21279.ts
+#EXTINF:-1,1008 - 24/7 Friends
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21278.ts
+#EXTINF:-1,1009 - 24/7 Kids Movies
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21277.ts
+#EXTINF:-1,1010 - 24/7 Mickey Mouse Clubhouse
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21276.ts
+#EXTINF:-1,1011 - 24/7 Only Fools And Horses
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21275.ts
+#EXTINF:-1,1013 - 24/7 Super Hero
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21273.ts
+#EXTINF:-1,1014 - 24/7 Top Gear
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21272.ts
+#EXTINF:-1,1015 - 24/7 The Inbetweeners
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21349.ts
+#EXTINF:-1,1016 - 27/7 Paw Patrol
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21348.ts
+#EXTINF:-1,1017 - 24/7 ben and holly little kingdom
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21347.ts
+#EXTINF:-1,1018 - 24/7 Blaze and the Monster Machines
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21346.ts

@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1,224 - BABY TV
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14219.ts
+#EXTINF:-1,225 - BOOMERANG
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14174.ts
+#EXTINF:-1,226 - CARTOONITO
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14187.ts
+#EXTINF:-1,227 - CARTOON NETWORK
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14981.ts
+#EXTINF:-1,228 - CBBC HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14065.ts
+#EXTINF:-1,229 - CBEEBIES
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14049.ts
+#EXTINF:-1,230 - CITV
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14141.ts
+#EXTINF:-1,231 - DISNEY
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14275.ts
+#EXTINF:-1,232 - DISNEY JR
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14254.ts
+#EXTINF:-1,233 - DISNEY XD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14256.ts
+#EXTINF:-1,234 - NICKELODEON
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14982.ts
+#EXTINF:-1,235 - NICK JR
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14251.ts
+#EXTINF:-1,236 - NICK TOONS
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14172.ts
+#EXTINF:-1,237 - NICK JR TOO
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14163.ts
+#EXTINF:-1,238 - POP
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14274.ts
+#EXTINF:-1,240 - TINY POP
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14983.ts
+#EXTINF:-1,Disney Channels HD
+http://epicstream.tv:7000/live/jojo/jojo/18.ts
+#EXTINF:-1,Disney Junior Canada HD
+http://epicstream.tv:7000/live/jojo/jojo/1310.ts
+#EXTINF:-1,Disney XD HD
+http://epicstream.tv:7000/live/jojo/jojo/140.ts
+#EXTINF:-1,USA : CARTOON NETWORK HD
+http://epicstream.tv:7000/live/jojo/jojo/99.ts
+#EXTINF:-1,ABC Spark HD
+http://epicstream.tv:7000/live/jojo/jojo/1311.ts
+#EXTINF:-1,USA : NICK HD
+http://epicstream.tv:7000/live/jojo/jojo/60.ts
+#EXTINF:-1,USA : Nick Jr. HD
+http://epicstream.tv:7000/live/jojo/jojo/59.ts
+#EXTINF:-1,USA : Nicktoons HD
+http://epicstream.tv:7000/live/jojo/jojo/58.ts
+#EXTINF:-1,KIDS READING TV
+http://epicstream.tv:7000/live/jojo/jojo/8354.ts
+#EXTINF:-1,NICKELODEAN HD
+http://epicstream.tv:7000/live/jojo/jojo/1080.ts
+#EXTINF:-1,UK : BABY TV
+http://epicstream.tv:7000/live/jojo/jojo/4900.ts
+#EXTINF:-1,UK : BOOMERANG
+http://epicstream.tv:7000/live/jojo/jojo/4885.ts
+#EXTINF:-1,UK : CARTOON NETWORK
+http://epicstream.tv:7000/live/jojo/jojo/4877.ts
+#EXTINF:-1,UK : DISNEY CHANNEL
+http://epicstream.tv:7000/live/jojo/jojo/4854.ts
+#EXTINF:-1,UK : DISNEY JUNIOR
+http://epicstream.tv:7000/live/jojo/jojo/4853.ts
+#EXTINF:-1,UK : DISNEY XD
+http://epicstream.tv:7000/live/jojo/jojo/4852.ts
+#EXTINF:-1,UK : NICK JR TOO
+http://epicstream.tv:7000/live/jojo/jojo/4799.ts
+#EXTINF:-1,UK : Nick Jr.
+http://epicstream.tv:7000/live/jojo/jojo/4798.ts
+#EXTINF:-1,UK : Nickelodeon
+http://epicstream.tv:7000/live/jojo/jojo/4797.ts
+#EXTINF:-1,UK : Nicktoons
+http://epicstream.tv:7000/live/jojo/jojo/4796.ts
+#EXTINF:-1,UK HD : NICK HD
+http://epicstream.tv:7000/live/jojo/jojo/4635.ts
+#EXTINF:-1,UK HD : DISNEY CHANNEL HD
+http://epicstream.tv:7000/live/jojo/jojo/4657.ts
+#EXTINF:-1,UK | Cartoon Network
+http://iptv.dguk.co.uk/live/natalie2/natalie2/5366.ts
+#EXTINF:-1,UK | Cartoonito
+http://iptv.dguk.co.uk/live/natalie2/natalie2/5365.ts
+#EXTINF:-1,UK | CBBC
+http://iptv.dguk.co.uk/live/natalie2/natalie2/5364.ts
+#EXTINF:-1,UK | CBBC HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/5363.ts
+#EXTINF:-1,UK | CBeebies
+http://iptv.dguk.co.uk/live/natalie2/natalie2/5362.ts
+#EXTINF:-1,UK | Tiny Pop
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1185.ts
+#EXTINF:-1,UK | Nick Jnr Too
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1355.ts
+#EXTINF:-1,UK | Nick Jr
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1227.ts
+#EXTINF:-1,UK | Nickelodeon
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1226.ts
+#EXTINF:-1,UK | Nicktoons
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1225.ts
+#EXTINF:-1,UK | PBS America
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1224.ts
+#EXTINF:-1,UK | POP
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1223.ts
+#EXTINF:-1,UK | POP MAX
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1222.ts
+#EXTINF:-1,UK | Disney Channel
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1272.ts
+#EXTINF:-1,UK | Disney Junior
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1271.ts
+#EXTINF:-1,UK | Disney XD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1270.ts
+#EXTINF:-1,UK | Cbeebies HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1406.ts
+#EXTINF:-1,UK | CITV
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1286.ts
+#EXTINF:-1,UK | Boomerang
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1308.ts

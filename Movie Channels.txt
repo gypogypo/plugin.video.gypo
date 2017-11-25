@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1,-= Sky Movies =-
+http://epicstream.tv:7000/live/jojo/jojo/4919.ts
+#EXTINF:-1,UK HD : SKY MOVIES ACTION HD
+http://epicstream.tv:7000/live/jojo/jojo/4622.ts
+#EXTINF:-1,UK HD : SKY MOVIES COMEDY HD
+http://epicstream.tv:7000/live/jojo/jojo/4621.ts
+#EXTINF:-1,UK HD : SKY MOVIES DISNEY HD
+http://epicstream.tv:7000/live/jojo/jojo/4620.ts
+#EXTINF:-1,UK HD : SKY MOVIES DRAMA & ROMANCE HD
+http://epicstream.tv:7000/live/jojo/jojo/4619.ts
+#EXTINF:-1,UK HD : SKY MOVIES FAMILY HD
+http://epicstream.tv:7000/live/jojo/jojo/4618.ts
+#EXTINF:-1,UK HD : SKY MOVIES GREATS HD
+http://epicstream.tv:7000/live/jojo/jojo/4617.ts
+#EXTINF:-1,UK HD : SKY MOVIES HITS HD
+http://epicstream.tv:7000/live/jojo/jojo/4616.ts
+#EXTINF:-1,UK HD : SKY MOVIES PREMIER HD
+http://epicstream.tv:7000/live/jojo/jojo/4615.ts
+#EXTINF:-1,UK HD : SKY MOVIES SCI-FI/HORROR HD
+http://epicstream.tv:7000/live/jojo/jojo/4614.ts
+#EXTINF:-1,UK HD : SKY MOVIES SELECT HD
+http://epicstream.tv:7000/live/jojo/jojo/4613.ts
+#EXTINF:-1,UK HD : SKY MOVIES THRILLER HD
+http://epicstream.tv:7000/live/jojo/jojo/4612.ts
+#EXTINF:-1,UK : SKY MOVIES HITS
+http://epicstream.tv:7000/live/jojo/jojo/4764.ts
+#EXTINF:-1,UK : SKY MOVIES PREMIER
+http://epicstream.tv:7000/live/jojo/jojo/4762.ts
+#EXTINF:-1,UK : SKY MOVIES LIVING
+http://epicstream.tv:7000/live/jojo/jojo/4763.ts
+#EXTINF:-1,UK : SKY MOVIES DRAMA / CHRISTMAS
+http://epicstream.tv:7000/live/jojo/jojo/4765.ts
+#EXTINF:-1,UK | Sky Cinema Action
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1397.ts
+#EXTINF:-1,UK | Sky Cinema Select
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1151.ts
+#EXTINF:-1,UK | Sky Cinema Thriller
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1150.ts
+#EXTINF:-1,UK | Sky Cinema Premiere
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1200.ts
+#EXTINF:-1,UK | ITV Box Office
+http://iptv.dguk.co.uk/live/natalie2/natalie2/10434.ts
+#EXTINF:-1,UK | Sky Box Office 1 HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12205.ts
+#EXTINF:-1,UK | Sky Box Office 2 HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12204.ts
+#EXTINF:-1,UK | Sky Box Office 3D
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12203.ts
+#EXTINF:-1,UK | Sky Box Office 4 HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12202.ts
+#EXTINF:-1,UK | Sky Cinema Disney
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12206.ts
+#EXTINF:-1,UK | Sky Cinema Hits
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12555.ts
+#EXTINF:-1,UK | UTV Movies
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1177.ts
+#EXTINF:-1,UK | Film 4
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1263.ts
+#EXTINF:-1,UK HD : FOX HD
+http://epicstream.tv:7000/live/jojo/jojo/4651.ts
+#EXTINF:-1,UK : SKY ACTION
+http://epicstream.tv:7000/live/jojo/jojo/4772.ts
+#EXTINF:-1,UK : SKY ARTS
+http://epicstream.tv:7000/live/jojo/jojo/4771.ts
+#EXTINF:-1,UK : SKY COMEDY
+http://epicstream.tv:7000/live/jojo/jojo/4770.ts
+#EXTINF:-1,UK : SKY DISNEY
+http://epicstream.tv:7000/live/jojo/jojo/4769.ts
+#EXTINF:-1,UK : SKY FAMILY
+http://epicstream.tv:7000/live/jojo/jojo/4768.ts
+#EXTINF:-1,UK : Film 4
+http://epicstream.tv:7000/live/jojo/jojo/4841.ts
+#EXTINF:-1,301 - FILM 4 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14228.ts
+#EXTINF:-1,302 - TRUE MOVIES
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14948.ts
+#EXTINF:-1,305 - TCM HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14949.ts
+#EXTINF:-1,306 - SKY CINEMA ACTION & ADVENTURE HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14081.ts
+#EXTINF:-1,307 - SKY CINEMA COMEDY HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14080.ts
+#EXTINF:-1,308 - SKY CINEMA CRIME & THRILLER HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14086.ts
+#EXTINF:-1,309 - SKY CINEMA DISNEY HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14227.ts
+#EXTINF:-1,310 - SKY CINEMA CHRISTMAS HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14083.ts
+#EXTINF:-1,311 - SKY CINEMA FAMILY HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14085.ts
+#EXTINF:-1,312 - SKY CINEMA GREATS HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14223.ts
+#EXTINF:-1,313 - SKY CINEMA PREMIERE HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14226.ts
+#EXTINF:-1,314 - SKY CINEMA HITS HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14186.ts
+#EXTINF:-1,315 - SKY CINEMA SCI-FI & HORROR HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14218.ts
+#EXTINF:-1,316 - SKY CINEMA SELECT HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14093.ts
+#EXTINF:-1,317 - SKY CINEMA ACTION & ADVENTURE
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14091.ts
+#EXTINF:-1,318 - SKY CINEMA COMEDY
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14092.ts
+#EXTINF:-1,UK : TRUE MOVIES
+http://epicstream.tv:7000/live/jojo/jojo/4716.ts
+#EXTINF:-1,UK : TRUE MOVIES 2
+http://epicstream.tv:7000/live/jojo/jojo/4715.ts
+#EXTINF:-1,UK : HORROR CHANNEL
+http://epicstream.tv:7000/live/jojo/jojo/4827.ts
+#EXTINF:-1,UK : MOVIES 24
+http://epicstream.tv:7000/live/jojo/jojo/4812.ts
+#EXTINF:-1,UK | Movies 24
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1287.ts
+#EXTINF:-1,UK | Cinemax East
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1373.ts

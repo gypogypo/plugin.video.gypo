@@ -1,0 +1,271 @@
+#EXTM3U
+#EXTINF:-1,UK HD : BBC HD 1
+http://epicstream.tv:7000/live/jojo/jojo/4687.ts
+#EXTINF:-1,UK HD : BBC HD 2
+http://epicstream.tv:7000/live/jojo/jojo/4686.ts
+#EXTINF:-1,UK : ITV1
+http://epicstream.tv:7000/live/jojo/jojo/4822.ts
+#EXTINF:-1,UK HD : CHANNEL 4 HD
+http://epicstream.tv:7000/live/jojo/jojo/4666.ts
+#EXTINF:-1,UK HD : CHANNEL 5 HD
+http://epicstream.tv:7000/live/jojo/jojo/4665.ts
+#EXTINF:-1,UK HD : SKY 1 HD
+http://epicstream.tv:7000/live/jojo/jojo/4625.ts
+#EXTINF:-1,UK HD : SKY LIVING HD
+http://epicstream.tv:7000/live/jojo/jojo/4623.ts
+#EXTINF:-1,UK HD : SKY ATLANTIC
+http://epicstream.tv:7000/live/jojo/jojo/4624.ts
+#EXTINF:-1,UK HD : W HD
+http://epicstream.tv:7000/live/jojo/jojo/4590.ts
+#EXTINF:-1,UK : GOLD
+http://epicstream.tv:7000/live/jojo/jojo/4832.ts
+#EXTINF:-1,UK HD : DAVE HD
+http://epicstream.tv:7000/live/jojo/jojo/4659.ts
+#EXTINF:-1,UK HD : COMEDY CENTRAL HD
+http://epicstream.tv:7000/live/jojo/jojo/4660.ts
+#EXTINF:-1,UK HD : UNIVERSAL HD
+http://epicstream.tv:7000/live/jojo/jojo/4592.ts
+#EXTINF:-1,UK HD : SYFY HD
+http://epicstream.tv:7000/live/jojo/jojo/4596.ts
+#EXTINF:-1,UK HD : BBC HD 4 / CBEEBIES HD
+http://epicstream.tv:7000/live/jojo/jojo/4685.ts
+#EXTINF:-1,UK HD : ITV HD 2
+http://epicstream.tv:7000/live/jojo/jojo/4644.ts
+#EXTINF:-1,UK HD : ITV HD 3
+http://epicstream.tv:7000/live/jojo/jojo/4643.ts
+#EXTINF:-1,UK HD : ITV HD 4
+http://epicstream.tv:7000/live/jojo/jojo/4642.ts
+#EXTINF:-1,UK HD :  SKY ARTS HD
+http://epicstream.tv:7000/live/jojo/jojo/4698.ts
+#EXTINF:-1,UK HD :  ITV ENCORE HD
+http://epicstream.tv:7000/live/jojo/jojo/4701.ts
+#EXTINF:-1,UK : TLC
+http://epicstream.tv:7000/live/jojo/jojo/4722.ts
+#EXTINF:-1,UK HD : MTV HD
+http://epicstream.tv:7000/live/jojo/jojo/4640.ts
+#EXTINF:-1,UK HD : FOX HD
+http://epicstream.tv:7000/live/jojo/jojo/4651.ts
+#EXTINF:-1,UK | Star Gold
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1158.ts
+#EXTINF:-1,UK | STAR LIFE OK
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1394.ts
+#EXTINF:-1,UK | STAR PLUS
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1393.ts
+#EXTINF:-1,UK | Starz US
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1157.ts
+#EXTINF:-1,UK | STV HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1326.ts
+#EXTINF:-1,UK | TG4
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1187.ts
+#EXTINF:-1,UK | The Vault
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1186.ts
+#EXTINF:-1,UK | Watch
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1173.ts
+#EXTINF:-1,UK | Yesterday
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1320.ts
+#EXTINF:-1,UK | Your TV
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1172.ts
+#EXTINF:-1,UK | ZEE CINEMA
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1392.ts
+#EXTINF:-1,UK | ZEE TV
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1391.ts
+#EXTINF:-1,UK | UTV Movies
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1177.ts
+#EXTINF:-1,UK | UTV Ireland SD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1398.ts
+#EXTINF:-1,UK | Travel Channel
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1183.ts
+#EXTINF:-1,UK | True Crime
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1182.ts
+#EXTINF:-1,UK | True Entertainment
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1181.ts
+#EXTINF:-1,UK | True Movies
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1156.ts
+#EXTINF:-1,UK | True TV
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1180.ts
+#EXTINF:-1,UK HD : BBC HD 1
+http://epicstream.tv:7000/live/jojo/jojo/4687.ts
+#EXTINF:-1,UK HD : BBC HD 2
+http://epicstream.tv:7000/live/jojo/jojo/4686.ts
+#EXTINF:-1,UK : ITV1
+http://epicstream.tv:7000/live/jojo/jojo/4822.ts
+#EXTINF:-1,UK HD : CHANNEL 4 HD
+http://epicstream.tv:7000/live/jojo/jojo/4666.ts
+#EXTINF:-1,UK HD : CHANNEL 5 HD
+http://epicstream.tv:7000/live/jojo/jojo/4665.ts
+#EXTINF:-1,UK HD : SKY 1 HD
+http://epicstream.tv:7000/live/jojo/jojo/4625.ts
+#EXTINF:-1,UK HD : SKY LIVING HD
+http://epicstream.tv:7000/live/jojo/jojo/4623.ts
+#EXTINF:-1,UK HD : SKY ATLANTIC
+http://epicstream.tv:7000/live/jojo/jojo/4624.ts
+#EXTINF:-1,UK HD : W HD
+http://epicstream.tv:7000/live/jojo/jojo/4590.ts
+#EXTINF:-1,UK : GOLD
+http://epicstream.tv:7000/live/jojo/jojo/4832.ts
+#EXTINF:-1,UK HD : DAVE HD
+http://epicstream.tv:7000/live/jojo/jojo/4659.ts
+#EXTINF:-1,UK HD : COMEDY CENTRAL HD
+http://epicstream.tv:7000/live/jojo/jojo/4660.ts
+#EXTINF:-1,UK HD : UNIVERSAL HD
+http://epicstream.tv:7000/live/jojo/jojo/4592.ts
+#EXTINF:-1,UK HD : SYFY HD
+http://epicstream.tv:7000/live/jojo/jojo/4596.ts
+#EXTINF:-1,UK HD : BBC HD 4 / CBEEBIES HD
+http://epicstream.tv:7000/live/jojo/jojo/4685.ts
+#EXTINF:-1,UK HD : ITV HD 2
+http://epicstream.tv:7000/live/jojo/jojo/4644.ts
+#EXTINF:-1,UK HD : ITV HD 3
+http://epicstream.tv:7000/live/jojo/jojo/4643.ts
+#EXTINF:-1,UK HD : ITV HD 4
+http://epicstream.tv:7000/live/jojo/jojo/4642.ts
+#EXTINF:-1,UK HD :  SKY ARTS HD
+http://epicstream.tv:7000/live/jojo/jojo/4698.ts
+#EXTINF:-1,UK HD :  ITV ENCORE HD
+http://epicstream.tv:7000/live/jojo/jojo/4701.ts
+#EXTINF:-1,UK : TLC
+http://epicstream.tv:7000/live/jojo/jojo/4722.ts
+#EXTINF:-1,UK HD : MTV HD
+http://epicstream.tv:7000/live/jojo/jojo/4640.ts
+#EXTINF:-1,UK HD : FOX HD
+http://epicstream.tv:7000/live/jojo/jojo/4651.ts
+#EXTINF:-1,101 - BBC 1 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14063.ts
+#EXTINF:-1,102 - BBC 2 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14064.ts
+#EXTINF:-1,103 - ITV 1 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14069.ts
+#EXTINF:-1,104 - CHANNEL 4 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14127.ts
+#EXTINF:-1,105 - CHANNEL 5 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14246.ts
+#EXTINF:-1,106 - SKY ONE HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14209.ts
+#EXTINF:-1,107 - SKY TWO
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14179.ts
+#EXTINF:-1,108 - SKY ATLANTIC
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14182.ts
+#EXTINF:-1,109 - SKY LIVING HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14213.ts
+#EXTINF:-1,110 - SKY ARTS HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14215.ts
+#EXTINF:-1,111 - ITV 2 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14070.ts
+#EXTINF:-1,112 - ITV 3 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14071.ts
+#EXTINF:-1,113 - ITV 4 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14072.ts
+#EXTINF:-1,114 - ITV BE HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14087.ts
+#EXTINF:-1,115 - ITV ENCORE
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14208.ts
+#EXTINF:-1,116 - E4 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14212.ts
+#EXTINF:-1,117 - MORE 4
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14217.ts
+#EXTINF:-1,118 - BBC 1 SD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14122.ts
+#EXTINF:-1,119 - BBC 2 SD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14123.ts
+#EXTINF:-1,120 - BBC 4
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14124.ts
+#EXTINF:-1,122 - ITV 1 SD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14129.ts
+#EXTINF:-1,123 - ITV 2 SD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14131.ts
+#EXTINF:-1,124 - ITV ENCORE SD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14928.ts
+#EXTINF:-1,125 - ITV 4 SD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14927.ts
+#EXTINF:-1,126 - ITV 3 SD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14926.ts
+#EXTINF:-1,127 - ITV BE SD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14941.ts
+#EXTINF:-1,128 - CHANNEL 4 SD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14194.ts
+#EXTINF:-1,129 - 4 SEVEN HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14116.ts
+#EXTINF:-1,130 - E4 SD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14931.ts
+#EXTINF:-1,131 - MORE 4 SD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14932.ts
+#EXTINF:-1,132 - CHANNEL 5 SD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14128.ts
+#EXTINF:-1,133 - 5 STAR
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14939.ts
+#EXTINF:-1,134 - 5 USA
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14118.ts
+#EXTINF:-1,135 - SKY LIVING
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14922.ts
+#EXTINF:-1,136 - SKY ONE
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14930.ts
+#EXTINF:-1,137 - CBS ACTION
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14972.ts
+#EXTINF:-1,138 - CBS DRAMA
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14934.ts
+#EXTINF:-1,139 - CBS REALITY
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14933.ts
+#EXTINF:-1,140 - CHALLENGE
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14153.ts
+#EXTINF:-1,141 - COMEDY CENTRAL HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14924.ts
+#EXTINF:-1,142 - COMEDY CENTRAL
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14167.ts
+#EXTINF:-1,143 - DAVE HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14214.ts
+#EXTINF:-1,144 - DAVE
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14923.ts
+#EXTINF:-1,145 - DRAMA
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14937.ts
+#EXTINF:-1,146 - E!
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14935.ts
+#EXTINF:-1,147 - EDEN
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14978.ts
+#EXTINF:-1,148 - FOX UK
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14185.ts
+#EXTINF:-1,149 - GOLD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14180.ts
+#EXTINF:-1,150 - GOOD FOOD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14207.ts
+#EXTINF:-1,151 - HOME
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14977.ts
+#EXTINF:-1,152 - HORROR CHANNEL
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14950.ts
+#EXTINF:-1,153 - LIFETIME
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14936.ts
+#EXTINF:-1,154 - PICK TV
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14181.ts
+#EXTINF:-1,155 - QUEST
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14112.ts
+#EXTINF:-1,156 - REAL LIVES
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14938.ts
+#EXTINF:-1,157 - REALLY
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14090.ts
+#EXTINF:-1,158 - RTE ONE
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14058.ts
+#EXTINF:-1,159 - RTE TWO
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14258.ts
+#EXTINF:-1,160 - S4C
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14921.ts
+#EXTINF:-1,161 - SPIKE UK
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14082.ts
+#EXTINF:-1,162 - SYFY HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14193.ts
+#EXTINF:-1,163 - TG4
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14945.ts
+#EXTINF:-1,164 - TLC HD UK
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14114.ts
+#EXTINF:-1,165 - TLC UK
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14929.ts
+#EXTINF:-1,166 - TRUE ENTERTAINMENT
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14100.ts
+#EXTINF:-1,167 - TV 3
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14133.ts
+#EXTINF:-1,168 - UTV
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14252.ts
+#EXTINF:-1,169 - WATCH HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14229.ts
+#EXTINF:-1,170 - YESTERDAY
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14979.ts
+#EXTINF:-1,171 - ALIBI
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17909.ts

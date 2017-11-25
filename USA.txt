@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,US |  HBO HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12741.ts
+#EXTINF:-1,US | TSN 4
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12743.ts
+#EXTINF:-1,US | TSN 5
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12744.ts
+#EXTINF:-1,US | CNN
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12760.ts
+#EXTINF:-1,US | FOX Sport 1
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12771.ts
+#EXTINF:-1,US | FOX Sport 2
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12772.ts
+#EXTINF:-1,US | NBC SPORT
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12783.ts
+#EXTINF:-1,US | TSN 1
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12804.ts
+#EXTINF:-1,US | TSN 2
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12805.ts
+#EXTINF:-1,US | TSN 3
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12806.ts
+#EXTINF:-1,US | WWE Network HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12807.ts
+#EXTINF:-1,IN | &TV
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12809.ts
+#EXTINF:-1,US | AMC
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12748.ts
+#EXTINF:-1,US | NFL Network HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12784.ts
+#EXTINF:-1,US | ESPN U
+http://iptv.dguk.co.uk/live/natalie2/natalie2/13029.ts

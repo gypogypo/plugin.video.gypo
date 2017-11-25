@@ -1,0 +1,160 @@
+#EXTM3U
+http://epicstream.tv:7000/live/jojo/jojo/8515.ts
+#EXTINF:-1,UK : MTV BASE
+http://epicstream.tv:7000/live/jojo/jojo/4810.ts
+#EXTINF:-1,UK : MTV CLASSIC
+http://epicstream.tv:7000/live/jojo/jojo/4809.ts
+#EXTINF:-1,UK : MTV DANCE
+http://epicstream.tv:7000/live/jojo/jojo/4808.ts
+#EXTINF:-1,UK : MTV HITS
+http://epicstream.tv:7000/live/jojo/jojo/4807.ts
+#EXTINF:-1,UK : MTV MUSIC UK
+http://epicstream.tv:7000/live/jojo/jojo/4806.ts
+#EXTINF:-1,UK : MTV ONE
+http://epicstream.tv:7000/live/jojo/jojo/4805.ts
+#EXTINF:-1,UK : MTV ROCKS
+http://epicstream.tv:7000/live/jojo/jojo/4804.ts
+#EXTINF:-1,Music |  TROPICALES
+http://epicstream.tv:7000/live/jojo/jojo/8504.ts
+#EXTINF:-1,Music | ALTERNATIVE
+http://epicstream.tv:7000/live/jojo/jojo/8503.ts
+#EXTINF:-1,Music | BRIT HITS
+http://epicstream.tv:7000/live/jojo/jojo/8502.ts
+#EXTINF:-1,Music | DANCE EDM
+http://epicstream.tv:7000/live/jojo/jojo/8501.ts
+#EXTINF:-1,Music | HIP HOP & R & B
+http://epicstream.tv:7000/live/jojo/jojo/8500.ts
+#EXTINF:-1,Music | HIT LIST
+http://epicstream.tv:7000/live/jojo/jojo/8499.ts
+#EXTINF:-1,Music | INDIE
+http://epicstream.tv:7000/live/jojo/jojo/8498.ts
+#EXTINF:-1,Music | LATINO POP
+http://epicstream.tv:7000/live/jojo/jojo/8497.ts
+#EXTINF:-1,Music | MC PLAY
+http://epicstream.tv:7000/live/jojo/jojo/8496.ts
+#EXTINF:-1,Music | MCM
+http://epicstream.tv:7000/live/jojo/jojo/8505.ts
+#EXTINF:-1,Music | MEXICANA
+http://epicstream.tv:7000/live/jojo/jojo/8495.ts
+#EXTINF:-1,Music | MUSICA URBANA
+http://epicstream.tv:7000/live/jojo/jojo/8488.ts
+#EXTINF:-1,Music | NRJ HITS HD
+http://epicstream.tv:7000/live/jojo/jojo/8507.ts
+#EXTINF:-1,Music | POP & COUNTRY
+http://epicstream.tv:7000/live/jojo/jojo/8494.ts
+#EXTINF:-1,Music | POP HITS
+http://epicstream.tv:7000/live/jojo/jojo/8493.ts
+#EXTINF:-1,Music | R&B SOUL
+http://epicstream.tv:7000/live/jojo/jojo/8492.ts
+#EXTINF:-1,Music | RAP
+http://epicstream.tv:7000/live/jojo/jojo/8491.ts
+#EXTINF:-1,Music | RAP 2K
+http://epicstream.tv:7000/live/jojo/jojo/8490.ts
+#EXTINF:-1,Music | ROCK
+http://epicstream.tv:7000/live/jojo/jojo/8489.ts
+#EXTINF:-1,Music | THROWBACK JAMZ
+http://epicstream.tv:7000/live/jojo/jojo/8485.ts
+#EXTINF:-1,Music | TODAYS COUNTRY
+http://epicstream.tv:7000/live/jojo/jojo/8487.ts
+#EXTINF:-1,Music | Trace Africa
+http://epicstream.tv:7000/live/jojo/jojo/8514.ts
+#EXTINF:-1,Music | Trace Gospel Africa
+http://epicstream.tv:7000/live/jojo/jojo/8513.ts
+#EXTINF:-1,Music | Trace Mizki Africa
+http://epicstream.tv:7000/live/jojo/jojo/8512.ts
+#EXTINF:-1,Music | Trace Naija Africa
+http://epicstream.tv:7000/live/jojo/jojo/8511.ts
+#EXTINF:-1,Music | Trace Toca Africa
+http://epicstream.tv:7000/live/jojo/jojo/8510.ts
+#EXTINF:-1,Music | Trace Tropical Africa
+http://epicstream.tv:7000/live/jojo/jojo/8509.ts
+#EXTINF:-1,Music | Trace Urban Africa
+http://epicstream.tv:7000/live/jojo/jojo/8508.ts
+#EXTINF:-1,Music | XITE HD
+http://epicstream.tv:7000/live/jojo/jojo/8506.ts
+#EXTINF:-1,Music | Y2K
+http://epicstream.tv:7000/live/jojo/jojo/8486.ts
+#EXTINF:-1,UK | VH1
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1322.ts
+#EXTINF:-1,UK | Viceland
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1176.ts
+#EXTINF:-1,UK | VIVA
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1174.ts
+#EXTINF:-1,UK | MTV BASE
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1236.ts
+#EXTINF:-1,UK | MTV CLASSIC
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1235.ts
+#EXTINF:-1,UK | MTV DANCE
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1234.ts
+#EXTINF:-1,UK | MTV HITS
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1348.ts
+#EXTINF:-1,UK | MTV MUSIC
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1233.ts
+#EXTINF:-1,UK | MTV ROCKS
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1232.ts
+#EXTINF:-1,UK | MUFC TV SD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1347.ts
+#EXTINF:-1,UK | MUTV
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1231.ts
+#EXTINF:-1,UK | MUTV HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1230.ts
+#EXTINF:-1,UK | My 5
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1346.ts
+#EXTINF:-1,UK | 3E
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1319.ts
+#EXTINF:-1,UK | 4Music
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1318.ts
+#EXTINF:-1,244 - 4 MUSIC
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14955.ts
+#EXTINF:-1,245 - CAPITAL TV
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14954.ts
+#EXTINF:-1,246 - CHART SHOW
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14243.ts
+#EXTINF:-1,247 - HEART TV
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14244.ts
+#EXTINF:-1,248 - MTV
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14061.ts
+#EXTINF:-1,249 - MTV BASE
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14242.ts
+#EXTINF:-1,250 - MTV CLASSIC
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14211.ts
+#EXTINF:-1,251 - MTV DANCE
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14241.ts
+#EXTINF:-1,252 - MTV HITS
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14958.ts
+#EXTINF:-1,253 - MTV MUSIC
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14099.ts
+#EXTINF:-1,254 - MTV ROCKS
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14240.ts
+#EXTINF:-1,256 - VH1
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16900.ts
+#EXTINF:-1,287 - CHRISTIAN HOPHOP
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26648.ts
+#EXTINF:-1,288 - JUICE TV
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26647.ts
+#EXTINF:-1,289 - KHZ
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26646.ts
+#EXTINF:-1,290 - RAP RESSURECTION
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26645.ts
+#EXTINF:-1,291 - FRESH TV
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26644.ts
+#EXTINF:-1,292 - HEAT TV
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26643.ts
+#EXTINF:-1,293 - HIT TV
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26642.ts
+#EXTINF:-1,294 - M6 MUSIC
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26641.ts
+#EXTINF:-1,295 - M20 MUSIC
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26640.ts
+#EXTINF:-1,296 - MAD MUSIC
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26639.ts
+#EXTINF:-1,297 - NOW MUSIC
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26638.ts
+#EXTINF:-1,298 - REGGAE TV
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26637.ts
+#EXTINF:-1,299 - HEART
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26636.ts
+#EXTINF:-1,300 - VIRGIN
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26635.ts
+#EXTINF:-1,301 - CAPITAL FM
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26634.ts

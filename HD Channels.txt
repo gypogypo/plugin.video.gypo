@@ -1,0 +1,515 @@
+#EXTM3U
+#EXTINF:-1,UK HD : BBC HD 1
+http://epicstream.tv:7000/live/jojo/jojo/4687.ts
+#EXTINF:-1,UK HD : BBC HD 2
+http://epicstream.tv:7000/live/jojo/jojo/4686.ts
+#EXTINF:-1,UK : ITV1
+http://epicstream.tv:7000/live/jojo/jojo/4822.ts
+#EXTINF:-1,UK HD : CHANNEL 4 HD
+http://epicstream.tv:7000/live/jojo/jojo/4666.ts
+#EXTINF:-1,UK HD : CHANNEL 5 HD
+http://epicstream.tv:7000/live/jojo/jojo/4665.ts
+#EXTINF:-1,UK HD : SKY 1 HD
+http://epicstream.tv:7000/live/jojo/jojo/4625.ts
+#EXTINF:-1,UK HD : SKY LIVING HD
+http://epicstream.tv:7000/live/jojo/jojo/4623.ts
+#EXTINF:-1,UK HD : SKY ATLANTIC
+http://epicstream.tv:7000/live/jojo/jojo/4624.ts
+#EXTINF:-1,UK HD : W HD
+http://epicstream.tv:7000/live/jojo/jojo/4590.ts
+#EXTINF:-1,UK : GOLD
+http://epicstream.tv:7000/live/jojo/jojo/4832.ts
+#EXTINF:-1,UK HD : DAVE HD
+http://epicstream.tv:7000/live/jojo/jojo/4659.ts
+#EXTINF:-1,UK HD : COMEDY CENTRAL HD
+http://epicstream.tv:7000/live/jojo/jojo/4660.ts
+#EXTINF:-1,UK HD : UNIVERSAL HD
+http://epicstream.tv:7000/live/jojo/jojo/4592.ts
+#EXTINF:-1,UK HD : SYFY HD
+http://epicstream.tv:7000/live/jojo/jojo/4596.ts
+#EXTINF:-1,UK HD : BBC HD 4 / CBEEBIES HD
+http://epicstream.tv:7000/live/jojo/jojo/4685.ts
+#EXTINF:-1,UK HD : ITV HD 2
+http://epicstream.tv:7000/live/jojo/jojo/4644.ts
+#EXTINF:-1,UK HD : ITV HD 3
+http://epicstream.tv:7000/live/jojo/jojo/4643.ts
+#EXTINF:-1,UK HD : ITV HD 4
+http://epicstream.tv:7000/live/jojo/jojo/4642.ts
+#EXTINF:-1,UK HD :  SKY ARTS HD
+http://epicstream.tv:7000/live/jojo/jojo/4698.ts
+#EXTINF:-1,UK HD :  ITV ENCORE HD
+http://epicstream.tv:7000/live/jojo/jojo/4701.ts
+#EXTINF:-1,UK : TLC
+http://epicstream.tv:7000/live/jojo/jojo/4722.ts
+#EXTINF:-1,UK HD : MTV HD
+http://epicstream.tv:7000/live/jojo/jojo/4640.ts
+#EXTINF:-1,UK HD : FOX HD
+http://epicstream.tv:7000/live/jojo/jojo/4651.ts
+#EXTINF:-1,ABC HD
+http://epicstream.tv:7000/live/jojo/jojo/114.ts
+#EXTINF:-1,NBC HD
+http://epicstream.tv:7000/live/jojo/jojo/133.ts
+#EXTINF:-1,CBS HD ( WBZ-TV Boston)
+http://epicstream.tv:7000/live/jojo/jojo/146.ts
+#EXTINF:-1,CBS HD
+http://epicstream.tv:7000/live/jojo/jojo/8801.ts
+#EXTINF:-1,FOX HD
+http://epicstream.tv:7000/live/jojo/jojo/21.ts
+#EXTINF:-1,City HD
+http://epicstream.tv:7000/live/jojo/jojo/145.ts
+#EXTINF:-1,GLOBAL HD
+http://epicstream.tv:7000/live/jojo/jojo/137.ts
+#EXTINF:-1,Global Toronto
+http://epicstream.tv:7000/live/jojo/jojo/2442.ts
+#EXTINF:-1,GLOBAL BC  HD
+http://epicstream.tv:7000/live/jojo/jojo/1067.ts
+#EXTINF:-1,CBC HD
+http://epicstream.tv:7000/live/jojo/jojo/148.ts
+#EXTINF:-1,CTV HD
+http://epicstream.tv:7000/live/jojo/jojo/142.ts
+#EXTINF:-1,CTV Toronto HD
+http://epicstream.tv:7000/live/jojo/jojo/2433.ts
+#EXTINF:-1,CTV ATLANTIC  HD
+http://epicstream.tv:7000/live/jojo/jojo/26.ts
+#EXTINF:-1,CBC ATLANTIC HD
+http://epicstream.tv:7000/live/jojo/jojo/28.ts
+#EXTINF:-1,CHCH HD
+http://epicstream.tv:7000/live/jojo/jojo/4226.ts
+#EXTINF:-1,USA Network HD
+http://epicstream.tv:7000/live/jojo/jojo/43.ts
+#EXTINF:-1,PBS HD
+http://epicstream.tv:7000/live/jojo/jojo/57.ts
+#EXTINF:-1,BBC America HD
+http://epicstream.tv:7000/live/jojo/jojo/8443.ts
+#EXTINF:-1,CW HD
+http://epicstream.tv:7000/live/jojo/jojo/91.ts
+#EXTINF:-1,CW-WGN HD
+http://epicstream.tv:7000/live/jojo/jojo/141.ts
+#EXTINF:-1,TNT HD
+http://epicstream.tv:7000/live/jojo/jojo/47.ts
+#EXTINF:-1,TBS HD
+http://epicstream.tv:7000/live/jojo/jojo/49.ts
+#EXTINF:-1,AMC HD
+http://epicstream.tv:7000/live/jojo/jojo/30.ts
+#EXTINF:-1,SUNDANCE TV
+http://epicstream.tv:7000/live/jojo/jojo/8522.ts
+#EXTINF:-1,FX HD
+http://epicstream.tv:7000/live/jojo/jojo/20.ts
+#EXTINF:-1,FXX HD
+http://epicstream.tv:7000/live/jojo/jojo/19.ts
+#EXTINF:-1,A&E HD
+http://epicstream.tv:7000/live/jojo/jojo/31.ts
+#EXTINF:-1,TV Land
+http://epicstream.tv:7000/live/jojo/jojo/45.ts
+#EXTINF:-1,SPIKE HD
+http://epicstream.tv:7000/live/jojo/jojo/54.ts
+#EXTINF:-1,E! HD
+http://epicstream.tv:7000/live/jojo/jojo/22.ts
+#EXTINF:-1,OXYGEN HD
+http://epicstream.tv:7000/live/jojo/jojo/2499.ts
+#EXTINF:-1,Destination America HD
+http://epicstream.tv:7000/live/jojo/jojo/90.ts
+#EXTINF:-1,American Heroes Channel HD
+http://epicstream.tv:7000/live/jojo/jojo/8518.ts
+#EXTINF:-1,Pursuit HD
+http://epicstream.tv:7000/live/jojo/jojo/8521.ts
+#EXTINF:-1,Animal Planet HD
+http://epicstream.tv:7000/live/jojo/jojo/29.ts
+#EXTINF:-1,Discovery HD
+http://epicstream.tv:7000/live/jojo/jojo/1108.ts
+#EXTINF:-1,Discovery Velocity HD
+http://epicstream.tv:7000/live/jojo/jojo/24.ts
+#EXTINF:-1,Discovery Science HD
+http://epicstream.tv:7000/live/jojo/jojo/25.ts
+#EXTINF:-1,Nat Geo HD
+http://epicstream.tv:7000/live/jojo/jojo/11.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD
+http://epicstream.tv:7000/live/jojo/jojo/10.ts
+#EXTINF:-1,HISTORY TV HD
+http://epicstream.tv:7000/live/jojo/jojo/15.ts
+#EXTINF:-1,DIY NETWORK HD
+http://epicstream.tv:7000/live/jojo/jojo/1091.ts
+#EXTINF:-1,HGTV  HD
+http://epicstream.tv:7000/live/jojo/jojo/16.ts
+#EXTINF:-1,HGTV HD USA
+http://epicstream.tv:7000/live/jojo/jojo/1312.ts
+#EXTINF:-1,Dtour HD
+http://epicstream.tv:7000/live/jojo/jojo/1090.ts
+#EXTINF:-1,OLN HD
+http://epicstream.tv:7000/live/jojo/jojo/1065.ts
+#EXTINF:-1,Food Network HD
+http://epicstream.tv:7000/live/jojo/jojo/1042.ts
+#EXTINF:-1,Gusto HD
+http://epicstream.tv:7000/live/jojo/jojo/8800.ts
+#EXTINF:-1,COOKING CHANNEL HD
+http://epicstream.tv:7000/live/jojo/jojo/1092.ts
+#EXTINF:-1,PeachTree HD
+http://epicstream.tv:7000/live/jojo/jojo/1066.ts
+#EXTINF:-1,Slice TV HD
+http://epicstream.tv:7000/live/jojo/jojo/5.ts
+#EXTINF:-1,OWN HD
+http://epicstream.tv:7000/live/jojo/jojo/6.ts
+#EXTINF:-1,OWN HD USA
+http://iptvworld.ml:25461/live/Leb/M0Hn5Zjgc8/8241.ts
+#EXTINF:-1,W NETWORK HD
+http://epicstream.tv:7000/live/jojo/jojo/8799.ts
+#EXTINF:-1,LMN HD
+http://epicstream.tv:7000/live/jojo/jojo/36.ts
+#EXTINF:-1,TLC HD
+http://epicstream.tv:7000/live/jojo/jojo/4.ts
+#EXTINF:-1,USA : H2
+http://epicstream.tv:7000/live/jojo/jojo/81.ts
+#EXTINF:-1,Lifetime HD
+http://epicstream.tv:7000/live/jojo/jojo/12.ts
+#EXTINF:-1,Hallmark HD
+http://epicstream.tv:7000/live/jojo/jojo/80.ts
+#EXTINF:-1,El Rey Network
+http://epicstream.tv:7000/live/jojo/jojo/8523.ts
+#EXTINF:-1,iON HD
+http://epicstream.tv:7000/live/jojo/jojo/8124.ts
+#EXTINF:-1,IFC HD
+http://epicstream.tv:7000/live/jojo/jojo/6032.ts
+#EXTINF:-1,Reelz HD
+http://epicstream.tv:7000/live/jojo/jojo/1099.ts
+#EXTINF:-1,ID HD
+http://epicstream.tv:7000/live/jojo/jojo/13.ts
+#EXTINF:-1,truTV HD
+http://epicstream.tv:7000/live/jojo/jojo/46.ts
+#EXTINF:-1,GSN HD
+http://epicstream.tv:7000/live/jojo/jojo/40.ts
+#EXTINF:-1,CA : BRAVO HD
+http://epicstream.tv:7000/live/jojo/jojo/1057.ts
+#EXTINF:-1,USA : BRAVO HD
+http://epicstream.tv:7000/live/jojo/jojo/103.ts
+#EXTINF:-1,The Comedy Network HD
+http://epicstream.tv:7000/live/jojo/jojo/1309.ts
+#EXTINF:-1,Comedy Central HD
+http://epicstream.tv:7000/live/jojo/jojo/92.ts
+#EXTINF:-1,Syfy HD
+http://epicstream.tv:7000/live/jojo/jojo/50.ts
+#EXTINF:-1,VICELAND HD
+http://epicstream.tv:7000/live/jojo/jojo/4225.ts
+#EXTINF:-1,Space HD
+http://epicstream.tv:7000/live/jojo/jojo/1074.ts
+#EXTINF:-1,Country Music Television
+http://epicstream.tv:7000/live/jojo/jojo/8519.ts
+#EXTINF:-1,BET EAST HD
+http://iptvworld.ml:25461/live/Leb/M0Hn5Zjgc8/17302.ts
+#EXTINF:-1,BET WEST HD
+http://epicstream.tv:7000/live/jojo/jojo/7407.ts
+#EXTINF:-1,VH1 HD
+http://epicstream.tv:7000/live/jojo/jojo/38.ts
+#EXTINF:-1,MTV HD
+http://epicstream.tv:7000/live/jojo/jojo/73.ts
+#EXTINF:-1,UK : FLAVA
+http://epicstream.tv:7000/live/jojo/jojo/4840.ts
+#EXTINF:-1,WE TV HD
+http://epicstream.tv:7000/live/jojo/jojo/42.ts
+#EXTINF:-1,FREEFORM HD
+http://epicstream.tv:7000/live/jojo/jojo/4230.ts
+#EXTINF:-1,CA : WORLD HD
+http://epicstream.tv:7000/live/jojo/jojo/117.ts
+#EXTINF:-1,CA : CREATE HD
+http://epicstream.tv:7000/live/jojo/jojo/143.ts
+#EXTINF:-1,ME TV HD
+http://epicstream.tv:7000/live/jojo/jojo/135.ts
+#EXTINF:-1,TBN HD
+http://epicstream.tv:7000/live/jojo/jojo/6709.ts
+#EXTINF:-1,UK HD :  MORE 4 HD
+http://epicstream.tv:7000/live/jojo/jojo/4699.ts
+#EXTINF:-1,UK HD : 3E HD
+http://epicstream.tv:7000/live/jojo/jojo/4691.ts
+#EXTINF:-1,UK HD : ANIMAL PLANET HD
+http://epicstream.tv:7000/live/jojo/jojo/4689.ts
+#EXTINF:-1,UK HD : BBC CBBC HD
+http://epicstream.tv:7000/live/jojo/jojo/4688.ts
+#EXTINF:-1,UK HD : BBC NEWS HD
+http://epicstream.tv:7000/live/jojo/jojo/4684.ts
+#EXTINF:-1,UK HD : BBC RED BUTTON HD
+http://epicstream.tv:7000/live/jojo/jojo/4683.ts
+#EXTINF:-1,UK HD : BE3 HD
+http://epicstream.tv:7000/live/jojo/jojo/4682.ts
+#EXTINF:-1,UK HD : Bloomberg HD
+http://epicstream.tv:7000/live/jojo/jojo/4681.ts
+#EXTINF:-1,UK HD : BOXING NATION HD
+http://epicstream.tv:7000/live/jojo/jojo/4680.ts
+#EXTINF:-1,UK HD : CARTOON NETWORK HD
+http://epicstream.tv:7000/live/jojo/jojo/4667.ts
+#EXTINF:-1,UK HD : CHELSEA TV HD
+http://epicstream.tv:7000/live/jojo/jojo/4664.ts
+#EXTINF:-1,UK HD : CI HD (crime and investigation)
+http://epicstream.tv:7000/live/jojo/jojo/4663.ts
+#EXTINF:-1,UK HD : CNN HD
+http://epicstream.tv:7000/live/jojo/jojo/4662.ts
+#EXTINF:-1,UK HD : DISCOVERY HD
+http://epicstream.tv:7000/live/jojo/jojo/4658.ts
+#EXTINF:-1,UK HD : EDEN HD
+http://epicstream.tv:7000/live/jojo/jojo/4655.ts
+#EXTINF:-1,UK HD : FILM 4 HD
+http://epicstream.tv:7000/live/jojo/jojo/4652.ts
+#EXTINF:-1,UK HD : HISTORY 2 HD
+http://epicstream.tv:7000/live/jojo/jojo/4649.ts
+#EXTINF:-1,UK HD : HISTORY HD
+http://epicstream.tv:7000/live/jojo/jojo/4648.ts
+#EXTINF:-1,UK HD : INSIGHT UHD
+http://epicstream.tv:7000/live/jojo/jojo/4647.ts
+#EXTINF:-1,UK HD : ITV BE HD
+http://epicstream.tv:7000/live/jojo/jojo/4646.ts
+#EXTINF:-1,UK HD : LFC HD
+http://epicstream.tv:7000/live/jojo/jojo/4641.ts
+#EXTINF:-1,UK HD : MUTV HD
+http://epicstream.tv:7000/live/jojo/jojo/4638.ts
+#EXTINF:-1,UK HD : NAT GEO HD
+http://epicstream.tv:7000/live/jojo/jojo/4637.ts
+#EXTINF:-1,UK HD : NAT GEO WILD HD
+http://epicstream.tv:7000/live/jojo/jojo/4636.ts
+#EXTINF:-1,UK HD : PREMIER SPORTS HD
+http://epicstream.tv:7000/live/jojo/jojo/4634.ts
+#EXTINF:-1,UK HD : RACING UK HD
+http://epicstream.tv:7000/live/jojo/jojo/4633.ts
+#EXTINF:-1,UK HD : RT AMERICA HD
+http://epicstream.tv:7000/live/jojo/jojo/4632.ts
+#EXTINF:-1,UK HD : RT DOCUMENTRY HD
+http://epicstream.tv:7000/live/jojo/jojo/4631.ts
+#EXTINF:-1,UK HD : RT NEWS HD
+http://epicstream.tv:7000/live/jojo/jojo/4630.ts
+#EXTINF:-1,UK HD : RT UK HD
+http://epicstream.tv:7000/live/jojo/jojo/4629.ts
+#EXTINF:-1,UK HD : RTE ONE HD
+http://epicstream.tv:7000/live/jojo/jojo/4628.ts
+#EXTINF:-1,UK HD : RTE TWO  HD
+http://epicstream.tv:7000/live/jojo/jojo/4627.ts
+#EXTINF:-1,UK HD : SKY NEWS HD
+http://epicstream.tv:7000/live/jojo/jojo/4611.ts
+#EXTINF:-1,UK HD : STV HD
+http://epicstream.tv:7000/live/jojo/jojo/4597.ts
+#EXTINF:-1,UK HD : TG4 HD
+http://epicstream.tv:7000/live/jojo/jojo/4594.ts
+#EXTINF:-1,UK HD : TV 3 HD
+http://epicstream.tv:7000/live/jojo/jojo/4593.ts
+#EXTINF:-1,UK HD : UTV HD
+http://epicstream.tv:7000/live/jojo/jojo/4591.ts
+#EXTINF:-1,CNN HD
+http://epicstream.tv:7000/live/jojo/jojo/27.ts
+#EXTINF:-1,Fox News HD
+http://epicstream.tv:7000/live/jojo/jojo/84.ts
+#EXTINF:-1,Fox Business Network
+http://epicstream.tv:7000/live/jojo/jojo/85.ts
+#EXTINF:-1,ABC NEWS HD
+http://epicstream.tv:7000/live/jojo/jojo/113.ts
+#EXTINF:-1,HLN HD
+http://epicstream.tv:7000/live/jojo/jojo/14.ts
+#EXTINF:-1,MSNBC HD
+http://epicstream.tv:7000/live/jojo/jojo/1.ts
+#EXTINF:-1,CNBC HD
+http://epicstream.tv:7000/live/jojo/jojo/93.ts
+#EXTINF:-1,CTV News HD
+http://epicstream.tv:7000/live/jojo/jojo/1089.ts
+#EXTINF:-1,CBS NEWS
+http://epicstream.tv:7000/live/jojo/jojo/7048.ts
+#EXTINF:-1,CBC NEWS HD
+http://epicstream.tv:7000/live/jojo/jojo/147.ts
+#EXTINF:-1,BNN HD
+http://epicstream.tv:7000/live/jojo/jojo/1072.ts
+#EXTINF:-1,CP24 HD
+http://epicstream.tv:7000/live/jojo/jojo/144.ts
+#EXTINF:-1,Bloomberg HD
+http://epicstream.tv:7000/live/jojo/jojo/104.ts
+#EXTINF:-1,CSPAN
+http://epicstream.tv:7000/live/jojo/jojo/102.ts
+#EXTINF:-1,CSPAN 2
+http://epicstream.tv:7000/live/jojo/jojo/101.ts
+#EXTINF:-1,CBN HD
+http://epicstream.tv:7000/live/jojo/jojo/6829.ts
+#EXTINF:-1,CBN NEWS HD
+http://epicstream.tv:7000/live/jojo/jojo/6830.ts
+#EXTINF:-1,THE WEATHER CHANNEL CANADA HD
+http://epicstream.tv:7000/live/jojo/jojo/1214.ts
+#EXTINF:-1,THE WEATHER CHANNEL USA HD
+http://epicstream.tv:7000/live/jojo/jojo/1313.ts
+#EXTINF:-1,Hallmark Movies & Mysteries HD
+http://epicstream.tv:7000/live/jojo/jojo/8721.ts
+#EXTINF:-1,ShowTime East HD
+http://epicstream.tv:7000/live/jojo/jojo/6734.ts
+#EXTINF:-1,ShowTime West HD
+http://epicstream.tv:7000/live/jojo/jojo/6735.ts
+#EXTINF:-1,ShowTimeShowCase HD
+http://epicstream.tv:7000/live/jojo/jojo/6736.ts
+#EXTINF:-1,Showtime ShowCase HD
+http://epicstream.tv:7000/live/jojo/jojo/56.ts
+#EXTINF:-1,HBO 1 HD
+http://epicstream.tv:7000/live/jojo/jojo/23.ts
+#EXTINF:-1,HBO 2 HD
+http://epicstream.tv:7000/live/jojo/jojo/17.ts
+#EXTINF:-1,HBO USA HD
+http://epicstream.tv:7000/live/jojo/jojo/1591.ts
+#EXTINF:-1,HBO Family
+http://epicstream.tv:7000/live/jojo/jojo/79.ts
+#EXTINF:-1,HBO Comedy HD
+http://epicstream.tv:7000/live/jojo/jojo/4476.ts
+#EXTINF:-1,HBO Zone
+http://epicstream.tv:7000/live/jojo/jojo/78.ts
+#EXTINF:-1,Epix HD
+http://epicstream.tv:7000/live/jojo/jojo/8703.ts
+#EXTINF:-1,Showcase HD
+http://epicstream.tv:7000/live/jojo/jojo/1073.ts
+#EXTINF:-1,Cinemax HD
+http://epicstream.tv:7000/live/jojo/jojo/96.ts
+#EXTINF:-1,Cinemax Action Max HD
+http://epicstream.tv:7000/live/jojo/jojo/95.ts
+#EXTINF:-1,USA : Cinemax ThrillerMax HD
+http://epicstream.tv:7000/live/jojo/jojo/94.ts
+#EXTINF:-1,Starz Edge HD
+http://epicstream.tv:7000/live/jojo/jojo/53.ts
+#EXTINF:-1,Starz HD
+http://epicstream.tv:7000/live/jojo/jojo/52.ts
+#EXTINF:-1,USA : Starz Kids & Family HD
+http://epicstream.tv:7000/live/jojo/jojo/51.ts
+#EXTINF:-1,501 - MTV HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21979.ts
+#EXTINF:-1,502 - REELZ HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21978.ts
+#EXTINF:-1,503 - DISNEY HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21977.ts
+#EXTINF:-1,504 - DESTINATION AMERICA HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21976.ts
+#EXTINF:-1,505 - SEC NETWORK
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21975.ts
+#EXTINF:-1,506 - ESPN NEWS HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21974.ts
+#EXTINF:-1,507 - STARS KIDS & FAMILY
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21973.ts
+#EXTINF:-1,508 - PBS HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21972.ts
+#EXTINF:-1,509 - NICKTOONS HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21971.ts
+#EXTINF:-1,510 - NICK JNR. HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21970.ts
+#EXTINF:-1,511 - C-SPAN 1 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21969.ts
+#EXTINF:-1,512 - HBO FAMILY HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21968.ts
+#EXTINF:-1,513 - C-SPAN 3 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21967.ts
+#EXTINF:-1,514 - H2
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21966.ts
+#EXTINF:-1,515 - CBSN HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21965.ts
+#EXTINF:-1,516 - ANIMAL PLANET HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21964.ts
+#EXTINF:-1,517 - ABC NEWS HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21963.ts
+#EXTINF:-1,518 - HBO ZONE HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21962.ts
+#EXTINF:-1,519 - STARZ EDGE HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21961.ts
+#EXTINF:-1,520 - NBC HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21960.ts
+#EXTINF:-1,521 - C-SPAN 2 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21959.ts
+#EXTINF:-1,522 - INVESTIGATION DISCOVERY HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21958.ts
+#EXTINF:-1,523 - FOX HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21957.ts
+#EXTINF:-1,525 - DISCOVERY SCIENCE HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21955.ts
+#EXTINF:-1,526 - CINEMAX THRILLER MAX HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21954.ts
+#EXTINF:-1,527 - CBS SN HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21953.ts
+#EXTINF:-1,528 - UNIVERSAL HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21952.ts
+#EXTINF:-1,529 - DISCOVERY VELOCITY HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21951.ts
+#EXTINF:-1,530 - WFOX HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21950.ts
+#EXTINF:-1,531 - HALLMARK HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21949.ts
+#EXTINF:-1,532 - CINEMAX HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21948.ts
+#EXTINF:-1,533 - BEIN SPORTS HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21947.ts
+#EXTINF:-1,534 - CBN HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21946.ts
+#EXTINF:-1,535 - STARZ HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21945.ts
+#EXTINF:-1,536 - NFL NETWORK HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21944.ts
+#EXTINF:-1,537 - HBO HD NL
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21943.ts
+#EXTINF:-1,538 - THE WEATHER CHANNEL HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21942.ts
+#EXTINF:-1,539 - CBN NEWS HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21941.ts
+#EXTINF:-1,540 - ESPN2 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21940.ts
+#EXTINF:-1,541 - TV LAND HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21939.ts
+#EXTINF:-1,542 - VH1 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21938.ts
+#EXTINF:-1,543 - ESPN U HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21937.ts
+#EXTINF:-1,544 - SYFY HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21936.ts
+#EXTINF:-1,545 - UNIVISION DEP HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21935.ts
+#EXTINF:-1,546 - FOX BUSINESS NETWORK HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21934.ts
+#EXTINF:-1,547 - CW HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21933.ts
+#EXTINF:-1,548 - HGTV HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21932.ts
+#EXTINF:-1,549 - FOX NEWS HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21931.ts
+#EXTINF:-1,550 - CARTOON NETWORK HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21930.ts
+#EXTINF:-1,551 - TENNIS HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21929.ts
+#EXTINF:-1,552 - TRU TV HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21928.ts
+#EXTINF:-1,553 - NHL NETWORK HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21927.ts
+#EXTINF:-1,554 - WWE NETWORK
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21926.ts
+#EXTINF:-1,555 - WILLOW CRICKET HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21925.ts
+#EXTINF:-1,556 - TNT HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21924.ts
+#EXTINF:-1,557 - TBS HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21923.ts
+#EXTINF:-1,558 - COMEDY CENTRAL HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21922.ts
+#EXTINF:-1,559 - MLB NETWORK HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21921.ts
+#EXTINF:-1,560 - BRAVO HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21920.ts
+#EXTINF:-1,561 - SPIKE HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21919.ts
+#EXTINF:-1,562 - SHOWTIME HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21918.ts
+#EXTINF:-1,563 - NFL NOW HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21917.ts
+#EXTINF:-1,564 - BTN HD 1
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21916.ts
+#EXTINF:-1,565 - CINEMAX ACTION MAX HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21915.ts
+#EXTINF:-1,566 - SN CENTRAL HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21914.ts
+#EXTINF:-1,567 - USA NETWORK HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21913.ts
+#EXTINF:-1,568 - NICK HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21912.ts
+#EXTINF:-1,569 - FREEFORM HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21911.ts
+#EXTINF:-1,570 - GOLF HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21910.ts
+#EXTINF:-1,571 - FS 2 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21909.ts
+#EXTINF:-1,572 - FS 1 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21908.ts
+#EXTINF:-1,573 - ESPN HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21907.ts
+#EXTINF:-1,574 - DISCOVERY HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21906.ts
+#EXTINF:-1,575 - A&E HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21905.ts

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,4k - Guardians.of.the.Galaxy.Vol.2.2017.2160p.10bit.VUDU.WEBRip.7.1.x265.HEVC-MZABI
+http://streams.blazestreams.tk:5454/movie/jmac/jmac/24321.mp4
+#EXTINF:-1,4k - Hacksaw.Ridge.2016.2160p.4K.UHD.10bit.HDR.BluRay.7.1.x265.HEVC-MZABI
+http://streams.blazestreams.tk:5454/movie/jmac/jmac/24326.mp4
+#EXTINF:-1,4k - Kingsman The Secret Service (2014) 2160p UltraHD BluRay HEVC x265 DTS 5.1 4K [Zeus-n-Duke]
+http://streams.blazestreams.tk:5454/movie/jmac/jmac/24319.mp4
+#EXTINF:-1,4k - Logan.2017.2160p.10bit.HDR.BluRay.7.1.x265.HEVC-MZABI
+http://streams.blazestreams.tk:5454/movie/jmac/jmac/24330.mkv

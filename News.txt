@@ -1,0 +1,100 @@
+#EXTM3U
+#EXTINF:-1,218 - ABC NEWS
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14120.ts
+#EXTINF:-1,219 - BBC NEWS
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14066.ts
+#EXTINF:-1,220 - CNN
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14110.ts
+#EXTINF:-1,221 - FOX NEWS UK
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14200.ts
+#EXTINF:-1,223 - SKY NEWS HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14068.ts
+#EXTINF:-1,UK | BBC News
+http://iptv.dguk.co.uk/live/natalie2/natalie2/5449.ts
+#EXTINF:-1,UK | Sky News
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1201.ts
+#EXTINF:-1,UK | RT News Now
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1215.ts
+#EXTINF:-1,UK | RTE 1 HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1339.ts
+#EXTINF:-1,UK | RTE 2 HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1389.ts
+#EXTINF:-1,UK | RussiaToday
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1162.ts
+#EXTINF:-1,UK | FOX
+
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1259.ts
+
+#EXTINF:-1,UK | FOX News
+
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1258.ts
+
+#EXTINF:-1,UK | France Eng UK
+
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1257.ts
+#EXTINF:-1,UK | CNBC News
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1285.ts
+#EXTINF:-1,UK | CNN International
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1284.ts
+#EXTINF:-1,UK : SKY  NEWS IRELAND
+http://epicstream.tv:7000/live/jojo/jojo/4773.ts
+#EXTINF:-1,UK : SKY NEWS
+http://epicstream.tv:7000/live/jojo/jojo/4761.ts
+#EXTINF:-1,UK : SKY NEWS IRELAND
+http://epicstream.tv:7000/live/jojo/jojo/4760.ts
+#EXTINF:-1,259 - BBC NEWS
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
+#EXTINF:-1,260 - BBC PARLIMENT
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_parliament.m3u8
+#EXTINF:-1,261 - BLOOMBERG UK
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26601.ts
+#EXTINF:-1,262 - EURO NEWS
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26600.ts
+#EXTINF:-1,263 - RTE NEWS
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26599.ts
+#EXTINF:-1,264 - OIREACHTAS TV
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26598.ts
+#EXTINF:-1,265 - ABC NEWS
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26597.ts
+#EXTINF:-1,266 - THE FLORIDA CHANNEL
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26596.ts
+#EXTINF:-1,267 - WGN-CHICAGO
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26595.ts
+#EXTINF:-1,268 - TWIT NEWS NETWORK
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26594.ts
+#EXTINF:-1,269 - CBSN
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26593.ts
+#EXTINF:-1,270 - GLOBAL NEWS NETWORK
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26592.ts
+#EXTINF:-1,271 - BOSTON NEWS CHANNEL
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26591.ts
+#EXTINF:-1,272 - UNIVERSITY OF CALIFORNIA
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26590.ts
+#EXTINF:-1,273 - BBC NEWS WORLD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26589.ts
+#EXTINF:-1,274 - CGTN AMERICAS
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26588.ts
+#EXTINF:-1,275 - DISTRICT OF COLUMBIA NEWS NETWORK
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26587.ts
+#EXTINF:-1,276 - FOX 5 WASHINGTON NEWS
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26586.ts
+#EXTINF:-1,277 - KOB5 NETWORK
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26585.ts
+#EXTINF:-1,278 - KXAN NETWORK
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26584.ts
+#EXTINF:-1,279 - NBC BAY AREA NEWS
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26583.ts
+#EXTINF:-1,280 - NBC2 NEWS NETWORK
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26582.ts
+#EXTINF:-1,281 - NBC 5
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26581.ts
+#EXTINF:-1,282 - NEWS4
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26580.ts
+#EXTINF:-1,283 - NEWS CHANNEL 12
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26579.ts
+#EXTINF:-1,284 - WLBZ 2
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26578.ts
+#EXTINF:-1,285 - TG24
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26577.ts
+#EXTINF:-1,286 - BBC NEWS ARABIC
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26576.ts

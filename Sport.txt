@@ -1,0 +1,953 @@
+#EXTM3U
+#EXTINF:-1,UK | Box Nation SD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1385.ts
+#EXTINF:-1,UK | SKY SPORTS HD ACTION
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1331.ts
+#EXTINF:-1,UK | Sky Sports HD Arena
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12408.ts
+#EXTINF:-1,UK | SKY SPORTS HD CRICKET
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1332.ts
+#EXTINF:-1,UK | Sky Sports F1 HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1402.ts
+#EXTINF:-1,UK | Sky Sports HD Football
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12407.ts
+#EXTINF:-1,UK | Sky Sports HD GOLF
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1330.ts
+#EXTINF:-1,UK | SKY SPORTS HD Main Event
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1400.ts
+#EXTINF:-1,UK | Sky Sports Mix
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1328.ts
+#EXTINF:-1,UK | Sky Sports News HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1401.ts
+#EXTINF:-1,UK | SKY SPORTS HD Premier League
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1399.ts
+#EXTINF:-1,UK | Sky Sports Box Office
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1329.ts
+#EXTINF:-1,UK | BT Sport 1 HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1408.ts
+#EXTINF:-1,UK | BT Sport 2 HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1306.ts
+#EXTINF:-1,UK | BT Sport 3 HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1305.ts
+#EXTINF:-1,UK | BT Sport ESPN HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1407.ts
+#EXTINF:-1,UK | BT SPORT EUROPE
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1395.ts
+#EXTINF:-1,UK | BT Sport Extra 1
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1384.ts
+#EXTINF:-1,UK | BT Sport Extra 2
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1383.ts
+#EXTINF:-1,UK | BT Sport Extra 3
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1382.ts
+#EXTINF:-1,UK | BT Sport Extra 4
+http://iptv.dguk.co.uk/live/natalie2/natalie2/5444.ts
+#EXTINF:-1,UK | BT Sport Extra 5
+http://iptv.dguk.co.uk/live/natalie2/natalie2/5443.ts
+#EXTINF:-1,UK | BT Sport Extra 6
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1379.ts
+#EXTINF:-1,UK | Premier Sports
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1221.ts
+#EXTINF:-1,UK | Premier Sports HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1166.ts
+#EXTINF:-1,UK | Racing UK HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1343.ts
+#EXTINF:-1,UK | Rangers TV
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1342.ts
+#EXTINF:-1,327 - BT SPORT 1 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14104.ts
+#EXTINF:-1,328 - BT SPORT 2 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14103.ts
+#EXTINF:-1,329  - BT SPORT 3 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14102.ts
+#EXTINF:-1,330 - BT SPORT ESPN HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14067.ts
+#EXTINF:-1,331 - BT SPORT 1
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14205.ts
+#EXTINF:-1,332 - BT SPORT 2
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14201.ts
+#EXTINF:-1,333 - BT SPORT 3
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14206.ts
+#EXTINF:-1,334 - BT SPORT ESPN
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14964.ts
+#EXTINF:-1,336 - BT SPORT EXTRA 2
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14965.ts
+#EXTINF:-1,337 - BT SPORT EXTRA 3
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14966.ts
+#EXTINF:-1,338 - BT SPORT EXTRA 4
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14967.ts
+#EXTINF:-1,339 - BT SPORT EXTRA 5
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14968.ts
+#EXTINF:-1,341 - SKY MAIN EVENT HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14074.ts
+#EXTINF:-1,342 - SKY CRICKET HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14075.ts
+#EXTINF:-1,343 - SKY SPORTS ACTION HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14076.ts
+#EXTINF:-1,344 - SKY SPORTS GOLF HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14077.ts
+#EXTINF:-1,345 - SKY SPORTS PREMIER LEAGUE HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14078.ts
+#EXTINF:-1,346 - SKY SPORTS F1 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14079.ts
+#EXTINF:-1,347 - SKY SPORTS NEWS HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14222.ts
+#EXTINF:-1,348 - SKY SPORTS MIX HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16511.ts
+#EXTINF:-1,349 - SKY SPORTS MAIN EVENT
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14204.ts
+#EXTINF:-1,350 - SKY CRICKET
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14189.ts
+#EXTINF:-1,351 - SKY SPORTS ACTION
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14177.ts
+#EXTINF:-1,352 - SKY SPORTS GOLF
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14178.ts
+#EXTINF:-1,353 - SKY SPORTS PREMIER LEAGUE
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14176.ts
+#EXTINF:-1,354 - SKY SPORTS F1
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14183.ts
+#EXTINF:-1,355 - SKY SPORTS NEWS
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14055.ts
+#EXTINF:-1,356 - SKY SPORTS MIX
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14088.ts
+#EXTINF:-1,357 - EIR SPORT 1
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14191.ts
+#EXTINF:-1,358 - PREMIER SPORTS
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14188.ts
+#EXTINF:-1,359 - EUROSPORT 1 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14962.ts
+#EXTINF:-1,360 - EUROSPORT 2 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14963.ts
+#EXTINF:-1,361 - SKY SPORTS ARENA HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/15651.ts
+#EXTINF:-1,362 - SKY SPORTS FOOTBALL HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14165.ts
+#EXTINF:-1,363 - PREMIER SPORTS
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14971.ts
+#EXTINF:-1,364 - CHELSEA TV
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14970.ts
+#EXTINF:-1,365 - ITV BOX OFFICE HD (offline)
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14105.ts
+#EXTINF:-1,366 - LFCTV
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14166.ts
+#EXTINF:-1,367 - MUTV
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14134.ts
+#EXTINF:-1,373 - BOXNATION
+http://streams.blazestreams.tk:5454/live/jmac/jmac/15581.ts
+#EXTINF:-1,374 - AT THE RACES
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14113.ts
+#EXTINF:-1,375 - RACING UK HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14190.ts
+#EXTINF:-1,401 - ARENA SPORT 1
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14056.ts
+#EXTINF:-1,402 - ARENA SPORT 2
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14267.ts
+#EXTINF:-1,403 - ARENA SPORT 3
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14260.ts
+#EXTINF:-1,404 - ARENA SPORT 4
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14268.ts
+#EXTINF:-1,398 - FOX SPORT 1 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21281.ts
+#EXTINF:-1,399 - FOX SPORT 2 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21280.ts
+#EXTINF:-1,610 -  BTN HD 1
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21322.ts
+#EXTINF:-1,611 -  BTN HD 2
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21321.ts
+#EXTINF:-1,612 -  BTN HD 3
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21320.ts
+#EXTINF:-1,613 -  BTN HD 4
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21319.ts
+#EXTINF:-1,500 - INSIGHT
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21324.ts
+#EXTINF:-1,409 - beIN HD 1
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14277.ts
+#EXTINF:-1,410 - beIN HD 2
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14278.ts
+#EXTINF:-1,411 - beIN HD 3
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14279.ts
+#EXTINF:-1,412 - beIN HD 4
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14280.ts
+#EXTINF:-1,413 - beIN HD 5
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14261.ts
+#EXTINF:-1,414 - beIN HD 6
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14281.ts
+#EXTINF:-1,415 - beIN HD 7
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14273.ts
+#EXTINF:-1,416 - beIN HD 8
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14282.ts
+#EXTINF:-1,417 - beIN HD 9
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14283.ts
+#EXTINF:-1,418 - beIN HD 10
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14284.ts
+#EXTINF:-1,419 - beIN HD 11
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14263.ts
+#EXTINF:-1,420 - beIN HD 12
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14285.ts
+#EXTINF:-1,422 - ESPN NEWS
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16877.ts
+#EXTINF:-1,423 - ESPN U
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16876.ts
+#EXTINF:-1,424 - ELEVEN
+http://streams.blazestreams.tk:5454/live/jmac/jmac/15628.ts
+#EXTINF:-1,425 - ELEVEN SPORTS
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14247.ts
+#EXTINF:-1,426 - NBC EPL EXTRA
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14290.ts
+#EXTINF:-1,427 - NBC EPL EXTRA 2
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14250.ts
+#EXTINF:-1,428 - NBC EPL EXTRA 3
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14253.ts
+#EXTINF:-1,429 - NBC EPL EXTRA 4
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14291.ts
+#EXTINF:-1,430 - NBC EPL EXTRA 5
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14257.ts
+#EXTINF:-1,435 - FOX COLLEGE ATLANTIC
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16871.ts
+#EXTINF:-1,436 - FOX COLLEGE CENTRAL
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16870.ts
+#EXTINF:-1,437 - FOX COLLEGE PACIFIC
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16869.ts
+#EXTINF:-1,438 - BIKE CHANNEL (offline)
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16868.ts
+#EXTINF:-1,444 - OSN SPORT 1
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16867.ts
+#EXTINF:-1,445 - OSN SPORT 2
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16866.ts
+#EXTINF:-1,446 - OSN SPORT 3
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16865.ts
+#EXTINF:-1,447 - OSN SPORT 4
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16864.ts
+#EXTINF:-1,449 - SKYNET SPORTS 1
+http://streams.blazestreams.tk:5454/live/jmac/jmac/15104.ts
+#EXTINF:-1,450 - SKYNET SPORTS 2
+http://streams.blazestreams.tk:5454/live/jmac/jmac/15103.ts
+#EXTINF:-1,451 - SKYNET SPORTS 3
+http://streams.blazestreams.tk:5454/live/jmac/jmac/15102.ts
+#EXTINF:-1,452 - SKYNET SPORTS 4
+http://streams.blazestreams.tk:5454/live/jmac/jmac/15101.ts
+#EXTINF:-1,453 - SKYNET SPORTS 5
+http://streams.blazestreams.tk:5454/live/jmac/jmac/15100.ts
+#EXTINF:-1,455 - SKYNET SPORTS 6
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14265.ts
+#EXTINF:-1,456 - SPORT KLUB 1
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14259.ts
+#EXTINF:-1,457 - SPORT KLUB 2
+http://streams.blazestreams.tk:5454/live/jmac/jmac/14266.ts
+#EXTINF:-1,458 - SPORT KLUB 3
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16863.ts
+#EXTINF:-1,459 - SPORT KLUB 4
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16862.ts
+#EXTINF:-1,460 - SPORT KLUB 5
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16861.ts
+#EXTINF:-1,461 - SPORT KLUB 6
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16860.ts
+#EXTINF:-1,466 - AFN SPORTS 1
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16859.ts
+#EXTINF:-1,467 - AFN SPORTS 2
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16858.ts
+#EXTINF:-1,468 - BEIN US
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16857.ts
+#EXTINF:-1,584 - MLB NETWORK
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17592.ts
+#EXTINF:-1,585 - FOX SPORTS 1 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17591.ts
+#EXTINF:-1,586 - FOX SPORTS 2 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17590.ts
+#EXTINF:-1,587 - FOX SPORTS 1 HD NL
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17589.ts
+#EXTINF:-1,588 - FOX SPORTS HD 2 NL
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17588.ts
+#EXTINF:-1,589 - FOX SPORTS HD 3 NL
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17587.ts
+#EXTINF:-1,590 - FOX SPORTS HD 4 NL
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17586.ts
+#EXTINF:-1,591 - FOX SPORTS HD 5 NL
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17585.ts
+#EXTINF:-1,592 - BEIN SPORTS USA
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17584.ts
+#EXTINF:-1,594 - TSN 1 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17582.ts
+#EXTINF:-1,595 - TSN 2 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17581.ts
+#EXTINF:-1,596 - TSN 3 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17580.ts
+#EXTINF:-1,597 - TSN 4 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17579.ts
+#EXTINF:-1,598 - TSN 5 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17578.ts
+#EXTINF:-1,599 - NHL NETWORK
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17577.ts
+#EXTINF:-1,600 - NBCSN HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17576.ts
+#EXTINF:-1,601 - MLB HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17575.ts
+#EXTINF:-1,602 - NBA HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17574.ts
+#EXTINF:-1,615 - NBCSN EXTRA TIME
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17561.ts
+#EXTINF:-1,616 - NHL NETWORK HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17560.ts
+#EXTINF:-1,617 - WILLOW CRICKET
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17559.ts
+#EXTINF:-1,618 - UFC FIGHT PASS
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17558.ts
+#EXTINF:-1,619 - SPORTS NET 360 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17557.ts
+#EXTINF:-1,620 - SPORTS NET ONE HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17556.ts
+#EXTINF:-1,621 - SPORTS NET ONTARIO HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17555.ts
+#EXTINF:-1,622 - SPORTS NET WORLD HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17554.ts
+#EXTINF:-1,623 - SPORTS NET EAST HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17553.ts
+#EXTINF:-1,624 - SPORTS NET PACIFIC HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17552.ts
+#EXTINF:-1,625 - SPORTS NET WEST HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17551.ts
+#EXTINF:-1,626 - WWE NETWORK
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17550.ts
+#EXTINF:-1,627 - NBC GOLF
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17549.ts
+#EXTINF:-1,629 - FIGHT NETWORK
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17547.ts
+#EXTINF:-1,631 - GOLF HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17545.ts
+#EXTINF:-1,632 - NHLTV NETWORK
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17544.ts
+#EXTINF:-1,635 - ESPN
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17541.ts
+#EXTINF:-1,636 - ESPN 2
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17540.ts
+#EXTINF:-1,638 - NFL NETWORK HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17538.ts
+#EXTINF:-1,639 - NFL NOW
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17537.ts
+#EXTINF:-1,640 - TENNIS HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17536.ts
+#EXTINF:-1,641 - FOX NEWS HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17535.ts
+#EXTINF:-1,642 - NBC USA EXTRA
+http://streams.blazestreams.tk:5454/live/jmac/jmac/17534.ts
+#EXTINF:-1,901 -
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16829.ts
+#EXTINF:-1,902 -
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16830.ts
+#EXTINF:-1,903 -
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16831.ts
+#EXTINF:-1,904 -
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16832.ts
+#EXTINF:-1,905 -
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16833.ts
+#EXTINF:-1,906 -
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16834.ts
+#EXTINF:-1,907 -
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16821.ts
+#EXTINF:-1,908 - THE ASHES - BT 1 - 720p
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16486.ts
+#EXTINF:-1,909 - THE ASHES - BT 1 - 1080p
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16487.ts
+#EXTINF:-1,910 - THE ASHES - WILOW CRICKET
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16488.ts
+#EXTINF:-1,911 - FRI - WEST HAM VS LEICESTER
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16489.ts
+#EXTINF:-1,912 - BARNSLEY VS LEEDS UNITED
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16490.ts
+#EXTINF:-1,913 - NEWCASTLE VS WATFORD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16491.ts
+#EXTINF:-1,914 - CRYSTAL PALACE VS STOKE CITY
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16492.ts
+#EXTINF:-1,915 - SWANSEA VS BOURNEMOUTH
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16493.ts
+#EXTINF:-1,916 - MANCHESTER UNITED VS BRIGHT HOVE ALBION
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16880.ts
+#EXTINF:-1,917 - TOTTENHAM HOTSPUR VS WEST BROM
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16881.ts
+#EXTINF:-1,918 - LIVERPOOL VS CHELSEA
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16882.ts
+#EXTINF:-1,919 - SHEFFIELD UNITED VS BIRMINGHAM CITY
+http://streams.blazestreams.tk:5454/live/jmac/jmac/16883.ts
+#EXTINF:-1,368 - ABERDEEN FC TV ( LIVE ON MATCHES )
+http://streams.blazestreams.tk:5454/live/jmac/jmac/20025.ts
+#EXTINF:-1,369 - CELTIC FC TV ( LIVE ON MATCHES )
+http://streams.blazestreams.tk:5454/live/jmac/jmac/20024.ts
+#EXTINF:-1,370 - DUNDEE FC TV ( LIVE ON MATCHES )
+http://streams.blazestreams.tk:5454/live/jmac/jmac/20023.ts
+#EXTINF:-1,371 - RANGERS FC TV ( LIVE ON MATCHES )
+http://streams.blazestreams.tk:5454/live/jmac/jmac/20022.ts
+#EXTINF:-1,372 - RED FC TV ( LIVE ON MATCHES )
+http://streams.blazestreams.tk:5454/live/jmac/jmac/20021.ts
+#EXTINF:-1,469 - FR : EUROSPORT 1 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21134.ts
+#EXTINF:-1,470 - FR : EUROSPORT 2 HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21133.ts
+#EXTINF:-1,490 - PAC 12 WASHINGTON
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21132.ts
+#EXTINF:-1,472 - FR : SFR SPORT 1
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21131.ts
+#EXTINF:-1,473 - FR : SFR SPORT 2
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21130.ts
+#EXTINF:-1,474 - FR : SFR SPORT 3
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21129.ts
+#EXTINF:-1,475 - FR : SFR SPORT 5
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21128.ts
+#EXTINF:-1,993 - Watford VS West Ham
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21271.ts
+#EXTINF:-1,994 - U23 - Liverpool VS Everton
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21270.ts
+#EXTINF:-1,TSN HD
+http://epicstream.tv:7000/live/jojo/jojo/124.ts
+#EXTINF:-1,TSN 2 HD
+http://epicstream.tv:7000/live/jojo/jojo/123.ts
+#EXTINF:-1,TSN 3 HD
+http://epicstream.tv:7000/live/jojo/jojo/122.ts
+#EXTINF:-1,TSN 4 HD
+http://epicstream.tv:7000/live/jojo/jojo/121.ts
+#EXTINF:-1,TSN 5 HD
+http://epicstream.tv:7000/live/jojo/jojo/120.ts
+#EXTINF:-1,SportsNet 360 HD
+http://epicstream.tv:7000/live/jojo/jojo/131.ts
+#EXTINF:-1,SportsNet East HD
+http://epicstream.tv:7000/live/jojo/jojo/130.ts
+#EXTINF:-1,SportsNet One HD
+http://epicstream.tv:7000/live/jojo/jojo/129.ts
+#EXTINF:-1,SportsNet Ontario HD
+http://epicstream.tv:7000/live/jojo/jojo/128.ts
+#EXTINF:-1,SportsNet Pacific HD
+http://epicstream.tv:7000/live/jojo/jojo/127.ts
+#EXTINF:-1,SportsNet West HD
+http://epicstream.tv:7000/live/jojo/jojo/126.ts
+#EXTINF:-1,SportsNet World HD
+http://epicstream.tv:7000/live/jojo/jojo/1106.ts
+#EXTINF:-1,FOX Sports 1
+http://epicstream.tv:7000/live/jojo/jojo/35.ts
+#EXTINF:-1,FOX Sports 2
+http://epicstream.tv:7000/live/jojo/jojo/34.ts
+#EXTINF:-1,ESPN HD
+http://epicstream.tv:7000/live/jojo/jojo/89.ts
+#EXTINF:-1,ESPN 2 HD
+http://epicstream.tv:7000/live/jojo/jojo/87.ts
+#EXTINF:-1,ESPN U HD
+http://epicstream.tv:7000/live/jojo/jojo/1231.ts
+#EXTINF:-1,ESPN News HD
+http://epicstream.tv:7000/live/jojo/jojo/88.ts
+#EXTINF:-1,NBC Sports HD
+http://epicstream.tv:7000/live/jojo/jojo/33.ts
+#EXTINF:-1,SEC Network HD
+http://epicstream.tv:7000/live/jojo/jojo/39.ts
+#EXTINF:-1,NBA TV
+http://epicstream.tv:7000/live/jojo/jojo/9.ts
+#EXTINF:-1,NBA TV HD USA
+http://epicstream.tv:7000/live/jojo/jojo/8516.ts
+#EXTINF:-1,NHL NETWORK HD
+http://epicstream.tv:7000/live/jojo/jojo/32.ts
+#EXTINF:-1,MLB Network HD
+http://epicstream.tv:7000/live/jojo/jojo/74.ts
+#EXTINF:-1,The Golf Channel HD
+http://epicstream.tv:7000/live/jojo/jojo/82.ts
+#EXTINF:-1,TENNIS HD
+http://epicstream.tv:7000/live/jojo/jojo/48.ts
+#EXTINF:-1,CBS Sports HD
+http://epicstream.tv:7000/live/jojo/jojo/98.ts
+#EXTINF:-1,UFC Fight Pass
+http://epicstream.tv:7000/live/jojo/jojo/8517.ts
+#EXTINF:-1,UK : BOXNATION
+http://epicstream.tv:7000/live/jojo/jojo/4884.ts
+#EXTINF:-1,WWE HD
+http://epicstream.tv:7000/live/jojo/jojo/2.ts
+#EXTINF:-1,Willow Cricket HD
+http://epicstream.tv:7000/live/jojo/jojo/41.ts
+#EXTINF:-1,USA : SN CENTRAL HD
+http://epicstream.tv:7000/live/jojo/jojo/55.ts
+#EXTINF:-1,PAC-12 Arizona
+http://epicstream.tv:7000/live/jojo/jojo/5981.ts
+#EXTINF:-1,PAC-12 Bay Area
+http://epicstream.tv:7000/live/jojo/jojo/5980.ts
+#EXTINF:-1,PAC-12 Los Angeles
+http://epicstream.tv:7000/live/jojo/jojo/5979.ts
+#EXTINF:-1,PAC-12 Oregon
+http://epicstream.tv:7000/live/jojo/jojo/5978.ts
+#EXTINF:-1,PAC-12 MOUNTAIN
+http://epicstream.tv:7000/live/jojo/jojo/6029.ts
+#EXTINF:-1,PAC-12 NATIONAL
+http://epicstream.tv:7000/live/jojo/jojo/6030.ts
+#EXTINF:-1,PAC-12 Washington
+http://epicstream.tv:7000/live/jojo/jojo/5977.ts
+#EXTINF:-1,US: beIN Sports HD
+http://epicstream.tv:7000/live/jojo/jojo/37.ts
+#EXTINF:-1,-= Sky Sports =-
+http://epicstream.tv:7000/live/jojo/jojo/4917.ts
+#EXTINF:-1,UK HD : SKY SPORTS FHD PREMIER LEAGUE
+http://epicstream.tv:7000/live/jojo/jojo/4696.ts
+#EXTINF:-1,UK HD : SKY SPORTS ACTION FHD
+http://epicstream.tv:7000/live/jojo/jojo/4609.ts
+#EXTINF:-1,UK HD : SKY SPORTS ARENA FHD
+http://epicstream.tv:7000/live/jojo/jojo/4608.ts
+#EXTINF:-1,UK HD : SKY SPORTS FHD CRICKET
+http://epicstream.tv:7000/live/jojo/jojo/4607.ts
+#EXTINF:-1,UK HD : SKY SPORTS FHD F1
+http://epicstream.tv:7000/live/jojo/jojo/4606.ts
+#EXTINF:-1,UK HD :  SKY SPORTS FHD GOLF (THE OPEN)
+http://epicstream.tv:7000/live/jojo/jojo/4697.ts
+#EXTINF:-1,UK HD : SKY SPORTS HD PREMIER LEAGUE
+http://epicstream.tv:7000/live/jojo/jojo/4694.ts
+#EXTINF:-1,UK HD : SKY SPORTS HD GOLF (THE OPEN)
+http://epicstream.tv:7000/live/jojo/jojo/4695.ts
+#EXTINF:-1,UK HD : SKY SPORTS MIX HD
+http://epicstream.tv:7000/live/jojo/jojo/4693.ts
+#EXTINF:-1,UK HD : SKY SPORTS  F1 HD
+http://epicstream.tv:7000/live/jojo/jojo/4610.ts
+#EXTINF:-1,UK HD : SKY SPORTS FHD MAIN EVENT
+http://epicstream.tv:7000/live/jojo/jojo/4605.ts
+#EXTINF:-1,UK HD : SKY SPORTS FOOTBALL FHD
+http://epicstream.tv:7000/live/jojo/jojo/4604.ts
+#EXTINF:-1,UK HD : SKY SPORTS HD ACTION
+http://epicstream.tv:7000/live/jojo/jojo/4603.ts
+#EXTINF:-1,UK HD : SKY SPORTS HD ARENA
+http://epicstream.tv:7000/live/jojo/jojo/4602.ts
+#EXTINF:-1,UK HD : SKY SPORTS HD CRICKET
+http://epicstream.tv:7000/live/jojo/jojo/4601.ts
+#EXTINF:-1,UK HD : SKY SPORTS HD FOOTBALL
+http://epicstream.tv:7000/live/jojo/jojo/4600.ts
+#EXTINF:-1,UK HD : SKY SPORTS HD MAIN EVENT
+http://epicstream.tv:7000/live/jojo/jojo/4599.ts
+#EXTINF:-1,UK HD : SKY SPORTS NEWS HD
+http://epicstream.tv:7000/live/jojo/jojo/4598.ts
+#EXTINF:-1,UK : SKY SPORTS  NEWS
+http://epicstream.tv:7000/live/jojo/jojo/4757.ts
+#EXTINF:-1,UK : SKY SPORTS ACTION
+http://epicstream.tv:7000/live/jojo/jojo/4756.ts
+#EXTINF:-1,UK : SKY SPORTS ACTIVE 1
+http://epicstream.tv:7000/live/jojo/jojo/4755.ts
+#EXTINF:-1,UK : SKY SPORTS ACTIVE 2
+http://epicstream.tv:7000/live/jojo/jojo/4754.ts
+#EXTINF:-1,UK : SKY SPORTS ACTIVE 3
+http://epicstream.tv:7000/live/jojo/jojo/4753.ts
+#EXTINF:-1,UK : SKY SPORTS ACTIVE 4
+http://epicstream.tv:7000/live/jojo/jojo/4752.ts
+#EXTINF:-1,UK : SKY SPORTS ACTIVE 5
+http://epicstream.tv:7000/live/jojo/jojo/4751.ts
+#EXTINF:-1,UK : SKY SPORTS ACTIVE 6
+http://epicstream.tv:7000/live/jojo/jojo/4750.ts
+#EXTINF:-1,UK : SKY SPORTS ACTIVE 7
+http://epicstream.tv:7000/live/jojo/jojo/4749.ts
+#EXTINF:-1,UK : SKY SPORTS ACTIVE 8
+http://epicstream.tv:7000/live/jojo/jojo/4748.ts
+#EXTINF:-1,UK : SKY SPORTS ARENA
+http://epicstream.tv:7000/live/jojo/jojo/4747.ts
+#EXTINF:-1,UK : SKY SPORTS CRICKET
+http://epicstream.tv:7000/live/jojo/jojo/4745.ts
+#EXTINF:-1,UK : SKY SPORTS F1
+http://epicstream.tv:7000/live/jojo/jojo/4744.ts
+#EXTINF:-1,UK : SKY SPORTS FOOTBALL
+http://epicstream.tv:7000/live/jojo/jojo/4743.ts
+#EXTINF:-1,UK : SKY SPORTS GOLF (THE OPEN)
+http://epicstream.tv:7000/live/jojo/jojo/4742.ts
+#EXTINF:-1,UK : SKY SPORTS MAIN EVENT
+http://epicstream.tv:7000/live/jojo/jojo/4741.ts
+#EXTINF:-1,UK : SKY SPORTS PREMIER LEAGUE
+http://epicstream.tv:7000/live/jojo/jojo/4740.ts
+#EXTINF:-1,-= BT Sports =-
+http://epicstream.tv:7000/live/jojo/jojo/4918.ts
+#EXTINF:-1,UK : BT Sport ESPN
+http://epicstream.tv:7000/live/jojo/jojo/4882.ts
+#EXTINF:-1,UK HD : BT SPORTS FHD 1
+http://epicstream.tv:7000/live/jojo/jojo/4678.ts
+#EXTINF:-1,UK HD : BT SPORTS FHD 2
+http://epicstream.tv:7000/live/jojo/jojo/4677.ts
+#EXTINF:-1,UK HD : BT SPORTS FHD 3
+http://epicstream.tv:7000/live/jojo/jojo/4676.ts
+#EXTINF:-1,UK HD : BT ESPN HD
+http://epicstream.tv:7000/live/jojo/jojo/4679.ts
+#EXTINF:-1,UK HD : BT SPORTS HD 1
+http://epicstream.tv:7000/live/jojo/jojo/4675.ts
+#EXTINF:-1,UK HD : BT SPORTS HD 2
+http://epicstream.tv:7000/live/jojo/jojo/4674.ts
+#EXTINF:-1,UK HD : BT SPORTS HD 3
+http://epicstream.tv:7000/live/jojo/jojo/4673.ts
+#EXTINF:-1,UK : BT SPORTS 1
+http://epicstream.tv:7000/live/jojo/jojo/4881.ts
+#EXTINF:-1,UK : BT SPORTS 2
+http://epicstream.tv:7000/live/jojo/jojo/4880.ts
+#EXTINF:-1,UK : BT SPORTS 3
+http://epicstream.tv:7000/live/jojo/jojo/4879.ts
+#EXTINF:-1,UK : BT SPORTS MOSAIC
+http://epicstream.tv:7000/live/jojo/jojo/4878.ts
+#EXTINF:-1,UK HD : BT SPORTS EXTRA
+http://epicstream.tv:7000/live/jojo/jojo/4672.ts
+#EXTINF:-1,UK HD : BT SPORTS EXTRA 2
+http://epicstream.tv:7000/live/jojo/jojo/4671.ts
+#EXTINF:-1,UK HD : BT SPORTS EXTRA 3
+http://epicstream.tv:7000/live/jojo/jojo/4670.ts
+#EXTINF:-1,UK HD : BT SPORTS EXTRA 4
+http://epicstream.tv:7000/live/jojo/jojo/4669.ts
+#EXTINF:-1,UK HD : BT SPORTS EXTRA 5
+http://epicstream.tv:7000/live/jojo/jojo/4668.ts
+#EXTINF:-1,OLYMPICS HD
+http://epicstream.tv:7000/live/jojo/jojo/2443.ts
+#EXTINF:-1,OLYMPICS HD 2
+http://epicstream.tv:7000/live/jojo/jojo/2444.ts
+#EXTINF:-1,OLYMPICS  HD 3
+http://epicstream.tv:7000/live/jojo/jojo/2445.ts
+#EXTINF:-1,OLYMPICS HD 4
+http://epicstream.tv:7000/live/jojo/jojo/2446.ts
+#EXTINF:-1,OLYMPICS HD 5
+http://epicstream.tv:7000/live/jojo/jojo/2447.ts
+#EXTINF:-1,SPFL : ABERDEEN FC TV ( LIVE ON MATCHES )
+http://epicstream.tv:7000/live/jojo/jojo/2231.ts
+#EXTINF:-1,SPFL : CELTIC FC TV ( LIVE ON MATCHES )
+http://epicstream.tv:7000/live/jojo/jojo/2232.ts
+#EXTINF:-1,SPFL : DUNDEE FC TV ( LIVE ON MATCHES )
+http://epicstream.tv:7000/live/jojo/jojo/2229.ts
+#EXTINF:-1,SPFL : RANGERS FC TV ( LIVE ON MATCHES )
+http://epicstream.tv:7000/live/jojo/jojo/2230.ts
+#EXTINF:-1,SPFL : RED FC TV ( LIVE ON MATCHES )
+http://epicstream.tv:7000/live/jojo/jojo/2233.ts
+#EXTINF:-1,MIO ELEVEN HD
+http://epicstream.tv:7000/live/jojo/jojo/8538.ts
+#EXTINF:-1,MIO  ELEVEN SPORTS HD
+http://epicstream.tv:7000/live/jojo/jojo/8537.ts
+#EXTINF:-1,OSN SPORTS HD 1
+http://epicstream.tv:7000/live/jojo/jojo/8534.ts
+#EXTINF:-1,OSN SPORTS HD 2
+http://epicstream.tv:7000/live/jojo/jojo/8535.ts
+#EXTINF:-1,OSN SPORTS HD 3
+http://epicstream.tv:7000/live/jojo/jojo/8536.ts
+#EXTINF:-1,OSN SPORTS HD 4
+http://epicstream.tv:7000/live/jojo/jojo/8528.ts
+#EXTINF:-1,EUROSPORTS HD
+http://epicstream.tv:7000/live/jojo/jojo/8529.ts
+#EXTINF:-1,EUROSPORTS HD 2
+http://epicstream.tv:7000/live/jojo/jojo/8530.ts
+#EXTINF:-1,EUROSPORTS HD 3
+http://epicstream.tv:7000/live/jojo/jojo/8531.ts
+#EXTINF:-1,EUROSPORTS HD 4
+http://epicstream.tv:7000/live/jojo/jojo/8532.ts
+#EXTINF:-1,EUROSPORTS HD 5
+http://epicstream.tv:7000/live/jojo/jojo/8533.ts
+#EXTINF:-1,UK HD : EUROSPORTS HD
+http://epicstream.tv:7000/live/jojo/jojo/4654.ts
+#EXTINF:-1,UK HD : EUROSPORTS HD 2
+http://epicstream.tv:7000/live/jojo/jojo/4653.ts
+#EXTINF:-1,OSN CRICKET HD
+http://epicstream.tv:7000/live/jojo/jojo/8527.ts
+#EXTINF:-1,FOX SPORTS ASIA HD 1
+http://epicstream.tv:7000/live/jojo/jojo/8524.ts
+#EXTINF:-1,FOX SPORTS ASIA HD 2
+http://epicstream.tv:7000/live/jojo/jojo/8525.ts
+#EXTINF:-1,FOX SPORTS ASIA HD 3
+http://epicstream.tv:7000/live/jojo/jojo/8526.ts
+#EXTINF:-1,-= NFL GAMEDAY =-
+http://epicstream.tv:7000/live/jojo/jojo/6745.ts
+#EXTINF:-1,NFL 1 : Philadelphia Eagles @ Dallas Cowboys
+http://epicstream.tv:7000/live/jojo/jojo/8765.ts
+#EXTINF:-1,NFL  2 : Detroit Lions @ Chicago Bears
+http://epicstream.tv:7000/live/jojo/jojo/8766.ts
+#EXTINF:-1,NFL 3 : Jacksonville Jaguars @ Cleveland Browns
+http://epicstream.tv:7000/live/jojo/jojo/8757.ts
+#EXTINF:-1,NFL 4 : Baltimore Ravens @ Green Bay Packers
+http://epicstream.tv:7000/live/jojo/jojo/8756.ts
+#EXTINF:-1,NFL 5 : Arizona Cardinals @ Houston Texans
+http://epicstream.tv:7000/live/jojo/jojo/8755.ts
+#EXTINF:-1,NFL 6 : Los Angeles Rams @ Minnesota Vikings
+http://epicstream.tv:7000/live/jojo/jojo/8754.ts
+#EXTINF:-1,NFL 7 :  Washington Redskins @ New Orleans Saints
+http://epicstream.tv:7000/live/jojo/jojo/8753.ts
+#EXTINF:-1,NFL 8 : Kansas City Chiefs @ New York Giants
+http://epicstream.tv:7000/live/jojo/jojo/8752.ts
+#EXTINF:-1,NFL 9 : Tampa Bay Buccaneers @ Miami Dolphins
+http://epicstream.tv:7000/live/jojo/jojo/8751.ts
+#EXTINF:-1,NFL 10 : Buffalo Bills @ Los Angeles Chargers
+http://epicstream.tv:7000/live/jojo/jojo/8764.ts
+#EXTINF:-1,NFL 11 : Cincinnati Bengals @ Denver Broncos
+http://epicstream.tv:7000/live/jojo/jojo/8763.ts
+#EXTINF:-1,NFL 12 : New England Patriots @ Oakland Raiders
+http://epicstream.tv:7000/live/jojo/jojo/8762.ts
+#EXTINF:-1,NFL 13 :
+http://epicstream.tv:7000/live/jojo/jojo/8761.ts
+#EXTINF:-1,NFL 14 :
+http://epicstream.tv:7000/live/jojo/jojo/8760.ts
+#EXTINF:-1,NFL 15 :
+http://epicstream.tv:7000/live/jojo/jojo/8759.ts
+#EXTINF:-1,NFL 16 :
+http://epicstream.tv:7000/live/jojo/jojo/8758.ts
+#EXTINF:-1,NFL REDZONE
+http://epicstream.tv:7000/live/jojo/jojo/4401.ts
+#EXTINF:-1,NFL NETWORK HD
+http://epicstream.tv:7000/live/jojo/jojo/62.ts
+#EXTINF:-1,NFLNETWORK
+http://epicstream.tv:7000/live/jojo/jojo/6861.ts
+#EXTINF:-1,USA : NFL NOW HD
+http://epicstream.tv:7000/live/jojo/jojo/61.ts
+#EXTINF:-1,-= Premier League =-
+http://epicstream.tv:7000/live/jojo/jojo/6744.ts
+#EXTINF:-1,EPL 1 HD
+http://epicstream.tv:7000/live/jojo/jojo/8237.ts
+#EXTINF:-1,EPL 2 HD
+http://epicstream.tv:7000/live/jojo/jojo/8236.ts
+#EXTINF:-1,EPL 3 HD
+http://epicstream.tv:7000/live/jojo/jojo/8235.ts
+#EXTINF:-1,EPL 4 HD
+http://epicstream.tv:7000/live/jojo/jojo/8234.ts
+#EXTINF:-1,EPL 5 HD
+http://epicstream.tv:7000/live/jojo/jojo/8233.ts
+#EXTINF:-1,EPL 6 HD
+http://epicstream.tv:7000/live/jojo/jojo/8232.ts
+#EXTINF:-1,EPL 7 : AFC Bournemouth Vs Chelsea 5:30pm Saturday 28th October
+http://epicstream.tv:7000/live/jojo/jojo/8231.ts
+#EXTINF:-1,-= MLB =-
+http://epicstream.tv:7000/live/jojo/jojo/6746.ts
+#EXTINF:-1,MLB: SEASON OVER UNTIL NEXT
+http://epicstream.tv:7000/live/jojo/jojo/7901.ts
+#EXTINF:-1,-= NHL =-
+http://epicstream.tv:7000/live/jojo/jojo/6747.ts
+#EXTINF:-1,LIVE NHL 1: Minnesota @  Buffalo 7:00 PM ET
+http://epicstream.tv:7000/live/jojo/jojo/8393.ts
+#EXTINF:-1,LIVE NHL 2: Edmonton @  Detroit 7:00 PM ET
+http://epicstream.tv:7000/live/jojo/jojo/8392.ts
+#EXTINF:-1,LIVE NHL 3:  Toronto @  Florida 7:00 PM ET
+http://epicstream.tv:7000/live/jojo/jojo/8391.ts
+#EXTINF:-1,LIVE NHL 4: Boston @  New Jersey 7:00 PM ET
+http://epicstream.tv:7000/live/jojo/jojo/8390.ts
+#EXTINF:-1,LIVE NHL 5: Philadelphia @  NY Islanders	 7:00 PM ET
+http://epicstream.tv:7000/live/jojo/jojo/8389.ts
+#EXTINF:-1,LIVE NHL 6: Vancouver @  Pittsburgh 7:00 PM ET
+http://epicstream.tv:7000/live/jojo/jojo/8388.ts
+#EXTINF:-1,LIVE NHL 7: Ottawa @  Washington 7:00 PM ET
+http://epicstream.tv:7000/live/jojo/jojo/8387.ts
+#EXTINF:-1,LIVE NHL 8: NY Rangers @  Carolina 7:00 PM ET
+http://epicstream.tv:7000/live/jojo/jojo/8386.ts
+#EXTINF:-1,LIVE NHL 9: Calgary @  Columbus 7:00 PM ET
+http://epicstream.tv:7000/live/jojo/jojo/8385.ts
+#EXTINF:-1,LIVE NHL 10: Chicago @  Tampa Bay 7:30 PM ET
+http://epicstream.tv:7000/live/jojo/jojo/8384.ts
+#EXTINF:-1,LIVE NHL 11: Montréal @  Nashville 8:00 PM ET
+http://epicstream.tv:7000/live/jojo/jojo/8383.ts
+#EXTINF:-1,LIVE NHL 12: Dallas @  Colorado	 9:00 PM ET
+http://epicstream.tv:7000/live/jojo/jojo/8382.ts
+#EXTINF:-1,LIVE NHL 13: San Jose @  Arizona 9:00 PM ET
+http://epicstream.tv:7000/live/jojo/jojo/8381.ts
+#EXTINF:-1,LIVE NHL 14: Vegas @  Anaheim	10:30 PM ET
+http://epicstream.tv:7000/live/jojo/jojo/8787.ts
+#EXTINF:-1,-= NBA =-
+http://epicstream.tv:7000/live/jojo/jojo/6748.ts
+#EXTINF:-1,SPORTS : NBA PASS 1 HD
+http://epicstream.tv:7000/live/jojo/jojo/8312.ts
+#EXTINF:-1,SPORTS : NBA PASS 2 HD
+http://epicstream.tv:7000/live/jojo/jojo/8311.ts
+#EXTINF:-1,SPORTS : NBA PASS 3 HD
+http://epicstream.tv:7000/live/jojo/jojo/8310.ts
+#EXTINF:-1,SPORTS : NBA PASS 4 HD
+http://epicstream.tv:7000/live/jojo/jojo/8309.ts
+#EXTINF:-1,SPORTS : NBA PASS 5 HD
+http://epicstream.tv:7000/live/jojo/jojo/8308.ts
+#EXTINF:-1,SPORTS : NBA PASS 6 HD
+http://epicstream.tv:7000/live/jojo/jojo/8307.ts
+#EXTINF:-1,SPORTS : NBA PASS 7 HD
+http://epicstream.tv:7000/live/jojo/jojo/8306.ts
+#EXTINF:-1,SPORTS : NBA PASS 8 HD
+http://epicstream.tv:7000/live/jojo/jojo/8305.ts
+#EXTINF:-1,SPORTS : NBA PASS 9 HD
+http://epicstream.tv:7000/live/jojo/jojo/8304.ts
+#EXTINF:-1,UK | TSN 1 USA
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1054.ts
+#EXTINF:-1,UK | TSN 2 USA
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1053.ts
+#EXTINF:-1,UK | TSN 3 USA
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1052.ts
+#EXTINF:-1,UK | TSN 4 USA
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1051.ts
+#EXTINF:-1,UK | TSN 5 USA
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1050.ts
+#EXTINF:-1,UK | TV5 Monde
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1179.ts
+#EXTINF:-1,UK | Universal
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1178.ts
+#EXTINF:-1,UK | Bein Sports 1 HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1147.ts
+#EXTINF:-1,UK | Bein Sports USA HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1141.ts
+#EXTINF:-1,UK | CAN:Sportsnet 360 HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1145.ts
+#EXTINF:-1,UK | NBCSN
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1142.ts
+#EXTINF:-1,UK | Sportnet Pacific HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1146.ts
+#EXTINF:-1,UK | Sportsnet East HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1144.ts
+#EXTINF:-1,UK | Sportsnet One HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1143.ts
+#EXTINF:-1,UK | EUROSPORT 1 HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/3157.ts
+#EXTINF:-1,UK | EUROSPORT 2 HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/3156.ts
+#EXTINF:-1,UK | Sky Sports PPV
+http://iptv.dguk.co.uk/live/natalie2/natalie2/3155.ts
+#EXTINF:-1,Bein Sport 1HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12554.ts
+#EXTINF:-1,Bein Sport 2HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12553.ts
+#EXTINF:-1,Bein Sport 3HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12552.ts
+#EXTINF:-1,Bein Sport 4HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12551.ts
+#EXTINF:-1,Bein Sport 5HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12550.ts
+#EXTINF:-1,Bein Sport 6HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12549.ts
+#EXTINF:-1,Bein Sport 7HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12548.ts
+#EXTINF:-1,Bein Sport 8HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12547.ts
+#EXTINF:-1,Bein Sport 9HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12546.ts
+#EXTINF:-1,Bein Sport 10HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12545.ts
+#EXTINF:-1,Bein Sport 11 HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/15655.ts
+#EXTINF:-1,UK | Man City v Wolves (Link 1)
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12556.ts
+#EXTINF:-1,UK | Man City v Wolves (Link 2)
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12557.ts
+#EXTINF:-1,UK | Man City v Wolves (Link 3)
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12558.ts
+#EXTINF:-1,UK | Man City v Wolves (Link 4)
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12559.ts
+#EXTINF:-1,UK | Man City v Wolves (Link 5)
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12623.ts
+#EXTINF:-1,UK | Man City v Wolves (Link 6)
+http://iptv.dguk.co.uk/live/natalie2/natalie2/12622.ts
+#EXTINF:-1,UK | WWE HD (PPV)
+http://iptv.dguk.co.uk/live/natalie2/natalie2/8179.ts
+#EXTINF:-1,UK | WWE Raw Network HD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/9976.ts
+#EXTINF:-1,UK | Live Sports PPV
+http://iptv.dguk.co.uk/live/natalie2/natalie2/5152.ts
+#EXTINF:-1,UK | Prime Event
+http://iptv.dguk.co.uk/live/natalie2/natalie2/9877.ts
+#EXTINF:-1,UK | UFC Main card
+http://iptv.dguk.co.uk/live/natalie2/natalie2/9974.ts
+#EXTINF:-1,UK | ESPN 2 HD USA
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1048.ts
+#EXTINF:-1,UK | ESPN HD USA
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1047.ts
+#EXTINF:-1,UK | FOX Sports 1 HD USA
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1046.ts
+#EXTINF:-1,UK | FOX Sports 2 HD USA
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1045.ts
+#EXTINF:-1,UK | NBA TV USA
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1044.ts
+#EXTINF:-1,UK | NBC Golf USA
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1043.ts
+#EXTINF:-1,UK | NBC XTRA 1 HD USA
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1042.ts
+#EXTINF:-1,UK | NBC XTRA 2 HD USA
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1041.ts
+#EXTINF:-1,UK | NBC XTRA 3 HD USA
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1040.ts
+#EXTINF:-1,UK | NBC XTRA 4 HD USA
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1039.ts
+#EXTINF:-1,UK | NBC XTRA 5 HD USA
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1038.ts
+#EXTINF:-1,UK | Ginx eSports
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1256.ts
+#EXTINF:-1,UK | eir Sport 1
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1265.ts
+#EXTINF:-1,UK | eirSport 2
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1264.ts
+#EXTINF:-1,UK | At The Races SD
+http://iptv.dguk.co.uk/live/natalie2/natalie2/1388.ts
+#EXTINF:-1,UK | WWE 24
+http://iptv.dguk.co.uk/live/natalie2/natalie2/15647.ts
+#EXTINF:-1,405 - BEin Sports EPL 1
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21841.ts
+#EXTINF:-1,406 - BEin Sports EPL 2
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21840.ts
+#EXTINF:-1,407 - BEin Sports EPL 3
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21839.ts
+#EXTINF:-1,408 - BEin Sports EPL 4
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21838.ts
+#EXTINF:-1,476 - OTE Sports 1 (epl matchdays)
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21837.ts
+#EXTINF:-1,477 - OTE Sports 2 (epl matchdays)
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21836.ts
+#EXTINF:-1,478 - OTE Sports 3 (epl matchdays)
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21835.ts
+#EXTINF:-1,479 - OTE Sports 4 (epl matchdays)
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21834.ts
+#EXTINF:-1,480 - OTE Sports 5 (epl matchdays)
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21833.ts
+#EXTINF:-1,481 - OTE Sports 6 (epl matchdays)
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21832.ts
+#EXTINF:-1,482 - OTE Sports 7 (epl matchdays)
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21831.ts
+#EXTINF:-1,483 - OTE Sports 8 (epl matchdays)
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21830.ts
+#EXTINF:-1,484 - PAC 12 ARIZONA
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21847.ts
+#EXTINF:-1,485 - PAC 12 BAY AREA
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21846.ts
+#EXTINF:-1,486 - PAC 12 LOS ANGELES
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21845.ts
+#EXTINF:-1,487 - PAC 12 MOUNTAIN
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21844.ts
+#EXTINF:-1,488 - PAC 12 NATIONAL
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21843.ts
+#EXTINF:-1,489 - PAC 12 OREGON
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21842.ts
+#EXTINF:-1,376 - MOTOGP LIVE 1
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21850.ts
+#EXTINF:-1,377 - MOTOGP LIVE 2
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21849.ts
+#EXTINF:-1,378 - MOTOGP LIVE 3
+http://streams.blazestreams.tk:5454/live/jmac/jmac/21848.ts
+#EXTINF:-1,320 - SKY SPORTS PREMIER LEAGUE (IRE)
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26728.ts
+#EXTINF:-1,321 - SKY SPORTS MAIN EVENT (IRE)
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26727.ts
+#EXTINF:-1,322 - SKY SPORTS GOLF (IRE)
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26726.ts
+#EXTINF:-1,323 - SKY SPORTS FOOTBALL (IRE)
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26725.ts
+#EXTINF:-1,324 - SKY SPORTS CRICKET (IRE)
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26724.ts
+#EXTINF:-1,325 - SKY SPORTS ARENA (IRE)
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26723.ts
+#EXTINF:-1,326 - SKY SPORTS ACTION (IRE)
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26722.ts
+#EXTINF:-1,379 - INTER-MILAN TV
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26731.ts
+#EXTINF:-1,380 - JUVENTUS TV
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26730.ts
+#EXTINF:-1,381 - BARCA TV
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26729.ts
+#EXTINF:-1,888 - FOX COLLEGE SPORTS
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26390.ts
+#EXTINF:-1,889 - NBCSB
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26389.ts
+#EXTINF:-1,890 - NBCSP
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26388.ts
+#EXTINF:-1,891 - NCAAB California
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26387.ts
+#EXTINF:-1,892 - NESN
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26386.ts
+#EXTINF:-1,893 - OLYMPIC CHANNEL
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26385.ts
+#EXTINF:-1,894 - GINX E SPORTS
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26384.ts
+#EXTINF:-1,895 - E-SPORTS TV
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26383.ts
+#EXTINF:-1,896 - LONGHORN NETWORK
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26382.ts
+#EXTINF:-1,897 - MLB STTRIKEZONE
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26381.ts
+#EXTINF:-1,898 - ESPN DEPORTES
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26380.ts
+#EXTINF:-1,899 - ESPN GOALINE
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26379.ts
+#EXTINF:-1,900 - CBS SPORTSNET
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26378.ts
+#EXTINF:-1,Notorious - Conor McGreggor
+http://streams.blazestreams.tk:5454/movie/jmac/jmac/26429.mp4
+#EXTINF:-1,319 - BELL PPV HD
+http://streams.blazestreams.tk:5454/live/jmac/jmac/26430.ts

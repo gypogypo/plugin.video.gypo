@@ -1,0 +1,225 @@
+#EXTM3U
+#EXTINF:-1,Geostorm 2017
+http://epicstream.tv:7000/movie/jojo/jojo/8788.mp4
+#EXTINF:-1,American Assassin (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/8783.mp4
+#EXTINF:-1,American Made (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/8476.mp4
+#EXTINF:-1,Goon Last of the Enforcers (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/8480.mp4
+#EXTINF:-1,Logan Lucky (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/8481.mp4
+#EXTINF:-1,Overdrive (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/8475.mp4
+#EXTINF:-1,Slamma Jamma (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/8479.mp4
+#EXTINF:-1,The Hero (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/8483.mp4
+#EXTINF:-1,Step (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/8477.mp4
+#EXTINF:-1,An Inconvenient Sequel Truth to Power (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/8414.mp4
+#EXTINF:-1,Inconceivable (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/8355.mp4
+#EXTINF:-1,The Book of Henry (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/8358.mp4
+#EXTINF:-1,Valerian and the City of a Thousand Planets (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/8333.mp4
+#EXTINF:-1,Good Time (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/8328.mp4
+#EXTINF:-1,The Nut Job 2 Nutty by Nature (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/8315.mp4
+#EXTINF:-1,Snatched (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/8281.mp4
+#EXTINF:-1,The Glass Castle (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/8193.mp4
+#EXTINF:-1,Leatherface (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/8073.mp4
+#EXTINF:-1,Cars 3 (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/8051.mp4
+#EXTINF:-1,Atomic Blonde
+http://epicstream.tv:7000/movie/jojo/jojo/8000.mp4
+#EXTINF:-1,Annabelle Creation (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7914.mp4
+#EXTINF:-1,War For The Planet Of The Apes (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7880.mp4
+#EXTINF:-1,Wind River (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7881.mp4
+#EXTINF:-1,The Dark Tower
+http://epicstream.tv:7000/movie/jojo/jojo/7851.mp4
+#EXTINF:-1,Amityville The Awakening (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7797.mp4
+#EXTINF:-1,Girls Trip
+http://epicstream.tv:7000/movie/jojo/jojo/7790.mp4
+#EXTINF:-1,Who Shot Biggie & Tupac (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7789.mp4
+#EXTINF:-1,Spider-man Homecoming (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7704.mp4
+#EXTINF:-1,Before I Fall (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7705.mp4
+#EXTINF:-1,The Beguiled (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7694.mp4
+#EXTINF:-1,A Ghost Story (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7193.mp4
+#EXTINF:-1,All Eyez On Me (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7213.mp4
+#EXTINF:-1,Baby Driver (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7165.mp4
+#EXTINF:-1,Everything, Everything (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7197.mp4
+#EXTINF:-1,How To Be A Latin Lover (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7176.mp4
+#EXTINF:-1,Justice League (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7221.mp4
+#EXTINF:-1,Oceans Rising (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7171.mp4
+#EXTINF:-1,Pirates Of The Caribbean Dead Men Tell No Tales (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7206.mp4
+#EXTINF:-1,The Big Sick (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7172.mp4
+#EXTINF:-1,The Boss Baby (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7146.mp4
+#EXTINF:-1,The House (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7187.mp4
+#EXTINF:-1,The Layover (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7179.mp4
+#EXTINF:-1,6 Days (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7211.mp4
+#EXTINF:-1,Alien Covenant (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7207.mp4
+#EXTINF:-1,Batman And Harley Quinn (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7191.mp4
+#EXTINF:-1,Baywatch (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7183.mp4
+#EXTINF:-1,Beauty And The Beast (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7190.mp4
+#EXTINF:-1,Berlin Syndrome (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7167.mp4
+#EXTINF:-1,Captain Underpants The First Epic Movie (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7210.mp4
+#EXTINF:-1,Chips (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7155.mp4
+#EXTINF:-1,Death Note (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7196.mp4
+#EXTINF:-1,Descendants 2 (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7227.mp4
+#EXTINF:-1,Despicable Me 3 (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7161.mp4
+#EXTINF:-1,Diary Of A Wimpy Kid The Long Haul (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7188.mp4
+#EXTINF:-1,Everybody Loves Somebody (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7166.mp4
+#EXTINF:-1,Extortion (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7215.mp4
+#EXTINF:-1,Fifty Shades Darker (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7226.mp4
+#EXTINF:-1,Fist Fight (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7184.mp4
+#EXTINF:-1,Get Out (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7217.mp4
+#EXTINF:-1,Ghost In The Shell (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7174.mp4
+#EXTINF:-1,Gifted (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7142.mp4
+#EXTINF:-1,Going In Style (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7151.mp4
+#EXTINF:-1,Greater (2016)
+http://epicstream.tv:7000/movie/jojo/jojo/7149.mp4
+#EXTINF:-1,Guardians Of The Galaxy Vol  2 (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7153.mp4
+#EXTINF:-1,It Comes At Night (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7162.mp4
+#EXTINF:-1,John Wick Chapter 2 (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7194.mp4
+#EXTINF:-1,Justice League Dark (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7170.mp4
+#EXTINF:-1,Kidnap (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7218.mp4
+#EXTINF:-1,Kill Switch (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7154.mp4
+#EXTINF:-1,Killing Hasselhoff (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7158.mp4
+#EXTINF:-1,King Arthur Legend Of The Sword (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7156.mp4
+#EXTINF:-1,Kong Skull Island (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7147.mp4
+#EXTINF:-1,Lion (2016)
+http://epicstream.tv:7000/movie/jojo/jojo/7136.mp4
+#EXTINF:-1,Logan (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7223.mp4
+#EXTINF:-1,Mad Max Fury Road (2015)
+http://epicstream.tv:7000/movie/jojo/jojo/7157.mp4
+#EXTINF:-1,Mclaren (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7145.mp4
+#EXTINF:-1,Megan Leavey (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7141.mp4
+#EXTINF:-1,Minions (2015)
+http://epicstream.tv:7000/movie/jojo/jojo/7182.mp4
+#EXTINF:-1,My Cousin Rachel (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7159.mp4
+#EXTINF:-1,Once Upon A Time In Venice (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7137.mp4
+#EXTINF:-1,Power Rangers (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7216.mp4
+#EXTINF:-1,Rememory (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7222.mp4
+#EXTINF:-1,Rings (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7178.mp4
+#EXTINF:-1,Rough Night (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7160.mp4
+#EXTINF:-1,Savage Dog (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7148.mp4
+#EXTINF:-1,Security (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7177.mp4
+#EXTINF:-1,Shot Caller (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7180.mp4
+#EXTINF:-1,T2 Trainspotting (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7204.mp4
+#EXTINF:-1,Table 19 (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7205.mp4
+#EXTINF:-1,The Bye Bye Man (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7214.mp4
+#EXTINF:-1,The Circle (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7150.mp4
+#EXTINF:-1,The Drowning (2016)
+http://epicstream.tv:7000/movie/jojo/jojo/7219.mp4
+#EXTINF:-1,The Fate Of The Furious (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7181.mp4
+#EXTINF:-1,The Hitman's Bodyguard (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7169.mp4
+#EXTINF:-1,The Hunter's Prayer (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7152.mp4
+#EXTINF:-1,The Last Word (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7212.mp4
+#EXTINF:-1,The Monster Project (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7168.mp4
+#EXTINF:-1,The Mummy (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7140.mp4
+#EXTINF:-1,The Shack (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7203.mp4
+#EXTINF:-1,The Space Between Us (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7175.mp4
+#EXTINF:-1,The Zookeeper's Wife (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7173.mp4
+#EXTINF:-1,Transformers The Last Knight (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7200.mp4
+#EXTINF:-1,Unlocked (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7186.mp4
+#EXTINF:-1,Viceroy's House (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7199.mp4
+#EXTINF:-1,View From A Blue Moon (2015)
+http://epicstream.tv:7000/movie/jojo/jojo/7192.mp4
+#EXTINF:-1,Voice From The Stone (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7139.mp4
+#EXTINF:-1,What Happened To Monday (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7198.mp4
+#EXTINF:-1,What The Health (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7202.mp4
+#EXTINF:-1,Williams (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7138.mp4
+#EXTINF:-1,Wilson (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7144.mp4
+#EXTINF:-1,Wonder Woman (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7163.mp4
+#EXTINF:-1,Xxx Return Of Xander Cage (2017)
+http://epicstream.tv:7000/movie/jojo/jojo/7208.mp4
