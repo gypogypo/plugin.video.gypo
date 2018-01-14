@@ -1,538 +1,490 @@
-#EXTINF:0 tvg-id="RTE1.ie" group-title="ENTERTAINMENT! CHANNELS",RTE one
-http://62.210.178.16:80/live?channelId=248&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="RTE2.ie" group-title="ENTERTAINMENT! CHANNELS",RTE two
-http://62.210.178.16:80/live?channelId=249&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="3e.ie" group-title="ENTERTAINMENT! CHANNELS",3e
-http://62.210.178.16:80/live?channelId=250&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="TV3.ie" group-title="ENTERTAINMENT! CHANNELS",TV3
-http://62.210.178.16:80/live?channelId=251&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="TG4.ie" group-title="ENTERTAINMENT! CHANNELS",TG4
-http://62.210.178.16:80/live?channelId=252&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="BBC1NorthernIreland.uk" group-title="ENTERTAINMENT! CHANNELS",BBC One Northern Ireland
-http://62.210.178.16:80/live?channelId=253&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="BBC1Scotland.uk" group-title="ENTERTAINMENT! CHANNELS",BBC One Scotland
-http://62.210.178.16:80/live?channelId=254&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="BBC2Scotland.uk" group-title="ENTERTAINMENT! CHANNELS",BBC Two Scotland
-http://62.210.178.16:80/live?channelId=255&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="BBC2Wales.uk" group-title="ENTERTAINMENT! CHANNELS",BBC Two Wales
-http://62.210.178.16:80/live?channelId=256&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="S4C.uk" group-title="ENTERTAINMENT! CHANNELS",S4C
-http://62.210.178.16:80/live?channelId=257&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="STV.uk" group-title="ENTERTAINMENT! CHANNELS",STV
-http://62.210.178.16:80/live?channelId=258&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="STV2.uk" group-title="ENTERTAINMENT! CHANNELS",STV2
-http://62.210.178.16:80/live?channelId=259&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="ENTERTAINMENT! CHANNELS",BBC1 HD
-http://62.210.93.115:80/live?channelId=324&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="BBC2.uk" group-title="ENTERTAINMENT! CHANNELS",BBC2 HD
-http://62.210.93.115:80/live?channelId=325&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ITV1London.uk" group-title="ENTERTAINMENT! CHANNELS",ITV HD
-http://62.210.93.115:80/live?channelId=326&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Channel4.uk" group-title="ENTERTAINMENT! CHANNELS",Channel 4 HD
-http://62.210.93.115:80/live?channelId=327&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Channel5.uk" group-title="ENTERTAINMENT! CHANNELS",Channel 5 HD
-http://62.210.93.115:80/live?channelId=328&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Sky1.uk" group-title="ENTERTAINMENT! CHANNELS",Sky1 HD
-http://62.210.93.115:80/live?channelId=329&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="ENTERTAINMENT! CHANNELS",Sky Atlantic HD
-http://62.210.93.115:80/live?channelId=330&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="ENTERTAINMENT! CHANNELS",BBC One
-http://62.210.93.115:80/live?channelId=333&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="BBC2.uk" group-title="ENTERTAINMENT! CHANNELS",BBC TWO
-http://62.210.93.115:80/live?channelId=334&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ITV1London.uk" group-title="ENTERTAINMENT! CHANNELS",ITV
-http://62.210.93.115:80/live?channelId=335&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="ENTERTAINMENT! CHANNELS",ITV plus1
-http://62.210.93.115:80/live?channelId=336&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="ENTERTAINMENT! CHANNELS",ITV2
-http://62.210.93.115:80/live?channelId=337&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ITV3.uk" group-title="ENTERTAINMENT! CHANNELS",ITV3
-http://62.210.93.115:80/live?channelId=338&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ITV4.uk" group-title="ENTERTAINMENT! CHANNELS",ITV4
-http://62.210.93.115:80/live?channelId=339&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ITVBe.uk" group-title="ENTERTAINMENT! CHANNELS",ITVBe
-http://62.210.93.115:80/live?channelId=340&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Channel4.uk" group-title="ENTERTAINMENT! CHANNELS",Channel 4
-http://62.210.93.115:80/live?channelId=341&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="ENTERTAINMENT! CHANNELS",Channel 4 plus1
-http://62.210.93.115:80/live?channelId=342&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="4Seven.uk" group-title="ENTERTAINMENT! CHANNELS",4seven
-http://62.210.93.115:80/live?channelId=343&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="E4.uk" group-title="ENTERTAINMENT! CHANNELS",E4
-http://62.210.93.115:80/live?channelId=344&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="More4.uk" group-title="ENTERTAINMENT! CHANNELS",More4
-http://62.210.93.115:80/live?channelId=345&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Channel5.uk" group-title="ENTERTAINMENT! CHANNELS",Channel 5
-http://62.210.93.115:80/live?channelId=346&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="ENTERTAINMENT! CHANNELS",Channel 5 plus1
-http://62.210.93.115:80/live?channelId=347&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="FiveUSA.uk" group-title="ENTERTAINMENT! CHANNELS",5 USA
-http://62.210.93.115:80/live?channelId=348&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="5star.uk" group-title="ENTERTAINMENT! CHANNELS",5STAR
-http://62.210.93.115:80/live?channelId=349&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="My5.uk" group-title="ENTERTAINMENT! CHANNELS",My5
-http://62.210.93.115:80/live?channelId=350&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Sky1.uk" group-title="ENTERTAINMENT! CHANNELS",Sky1
-http://62.210.93.115:80/live?channelId=351&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Sky2.uk" group-title="ENTERTAINMENT! CHANNELS",Sky2
-http://62.210.93.115:80/live?channelId=352&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SkyLiving.uk" group-title="ENTERTAINMENT! CHANNELS",Sky Living
-http://62.210.93.115:80/live?channelId=353&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="ENTERTAINMENT! CHANNELS",Sky Atlantic
-http://62.210.93.115:80/live?channelId=354&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SkyArts1.uk" group-title="ENTERTAINMENT! CHANNELS",Sky Arts
-http://62.210.93.115:80/live?channelId=355&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Alibi.uk" group-title="ENTERTAINMENT! CHANNELS",alibi
-http://62.210.93.115:80/live?channelId=375&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="AMC.uk" group-title="ENTERTAINMENT! CHANNELS",AMC from BT
-http://62.210.93.115:80/live?channelId=376&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="BLAZE.uk" group-title="ENTERTAINMENT! CHANNELS",Blaze
-http://62.210.93.115:80/live?channelId=377&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Dave.uk" group-title="ENTERTAINMENT! CHANNELS",Dave
-http://62.210.93.115:80/live?channelId=378&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="DaveJaVu.uk" group-title="ENTERTAINMENT! CHANNELS",Dave ja vu
-http://62.210.93.115:80/live?channelId=379&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Drama.uk" group-title="ENTERTAINMENT! CHANNELS",Drama
-http://62.210.93.115:80/live?channelId=380&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="E.uk" group-title="ENTERTAINMENT! CHANNELS",E!
-http://62.210.93.115:80/live?channelId=381&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Eden.uk" group-title="ENTERTAINMENT! CHANNELS",Eden
-http://62.210.93.115:80/live?channelId=382&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="ENTERTAINMENT! CHANNELS",Food Network
-http://62.210.93.115:80/live?channelId=383&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="FX.uk" group-title="ENTERTAINMENT! CHANNELS",FOX
-http://62.210.93.115:80/live?channelId=384&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="GOLD.uk" group-title="ENTERTAINMENT! CHANNELS",GOLD
-http://62.210.93.115:80/live?channelId=385&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="GoodFood.uk" group-title="ENTERTAINMENT! CHANNELS",Good Food
-http://62.210.93.115:80/live?channelId=386&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Home.uk" group-title="ENTERTAINMENT! CHANNELS",Home
-http://62.210.93.115:80/live?channelId=387&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="PickTV.uk" group-title="ENTERTAINMENT! CHANNELS",Pick
-http://62.210.93.115:80/live?channelId=388&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Really.uk" group-title="ENTERTAINMENT! CHANNELS",Really
-http://62.210.93.115:80/live?channelId=389&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Yesterday.uk" group-title="ENTERTAINMENT! CHANNELS",Yesterday
-http://62.210.93.115:80/live?channelId=390&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="W.uk" group-title="ENTERTAINMENT! CHANNELS",W
-http://62.210.93.115:80/live?channelId=391&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Universal.uk" group-title="ENTERTAINMENT! CHANNELS",Universal
-http://62.210.93.115:80/live?channelId=392&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Quest.uk" group-title="ENTERTAINMENT! CHANNELS",QUEST
-http://62.210.93.115:80/live?channelId=393&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="KIDS CHANNELS",Cbeeies
-http://62.210.178.16:80/live?channelId=80&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Disney.uk" group-title="KIDS CHANNELS",Disney Channel
-http://62.210.178.16:80/live?channelId=81&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="DisneyXD.uk" group-title="KIDS CHANNELS",Disney XD
-http://62.210.178.16:80/live?channelId=82&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="DisneyJr.pl" group-title="KIDS CHANNELS",Disney Jr
-http://62.210.178.16:80/live?channelId=83&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="KIDS CHANNELS",Cartoon network
-http://62.210.178.16:80/live?channelId=84&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Boomerang.uk" group-title="KIDS CHANNELS",Boomerang
-http://62.210.178.16:80/live?channelId=85&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="KIDS CHANNELS",Nickelodeon
-http://62.210.178.16:80/live?channelId=86&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Nicktoons.uk" group-title="KIDS CHANNELS",Nick Toons
-http://62.210.178.16:80/live?channelId=87&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="NickJunior.uk" group-title="KIDS CHANNELS",Nick Jr
-http://62.210.178.16:80/live?channelId=88&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="KIDS CHANNELS",NickJr Too
-http://62.210.178.16:80/live?channelId=89&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="BabyTV.uk" group-title="KIDS CHANNELS",Baby TV
-http://62.210.178.16:80/live?channelId=90&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="tinypop.uk" group-title="KIDS CHANNELS",TINY POP
-http://62.210.178.16:80/live?channelId=91&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="MTVRocks.uk" group-title="MUSIC CHANNELS",MTV Rocks
-http://62.210.178.16:80/live?channelId=92&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="MTVMusic.uk" group-title="MUSIC CHANNELS",MTV Music
-http://62.210.178.16:80/live?channelId=93&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="MTVHits.uk" group-title="MUSIC CHANNELS",MTV Hits
-http://62.210.178.16:80/live?channelId=94&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="MTVDance.uk" group-title="MUSIC CHANNELS",MTV Dance
-http://62.210.178.16:80/live?channelId=95&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="MTVClassic.uk" group-title="MUSIC CHANNELS",MTV Classic
-http://62.210.178.16:80/live?channelId=96&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY MOVIES CHANNELS",CINEMA ACTION & ADVENTURE HD
-http://62.210.99.158:80/live?channelId=97&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY MOVIES CHANNELS",CINEMA DISNEY HD
-http://62.210.99.158:80/live?channelId=98&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY MOVIES CHANNELS",CINEMA DRAMA AND ROMANCE HD
-http://62.210.99.158:80/live?channelId=99&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SkyCinemaFamily.it" group-title="SKY MOVIES CHANNELS",CINEMA FAMILY HD
-http://62.210.99.158:80/live?channelId=100&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SkyCinemaHits.it" group-title="SKY MOVIES CHANNELS",CINEMA HITS HD
-http://62.210.99.158:80/live?channelId=101&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY MOVIES CHANNELS",CINEMA MODERN GREATS HD
-http://62.210.99.158:80/live?channelId=102&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY MOVIES CHANNELS",CINEMA PREMIERE HD
-http://62.210.99.158:80/live?channelId=103&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY MOVIES CHANNELS",CINEMA SCI-FI & HORROR HD
-http://62.210.99.158:80/live?channelId=104&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY MOVIES CHANNELS",CINEMA SELECT HD
-http://62.210.99.158:80/live?channelId=105&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY MOVIES CHANNELS",CINEMA THRILLER HD
-http://62.210.99.158:80/live?channelId=106&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="SKY MOVIES CHANNELS",SKY CINEMA COMEDY HD
-http://62.210.99.158:80/live?channelId=107&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SkyBrits.uk" group-title="SKY MOVIES CHANNELS",Sky Movies Greats
-http://62.210.99.158:80/live?channelId=108&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SkyCinemaThriller.uk" group-title="SKY MOVIES CHANNELS",Sky Movies Thriller
-http://62.210.99.158:80/live?channelId=109&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SkyMoviesIndie.uk" group-title="SKY MOVIES CHANNELS",Sky Movies Select
-http://62.210.99.158:80/live?channelId=110&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SkySciFiHorror.uk" group-title="SKY MOVIES CHANNELS",Sky Movies Sci-Fi & Horror
-http://62.210.99.158:80/live?channelId=111&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="SKY MOVIES CHANNELS",Sky Movies Premiere
-http://62.210.99.158:80/live?channelId=112&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="SKY MOVIES CHANNELS",Sky Movies Family
-http://62.210.99.158:80/live?channelId=113&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="SKY MOVIES CHANNELS",Sky Movies Drama & Romance
-http://62.210.99.158:80/live?channelId=114&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SkyMoviesDisney.uk" group-title="SKY MOVIES CHANNELS",Sky Movies Disney
-http://62.210.99.158:80/live?channelId=115&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="SKY MOVIES CHANNELS",Sky Movies Comedy
-http://62.210.99.158:80/live?channelId=116&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="SKY MOVIES CHANNELS",Sky Movies Action & Adventure
-http://62.210.99.158:80/live?channelId=117&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="beIN SPORT CHANNELS",BEin Sports EPL 1
-http://62.210.93.115:80/live?channelId=166&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="beIN SPORT CHANNELS",BEin Sports EPL 2
-http://62.210.93.115:80/live?channelId=167&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="beIN SPORT CHANNELS",BEin Sports EPL 3
-http://62.210.93.115:80/live?channelId=168&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="beIN SPORT CHANNELS",BEin Sports EPL 4
-http://62.210.93.115:80/live?channelId=169&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="beIN SPORT CHANNELS",bein france 1
-http://62.210.93.115:80/live?channelId=170&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="beIN SPORT CHANNELS",bein france 2
-http://62.210.93.115:80/live?channelId=171&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="beIN SPORT CHANNELS",bein france 3
-http://62.210.93.115:80/live?channelId=172&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="beIN SPORT CHANNELS",beINSport 1 HD
-http://62.210.93.115:80/live?channelId=173&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="beIN SPORT CHANNELS",beINSport 2 HD
-http://62.210.93.115:80/live?channelId=174&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="beIN SPORT CHANNELS",beINSport 3 HD
-http://62.210.93.115:80/live?channelId=175&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="beIN SPORT CHANNELS",beINSport 4 HD
-http://62.210.93.115:80/live?channelId=176&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="beIN SPORT CHANNELS",beINSport 5 HD
-http://62.210.93.115:80/live?channelId=177&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="beIN SPORT CHANNELS",beINSport 6 HD
-http://62.210.93.115:80/live?channelId=178&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN SPORT CHANNELS",beINSport 7 HD
-http://62.210.93.115:80/live?channelId=179&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="bein8hd.jsc" group-title="beIN SPORT CHANNELS",beINSport 8 HD
-http://62.210.93.115:80/live?channelId=180&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="bein9hd.jsc" group-title="beIN SPORT CHANNELS",beINSport 9 HD
-http://62.210.93.115:80/live?channelId=181&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="bein10hd.jsc" group-title="beIN SPORT CHANNELS",beINSport 10 HD
-http://62.210.93.115:80/live?channelId=182&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="bein11hd.jsc" group-title="beIN SPORT CHANNELS",beINSport 11 HD
-http://62.210.93.115:80/live?channelId=183&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="bein12hd.jsc" group-title="beIN SPORT CHANNELS",beINSport 12 HD
-#EXTINF:0 tvg-id="TSN1.ca" group-title="TSN SPORT CHANNELS",TSN 1
-http://62.210.99.158:80/live?channelId=304&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="TSN2.ca" group-title="TSN SPORT CHANNELS",TSN 2
-http://62.210.99.158:80/live?channelId=305&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="TSN3.ca" group-title="TSN SPORT CHANNELS",TSN 3
-http://62.210.99.158:80/live?channelId=306&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="TSN4.ca" group-title="TSN SPORT CHANNELS",TSN 4
-http://62.210.99.158:80/live?channelId=307&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="TSN5.ca" group-title="TSN SPORT CHANNELS",TSN 5
-http://62.210.99.158:80/live?channelId=308&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-http://62.210.93.115:80/live?channelId=184&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="CanalplusSports.pl" group-title="OTHER SPORT CHANNELS",Canal  Sport
-http://62.210.99.158:80/live?channelId=218&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="OTHER SPORT CHANNELS",Sport Klub 1hd
-http://62.210.99.158:80/live?channelId=227&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="OTHER SPORT CHANNELS",Sport Klub 2hd
-http://62.210.99.158:80/live?channelId=228&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="OTHER SPORT CHANNELS",Sport Klub 3hd
-http://62.210.99.158:80/live?channelId=229&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="OTHER SPORT CHANNELS",USA FOX SPORTS 1
-http://62.210.99.158:80/live?channelId=300&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="OTHER SPORT CHANNELS",USA FOX SPORTS 2
-http://62.210.99.158:80/live?channelId=301&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="FoxSports.it" group-title="OTHER SPORT CHANNELS",Fox Sport 1
-http://62.210.99.158:80/live?channelId=302&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="FOXsport2.nl" group-title="OTHER SPORT CHANNELS",Fox Sport 2
-http://62.210.99.158:80/live?channelId=303&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="TheScore.ca" group-title="OTHER SPORT CHANNELS",SPORTS NET 360 HD
-http://62.210.99.158:80/live?channelId=309&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SportsNetEST.ca" group-title="OTHER SPORT CHANNELS",SPORTS NET EAST HD
-http://62.210.99.158:80/live?channelId=310&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SportsNetOne.ca" group-title="OTHER SPORT CHANNELS",SPORTS NET ONE HD
-http://62.210.99.158:80/live?channelId=311&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SportsNetOntario.ca" group-title="OTHER SPORT CHANNELS",SPORTS NET ONTARIO HD
-http://62.210.99.158:80/live?channelId=312&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SportsNetPacifique.ca" group-title="OTHER SPORT CHANNELS",SPORTS NET PACIFIC HD
-http://62.210.99.158:80/live?channelId=313&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SportsNetWest.ca" group-title="OTHER SPORT CHANNELS",SPORTS NET WEST HD
-http://62.210.99.158:80/live?channelId=314&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SportsnetWorld.ca" group-title="OTHER SPORT CHANNELS",SPORTS NET WORLD HD
-http://62.210.99.158:80/live?channelId=315&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SportsNetNewYork.us" group-title="OTHER SPORT CHANNELS",SPORTSNET 360
-http://62.210.99.158:80/live?channelId=316&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="OTHER SPORT CHANNELS",SPORTSNET EAST
-http://62.210.99.158:80/live?channelId=317&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SportsNetOne.ca" group-title="OTHER SPORT CHANNELS",SPORTSNET ONE
-http://62.210.99.158:80/live?channelId=318&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SportsNetOneHD.ca" group-title="OTHER SPORT CHANNELS",SPORTSNET ONE HD
-http://62.210.99.158:80/live?channelId=319&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SportsNetOntario.ca" group-title="OTHER SPORT CHANNELS",SPORTSNET ONTARIO
-http://62.210.99.158:80/live?channelId=320&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SportsNetPacifique.ca" group-title="OTHER SPORT CHANNELS",SPORTSNET PACIFIC
-http://62.210.99.158:80/live?channelId=321&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="OTHER SPORT CHANNELS",SPORTSNET WEST
-http://62.210.99.158:80/live?channelId=322&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SportsnetWorld.ca" group-title="OTHER SPORT CHANNELS",SPORTSNET WORLD
-http://62.210.99.158:80/live?channelId=323&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="OTHER SPORT CHANNELS",CETIC TV (LIVE FOR GAMES ONLY)
-http://163.172.15.141:9732/live?channelId=394&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="OTHER SPORT CHANNELS",RANGERS TV (live for games)
-http://163.172.15.141:9732/live?channelId=395&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="OTHER SPORT CHANNELS",RED TV (live for games only)
-http://163.172.15.141:9732/live?channelId=396&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="OTHER SPORT CHANNELS",HEARTS TV (live for games only)
-http://163.172.15.141:9732/live?channelId=397&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="OTHER SPORT CHANNELS",HIBS TV (live for games only)
-http://163.172.15.141:9732/live?channelId=398&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="eirSport1.ie" group-title="OTHER SPORT CHANNELS",eir Sport 1
-http://163.172.15.141:9732/live?channelId=399&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="eirSport2.ie" group-title="OTHER SPORT CHANNELS",eir Sport 2
-http://163.172.15.141:9732/live?channelId=401&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Eurosport1.uk" group-title="OTHER SPORT CHANNELS",Eurosport 1
-http://163.172.15.141:9732/live?channelId=404&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Eurosport2.uk" group-title="OTHER SPORT CHANNELS",Eurosport 2
-http://163.172.15.141:9732/live?channelId=405&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="FreeSports.uk" group-title="OTHER SPORT CHANNELS",FreeSports
-http://163.172.15.141:9732/live?channelId=406&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="FrontRunner.uk" group-title="OTHER SPORT CHANNELS",FrontRunner
-http://163.172.15.141:9732/live?channelId=407&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="24/7! CHANNELS",24/7 Family Guy
-http://163.172.15.141:9732/live?channelId=260&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="24/7! CHANNELS",24/7 Peppa Pig
-http://163.172.15.141:9732/live?channelId=261&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="24/7! CHANNELS",24/7 Super Hero
-http://163.172.15.141:9732/live?channelId=262&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="24/7! CHANNELS",24/7 Top Gear
-http://163.172.15.141:9732/live?channelId=263&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="24/7! CHANNELS",24/7 Only Fools And Horses
-http://163.172.15.141:9732/live?channelId=264&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="24/7! CHANNELS",24/7 Friends
-http://163.172.15.141:9732/live?channelId=265&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="24/7! CHANNELS",24/7 Kids Movies
-http://163.172.15.141:9732/live?channelId=266&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="24/7! CHANNELS",24/7 Mickey Mouse Clubhouse
-http://163.172.15.141:9732/live?channelId=267&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="24/7! CHANNELS",24/7 The Inbetweeners
-http://163.172.15.141:9732/live?channelId=268&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="24/7! CHANNELS",27/7 Paw Patrol
-http://163.172.15.141:9732/live?channelId=269&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="24/7! CHANNELS",24/7 ben and holly little kingdom
-http://163.172.15.141:9732/live?channelId=270&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="24/7! CHANNELS",24/7 Blaze and the Monster Machines
-http://163.172.15.141:9732/live?channelId=271&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SkyNews.uk" group-title="NEWS Channels",SKY NEWS
-http://62.210.178.16:80/live?channelId=272&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="FOXNews.uk" group-title="NEWS Channels",FOX NEWS
-http://62.210.178.16:80/live?channelId=273&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="cnn" group-title="NEWS Channels",CNN NEWS
-http://62.210.178.16:80/live?channelId=274&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="BBCNews.nws" group-title="NEWS Channels",BBC NEWS
-http://62.210.178.16:80/live?channelId=275&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="USA! CHANNELS",A&E (US)
-http://62.210.99.158:80/live?channelId=284&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="USA! CHANNELS",AFN SPORTS (US)
-http://62.210.99.158:80/live?channelId=285&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="USA! CHANNELS",AFN SPORTS 2 (US)
-http://62.210.99.158:80/live?channelId=286&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="USA! CHANNELS",AMC (US)
-http://62.210.99.158:80/live?channelId=287&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="USA! CHANNELS",Animal Planet (US)
-http://62.210.99.158:80/live?channelId=288&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="USA! CHANNELS",DESTINATION AMERICA (US)
-http://62.210.99.158:80/live?channelId=289&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="USA! CHANNELS",Discovery (US)
-http://62.210.99.158:80/live?channelId=290&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="USA! CHANNELS",DISCOVERY SCIENCE (US)
-http://62.210.99.158:80/live?channelId=291&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="USA! CHANNELS",E! ENTERTAINMENT (US)
-http://62.210.99.158:80/live?channelId=292&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="USA! CHANNELS",FX (US)
-http://62.210.99.158:80/live?channelId=293&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="USA! CHANNELS",HISTORY (US)
-http://62.210.99.158:80/live?channelId=294&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="USA! CHANNELS",MBL NETWORK (US)
-http://62.210.99.158:80/live?channelId=295&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="USA! CHANNELS",NBA TV (US)
-http://62.210.99.158:80/live?channelId=296&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="USA! CHANNELS",SPIKE (US)
-http://62.210.99.158:80/live?channelId=297&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="USA! CHANNELS",SYFY (US)
-http://62.210.99.158:80/live?channelId=298&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="USA! CHANNELS",TBS (US)
-http://62.210.99.158:80/live?channelId=299&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="DOCUMENTARY! CHANNELS",Animal Planet
-http://62.210.93.115:80/live?channelId=356&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="DOCUMENTARY! CHANNELS",ComedyCentral
-http://62.210.93.115:80/live?channelId=357&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ComedyCentralExtra.uk" group-title="DOCUMENTARY! CHANNELS",ComedyXtra
-http://62.210.93.115:80/live?channelId=358&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="DOCUMENTARY! CHANNELS",Disc.History
-http://62.210.93.115:80/live?channelId=359&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="DOCUMENTARY! CHANNELS",Disc.Science
-http://62.210.93.115:80/live?channelId=360&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="DOCUMENTARY! CHANNELS",Disc.Turbo
-http://62.210.93.115:80/live?channelId=361&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Discovery.uk" group-title="DOCUMENTARY! CHANNELS",Discovery
-http://62.210.93.115:80/live?channelId=362&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="DOCUMENTARY! CHANNELS",DMAX
-http://62.210.93.115:80/live?channelId=363&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="DiscoveryShed.uk" group-title="DOCUMENTARY! CHANNELS",Discovery Shed
-http://62.210.93.115:80/live?channelId=364&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="DOCUMENTARY! CHANNELS",Crime and Investigation
-http://62.210.93.115:80/live?channelId=365&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="HorrorChannel.uk" group-title="DOCUMENTARY! CHANNELS",horror channel
-http://62.210.93.115:80/live?channelId=366&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Investigation.uk" group-title="DOCUMENTARY! CHANNELS",ID
-http://62.210.93.115:80/live?channelId=367&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="Lifetime.uk" group-title="DOCUMENTARY! CHANNELS",Lifetime
-http://62.210.93.115:80/live?channelId=368&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="DOCUMENTARY! CHANNELS",National Geo Wild
-http://62.210.93.115:80/live?channelId=369&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="DOCUMENTARY! CHANNELS",National Geographic
-http://62.210.93.115:80/live?channelId=370&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="TLC.uk" group-title="DOCUMENTARY! CHANNELS",TLC
-http://62.210.93.115:80/live?channelId=371&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="DOCUMENTARY! CHANNELS",Syfy
-http://62.210.93.115:80/live?channelId=372&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="History.uk" group-title="DOCUMENTARY! CHANNELS",HISTORY
-http://62.210.93.115:80/live?channelId=373&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="H2.uk" group-title="DOCUMENTARY! CHANNELS",H2
-http://62.210.93.115:80/live?channelId=374&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="MOTO GP Channels",MOTOGP LIVE 1
-http://163.172.15.141:9732/live?channelId=408&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="MOTO GP Channels",MOTOGP LIVE 2
-http://163.172.15.141:9732/live?channelId=409&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="MOTO GP Channels",MOTOGP LIVE 3
-http://163.172.15.141:9732/live?channelId=410&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="MotorsportTV.fr" group-title="RACING Channels",Motorsport TV
-http://163.172.15.141:9732/live?channelId=411&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="RacingUK.uk" group-title="RACING Channels",Racing UK
-http://163.172.15.141:9732/live?channelId=414&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="RacingUK.uk" group-title="RACING Channels",Racing UK HD
-http://163.172.15.141:9732/live?channelId=415&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="BoxNation.uk" group-title="BOX Channels",BoxNation
-http://163.172.15.141:9732/live?channelId=416&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="PremierSports.uk" group-title="Channels",Premier Sports
-http://163.172.15.141:9732/live?channelId=412&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="PremierSports.uk" group-title="Channels",Premier Sports HD
-http://163.172.15.141:9732/live?channelId=413&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="MUTV.uk" group-title="FCLUB Channels",MUTV
-http://62.210.93.115:80/live?channelId=417&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="LiverpoolFCTV.uk" group-title="FCLUB Channels",LFC tv
-http://62.210.93.115:80/live?channelId=418&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ChelseaTV.uk" group-title="FCLUB Channels",Chelsea Tv
-http://62.210.93.115:80/live?channelId=419&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="AtTheRaces.uk" group-title="Channels",At The Races
-http://62.210.93.115:80/live?channelId=420&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",BT Sport 1
-http://62.210.93.43:80/live?channelId=421&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",BT Sport 1 HD
-http://163.172.105.25:80/live?channelId=422&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",BT Sport 2
-http://62.210.93.43:80/live?channelId=423&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",BT Sport 2 HD
-http://163.172.105.25:80/live?channelId=424&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",BT Sport 3
-http://62.210.93.43:80/live?channelId=425&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="BT SPORT Channels",BT Sport 3 HD
-http://163.172.105.25:80/live?channelId=426&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="BT SPORT Channels",BT Sport ESPN
-http://62.210.93.43:80/live?channelId=427&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="BT SPORT Channels",BT Sport ESPN HD
-http://163.172.105.25:80/live?channelId=428&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="BT SPORT Channels",BT Sport Extra 1
-http://62.210.93.43:80/live?channelId=429&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="BT SPORT Channels",BT Sport Extra 2
-http://62.210.178.16:80/live?channelId=430&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="BT SPORT Channels",BT Sport Extra 3
-http://62.210.178.16:80/live?channelId=431&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="BT SPORT Channels",BT Sport Extra 4
-http://62.210.178.16:80/live?channelId=432&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="BT SPORT Channels",BT Sport Extra 5
-http://62.210.178.16:80/live?channelId=433&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="BT SPORT Channels",BT Sport Extra 6
-http://62.210.178.16:80/live?channelId=434&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORT Channels",Sly Sports Action
-http://62.210.178.16:80/live?channelId=435&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORT Channels",Sly Sports Action HD
-http://62.210.178.16:80/live?channelId=436&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORT Channels",Sly Sports Arena
-http://62.210.178.16:80/live?channelId=437&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORT Channels",Sly Sports Arena HD
-http://62.210.178.16:80/live?channelId=438&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORT Channels",Sly Sports Box Office
-http://62.210.93.43:80/live?channelId=439&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORT Channels",Sly Sports Cricket
-http://163.172.105.25:80/live?channelId=440&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORT Channels",Sly Sports Cricket HD
-http://62.210.93.43:80/live?channelId=441&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORT Channels",Sly Sports F1
-http://163.172.105.25:80/live?channelId=442&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORT Channels",Sly Sports Football
-http://62.210.93.43:80/live?channelId=443&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORT Channels",Sly Sports Football HD
-http://163.172.105.25:80/live?channelId=444&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORT Channels",Sly Sports Golf
-http://62.210.93.43:80/live?channelId=445&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORT Channels",Sly Sports Golf HD
-http://163.172.105.25:80/live?channelId=446&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORT Channels",Sly Sports Main
-http://62.210.93.43:80/live?channelId=447&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORT Channels",Sly Sports Main HD
-http://163.172.105.25:80/live?channelId=448&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORT Channels",Sly Sports Mix
-http://62.210.93.43:80/live?channelId=449&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORT Channels",Sly Sports Mix HD
-http://163.172.105.25:80/live?channelId=450&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORT Channels",Sly Sports News
-http://62.210.93.43:80/live?channelId=451&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORT Channels",Sly Sports News HD
-http://163.172.105.25:80/live?channelId=452&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORT Channels",Sly Sports PL
-http://62.210.93.43:80/live?channelId=453&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORT Channels",Sly Sports PL HD
-http://163.172.105.25:80/live?channelId=454&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORT Channels",Sly Spts F1 HD
-http://62.210.93.43:80/live?channelId=455&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY NET Channels",SKY NET SPORTS 1
-http://62.210.93.43:80/live?channelId=456&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY NET Channels",SKY NET SPORTS 2
-http://62.210.93.43:80/live?channelId=457&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY NET Channels",SKY NET SPORTS 3
-http://62.210.93.43:80/live?channelId=458&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY NET Channels",SKY NET SPORTS 4
-http://62.210.93.43:80/live?channelId=459&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY NET Channels",SKY NET SPORTS 5
-http://62.210.93.43:80/live?channelId=460&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="SKY NET Channels",SKY NET SPORTS 6
-http://62.210.93.43:80/live?channelId=461&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="ADULT Channels",XXX  HOT
-http://62.210.178.16:80/live?channelId=276&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="ADULT Channels",XXX 1
-http://62.210.178.16:80/live?channelId=277&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="ADULT Channels",XXX 2
-http://62.210.178.16:80/live?channelId=278&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="ADULT Channels",XXX 3
-http://62.210.178.16:80/live?channelId=279&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="ADULT Channels",XXX 4
-http://62.210.178.16:80/live?channelId=280&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="ADULT Channels",XXX 6
-http://62.210.178.16:80/live?channelId=282&uid=4125&deviceMac=00:1A:79:3F:AB:9A
-#EXTINF:0 tvg-id="ext" group-title="ADULT Channels",XXX 7
-http://62.210.178.16:80/live?channelId=283&uid=4125&deviceMac=00:1A:79:3F:AB:9A
+#EXTINF:-1 tvg-id="BBC1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC1 HD" tvg-logo="" group-title="Entertainment Channels",BBC1 HD - BBC1 HD
+http://62.210.93.115:80/live?channelId=1&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="BBC1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC One" tvg-logo="" group-title="Entertainment Channels",BBC One - BBC One
+http://62.210.99.158:80/live?channelId=2&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="BBC2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC2 HD" tvg-logo="" group-title="Entertainment Channels",BBC2 HD - BBC2 HD
+http://62.210.93.115:80/live?channelId=3&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="BBC2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC TWO" tvg-logo="" group-title="Entertainment Channels",BBC TWO - BBC TWO
+http://62.210.93.115:80/live?channelId=4&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="ITV Central" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV HD" tvg-logo="" group-title="Entertainment Channels",ITV HD - ITV HD
+http://62.210.93.115:80/live?channelId=5&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="ITV Central" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV" tvg-logo="" group-title="Entertainment Channels",ITV - ITV
+http://62.210.93.115:80/live?channelId=6&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="ITV Central +1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV plus1" tvg-logo="" group-title="Entertainment Channels",ITV plus1 - ITV plus1
+http://62.210.93.115:80/live?channelId=7&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Channel 4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 4 HD" tvg-logo="" group-title="Entertainment Channels",Channel 4 HD - Channel 4 HD
+http://62.210.93.115:80/live?channelId=8&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Channel 4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 4" tvg-logo="" group-title="Entertainment Channels",Channel 4 - Channel 4
+http://62.210.93.115:80/live?channelId=9&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Channel 4 + 1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 4 plus1" tvg-logo="" group-title="Entertainment Channels",Channel 4 plus1 - Channel 4 plus1
+http://62.210.93.115:80/live?channelId=10&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Channel 5" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 5 HD" tvg-logo="" group-title="Entertainment Channels",Channel 5 HD - Channel 5 HD
+http://62.210.93.115:80/live?channelId=11&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Channel 5" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 5" tvg-logo="" group-title="Entertainment Channels",Channel 5 - Channel 5
+http://62.210.93.115:80/live?channelId=12&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Channel 5 +1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 5 plus1" tvg-logo="" group-title="Entertainment Channels",Channel 5 plus1 - Channel 5 plus1
+http://62.210.93.115:80/live?channelId=13&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="ITV2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV2" tvg-logo="" group-title="Entertainment Channels",ITV2 - ITV2
+http://62.210.93.115:80/live?channelId=14&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="ITV3" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV3" tvg-logo="" group-title="Entertainment Channels",ITV3 - ITV3
+http://62.210.93.115:80/live?channelId=15&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="ITV4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV4" tvg-logo="" group-title="Entertainment Channels",ITV4 - ITV4
+http://62.210.93.115:80/live?channelId=16&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="ITVBe" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITVBe" tvg-logo="" group-title="Entertainment Channels",ITVBe - ITVBe
+http://62.210.93.115:80/live?channelId=17&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="4seven" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="4seven" tvg-logo="" group-title="Entertainment Channels",4seven - 4seven
+http://62.210.93.115:80/live?channelId=18&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="E4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="E4" tvg-logo="" group-title="Entertainment Channels",E4 - E4
+http://62.210.93.115:80/live?channelId=19&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="More4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="More4" tvg-logo="" group-title="Entertainment Channels",More4 - More4
+http://62.210.93.115:80/live?channelId=20&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="5USA" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="5 USA" tvg-logo="" group-title="Entertainment Channels",5 USA - 5 USA
+http://62.210.93.115:80/live?channelId=21&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="5STAR" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="5STAR" tvg-logo="" group-title="Entertainment Channels",5STAR - 5STAR
+http://62.210.93.115:80/live?channelId=22&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="My5" tvg-link="" tvg-name="My5" tvg-logo="" group-title="Entertainment Channels",My5 - My5
+http://62.210.93.115:80/live?channelId=23&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="AMC" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="AMC from BT" tvg-logo="" group-title="Entertainment Channels",AMC from BT - AMC from BT
+http://62.210.93.115:80/live?channelId=24&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky1 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky1 HD" tvg-logo="" group-title="Entertainment Channels",Sky1 HD - Sky1 HD
+http://62.210.93.115:80/live?channelId=25&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky1 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky1" tvg-logo="" group-title="Entertainment Channels",Sky1 - Sky1
+http://62.210.93.115:80/live?channelId=26&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky 2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky2" tvg-logo="" group-title="Entertainment Channels",Sky2 - Sky2
+http://62.210.93.115:80/live?channelId=27&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky Living" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Living" tvg-logo="" group-title="Entertainment Channels",Sky Living - Sky Living
+http://62.210.93.115:80/live?channelId=28&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky Atlantic" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Atlantic HD" tvg-logo="" group-title="Entertainment Channels",Sky Atlantic HD - Sky Atlantic HD
+http://62.210.93.115:80/live?channelId=29&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky Atlantic" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Atlantic" tvg-logo="" group-title="Entertainment Channels",Sky Atlantic - Sky Atlantic
+http://62.210.93.115:80/live?channelId=30&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky Arts HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Arts" tvg-logo="" group-title="Entertainment Channels",Sky Arts - Sky Arts
+http://62.210.93.115:80/live?channelId=31&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Discovery" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Discovery" tvg-logo="" group-title="Entertainment Channels",Discovery - Discovery
+http://62.210.93.115:80/live?channelId=32&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Discovery History" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disc.History" tvg-logo="" group-title="Entertainment Channels",Disc.History - Disc.History
+http://62.210.93.115:80/live?channelId=33&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Discovery Science" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disc.Science" tvg-logo="" group-title="Entertainment Channels",Disc.Science - Disc.Science
+http://62.210.93.115:80/live?channelId=34&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disc.Turbo" tvg-logo="" group-title="Entertainment Channels",Disc.Turbo - Disc.Turbo
+http://62.210.93.115:80/live?channelId=35&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Discovery Shed" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Discovery Shed" tvg-logo="" group-title="Entertainment Channels",Discovery Shed - Discovery Shed
+http://62.210.93.115:80/live?channelId=36&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="DMAX" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="DMAX" tvg-logo="" group-title="Entertainment Channels",DMAX - DMAX
+http://62.210.93.115:80/live?channelId=37&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="BLAZE" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Blaze" tvg-logo="" group-title="Entertainment Channels",Blaze - Blaze
+http://62.210.93.115:80/live?channelId=38&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Comedy Central" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ComedyCentral" tvg-logo="" group-title="Entertainment Channels",ComedyCentral - ComedyCentral
+http://62.210.93.115:80/live?channelId=39&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Comedy Central Extra" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ComedyXtra" tvg-logo="" group-title="Entertainment Channels",ComedyXtra - ComedyXtra
+http://62.210.93.115:80/live?channelId=40&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="CI HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Crime and Investigation" tvg-logo="" group-title="Entertainment Channels",Crime and Investigation - Crime and Investigation
+http://62.210.93.115:80/live?channelId=41&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Animal Planet" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Animal Planet" tvg-logo="" group-title="Entertainment Channels",Animal Planet - Animal Planet
+http://62.210.93.115:80/live?channelId=42&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="HISTORY" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="HISTORY" tvg-logo="" group-title="Entertainment Channels",HISTORY - HISTORY
+http://62.210.93.115:80/live?channelId=43&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="H2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="H2" tvg-logo="" group-title="Entertainment Channels",H2 - H2
+http://62.210.93.115:80/live?channelId=44&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="National Geo Wild" tvg-logo="" group-title="Entertainment Channels",National Geo Wild - National Geo Wild
+http://62.210.93.115:80/live?channelId=45&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="National Geographic" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="National Geographic" tvg-logo="" group-title="Entertainment Channels",National Geographic - National Geographic
+http://62.210.93.115:80/live?channelId=46&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="TLC" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="TLC" tvg-logo="" group-title="Entertainment Channels",TLC - TLC
+http://62.210.93.115:80/live?channelId=47&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Syfy" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Syfy" tvg-logo="" group-title="Entertainment Channels",Syfy - Syfy
+http://62.210.93.115:80/live?channelId=48&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Lifetime" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Lifetime" tvg-logo="" group-title="Entertainment Channels",Lifetime - Lifetime
+http://62.210.93.115:80/live?channelId=49&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="MTV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="MTV" tvg-logo="" group-title="Entertainment Channels",MTV - MTV
+http://62.210.93.115:80/live?channelId=50&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Dave" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Dave" tvg-logo="" group-title="Entertainment Channels",Dave - Dave
+http://62.210.93.115:80/live?channelId=51&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Dave ja vu" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Dave ja vu" tvg-logo="" group-title="Entertainment Channels",Dave ja vu - Dave ja vu
+http://62.210.93.115:80/live?channelId=52&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="FOX" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="FOX" tvg-logo="" group-title="Entertainment Channels",FOX - FOX
+http://62.210.93.115:80/live?channelId=53&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="horror channel" tvg-link="" tvg-name="horror channel" tvg-logo="" group-title="Entertainment Channels",horror channel - horror channel
+http://62.210.93.115:80/live?channelId=54&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Investigation Discovery" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ID" tvg-logo="" group-title="Entertainment Channels",ID - ID
+http://62.210.93.115:80/live?channelId=55&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Good Food" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Good Food" tvg-logo="" group-title="Entertainment Channels",Good Food - Good Food
+http://62.210.93.115:80/live?channelId=56&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Home" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Home" tvg-logo="" group-title="Entertainment Channels",Home - Home
+http://62.210.93.115:80/live?channelId=57&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Food Network" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Food Network" tvg-logo="" group-title="Entertainment Channels",Food Network - Food Network
+http://62.210.93.115:80/live?channelId=58&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Alibi" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="alibi" tvg-logo="" group-title="Entertainment Channels",alibi - alibi
+http://62.210.93.115:80/live?channelId=59&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Drama" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Drama" tvg-logo="" group-title="Entertainment Channels",Drama - Drama
+http://62.210.93.115:80/live?channelId=60&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="E!" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="E!" tvg-logo="" group-title="Entertainment Channels",E! - E!
+http://62.210.93.115:80/live?channelId=61&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Eden" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Eden" tvg-logo="" group-title="Entertainment Channels",Eden - Eden
+http://62.210.93.115:80/live?channelId=62&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="GOLD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="GOLD" tvg-logo="" group-title="Entertainment Channels",GOLD - GOLD
+http://62.210.93.115:80/live?channelId=63&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Pick" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Pick" tvg-logo="" group-title="Entertainment Channels",Pick - Pick
+http://62.210.93.115:80/live?channelId=64&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Really" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Really" tvg-logo="" group-title="Entertainment Channels",Really - Really
+http://62.210.93.115:80/live?channelId=65&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="YESTERDAY" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Yesterday" tvg-logo="" group-title="Entertainment Channels",Yesterday - Yesterday
+http://62.210.93.115:80/live?channelId=66&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="W" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="W" tvg-logo="" group-title="Entertainment Channels",W - W
+http://62.210.93.115:80/live?channelId=67&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Universal Channel" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Universal" tvg-logo="" group-title="Entertainment Channels",Universal - Universal
+http://62.210.93.115:80/live?channelId=68&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="QUEST" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="QUEST" tvg-logo="" group-title="Entertainment Channels",QUEST - QUEST
+http://62.210.93.115:80/live?channelId=69&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky Action HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA ACTION & ADVENTURE HD" tvg-logo="" group-title="Movie Channels",CINEMA ACTION & ADVENTURE HD - CINEMA ACTION & ADVENTURE HD
+http://62.210.93.43:80/live?channelId=70&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky Disney HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA DISNEY HD" tvg-logo="" group-title="Movie Channels",CINEMA DISNEY HD - CINEMA DISNEY HD
+http://62.210.93.43:80/live?channelId=71&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky DraRomHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA DRAMA AND ROMANCE HD" tvg-logo="" group-title="Movie Channels",CINEMA DRAMA AND ROMANCE HD - CINEMA DRAMA AND ROMANCE HD
+http://62.210.93.43:80/live?channelId=72&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky Family HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA FAMILY HD" tvg-logo="" group-title="Movie Channels",CINEMA FAMILY HD - CINEMA FAMILY HD
+http://62.210.93.43:80/live?channelId=73&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky Hits HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA HITS HD" tvg-logo="" group-title="Movie Channels",CINEMA HITS HD - CINEMA HITS HD
+http://62.210.93.43:80/live?channelId=74&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky Greats HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA MODERN GREATS HD" tvg-logo="" group-title="Movie Channels",CINEMA MODERN GREATS HD - CINEMA MODERN GREATS HD
+http://62.210.93.43:80/live?channelId=75&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SkyPremiereHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA PREMIERE HD" tvg-logo="" group-title="Movie Channels",CINEMA PREMIERE HD - CINEMA PREMIERE HD
+http://62.210.93.43:80/live?channelId=76&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky Movies Sci-Fi & Horror" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA SCI-FI & HORROR HD" tvg-logo="" group-title="Movie Channels",CINEMA SCI-FI & HORROR HD - CINEMA SCI-FI & HORROR HD
+http://62.210.93.43:80/live?channelId=77&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky Movies Select HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA SELECT HD" tvg-logo="" group-title="Movie Channels",CINEMA SELECT HD - CINEMA SELECT HD
+http://62.210.93.43:80/live?channelId=78&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky Movies Crime & Thriller HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA THRILLER HD" tvg-logo="" group-title="Movie Channels",CINEMA THRILLER HD - CINEMA THRILLER HD
+http://62.210.93.43:80/live?channelId=79&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky Action HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Action & Adventure" tvg-logo="" group-title="Movie Channels",Sky Movies Action & Adventure - Sky Movies Action & Adventure
+http://62.210.93.43:80/live?channelId=80&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky Movies Comedy HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Comedy" tvg-logo="" group-title="Movie Channels",Sky Movies Comedy - Sky Movies Comedy
+http://62.210.93.43:80/live?channelId=81&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky Disney HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Disney" tvg-logo="" group-title="Movie Channels",Sky Movies Disney - Sky Movies Disney
+http://62.210.93.43:80/live?channelId=82&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky DraRomHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Drama & Romance" tvg-logo="" group-title="Movie Channels",Sky Movies Drama & Romance - Sky Movies Drama & Romance
+http://62.210.93.43:80/live?channelId=83&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky Family HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Family" tvg-logo="" group-title="Movie Channels",Sky Movies Family - Sky Movies Family
+http://62.210.93.43:80/live?channelId=84&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky Greats HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Greats" tvg-logo="" group-title="Movie Channels",Sky Movies Greats - Sky Movies Greats
+http://62.210.93.43:80/live?channelId=85&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SkyPremiereHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Premiere" tvg-logo="" group-title="Movie Channels",Sky Movies Premiere - Sky Movies Premiere
+http://62.210.93.43:80/live?channelId=86&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky Movies Sci-Fi & Horror" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Sci-Fi & Horror" tvg-logo="" group-title="Movie Channels",Sky Movies Sci-Fi & Horror - Sky Movies Sci-Fi & Horror
+http://62.210.93.43:80/live?channelId=87&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky Movies Select HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Select" tvg-logo="" group-title="Movie Channels",Sky Movies Select - Sky Movies Select
+http://62.210.93.43:80/live?channelId=88&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sky Movies Crime & Thriller HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Thriller" tvg-logo="" group-title="Movie Channels",Sky Movies Thriller - Sky Movies Thriller
+http://62.210.93.43:80/live?channelId=89&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Baby TV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Baby TV" tvg-logo="" group-title="Kids Channels",Baby TV - Baby TV
+http://62.210.93.43:80/live?channelId=90&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="CBBC" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CBBC" tvg-logo="" group-title="Kids Channels",CBBC - CBBC
+http://62.210.93.43:80/live?channelId=91&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Cartoon network" tvg-logo="" group-title="Kids Channels",Cartoon network - Cartoon network
+http://62.210.93.43:80/live?channelId=92&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Cbeeies" tvg-link="" tvg-name="Cbeeies" tvg-logo="" group-title="Kids Channels",Cbeeies - Cbeeies
+http://62.210.93.43:80/live?channelId=93&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Disney Channel" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disney Channel" tvg-logo="" group-title="Kids Channels",Disney Channel - Disney Channel
+http://62.210.93.43:80/live?channelId=94&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Disney Junior" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disney Jr" tvg-logo="" group-title="Kids Channels",Disney Jr - Disney Jr
+http://62.210.93.43:80/live?channelId=95&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Disney XD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disney XD" tvg-logo="" group-title="Kids Channels",Disney XD - Disney XD
+http://62.210.93.43:80/live?channelId=96&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Nick Jr" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Nick Jr" tvg-logo="" group-title="Kids Channels",Nick Jr - Nick Jr
+http://62.210.93.43:80/live?channelId=97&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Nicktoons" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Nick Toons" tvg-logo="" group-title="Kids Channels",Nick Toons - Nick Toons
+http://62.210.93.43:80/live?channelId=98&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids Channels",Nickelodeon - Nickelodeon
+http://62.210.93.43:80/live?channelId=99&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Nick Jr Too" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="NickJr Too" tvg-logo="" group-title="Kids Channels",NickJr Too - NickJr Too
+http://62.210.93.43:80/live?channelId=100&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Boomerang" tvg-link="" tvg-name="Boomerang" tvg-logo="" group-title="Kids Channels",Boomerang - Boomerang
+http://62.210.93.43:80/live?channelId=101&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="MTV Base" tvg-link="" tvg-name="MTV Base" tvg-logo="" group-title="Music Channels",MTV Base - MTV Base
+http://62.210.93.43:80/live?channelId=102&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="MTV Classic" tvg-link="" tvg-name="MTV Classic" tvg-logo="" group-title="Music Channels",MTV Classic - MTV Classic
+http://62.210.93.43:80/live?channelId=103&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="MTV Dance" tvg-link="" tvg-name="MTV Dance" tvg-logo="" group-title="Music Channels",MTV Dance - MTV Dance
+http://62.210.93.43:80/live?channelId=104&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="MTV Hits" tvg-link="" tvg-name="MTV Hits" tvg-logo="" group-title="Music Channels",MTV Hits - MTV Hits
+http://62.210.93.43:80/live?channelId=105&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="MTV Music" tvg-link="" tvg-name="MTV Music" tvg-logo="" group-title="Music Channels",MTV Music - MTV Music
+http://62.210.93.43:80/live?channelId=106&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="MTV Rocks" tvg-link="" tvg-name="MTV Rocks" tvg-logo="" group-title="Music Channels",MTV Rocks - MTV Rocks
+http://62.210.93.43:80/live?channelId=107&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sly Sports Action" tvg-link="" tvg-name="Sly Sports Action" tvg-logo="" group-title="Sly Sports",Sly Sports Action - Sly Sports Action
+http://62.210.99.158:80/live?channelId=119&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sly Sports Action HD" tvg-link="" tvg-name="Sly Sports Action HD" tvg-logo="" group-title="Sly Sports",Sly Sports Action HD - Sly Sports Action HD
+http://62.210.99.158:80/live?channelId=120&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sly Sports Arena" tvg-link="" tvg-name="Sly Sports Arena" tvg-logo="" group-title="Sly Sports",Sly Sports Arena - Sly Sports Arena
+http://62.210.99.158:80/live?channelId=121&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sly Sports Arena HD" tvg-link="" tvg-name="Sly Sports Arena HD" tvg-logo="" group-title="Sly Sports",Sly Sports Arena HD - Sly Sports Arena HD
+http://62.210.99.158:80/live?channelId=122&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sly Sports Cricket" tvg-link="" tvg-name="Sly Sports Cricket" tvg-logo="" group-title="Sly Sports",Sly Sports Cricket - Sly Sports Cricket
+http://62.210.99.158:80/live?channelId=123&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sly Sports Cricket HD" tvg-link="" tvg-name="Sly Sports Cricket HD" tvg-logo="" group-title="Sly Sports",Sly Sports Cricket HD - Sly Sports Cricket HD
+http://62.210.99.158:80/live?channelId=124&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sly Sports Football" tvg-link="" tvg-name="Sly Sports Football" tvg-logo="" group-title="Sly Sports",Sly Sports Football - Sly Sports Football
+http://62.210.99.158:80/live?channelId=125&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sly Sports Football HD" tvg-link="" tvg-name="Sly Sports Football HD" tvg-logo="" group-title="Sly Sports",Sly Sports Football HD - Sly Sports Football HD
+http://62.210.99.158:80/live?channelId=126&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sly Sports Golf" tvg-link="" tvg-name="Sly Sports Golf" tvg-logo="" group-title="Sly Sports",Sly Sports Golf - Sly Sports Golf
+http://62.210.99.158:80/live?channelId=127&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sly Sports Golf HD" tvg-link="" tvg-name="Sly Sports Golf HD" tvg-logo="" group-title="Sly Sports",Sly Sports Golf HD - Sly Sports Golf HD
+http://62.210.99.158:80/live?channelId=128&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sly Sports Main" tvg-link="" tvg-name="Sly Sports Main" tvg-logo="" group-title="Sly Sports",Sly Sports Main - Sly Sports Main
+http://62.210.99.158:80/live?channelId=129&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sly Sports Main HD" tvg-link="" tvg-name="Sly Sports Main HD" tvg-logo="" group-title="Sly Sports",Sly Sports Main HD - Sly Sports Main HD
+http://62.210.99.158:80/live?channelId=130&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sly Sports Mix" tvg-link="" tvg-name="Sly Sports Mix" tvg-logo="" group-title="Sly Sports",Sly Sports Mix - Sly Sports Mix
+http://62.210.99.158:80/live?channelId=131&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sly Sports Mix HD" tvg-link="" tvg-name="Sly Sports Mix HD" tvg-logo="" group-title="Sly Sports",Sly Sports Mix HD - Sly Sports Mix HD
+http://62.210.99.158:80/live?channelId=132&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sly Sports PL" tvg-link="" tvg-name="Sly Sports PL" tvg-logo="" group-title="Sly Sports",Sly Sports PL - Sly Sports PL
+http://62.210.99.158:80/live?channelId=133&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sly Sports PL HD" tvg-link="" tvg-name="Sly Sports PL HD" tvg-logo="" group-title="Sly Sports",Sly Sports PL HD - Sly Sports PL HD
+http://62.210.99.158:80/live?channelId=134&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sly Sports F1" tvg-link="" tvg-name="Sly Sports F1" tvg-logo="" group-title="Sly Sports",Sly Sports F1 - Sly Sports F1
+http://62.210.99.158:80/live?channelId=135&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sly Spts F1 HD" tvg-link="" tvg-name="Sly Spts F1 HD" tvg-logo="" group-title="Sly Sports",Sly Spts F1 HD - Sly Spts F1 HD
+http://62.210.99.158:80/live?channelId=136&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sly Sports News" tvg-link="" tvg-name="Sly Sports News" tvg-logo="" group-title="Sly Sports",Sly Sports News - Sly Sports News
+http://62.210.99.158:80/live?channelId=137&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sly Sports News HD" tvg-link="" tvg-name="Sly Sports News HD" tvg-logo="" group-title="Sly Sports",Sly Sports News HD - Sly Sports News HD
+http://62.210.99.158:80/live?channelId=138&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Sly Sports Box Office" tvg-link="" tvg-name="Sly Sports Box Office" tvg-logo="" group-title="Sly Sports",Sly Sports Box Office - Sly Sports Box Office
+http://62.210.99.158:80/live?channelId=139&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="BT Sport 1" tvg-link="" tvg-name="BT Sport 1" tvg-logo="" group-title="BT Sports",BT Sport 1 - BT Sport 1
+http://62.210.214.28:80/live?channelId=140&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="BT Sport 1 HD" tvg-link="" tvg-name="BT Sport 1 HD" tvg-logo="" group-title="BT Sports",BT Sport 1 HD - BT Sport 1 HD
+http://62.210.214.28:80/live?channelId=141&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="BT Sport 2" tvg-link="" tvg-name="BT Sport 2" tvg-logo="" group-title="BT Sports",BT Sport 2 - BT Sport 2
+http://62.210.214.28:80/live?channelId=142&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="BT Sport 2 HD" tvg-link="" tvg-name="BT Sport 2 HD" tvg-logo="" group-title="BT Sports",BT Sport 2 HD - BT Sport 2 HD
+http://62.210.214.28:80/live?channelId=143&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="BT Sport 3" tvg-link="" tvg-name="BT Sport 3" tvg-logo="" group-title="BT Sports",BT Sport 3 - BT Sport 3
+http://62.210.214.28:80/live?channelId=144&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="BT Sport 3 HD" tvg-link="" tvg-name="BT Sport 3 HD" tvg-logo="" group-title="BT Sports",BT Sport 3 HD - BT Sport 3 HD
+http://62.210.214.28:80/live?channelId=145&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="BT Sport ESPN" tvg-link="" tvg-name="BT Sport ESPN" tvg-logo="" group-title="BT Sports",BT Sport ESPN - BT Sport ESPN
+http://62.210.214.28:80/live?channelId=146&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="BT Sport ESPN HD" tvg-link="" tvg-name="BT Sport ESPN HD" tvg-logo="" group-title="BT Sports",BT Sport ESPN HD - BT Sport ESPN HD
+http://62.210.214.28:80/live?channelId=147&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="BT Sport Extra 1" tvg-link="" tvg-name="BT Sport Extra 1" tvg-logo="" group-title="BT Sports",BT Sport Extra 1 - BT Sport Extra 1
+http://62.210.214.28:80/live?channelId=148&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="BT Sport Extra 2" tvg-link="" tvg-name="BT Sport Extra 2" tvg-logo="" group-title="BT Sports",BT Sport Extra 2 - BT Sport Extra 2
+http://62.210.214.28:80/live?channelId=149&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="BT Sport Extra 3" tvg-link="" tvg-name="BT Sport Extra 3" tvg-logo="" group-title="BT Sports",BT Sport Extra 3 - BT Sport Extra 3
+http://62.210.214.28:80/live?channelId=150&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="BT Sport Extra 4" tvg-link="" tvg-name="BT Sport Extra 4" tvg-logo="" group-title="BT Sports",BT Sport Extra 4 - BT Sport Extra 4
+http://62.210.214.28:80/live?channelId=151&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="BT Sport Extra 5" tvg-link="" tvg-name="BT Sport Extra 5" tvg-logo="" group-title="BT Sports",BT Sport Extra 5 - BT Sport Extra 5
+http://62.210.214.28:80/live?channelId=152&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="BT Sport Extra 6" tvg-link="" tvg-name="BT Sport Extra 6" tvg-logo="" group-title="BT Sports",BT Sport Extra 6 - BT Sport Extra 6
+http://62.210.214.28:80/live?channelId=153&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="eir Sport 1" tvg-link="" tvg-name="eir Sport 1" tvg-logo="" group-title="UK Sports",eir Sport 1 - eir Sport 1
+http://62.210.214.28:80/live?channelId=154&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="eir Sport 2" tvg-link="" tvg-name="eir Sport 2" tvg-logo="" group-title="UK Sports",eir Sport 2 - eir Sport 2
+http://62.210.214.28:80/live?channelId=155&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-link="" tvg-name="Eurosport 1" tvg-logo="" group-title="UK Sports",Eurosport 1 - Eurosport 1
+http://62.210.214.28:80/live?channelId=156&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-link="" tvg-name="Eurosport 2" tvg-logo="" group-title="UK Sports",Eurosport 2 - Eurosport 2
+http://62.210.214.28:80/live?channelId=157&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="FreeSports" tvg-link="" tvg-name="FreeSports" tvg-logo="" group-title="UK Sports",FreeSports - FreeSports
+http://62.210.214.28:80/live?channelId=158&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="FrontRunner" tvg-link="" tvg-name="FrontRunner" tvg-logo="" group-title="UK Sports",FrontRunner - FrontRunner
+http://62.210.214.28:80/live?channelId=159&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="CETIC TV (LIVE FOR GAMES ONLY)" tvg-link="" tvg-name="CETIC TV (LIVE FOR GAMES ONLY)" tvg-logo="" group-title="UK Sports",CETIC TV (LIVE FOR GAMES ONLY) - CETIC TV (LIVE FOR GAMES ONLY)
+http://62.210.214.28:80/live?channelId=160&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="RANGERS TV (live for games)" tvg-link="" tvg-name="RANGERS TV (live for games)" tvg-logo="" group-title="UK Sports",RANGERS TV (live for games) - RANGERS TV (live for games)
+http://62.210.214.28:80/live?channelId=161&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="MUTV" tvg-link="" tvg-name="MUTV" tvg-logo="" group-title="UK Sports",MUTV - MUTV
+http://62.210.214.28:80/live?channelId=162&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="LFC tv" tvg-link="" tvg-name="LFC tv" tvg-logo="" group-title="UK Sports",LFC tv - LFC tv
+http://62.210.214.28:80/live?channelId=163&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Chelsea Tv" tvg-link="" tvg-name="Chelsea Tv" tvg-logo="" group-title="UK Sports",Chelsea Tv - Chelsea Tv
+http://62.210.214.28:80/live?channelId=164&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="MOTOGP LIVE 1" tvg-link="" tvg-name="MOTOGP LIVE 1" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 1 - MOTOGP LIVE 1
+http://62.210.214.28:80/live?channelId=165&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="MOTOGP LIVE 2" tvg-link="" tvg-name="MOTOGP LIVE 2" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 2 - MOTOGP LIVE 2
+http://62.210.214.28:80/live?channelId=166&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="MOTOGP LIVE 3" tvg-link="" tvg-name="MOTOGP LIVE 3" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 3 - MOTOGP LIVE 3
+http://62.210.214.28:80/live?channelId=167&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Motorsport TV" tvg-link="" tvg-name="Motorsport TV" tvg-logo="" group-title="UK Sports",Motorsport TV - Motorsport TV
+http://62.210.214.28:80/live?channelId=168&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Premier Sports" tvg-link="" tvg-name="Premier Sports" tvg-logo="" group-title="UK Sports",Premier Sports - Premier Sports
+http://62.210.214.28:80/live?channelId=169&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Premier Sports HD" tvg-link="" tvg-name="Premier Sports HD" tvg-logo="" group-title="UK Sports",Premier Sports HD - Premier Sports HD
+http://62.210.214.28:80/live?channelId=170&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Racing UK" tvg-link="" tvg-name="Racing UK" tvg-logo="" group-title="UK Sports",Racing UK - Racing UK
+http://62.210.214.28:80/live?channelId=171&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Racing UK HD" tvg-link="" tvg-name="Racing UK HD" tvg-logo="" group-title="UK Sports",Racing UK HD - Racing UK HD
+http://62.210.214.28:80/live?channelId=172&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="At The Races" tvg-link="" tvg-name="At The Races" tvg-logo="" group-title="UK Sports",At The Races - At The Races
+http://62.210.214.28:80/live?channelId=173&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="BoxNation" tvg-link="" tvg-name="BoxNation" tvg-logo="" group-title="UK Sports",BoxNation - BoxNation
+http://62.210.214.28:80/live?channelId=174&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="bein france 1" tvg-link="" tvg-name="bein france 1" tvg-logo="" group-title="BEin Sports",bein france 1 - bein france 1
+http://163.172.105.25:80/live?channelId=175&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="bein france 2" tvg-link="" tvg-name="bein france 2" tvg-logo="" group-title="BEin Sports",bein france 2 - bein france 2
+http://163.172.105.25:80/live?channelId=176&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="bein france 3" tvg-link="" tvg-name="bein france 3" tvg-logo="" group-title="BEin Sports",bein france 3 - bein france 3
+http://163.172.105.25:80/live?channelId=177&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="beINSport 1 HD" tvg-link="" tvg-name="beINSport 1 HD" tvg-logo="" group-title="BEin Sports",beINSport 1 HD - beINSport 1 HD
+http://163.172.105.25:80/live?channelId=178&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="beINSport 2 HD" tvg-link="" tvg-name="beINSport 2 HD" tvg-logo="" group-title="BEin Sports",beINSport 2 HD - beINSport 2 HD
+http://163.172.105.25:80/live?channelId=179&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="beINSport 3 HD" tvg-link="" tvg-name="beINSport 3 HD" tvg-logo="" group-title="BEin Sports",beINSport 3 HD - beINSport 3 HD
+http://163.172.105.25:80/live?channelId=180&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="beINSport 4 HD" tvg-link="" tvg-name="beINSport 4 HD" tvg-logo="" group-title="BEin Sports",beINSport 4 HD - beINSport 4 HD
+http://163.172.105.25:80/live?channelId=181&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="beINSport 5 HD" tvg-link="" tvg-name="beINSport 5 HD" tvg-logo="" group-title="BEin Sports",beINSport 5 HD - beINSport 5 HD
+http://163.172.105.25:80/live?channelId=182&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="beINSport 6 HD" tvg-link="" tvg-name="beINSport 6 HD" tvg-logo="" group-title="BEin Sports",beINSport 6 HD - beINSport 6 HD
+http://163.172.105.25:80/live?channelId=183&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="beINSport 7 HD" tvg-link="" tvg-name="beINSport 7 HD" tvg-logo="" group-title="BEin Sports",beINSport 7 HD - beINSport 7 HD
+http://163.172.105.25:80/live?channelId=184&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="beINSport 8 HD" tvg-link="" tvg-name="beINSport 8 HD" tvg-logo="" group-title="BEin Sports",beINSport 8 HD - beINSport 8 HD
+http://163.172.105.25:80/live?channelId=185&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="beINSport 9 HD" tvg-link="" tvg-name="beINSport 9 HD" tvg-logo="" group-title="BEin Sports",beINSport 9 HD - beINSport 9 HD
+http://163.172.105.25:80/live?channelId=186&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="beINSport 10 HD" tvg-link="" tvg-name="beINSport 10 HD" tvg-logo="" group-title="BEin Sports",beINSport 10 HD - beINSport 10 HD
+http://163.172.105.25:80/live?channelId=187&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="beINSport 11 HD" tvg-link="" tvg-name="beINSport 11 HD" tvg-logo="" group-title="BEin Sports",beINSport 11 HD - beINSport 11 HD
+http://163.172.105.25:80/live?channelId=188&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="beINSport 12 HD" tvg-link="" tvg-name="beINSport 12 HD" tvg-logo="" group-title="BEin Sports",beINSport 12 HD - beINSport 12 HD
+http://163.172.105.25:80/live?channelId=189&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="BEin Sports EPL 1" tvg-link="" tvg-name="BEin Sports EPL 1" tvg-logo="" group-title="BEin Sports",BEin Sports EPL 1 - BEin Sports EPL 1
+http://163.172.105.25:80/live?channelId=190&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="BEin Sports EPL 2" tvg-link="" tvg-name="BEin Sports EPL 2" tvg-logo="" group-title="BEin Sports",BEin Sports EPL 2 - BEin Sports EPL 2
+http://163.172.105.25:80/live?channelId=191&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="BEin Sports EPL 3" tvg-link="" tvg-name="BEin Sports EPL 3" tvg-logo="" group-title="BEin Sports",BEin Sports EPL 3 - BEin Sports EPL 3
+http://163.172.105.25:80/live?channelId=192&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="PL  TV (FOR EPL)" tvg-link="" tvg-name="PL  TV (FOR EPL)" tvg-logo="" group-title="LeSports (EPL)",PL  TV (FOR EPL) - PL  TV (FOR EPL)
+http://62.210.93.43:80/live?channelId=193&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="PL 1 (FOR EPL)" tvg-link="" tvg-name="PL 1 (FOR EPL)" tvg-logo="" group-title="LeSports (EPL)",PL 1 (FOR EPL) - PL 1 (FOR EPL)
+http://62.210.93.43:80/live?channelId=194&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="PL 2.1 (FOR EPL)" tvg-link="" tvg-name="PL 2.1 (FOR EPL)" tvg-logo="" group-title="LeSports (EPL)",PL 2.1 (FOR EPL) - PL 2.1 (FOR EPL)
+http://62.210.93.43:80/live?channelId=195&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="PL 7 (FOR EPL)" tvg-link="" tvg-name="PL 7 (FOR EPL)" tvg-logo="" group-title="LeSports (EPL)",PL 7 (FOR EPL) - PL 7 (FOR EPL)
+http://62.210.93.43:80/live?channelId=196&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="PL 7.1 (FOR EPL)" tvg-link="" tvg-name="PL 7.1 (FOR EPL)" tvg-logo="" group-title="LeSports (EPL)",PL 7.1 (FOR EPL) - PL 7.1 (FOR EPL)
+http://62.210.93.43:80/live?channelId=197&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="PL1.1 (FOR EPL)" tvg-link="" tvg-name="PL1.1 (FOR EPL)" tvg-logo="" group-title="LeSports (EPL)",PL1.1 (FOR EPL) - PL1.1 (FOR EPL)
+http://62.210.93.43:80/live?channelId=198&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="PL2 (FOR EPL)" tvg-link="" tvg-name="PL2 (FOR EPL)" tvg-logo="" group-title="LeSports (EPL)",PL2 (FOR EPL) - PL2 (FOR EPL)
+http://62.210.93.43:80/live?channelId=199&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="PL3 (FOR EPL)" tvg-link="" tvg-name="PL3 (FOR EPL)" tvg-logo="" group-title="LeSports (EPL)",PL3 (FOR EPL) - PL3 (FOR EPL)
+http://62.210.93.43:80/live?channelId=200&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="PL3.1 (FOR EPL)" tvg-link="" tvg-name="PL3.1 (FOR EPL)" tvg-logo="" group-title="LeSports (EPL)",PL3.1 (FOR EPL) - PL3.1 (FOR EPL)
+http://62.210.93.43:80/live?channelId=201&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="PL4 (FOR EPL)" tvg-link="" tvg-name="PL4 (FOR EPL)" tvg-logo="" group-title="LeSports (EPL)",PL4 (FOR EPL) - PL4 (FOR EPL)
+http://62.210.93.43:80/live?channelId=202&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="PL4.1 (FOR EPL)" tvg-link="" tvg-name="PL4.1 (FOR EPL)" tvg-logo="" group-title="LeSports (EPL)",PL4.1 (FOR EPL) - PL4.1 (FOR EPL)
+http://62.210.93.43:80/live?channelId=203&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="PL5 (FOR EPL)" tvg-link="" tvg-name="PL5 (FOR EPL)" tvg-logo="" group-title="LeSports (EPL)",PL5 (FOR EPL) - PL5 (FOR EPL)
+http://62.210.93.43:80/live?channelId=204&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="PL5.1 (FOR EPL)" tvg-link="" tvg-name="PL5.1 (FOR EPL)" tvg-logo="" group-title="LeSports (EPL)",PL5.1 (FOR EPL) - PL5.1 (FOR EPL)
+http://62.210.93.43:80/live?channelId=205&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="PL6 (FOR EPL)" tvg-link="" tvg-name="PL6 (FOR EPL)" tvg-logo="" group-title="LeSports (EPL)",PL6 (FOR EPL) - PL6 (FOR EPL)
+http://62.210.93.43:80/live?channelId=206&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="PL6.1 (FOR EPL)" tvg-link="" tvg-name="PL6.1 (FOR EPL)" tvg-logo="" group-title="LeSports (EPL)",PL6.1 (FOR EPL) - PL6.1 (FOR EPL)
+http://62.210.93.43:80/live?channelId=207&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="PREMIER LEAGUE CHANNEL (FOR EPL)" tvg-link="" tvg-name="PREMIER LEAGUE CHANNEL (FOR EPL)" tvg-logo="" group-title="LeSports (EPL)",PREMIER LEAGUE CHANNEL (FOR EPL) - PREMIER LEAGUE CHANNEL (FOR EPL)
+http://62.210.93.43:80/live?channelId=208&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="EPL 1  (need VPN)" tvg-link="" tvg-name="EPL 1  (need VPN)" tvg-logo="" group-title="LeSports (EPL)",EPL 1  (need VPN) - EPL 1  (need VPN)
+http://62.210.93.43:80/live?channelId=209&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="EPL 2" tvg-link="" tvg-name="EPL 2" tvg-logo="" group-title="LeSports (EPL)",EPL 2 - EPL 2
+http://62.210.93.43:80/live?channelId=210&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SKY NET SPORTS 1" tvg-link="" tvg-name="SKY NET SPORTS 1" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 1 - SKY NET SPORTS 1
+http://163.172.105.25:80/live?channelId=211&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SKY NET SPORTS 2" tvg-link="" tvg-name="SKY NET SPORTS 2" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 2 - SKY NET SPORTS 2
+http://163.172.105.25:80/live?channelId=212&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SKY NET SPORTS 3" tvg-link="" tvg-name="SKY NET SPORTS 3" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 3 - SKY NET SPORTS 3
+http://163.172.105.25:80/live?channelId=213&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SKY NET SPORTS 4" tvg-link="" tvg-name="SKY NET SPORTS 4" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 4 - SKY NET SPORTS 4
+http://163.172.105.25:80/live?channelId=214&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SKY NET SPORTS 5" tvg-link="" tvg-name="SKY NET SPORTS 5" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 5 - SKY NET SPORTS 5
+http://163.172.105.25:80/live?channelId=215&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SKY NET SPORTS 6" tvg-link="" tvg-name="SKY NET SPORTS 6" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 6 - SKY NET SPORTS 6
+http://163.172.105.25:80/live?channelId=216&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="TSN 1" tvg-link="" tvg-name="TSN 1" tvg-logo="" group-title="USA/CA Channels",TSN 1 - TSN 1
+http://163.172.15.141:9732/live?channelId=217&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="TSN 2" tvg-link="" tvg-name="TSN 2" tvg-logo="" group-title="USA/CA Channels",TSN 2 - TSN 2
+http://163.172.15.141:9732/live?channelId=218&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="TSN 3" tvg-link="" tvg-name="TSN 3" tvg-logo="" group-title="USA/CA Channels",TSN 3 - TSN 3
+http://163.172.15.141:9732/live?channelId=219&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="TSN 4" tvg-link="" tvg-name="TSN 4" tvg-logo="" group-title="USA/CA Channels",TSN 4 - TSN 4
+http://163.172.15.141:9732/live?channelId=220&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="" group-title="USA/CA Channels",TSN 5 - TSN 5
+http://163.172.15.141:9732/live?channelId=221&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SPORTS NET 360 HD" tvg-link="" tvg-name="SPORTS NET 360 HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET 360 HD - SPORTS NET 360 HD
+http://163.172.15.141:9732/live?channelId=222&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SPORTS NET EAST HD" tvg-link="" tvg-name="SPORTS NET EAST HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET EAST HD - SPORTS NET EAST HD
+http://163.172.15.141:9732/live?channelId=223&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SPORTS NET ONE HD" tvg-link="" tvg-name="SPORTS NET ONE HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET ONE HD - SPORTS NET ONE HD
+http://163.172.15.141:9732/live?channelId=224&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SPORTS NET ONTARIO HD" tvg-link="" tvg-name="SPORTS NET ONTARIO HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET ONTARIO HD - SPORTS NET ONTARIO HD
+http://163.172.15.141:9732/live?channelId=225&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SPORTS NET PACIFIC HD" tvg-link="" tvg-name="SPORTS NET PACIFIC HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET PACIFIC HD - SPORTS NET PACIFIC HD
+http://163.172.15.141:9732/live?channelId=226&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SPORTS NET WEST HD" tvg-link="" tvg-name="SPORTS NET WEST HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET WEST HD - SPORTS NET WEST HD
+http://163.172.15.141:9732/live?channelId=227&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SPORTS NET WORLD HD" tvg-link="" tvg-name="SPORTS NET WORLD HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET WORLD HD - SPORTS NET WORLD HD
+http://163.172.15.141:9732/live?channelId=228&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SPORTSNET 360" tvg-link="" tvg-name="SPORTSNET 360" tvg-logo="" group-title="USA/CA Channels",SPORTSNET 360 - SPORTSNET 360
+http://163.172.15.141:9732/live?channelId=229&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SPORTSNET EAST" tvg-link="" tvg-name="SPORTSNET EAST" tvg-logo="" group-title="USA/CA Channels",SPORTSNET EAST - SPORTSNET EAST
+http://163.172.15.141:9732/live?channelId=230&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SPORTSNET ONE" tvg-link="" tvg-name="SPORTSNET ONE" tvg-logo="" group-title="USA/CA Channels",SPORTSNET ONE - SPORTSNET ONE
+http://163.172.15.141:9732/live?channelId=231&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SPORTSNET ONE HD" tvg-link="" tvg-name="SPORTSNET ONE HD" tvg-logo="" group-title="USA/CA Channels",SPORTSNET ONE HD - SPORTSNET ONE HD
+http://163.172.15.141:9732/live?channelId=232&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SPORTSNET ONTARIO" tvg-link="" tvg-name="SPORTSNET ONTARIO" tvg-logo="" group-title="USA/CA Channels",SPORTSNET ONTARIO - SPORTSNET ONTARIO
+http://163.172.15.141:9732/live?channelId=233&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SPORTSNET PACIFIC" tvg-link="" tvg-name="SPORTSNET PACIFIC" tvg-logo="" group-title="USA/CA Channels",SPORTSNET PACIFIC - SPORTSNET PACIFIC
+http://163.172.15.141:9732/live?channelId=234&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SPORTSNET WEST" tvg-link="" tvg-name="SPORTSNET WEST" tvg-logo="" group-title="USA/CA Channels",SPORTSNET WEST - SPORTSNET WEST
+http://163.172.15.141:9732/live?channelId=235&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SPORTSNET WORLD" tvg-link="" tvg-name="SPORTSNET WORLD" tvg-logo="" group-title="USA/CA Channels",SPORTSNET WORLD - SPORTSNET WORLD
+http://163.172.15.141:9732/live?channelId=236&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="USA FOX SPORTS 1" tvg-link="" tvg-name="USA FOX SPORTS 1" tvg-logo="" group-title="USA/CA Channels",USA FOX SPORTS 1 - USA FOX SPORTS 1
+http://163.172.15.141:9732/live?channelId=237&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="USA FOX SPORTS 2" tvg-link="" tvg-name="USA FOX SPORTS 2" tvg-logo="" group-title="USA/CA Channels",USA FOX SPORTS 2 - USA FOX SPORTS 2
+http://163.172.15.141:9732/live?channelId=238&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="A&E (US)" tvg-link="" tvg-name="A&E (US)" tvg-logo="" group-title="USA/CA Channels",A&E (US) - A&E (US)
+http://163.172.15.141:9732/live?channelId=239&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="AFN SPORTS (US)" tvg-link="" tvg-name="AFN SPORTS (US)" tvg-logo="" group-title="USA/CA Channels",AFN SPORTS (US) - AFN SPORTS (US)
+http://163.172.15.141:9732/live?channelId=240&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="AFN SPORTS 2 (US)" tvg-link="" tvg-name="AFN SPORTS 2 (US)" tvg-logo="" group-title="USA/CA Channels",AFN SPORTS 2 (US) - AFN SPORTS 2 (US)
+http://163.172.15.141:9732/live?channelId=241&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="AMC (US)" tvg-link="" tvg-name="AMC (US)" tvg-logo="" group-title="USA/CA Channels",AMC (US) - AMC (US)
+http://163.172.15.141:9732/live?channelId=242&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Animal Planet (US)" tvg-link="" tvg-name="Animal Planet (US)" tvg-logo="" group-title="USA/CA Channels",Animal Planet (US) - Animal Planet (US)
+http://163.172.15.141:9732/live?channelId=243&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="DESTINATION AMERICA (US)" tvg-link="" tvg-name="DESTINATION AMERICA (US)" tvg-logo="" group-title="USA/CA Channels",DESTINATION AMERICA (US) - DESTINATION AMERICA (US)
+http://163.172.15.141:9732/live?channelId=244&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="Discovery (US)" tvg-link="" tvg-name="Discovery (US)" tvg-logo="" group-title="USA/CA Channels",Discovery (US) - Discovery (US)
+http://163.172.15.141:9732/live?channelId=245&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE (US)" tvg-link="" tvg-name="DISCOVERY SCIENCE (US)" tvg-logo="" group-title="USA/CA Channels",DISCOVERY SCIENCE (US) - DISCOVERY SCIENCE (US)
+http://163.172.15.141:9732/live?channelId=246&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT (US)" tvg-link="" tvg-name="E! ENTERTAINMENT (US)" tvg-logo="" group-title="USA/CA Channels",E! ENTERTAINMENT (US) - E! ENTERTAINMENT (US)
+http://163.172.15.141:9732/live?channelId=247&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="FOX NEWS" tvg-link="" tvg-name="FOX NEWS" tvg-logo="" group-title="USA/CA Channels",FOX NEWS - FOX NEWS
+http://163.172.15.141:9732/live?channelId=248&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="FX (US)" tvg-link="" tvg-name="FX (US)" tvg-logo="" group-title="USA/CA Channels",FX (US) - FX (US)
+http://163.172.15.141:9732/live?channelId=249&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="HISTORY (US)" tvg-link="" tvg-name="HISTORY (US)" tvg-logo="" group-title="USA/CA Channels",HISTORY (US) - HISTORY (US)
+http://163.172.15.141:9732/live?channelId=250&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="MBL NETWORK (US)" tvg-link="" tvg-name="MBL NETWORK (US)" tvg-logo="" group-title="USA/CA Channels",MBL NETWORK (US) - MBL NETWORK (US)
+http://163.172.15.141:9732/live?channelId=251&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="NBA TV (US)" tvg-link="" tvg-name="NBA TV (US)" tvg-logo="" group-title="USA/CA Channels",NBA TV (US) - NBA TV (US)
+http://163.172.15.141:9732/live?channelId=252&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SPIKE (US)" tvg-link="" tvg-name="SPIKE (US)" tvg-logo="" group-title="USA/CA Channels",SPIKE (US) - SPIKE (US)
+http://163.172.15.141:9732/live?channelId=253&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="SYFY (US)" tvg-link="" tvg-name="SYFY (US)" tvg-logo="" group-title="USA/CA Channels",SYFY (US) - SYFY (US)
+http://163.172.15.141:9732/live?channelId=254&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="TBS (US)" tvg-link="" tvg-name="TBS (US)" tvg-logo="" group-title="USA/CA Channels",TBS (US) - TBS (US)
+http://163.172.15.141:9732/live?channelId=255&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 tvg-id="WWE Network" tvg-link="" tvg-name="WWE Network" tvg-logo="" group-title="USA/CA Channels",WWE Network - WWE Network
+http://163.172.15.141:9732/live?channelId=256&uid=3682&deviceMac=00:1A:79:F9:6F:F6
